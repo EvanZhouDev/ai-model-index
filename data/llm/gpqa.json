@@ -1,0 +1,83 @@
+{
+  "generated_at": "2026-03-27T19:23:09.812Z",
+  "limit": 10,
+  "modality": "llm",
+  "metric": "gpqa",
+  "source_metric": "gpqa",
+  "source": {
+    "name": "Artificial Analysis",
+    "url": "https://artificialanalysis.ai/"
+  },
+  "models": [
+    {
+      "rank": 1,
+      "name": "Gemini 3.1 Pro Preview",
+      "slug": "gemini-3-1-pro-preview",
+      "creator": "Google",
+      "score": 0.941
+    },
+    {
+      "rank": 2,
+      "name": "GPT-5.4 (xhigh)",
+      "slug": "gpt-5-4",
+      "creator": "OpenAI",
+      "score": 0.92
+    },
+    {
+      "rank": 3,
+      "name": "GPT-5.3 Codex (xhigh)",
+      "slug": "gpt-5-3-codex",
+      "creator": "OpenAI",
+      "score": 0.915
+    },
+    {
+      "rank": 4,
+      "name": "Gemini 3 Pro Preview (high)",
+      "slug": "gemini-3-pro",
+      "creator": "Google",
+      "score": 0.908
+    },
+    {
+      "rank": 5,
+      "name": "GPT-5.2 (xhigh)",
+      "slug": "gpt-5-2",
+      "creator": "OpenAI",
+      "score": 0.903
+    },
+    {
+      "rank": 6,
+      "name": "GPT-5.2 Codex (xhigh)",
+      "slug": "gpt-5-2-codex",
+      "creator": "OpenAI",
+      "score": 0.899
+    },
+    {
+      "rank": 7,
+      "name": "Gemini 3 Flash Preview (Reasoning)",
+      "slug": "gemini-3-flash-reasoning",
+      "creator": "Google",
+      "score": 0.898
+    },
+    {
+      "rank": 8,
+      "name": "Claude Opus 4.6 (Adaptive Reasoning, Max Effort)",
+      "slug": "claude-opus-4-6-adaptive",
+      "creator": "Anthropic",
+      "score": 0.896
+    },
+    {
+      "rank": 9,
+      "name": "Qwen3.5 397B A17B (Reasoning)",
+      "slug": "qwen3-5-397b-a17b",
+      "creator": "Alibaba",
+      "score": 0.893
+    },
+    {
+      "rank": 10,
+      "name": "Gemini 3 Pro Preview (low)",
+      "slug": "gemini-3-pro-low",
+      "creator": "Google",
+      "score": 0.887
+    }
+  ]
+}

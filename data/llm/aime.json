@@ -1,0 +1,83 @@
+{
+  "generated_at": "2026-03-27T19:23:09.812Z",
+  "limit": 10,
+  "modality": "llm",
+  "metric": "aime",
+  "source_metric": "aime",
+  "source": {
+    "name": "Artificial Analysis",
+    "url": "https://artificialanalysis.ai/"
+  },
+  "models": [
+    {
+      "rank": 1,
+      "name": "GPT-5 (high)",
+      "slug": "gpt-5",
+      "creator": "OpenAI",
+      "score": 0.957
+    },
+    {
+      "rank": 2,
+      "name": "Grok 4",
+      "slug": "grok-4",
+      "creator": "xAI",
+      "score": 0.943
+    },
+    {
+      "rank": 3,
+      "name": "o4-mini (high)",
+      "slug": "o4-mini",
+      "creator": "OpenAI",
+      "score": 0.94
+    },
+    {
+      "rank": 4,
+      "name": "Qwen3 235B A22B 2507 (Reasoning)",
+      "slug": "qwen3-235b-a22b-instruct-2507-reasoning",
+      "creator": "Alibaba",
+      "score": 0.94
+    },
+    {
+      "rank": 5,
+      "name": "Grok 3 mini Reasoning (high)",
+      "slug": "grok-3-mini-reasoning",
+      "creator": "xAI",
+      "score": 0.933
+    },
+    {
+      "rank": 6,
+      "name": "GPT-5 (medium)",
+      "slug": "gpt-5-medium",
+      "creator": "OpenAI",
+      "score": 0.917
+    },
+    {
+      "rank": 7,
+      "name": "Qwen3 30B A3B 2507 (Reasoning)",
+      "slug": "qwen3-30b-a3b-2507-reasoning",
+      "creator": "Alibaba",
+      "score": 0.907
+    },
+    {
+      "rank": 8,
+      "name": "o3",
+      "slug": "o3",
+      "creator": "OpenAI",
+      "score": 0.903
+    },
+    {
+      "rank": 9,
+      "name": "DeepSeek R1 0528 (May '25)",
+      "slug": "deepseek-r1",
+      "creator": "DeepSeek",
+      "score": 0.893
+    },
+    {
+      "rank": 10,
+      "name": "Gemini 2.5 Pro",
+      "slug": "gemini-2-5-pro",
+      "creator": "Google",
+      "score": 0.887
+    }
+  ]
+}

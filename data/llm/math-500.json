@@ -1,0 +1,83 @@
+{
+  "generated_at": "2026-03-27T19:23:09.812Z",
+  "limit": 10,
+  "modality": "llm",
+  "metric": "math-500",
+  "source_metric": "math_500",
+  "source": {
+    "name": "Artificial Analysis",
+    "url": "https://artificialanalysis.ai/"
+  },
+  "models": [
+    {
+      "rank": 1,
+      "name": "GPT-5 (high)",
+      "slug": "gpt-5",
+      "creator": "OpenAI",
+      "score": 0.994
+    },
+    {
+      "rank": 2,
+      "name": "o3",
+      "slug": "o3",
+      "creator": "OpenAI",
+      "score": 0.992
+    },
+    {
+      "rank": 3,
+      "name": "Grok 3 mini Reasoning (high)",
+      "slug": "grok-3-mini-reasoning",
+      "creator": "xAI",
+      "score": 0.992
+    },
+    {
+      "rank": 4,
+      "name": "GPT-5 (medium)",
+      "slug": "gpt-5-medium",
+      "creator": "OpenAI",
+      "score": 0.991
+    },
+    {
+      "rank": 5,
+      "name": "Claude 4 Sonnet (Reasoning)",
+      "slug": "claude-4-sonnet-thinking",
+      "creator": "Anthropic",
+      "score": 0.991
+    },
+    {
+      "rank": 6,
+      "name": "Grok 4",
+      "slug": "grok-4",
+      "creator": "xAI",
+      "score": 0.99
+    },
+    {
+      "rank": 7,
+      "name": "o4-mini (high)",
+      "slug": "o4-mini",
+      "creator": "OpenAI",
+      "score": 0.989
+    },
+    {
+      "rank": 8,
+      "name": "GPT-5 (low)",
+      "slug": "gpt-5-low",
+      "creator": "OpenAI",
+      "score": 0.987
+    },
+    {
+      "rank": 9,
+      "name": "Gemini 2.5 Pro Preview (May' 25)",
+      "slug": "gemini-2-5-pro-05-06",
+      "creator": "Google",
+      "score": 0.986
+    },
+    {
+      "rank": 10,
+      "name": "o3-mini (high)",
+      "slug": "o3-mini-high",
+      "creator": "OpenAI",
+      "score": 0.985
+    }
+  ]
+}

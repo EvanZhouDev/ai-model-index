@@ -1,0 +1,85 @@
+{
+  "generated_at": "2026-03-27T19:23:09.812Z",
+  "limit": 10,
+  "source": {
+    "name": "Artificial Analysis",
+    "url": "https://artificialanalysis.ai/"
+  },
+  "datasets": [
+    {
+      "modality": "llm",
+      "metric": "aa-intelligence",
+      "path": "data/llm/aa-intelligence.json"
+    },
+    {
+      "modality": "llm",
+      "metric": "aa-coding",
+      "path": "data/llm/aa-coding.json"
+    },
+    {
+      "modality": "llm",
+      "metric": "aa-math",
+      "path": "data/llm/aa-math.json"
+    },
+    {
+      "modality": "llm",
+      "metric": "mmlu-pro",
+      "path": "data/llm/mmlu-pro.json"
+    },
+    {
+      "modality": "llm",
+      "metric": "gpqa",
+      "path": "data/llm/gpqa.json"
+    },
+    {
+      "modality": "llm",
+      "metric": "hle",
+      "path": "data/llm/hle.json"
+    },
+    {
+      "modality": "llm",
+      "metric": "livecodebench",
+      "path": "data/llm/livecodebench.json"
+    },
+    {
+      "modality": "llm",
+      "metric": "scicode",
+      "path": "data/llm/scicode.json"
+    },
+    {
+      "modality": "llm",
+      "metric": "math-500",
+      "path": "data/llm/math-500.json"
+    },
+    {
+      "modality": "llm",
+      "metric": "aime",
+      "path": "data/llm/aime.json"
+    },
+    {
+      "modality": "image-editing",
+      "metric": "elo",
+      "path": "data/image-editing/elo.json"
+    },
+    {
+      "modality": "text-to-image",
+      "metric": "elo",
+      "path": "data/text-to-image/elo.json"
+    },
+    {
+      "modality": "text-to-speech",
+      "metric": "elo",
+      "path": "data/text-to-speech/elo.json"
+    },
+    {
+      "modality": "text-to-video",
+      "metric": "elo",
+      "path": "data/text-to-video/elo.json"
+    },
+    {
+      "modality": "image-to-video",
+      "metric": "elo",
+      "path": "data/image-to-video/elo.json"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "generated_at": "2026-03-27T19:23:09.812Z",
+  "limit": 10,
+  "modality": "llm",
+  "metric": "aa-math",
+  "source_metric": "artificial_analysis_math_index",
+  "source": {
+    "name": "Artificial Analysis",
+    "url": "https://artificialanalysis.ai/"
+  },
+  "models": [
+    {
+      "rank": 1,
+      "name": "GPT-5.2 (xhigh)",
+      "slug": "gpt-5-2",
+      "creator": "OpenAI",
+      "score": 99
+    },
+    {
+      "rank": 2,
+      "name": "GPT-5 Codex (high)",
+      "slug": "gpt-5-codex",
+      "creator": "OpenAI",
+      "score": 98.7
+    },
+    {
+      "rank": 3,
+      "name": "Gemini 3 Flash Preview (Reasoning)",
+      "slug": "gemini-3-flash-reasoning",
+      "creator": "Google",
+      "score": 97
+    },
+    {
+      "rank": 4,
+      "name": "DeepSeek V3.2 Speciale",
+      "slug": "deepseek-v3-2-speciale",
+      "creator": "DeepSeek",
+      "score": 96.7
+    },
+    {
+      "rank": 5,
+      "name": "GPT-5.2 (medium)",
+      "slug": "gpt-5-2-medium",
+      "creator": "OpenAI",
+      "score": 96.7
+    },
+    {
+      "rank": 6,
+      "name": "MiMo-V2-Flash (Reasoning)",
+      "slug": "mimo-v2-flash-reasoning",
+      "creator": "Xiaomi",
+      "score": 96.3
+    },
+    {
+      "rank": 7,
+      "name": "GPT-5.1 Codex (high)",
+      "slug": "gpt-5-1-codex",
+      "creator": "OpenAI",
+      "score": 95.7
+    },
+    {
+      "rank": 8,
+      "name": "Gemini 3 Pro Preview (high)",
+      "slug": "gemini-3-pro",
+      "creator": "Google",
+      "score": 95.7
+    },
+    {
+      "rank": 9,
+      "name": "GLM-4.7 (Reasoning)",
+      "slug": "glm-4-7",
+      "creator": "Z AI",
+      "score": 95
+    },
+    {
+      "rank": 10,
+      "name": "KAT-Coder-Pro V1",
+      "slug": "kat-coder-pro-v1",
+      "creator": "KwaiKAT",
+      "score": 94.7
+    }
+  ]
+}

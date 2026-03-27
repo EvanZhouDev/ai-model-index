@@ -1,0 +1,12 @@
+{
+  "name": "ai-model-index",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "init:data": "node ./src/sync.mjs --init-empty",
+    "sync": "node ./src/sync.mjs"
+  }
+}

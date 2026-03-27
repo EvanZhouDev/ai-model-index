@@ -1,0 +1,92 @@
+{
+  "generated_at": "2026-03-27T19:23:09.812Z",
+  "limit": 10,
+  "modality": "text-to-speech",
+  "metric": "elo",
+  "source": {
+    "name": "Artificial Analysis",
+    "url": "https://artificialanalysis.ai/"
+  },
+  "models": [
+    {
+      "rank": 1,
+      "name": "Inworld TTS 1.5 Max",
+      "slug": "tts-1-5-max",
+      "creator": "Inworld",
+      "score": 1236,
+      "ci95": "-21/21"
+    },
+    {
+      "rank": 2,
+      "name": "Eleven v3",
+      "slug": "eleven-v3",
+      "creator": "ElevenLabs",
+      "score": 1196,
+      "ci95": "-13/13"
+    },
+    {
+      "rank": 3,
+      "name": "Inworld TTS 1 Max",
+      "slug": "inworld-tts-1-max",
+      "creator": "Inworld",
+      "score": 1184,
+      "ci95": "-20/20"
+    },
+    {
+      "rank": 4,
+      "name": "Inworld TTS 1.5 Mini",
+      "slug": "tts-1-5-mini",
+      "creator": "Inworld",
+      "score": 1182,
+      "ci95": "-18/18"
+    },
+    {
+      "rank": 5,
+      "name": "Speech 2.8 HD",
+      "slug": "speech-2-8-hd",
+      "creator": "MiniMax",
+      "score": 1175,
+      "ci95": "-13/13"
+    },
+    {
+      "rank": 6,
+      "name": "Speech 2.8 Turbo",
+      "slug": "speech-2-8-turbo",
+      "creator": "MiniMax",
+      "score": 1160,
+      "ci95": "-12/12"
+    },
+    {
+      "rank": 7,
+      "name": "ST260212",
+      "slug": "st260212",
+      "creator": " ",
+      "score": 1149,
+      "ci95": "-28/28"
+    },
+    {
+      "rank": 8,
+      "name": "Speech 2.6 Turbo",
+      "slug": "speech-2.6-turbo",
+      "creator": "MiniMax",
+      "score": 1147,
+      "ci95": "-12/12"
+    },
+    {
+      "rank": 9,
+      "name": "Inworld TTS 1",
+      "slug": "inworld-tts",
+      "creator": "Inworld",
+      "score": 1145,
+      "ci95": "-17/17"
+    },
+    {
+      "rank": 10,
+      "name": "Multilingual v2",
+      "slug": "multilingual-v2",
+      "creator": "ElevenLabs",
+      "score": 1129,
+      "ci95": "-7/7"
+    }
+  ]
+}

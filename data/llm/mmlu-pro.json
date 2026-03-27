@@ -1,0 +1,83 @@
+{
+  "generated_at": "2026-03-27T19:23:09.812Z",
+  "limit": 10,
+  "modality": "llm",
+  "metric": "mmlu-pro",
+  "source_metric": "mmlu_pro",
+  "source": {
+    "name": "Artificial Analysis",
+    "url": "https://artificialanalysis.ai/"
+  },
+  "models": [
+    {
+      "rank": 1,
+      "name": "Gemini 3 Pro Preview (high)",
+      "slug": "gemini-3-pro",
+      "creator": "Google",
+      "score": 0.898
+    },
+    {
+      "rank": 2,
+      "name": "Gemini 3 Pro Preview (low)",
+      "slug": "gemini-3-pro-low",
+      "creator": "Google",
+      "score": 0.895
+    },
+    {
+      "rank": 3,
+      "name": "Claude Opus 4.5 (Reasoning)",
+      "slug": "claude-opus-4-5-thinking",
+      "creator": "Anthropic",
+      "score": 0.895
+    },
+    {
+      "rank": 4,
+      "name": "Gemini 3 Flash Preview (Reasoning)",
+      "slug": "gemini-3-flash-reasoning",
+      "creator": "Google",
+      "score": 0.89
+    },
+    {
+      "rank": 5,
+      "name": "Claude Opus 4.5 (Non-reasoning)",
+      "slug": "claude-opus-4-5",
+      "creator": "Anthropic",
+      "score": 0.889
+    },
+    {
+      "rank": 6,
+      "name": "Gemini 3 Flash Preview (Non-reasoning)",
+      "slug": "gemini-3-flash",
+      "creator": "Google",
+      "score": 0.882
+    },
+    {
+      "rank": 7,
+      "name": "Claude 4.1 Opus (Reasoning)",
+      "slug": "claude-4-1-opus-thinking",
+      "creator": "Anthropic",
+      "score": 0.88
+    },
+    {
+      "rank": 8,
+      "name": "Claude 4.5 Sonnet (Reasoning)",
+      "slug": "claude-4-5-sonnet-thinking",
+      "creator": "Anthropic",
+      "score": 0.875
+    },
+    {
+      "rank": 9,
+      "name": "MiniMax-M2.1",
+      "slug": "minimax-m2-1",
+      "creator": "MiniMax",
+      "score": 0.875
+    },
+    {
+      "rank": 10,
+      "name": "GPT-5.2 (xhigh)",
+      "slug": "gpt-5-2",
+      "creator": "OpenAI",
+      "score": 0.874
+    }
+  ]
+}
