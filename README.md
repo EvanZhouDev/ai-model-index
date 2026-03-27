@@ -1,6 +1,6 @@
 # ai-model-index
 
-A GitHub repo that automatically updates every day with derived top-30 benchmark leaderboards powered by **Artificial Analysis ([https://artificialanalysis.ai/])**.
+A GitHub repo that automatically updates every day with derived top-30 benchmark leaderboards powered by **Artificial Analysis ([https://artificialanalysis.ai/](https://artificialanalysis.ai/))**.
 
 ## Layout
 
