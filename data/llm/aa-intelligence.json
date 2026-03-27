@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T19:23:09.812Z",
-  "limit": 10,
+  "generated_at": "2026-03-27T20:23:49.890Z",
+  "limit": 30,
   "modality": "llm",
   "metric": "aa-intelligence",
   "source_metric": "artificial_analysis_intelligence_index",
@@ -78,6 +78,146 @@
       "slug": "mimo-v2-pro",
       "creator": "Xiaomi",
       "score": 49.2
+    },
+    {
+      "rank": 11,
+      "name": "GPT-5.2 Codex (xhigh)",
+      "slug": "gpt-5-2-codex",
+      "creator": "OpenAI",
+      "score": 49
+    },
+    {
+      "rank": 12,
+      "name": "Grok 4.20 Beta 0309 (Reasoning)",
+      "slug": "grok-4-20",
+      "creator": "xAI",
+      "score": 48.5
+    },
+    {
+      "rank": 13,
+      "name": "Gemini 3 Pro Preview (high)",
+      "slug": "gemini-3-pro",
+      "creator": "Google",
+      "score": 48.4
+    },
+    {
+      "rank": 14,
+      "name": "GPT-5.4 mini (xhigh)",
+      "slug": "gpt-5-4-mini",
+      "creator": "OpenAI",
+      "score": 48.1
+    },
+    {
+      "rank": 15,
+      "name": "GPT-5.1 (high)",
+      "slug": "gpt-5-1",
+      "creator": "OpenAI",
+      "score": 47.7
+    },
+    {
+      "rank": 16,
+      "name": "Kimi K2.5 (Reasoning)",
+      "slug": "kimi-k2-5",
+      "creator": "Kimi",
+      "score": 46.8
+    },
+    {
+      "rank": 17,
+      "name": "GLM-5-Turbo",
+      "slug": "glm-5-turbo",
+      "creator": "Z AI",
+      "score": 46.8
+    },
+    {
+      "rank": 18,
+      "name": "GPT-5.2 (medium)",
+      "slug": "gpt-5-2-medium",
+      "creator": "OpenAI",
+      "score": 46.6
+    },
+    {
+      "rank": 19,
+      "name": "Claude Opus 4.6 (Non-reasoning, High Effort)",
+      "slug": "claude-opus-4-6",
+      "creator": "Anthropic",
+      "score": 46.5
+    },
+    {
+      "rank": 20,
+      "name": "Gemini 3 Flash Preview (Reasoning)",
+      "slug": "gemini-3-flash-reasoning",
+      "creator": "Google",
+      "score": 46.4
+    },
+    {
+      "rank": 21,
+      "name": "Qwen3.5 397B A17B (Reasoning)",
+      "slug": "qwen3-5-397b-a17b",
+      "creator": "Alibaba",
+      "score": 45
+    },
+    {
+      "rank": 22,
+      "name": "GPT-5 (high)",
+      "slug": "gpt-5",
+      "creator": "OpenAI",
+      "score": 44.6
+    },
+    {
+      "rank": 23,
+      "name": "GPT-5 Codex (high)",
+      "slug": "gpt-5-codex",
+      "creator": "OpenAI",
+      "score": 44.6
+    },
+    {
+      "rank": 24,
+      "name": "GPT-5.4 nano (xhigh)",
+      "slug": "gpt-5-4-nano",
+      "creator": "OpenAI",
+      "score": 44.4
+    },
+    {
+      "rank": 25,
+      "name": "Claude Sonnet 4.6 (Non-reasoning, High Effort)",
+      "slug": "claude-sonnet-4-6",
+      "creator": "Anthropic",
+      "score": 44.4
+    },
+    {
+      "rank": 26,
+      "name": "MiMo-V2-Omni",
+      "slug": "mimo-v2-omni",
+      "creator": "Xiaomi",
+      "score": 43.4
+    },
+    {
+      "rank": 27,
+      "name": "GPT-5.1 Codex (high)",
+      "slug": "gpt-5-1-codex",
+      "creator": "OpenAI",
+      "score": 43.1
+    },
+    {
+      "rank": 28,
+      "name": "Claude Opus 4.5 (Non-reasoning)",
+      "slug": "claude-opus-4-5",
+      "creator": "Anthropic",
+      "score": 43.1
+    },
+    {
+      "rank": 29,
+      "name": "Claude 4.5 Sonnet (Reasoning)",
+      "slug": "claude-4-5-sonnet-thinking",
+      "creator": "Anthropic",
+      "score": 43
+    },
+    {
+      "rank": 30,
+      "name": "Claude Sonnet 4.6 (Non-reasoning, Low Effort)",
+      "slug": "claude-sonnet-4-6-non-reasoning-low-effort",
+      "creator": "Anthropic",
+      "score": 42.6
     }
   ]
 }

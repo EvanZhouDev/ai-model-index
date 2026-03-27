@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T19:23:09.812Z",
-  "limit": 10,
+  "generated_at": "2026-03-27T20:23:49.890Z",
+  "limit": 30,
   "modality": "text-to-image",
   "metric": "elo",
   "source": {
@@ -100,7 +100,7 @@
         },
         {
           "subject": "Text & Typography",
-          "score": 1210,
+          "score": 1211,
           "ci95": "-58/58"
         },
         {
@@ -195,7 +195,7 @@
       "category_distribution": [
         {
           "style": "General & Photorealistic",
-          "score": 1296,
+          "score": 1297,
           "ci95": "-18/18"
         },
         {
@@ -222,7 +222,7 @@
           "ci95": "-21/21"
         },
         {
-          "score": 1302,
+          "score": 1301,
           "ci95": "-16/16"
         },
         {
@@ -300,7 +300,7 @@
           "ci95": "-26/26"
         },
         {
-          "score": 1296,
+          "score": 1297,
           "ci95": "-16/16"
         },
         {
@@ -339,7 +339,7 @@
         },
         {
           "style": "Traditional Art",
-          "score": 1286,
+          "score": 1285,
           "ci95": "-42/42"
         },
         {
@@ -667,7 +667,7 @@
           "ci95": "-64/64"
         },
         {
-          "score": 1226,
+          "score": 1227,
           "ci95": "-54/54"
         },
         {
@@ -1379,7 +1379,7 @@
           "ci95": "-70/70"
         },
         {
-          "score": 1163,
+          "score": 1164,
           "ci95": "-53/53"
         },
         {
@@ -1765,6 +1765,3311 @@
         {
           "score": 1131,
           "ci95": "-30/30"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "name": "grok-imagine-image",
+      "slug": "grok-imagine-image",
+      "creator": "xAI",
+      "score": 1171,
+      "ci95": "-8/8",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1172,
+          "ci95": "-14/14"
+        },
+        {
+          "style": "Cartoon & Illustration",
+          "score": 1180,
+          "ci95": "-30/30"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1172,
+          "ci95": "-26/26"
+        },
+        {
+          "style": "Anime",
+          "score": 1150,
+          "ci95": "-31/31"
+        },
+        {
+          "score": 1141,
+          "ci95": "-42/42"
+        },
+        {
+          "score": 1195,
+          "ci95": "-20/20"
+        },
+        {
+          "score": 1193,
+          "ci95": "-13/13"
+        },
+        {
+          "score": 1176,
+          "ci95": "-27/27"
+        },
+        {
+          "score": 1162,
+          "ci95": "-24/24"
+        },
+        {
+          "score": 1087,
+          "ci95": "-70/70"
+        },
+        {
+          "score": 1172,
+          "ci95": "-19/19"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1190,
+          "ci95": "-24/24"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1148,
+          "ci95": "-24/24"
+        },
+        {
+          "score": 1188,
+          "ci95": "-28/28"
+        },
+        {
+          "score": 1177,
+          "ci95": "-17/17"
+        },
+        {
+          "score": 1173,
+          "ci95": "-23/23"
+        },
+        {
+          "score": 1156,
+          "ci95": "-18/18"
+        },
+        {
+          "score": 1191,
+          "ci95": "-27/27"
+        },
+        {
+          "score": 1167,
+          "ci95": "-29/29"
+        },
+        {
+          "score": 1188,
+          "ci95": "-19/19"
+        },
+        {
+          "subject": "Text & Typography",
+          "score": 1229,
+          "ci95": "-42/42"
+        },
+        {
+          "subject": "Nature & Landscapes",
+          "score": 1131,
+          "ci95": "-27/27"
+        },
+        {
+          "style": "Vintage & Retro",
+          "score": 1171,
+          "ci95": "-41/41"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1195,
+          "ci95": "-24/24"
+        },
+        {
+          "score": 1163,
+          "ci95": "-13/13"
+        },
+        {
+          "score": 1177,
+          "ci95": "-10/10"
+        },
+        {
+          "subject": "UI/UX Design",
+          "score": 1164,
+          "ci95": "-48/48"
+        },
+        {
+          "score": 1178,
+          "ci95": "-42/42"
+        },
+        {
+          "subject": "Commercial",
+          "score": 1181,
+          "ci95": "-35/35"
+        },
+        {
+          "score": 1173,
+          "ci95": "-24/24"
+        },
+        {
+          "score": 1203,
+          "ci95": "-17/17"
+        },
+        {
+          "score": 1183,
+          "ci95": "-12/12"
+        },
+        {
+          "score": 1173,
+          "ci95": "-28/28"
+        },
+        {
+          "style": "Traditional Art",
+          "score": 1229,
+          "ci95": "-35/35"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1172,
+          "ci95": "-16/16"
+        },
+        {
+          "score": 1184,
+          "ci95": "-19/19"
+        },
+        {
+          "score": 1176,
+          "ci95": "-13/13"
+        },
+        {
+          "subject": "People: Groups & Activities",
+          "score": 1200,
+          "ci95": "-28/28"
+        },
+        {
+          "score": 1193,
+          "ci95": "-29/29"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "name": "Imagen 4 Preview 0606",
+      "slug": "imagen-4-preview-0606",
+      "creator": "Google",
+      "score": 1170,
+      "ci95": "-12/12",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1185,
+          "ci95": "-19/19"
+        },
+        {
+          "style": "Cartoon & Illustration",
+          "score": 1195,
+          "ci95": "-48/48"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1153,
+          "ci95": "-36/36"
+        },
+        {
+          "style": "Anime",
+          "score": 1205,
+          "ci95": "-47/47"
+        },
+        {
+          "score": 1169,
+          "ci95": "-29/29"
+        },
+        {
+          "score": 1209,
+          "ci95": "-19/19"
+        },
+        {
+          "score": 1191,
+          "ci95": "-39/39"
+        },
+        {
+          "score": 1161,
+          "ci95": "-36/36"
+        },
+        {
+          "score": 1164,
+          "ci95": "-29/29"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1147,
+          "ci95": "-32/32"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1167,
+          "ci95": "-33/33"
+        },
+        {
+          "score": 1178,
+          "ci95": "-44/44"
+        },
+        {
+          "score": 1154,
+          "ci95": "-23/23"
+        },
+        {
+          "score": 1158,
+          "ci95": "-31/31"
+        },
+        {
+          "score": 1143,
+          "ci95": "-27/27"
+        },
+        {
+          "score": 1184,
+          "ci95": "-40/40"
+        },
+        {
+          "score": 1141,
+          "ci95": "-40/40"
+        },
+        {
+          "score": 1143,
+          "ci95": "-24/24"
+        },
+        {
+          "subject": "Text & Typography",
+          "score": 1139,
+          "ci95": "-61/61"
+        },
+        {
+          "subject": "Nature & Landscapes",
+          "score": 1150,
+          "ci95": "-37/37"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1169,
+          "ci95": "-31/31"
+        },
+        {
+          "score": 1184,
+          "ci95": "-18/18"
+        },
+        {
+          "score": 1173,
+          "ci95": "-15/15"
+        },
+        {
+          "subject": "Commercial",
+          "score": 1214,
+          "ci95": "-54/54"
+        },
+        {
+          "score": 1142,
+          "ci95": "-36/36"
+        },
+        {
+          "score": 1230,
+          "ci95": "-25/25"
+        },
+        {
+          "score": 1161,
+          "ci95": "-16/16"
+        },
+        {
+          "score": 1179,
+          "ci95": "-54/54"
+        },
+        {
+          "style": "Traditional Art",
+          "score": 1192,
+          "ci95": "-45/45"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1137,
+          "ci95": "-22/22"
+        },
+        {
+          "score": 1164,
+          "ci95": "-27/27"
+        },
+        {
+          "score": 1166,
+          "ci95": "-18/18"
+        },
+        {
+          "subject": "People: Groups & Activities",
+          "score": 1288,
+          "ci95": "-43/43"
+        },
+        {
+          "score": 1135,
+          "ci95": "-41/41"
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "name": "Imagen 4 Ultra",
+      "slug": "google-imagen_imagen-4-ultra",
+      "creator": "Google",
+      "score": 1169,
+      "ci95": "-11/11",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1180,
+          "ci95": "-19/19"
+        },
+        {
+          "style": "Cartoon & Illustration",
+          "score": 1239,
+          "ci95": "-43/43"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1193,
+          "ci95": "-35/35"
+        },
+        {
+          "style": "Anime",
+          "score": 1182,
+          "ci95": "-48/48"
+        },
+        {
+          "score": 1139,
+          "ci95": "-57/57"
+        },
+        {
+          "score": 1168,
+          "ci95": "-24/24"
+        },
+        {
+          "score": 1208,
+          "ci95": "-18/18"
+        },
+        {
+          "score": 1156,
+          "ci95": "-32/32"
+        },
+        {
+          "score": 1163,
+          "ci95": "-30/30"
+        },
+        {
+          "score": 1153,
+          "ci95": "-23/23"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1148,
+          "ci95": "-30/30"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1142,
+          "ci95": "-31/31"
+        },
+        {
+          "score": 1188,
+          "ci95": "-40/40"
+        },
+        {
+          "score": 1135,
+          "ci95": "-21/21"
+        },
+        {
+          "score": 1164,
+          "ci95": "-31/31"
+        },
+        {
+          "score": 1138,
+          "ci95": "-24/24"
+        },
+        {
+          "score": 1222,
+          "ci95": "-36/36"
+        },
+        {
+          "score": 1132,
+          "ci95": "-35/35"
+        },
+        {
+          "score": 1158,
+          "ci95": "-23/23"
+        },
+        {
+          "subject": "Text & Typography",
+          "score": 1135,
+          "ci95": "-54/54"
+        },
+        {
+          "subject": "Nature & Landscapes",
+          "score": 1153,
+          "ci95": "-37/37"
+        },
+        {
+          "style": "Vintage & Retro",
+          "score": 1156,
+          "ci95": "-53/53"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1196,
+          "ci95": "-31/31"
+        },
+        {
+          "score": 1169,
+          "ci95": "-18/18"
+        },
+        {
+          "score": 1177,
+          "ci95": "-14/14"
+        },
+        {
+          "subject": "UI/UX Design",
+          "score": 1142,
+          "ci95": "-63/63"
+        },
+        {
+          "score": 1162,
+          "ci95": "-56/56"
+        },
+        {
+          "subject": "Commercial",
+          "score": 1179,
+          "ci95": "-42/42"
+        },
+        {
+          "score": 1132,
+          "ci95": "-32/32"
+        },
+        {
+          "score": 1221,
+          "ci95": "-24/24"
+        },
+        {
+          "score": 1165,
+          "ci95": "-16/16"
+        },
+        {
+          "score": 1175,
+          "ci95": "-50/50"
+        },
+        {
+          "style": "Traditional Art",
+          "score": 1198,
+          "ci95": "-44/44"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1146,
+          "ci95": "-20/20"
+        },
+        {
+          "score": 1161,
+          "ci95": "-23/23"
+        },
+        {
+          "score": 1161,
+          "ci95": "-18/18"
+        },
+        {
+          "subject": "People: Groups & Activities",
+          "score": 1262,
+          "ci95": "-42/42"
+        },
+        {
+          "score": 1149,
+          "ci95": "-34/34"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "name": "FLUX.2 [dev] Turbo",
+      "slug": "fal_flux-2-dev-turbo",
+      "creator": "Fal",
+      "score": 1164,
+      "ci95": "-12/12",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1181,
+          "ci95": "-19/19"
+        },
+        {
+          "style": "Cartoon & Illustration",
+          "score": 1173,
+          "ci95": "-41/41"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1196,
+          "ci95": "-37/37"
+        },
+        {
+          "style": "Anime",
+          "score": 1196,
+          "ci95": "-42/42"
+        },
+        {
+          "score": 1185,
+          "ci95": "-31/31"
+        },
+        {
+          "score": 1186,
+          "ci95": "-18/18"
+        },
+        {
+          "score": 1151,
+          "ci95": "-39/39"
+        },
+        {
+          "score": 1121,
+          "ci95": "-35/35"
+        },
+        {
+          "score": 1123,
+          "ci95": "-29/29"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1134,
+          "ci95": "-32/32"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1132,
+          "ci95": "-32/32"
+        },
+        {
+          "score": 1181,
+          "ci95": "-43/43"
+        },
+        {
+          "score": 1141,
+          "ci95": "-23/23"
+        },
+        {
+          "score": 1195,
+          "ci95": "-32/32"
+        },
+        {
+          "score": 1110,
+          "ci95": "-28/28"
+        },
+        {
+          "score": 1154,
+          "ci95": "-36/36"
+        },
+        {
+          "score": 1113,
+          "ci95": "-39/39"
+        },
+        {
+          "score": 1176,
+          "ci95": "-24/24"
+        },
+        {
+          "subject": "Text & Typography",
+          "score": 1199,
+          "ci95": "-72/72"
+        },
+        {
+          "subject": "Nature & Landscapes",
+          "score": 1156,
+          "ci95": "-38/38"
+        },
+        {
+          "style": "Vintage & Retro",
+          "score": 1169,
+          "ci95": "-61/61"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1209,
+          "ci95": "-30/30"
+        },
+        {
+          "score": 1180,
+          "ci95": "-19/19"
+        },
+        {
+          "score": 1172,
+          "ci95": "-15/15"
+        },
+        {
+          "subject": "Commercial",
+          "score": 1156,
+          "ci95": "-51/51"
+        },
+        {
+          "score": 1125,
+          "ci95": "-37/37"
+        },
+        {
+          "score": 1179,
+          "ci95": "-23/23"
+        },
+        {
+          "score": 1166,
+          "ci95": "-16/16"
+        },
+        {
+          "score": 1184,
+          "ci95": "-54/54"
+        },
+        {
+          "style": "Traditional Art",
+          "score": 1234,
+          "ci95": "-43/43"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1121,
+          "ci95": "-23/23"
+        },
+        {
+          "score": 1172,
+          "ci95": "-29/29"
+        },
+        {
+          "score": 1168,
+          "ci95": "-19/19"
+        },
+        {
+          "subject": "People: Groups & Activities",
+          "score": 1197,
+          "ci95": "-37/37"
+        },
+        {
+          "score": 1160,
+          "ci95": "-42/42"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "name": "Nano Banana (Gemini 2.5 Flash Image)",
+      "slug": "google_gemini-2-5-flash",
+      "creator": "Google",
+      "score": 1163,
+      "ci95": "-7/7",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1188,
+          "ci95": "-11/11"
+        },
+        {
+          "style": "Cartoon & Illustration",
+          "score": 1193,
+          "ci95": "-26/26"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1178,
+          "ci95": "-21/21"
+        },
+        {
+          "style": "Anime",
+          "score": 1144,
+          "ci95": "-25/25"
+        },
+        {
+          "score": 1088,
+          "ci95": "-39/39"
+        },
+        {
+          "score": 1140,
+          "ci95": "-18/18"
+        },
+        {
+          "score": 1190,
+          "ci95": "-11/11"
+        },
+        {
+          "score": 1149,
+          "ci95": "-23/23"
+        },
+        {
+          "score": 1146,
+          "ci95": "-22/22"
+        },
+        {
+          "score": 1067,
+          "ci95": "-55/55"
+        },
+        {
+          "score": 1132,
+          "ci95": "-18/18"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1137,
+          "ci95": "-20/20"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1157,
+          "ci95": "-20/20"
+        },
+        {
+          "score": 1181,
+          "ci95": "-25/25"
+        },
+        {
+          "score": 1144,
+          "ci95": "-14/14"
+        },
+        {
+          "score": 1180,
+          "ci95": "-18/18"
+        },
+        {
+          "score": 1130,
+          "ci95": "-17/17"
+        },
+        {
+          "score": 1176,
+          "ci95": "-23/23"
+        },
+        {
+          "score": 1165,
+          "ci95": "-24/24"
+        },
+        {
+          "score": 1180,
+          "ci95": "-15/15"
+        },
+        {
+          "subject": "Text & Typography",
+          "score": 1131,
+          "ci95": "-34/34"
+        },
+        {
+          "subject": "Nature & Landscapes",
+          "score": 1158,
+          "ci95": "-23/23"
+        },
+        {
+          "style": "Vintage & Retro",
+          "score": 1156,
+          "ci95": "-32/32"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1204,
+          "ci95": "-19/19"
+        },
+        {
+          "score": 1178,
+          "ci95": "-11/11"
+        },
+        {
+          "score": 1178,
+          "ci95": "-9/9"
+        },
+        {
+          "subject": "UI/UX Design",
+          "score": 1100,
+          "ci95": "-41/41"
+        },
+        {
+          "score": 1145,
+          "ci95": "-40/40"
+        },
+        {
+          "subject": "Commercial",
+          "score": 1133,
+          "ci95": "-29/29"
+        },
+        {
+          "score": 1127,
+          "ci95": "-22/22"
+        },
+        {
+          "score": 1190,
+          "ci95": "-14/14"
+        },
+        {
+          "score": 1159,
+          "ci95": "-10/10"
+        },
+        {
+          "score": 1206,
+          "ci95": "-30/30"
+        },
+        {
+          "style": "Traditional Art",
+          "score": 1245,
+          "ci95": "-27/27"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1125,
+          "ci95": "-14/14"
+        },
+        {
+          "score": 1140,
+          "ci95": "-17/17"
+        },
+        {
+          "score": 1181,
+          "ci95": "-11/11"
+        },
+        {
+          "subject": "People: Groups & Activities",
+          "score": 1209,
+          "ci95": "-22/22"
+        },
+        {
+          "score": 1130,
+          "ci95": "-25/25"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "name": "Qwen Image Max 2512",
+      "slug": "qwen_qwen-image-2512",
+      "creator": "Alibaba",
+      "score": 1150,
+      "ci95": "-12/12",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1190,
+          "ci95": "-20/20"
+        },
+        {
+          "style": "Cartoon & Illustration",
+          "score": 1171,
+          "ci95": "-42/42"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1133,
+          "ci95": "-36/36"
+        },
+        {
+          "style": "Anime",
+          "score": 1109,
+          "ci95": "-45/45"
+        },
+        {
+          "score": 1156,
+          "ci95": "-32/32"
+        },
+        {
+          "score": 1172,
+          "ci95": "-19/19"
+        },
+        {
+          "score": 1119,
+          "ci95": "-41/41"
+        },
+        {
+          "score": 1137,
+          "ci95": "-37/37"
+        },
+        {
+          "score": 1123,
+          "ci95": "-31/31"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1155,
+          "ci95": "-35/35"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1132,
+          "ci95": "-34/34"
+        },
+        {
+          "score": 1212,
+          "ci95": "-46/46"
+        },
+        {
+          "score": 1124,
+          "ci95": "-23/23"
+        },
+        {
+          "score": 1163,
+          "ci95": "-34/34"
+        },
+        {
+          "score": 1151,
+          "ci95": "-30/30"
+        },
+        {
+          "score": 1168,
+          "ci95": "-38/38"
+        },
+        {
+          "score": 1125,
+          "ci95": "-42/42"
+        },
+        {
+          "score": 1128,
+          "ci95": "-25/25"
+        },
+        {
+          "subject": "Nature & Landscapes",
+          "score": 1179,
+          "ci95": "-40/40"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1169,
+          "ci95": "-31/31"
+        },
+        {
+          "score": 1171,
+          "ci95": "-19/19"
+        },
+        {
+          "score": 1160,
+          "ci95": "-16/16"
+        },
+        {
+          "subject": "Commercial",
+          "score": 1148,
+          "ci95": "-55/55"
+        },
+        {
+          "score": 1158,
+          "ci95": "-39/39"
+        },
+        {
+          "score": 1172,
+          "ci95": "-24/24"
+        },
+        {
+          "score": 1134,
+          "ci95": "-17/17"
+        },
+        {
+          "score": 1190,
+          "ci95": "-57/57"
+        },
+        {
+          "style": "Traditional Art",
+          "score": 1162,
+          "ci95": "-50/50"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1120,
+          "ci95": "-24/24"
+        },
+        {
+          "score": 1137,
+          "ci95": "-30/30"
+        },
+        {
+          "score": 1155,
+          "ci95": "-20/20"
+        },
+        {
+          "subject": "People: Groups & Activities",
+          "score": 1202,
+          "ci95": "-39/39"
+        },
+        {
+          "score": 1114,
+          "ci95": "-44/44"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "name": "Seedream 3.0",
+      "slug": "seedream-3-0-byteplus",
+      "creator": "ByteDance Seed",
+      "score": 1150,
+      "ci95": "-10/10",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1211,
+          "ci95": "-17/17"
+        },
+        {
+          "style": "Cartoon & Illustration",
+          "score": 1116,
+          "ci95": "-36/36"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1166,
+          "ci95": "-32/32"
+        },
+        {
+          "style": "Anime",
+          "score": 1132,
+          "ci95": "-41/41"
+        },
+        {
+          "score": 943,
+          "ci95": "-79/79"
+        },
+        {
+          "score": 1071,
+          "ci95": "-26/26"
+        },
+        {
+          "score": 1196,
+          "ci95": "-16/16"
+        },
+        {
+          "score": 1049,
+          "ci95": "-33/33"
+        },
+        {
+          "score": 1146,
+          "ci95": "-32/32"
+        },
+        {
+          "score": 1033,
+          "ci95": "-25/25"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1154,
+          "ci95": "-30/30"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1152,
+          "ci95": "-29/29"
+        },
+        {
+          "score": 1179,
+          "ci95": "-40/40"
+        },
+        {
+          "score": 1124,
+          "ci95": "-20/20"
+        },
+        {
+          "score": 1189,
+          "ci95": "-29/29"
+        },
+        {
+          "score": 1139,
+          "ci95": "-25/25"
+        },
+        {
+          "score": 1115,
+          "ci95": "-32/32"
+        },
+        {
+          "score": 1112,
+          "ci95": "-38/38"
+        },
+        {
+          "score": 1171,
+          "ci95": "-22/22"
+        },
+        {
+          "subject": "Text & Typography",
+          "score": 1043,
+          "ci95": "-59/59"
+        },
+        {
+          "subject": "Nature & Landscapes",
+          "score": 1208,
+          "ci95": "-34/34"
+        },
+        {
+          "style": "Vintage & Retro",
+          "score": 1068,
+          "ci95": "-52/52"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1206,
+          "ci95": "-29/29"
+        },
+        {
+          "score": 1195,
+          "ci95": "-17/17"
+        },
+        {
+          "score": 1191,
+          "ci95": "-14/14"
+        },
+        {
+          "subject": "Commercial",
+          "score": 1119,
+          "ci95": "-45/45"
+        },
+        {
+          "score": 1168,
+          "ci95": "-34/34"
+        },
+        {
+          "score": 1200,
+          "ci95": "-21/21"
+        },
+        {
+          "score": 1144,
+          "ci95": "-14/14"
+        },
+        {
+          "score": 1201,
+          "ci95": "-53/53"
+        },
+        {
+          "style": "Traditional Art",
+          "score": 1248,
+          "ci95": "-44/44"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1075,
+          "ci95": "-20/20"
+        },
+        {
+          "score": 1064,
+          "ci95": "-24/24"
+        },
+        {
+          "score": 1186,
+          "ci95": "-17/17"
+        },
+        {
+          "subject": "People: Groups & Activities",
+          "score": 1211,
+          "ci95": "-34/34"
+        },
+        {
+          "score": 1063,
+          "ci95": "-37/37"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "name": "FLUX.2 [dev]",
+      "slug": "flux_flux-2--dev",
+      "creator": "Black Forest Labs",
+      "score": 1149,
+      "ci95": "-13/13",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1187,
+          "ci95": "-20/20"
+        },
+        {
+          "style": "Cartoon & Illustration",
+          "score": 1132,
+          "ci95": "-44/44"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1159,
+          "ci95": "-38/38"
+        },
+        {
+          "style": "Anime",
+          "score": 1124,
+          "ci95": "-46/46"
+        },
+        {
+          "score": 1130,
+          "ci95": "-32/32"
+        },
+        {
+          "score": 1163,
+          "ci95": "-19/19"
+        },
+        {
+          "score": 1075,
+          "ci95": "-42/42"
+        },
+        {
+          "score": 1132,
+          "ci95": "-39/39"
+        },
+        {
+          "score": 1079,
+          "ci95": "-32/32"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1138,
+          "ci95": "-35/35"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1134,
+          "ci95": "-35/35"
+        },
+        {
+          "score": 1164,
+          "ci95": "-45/45"
+        },
+        {
+          "score": 1125,
+          "ci95": "-25/25"
+        },
+        {
+          "score": 1180,
+          "ci95": "-34/34"
+        },
+        {
+          "score": 1128,
+          "ci95": "-30/30"
+        },
+        {
+          "score": 1138,
+          "ci95": "-39/39"
+        },
+        {
+          "score": 1127,
+          "ci95": "-47/47"
+        },
+        {
+          "score": 1165,
+          "ci95": "-26/26"
+        },
+        {
+          "subject": "Nature & Landscapes",
+          "score": 1210,
+          "ci95": "-42/42"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1153,
+          "ci95": "-33/33"
+        },
+        {
+          "score": 1179,
+          "ci95": "-20/20"
+        },
+        {
+          "score": 1173,
+          "ci95": "-16/16"
+        },
+        {
+          "score": 1134,
+          "ci95": "-40/40"
+        },
+        {
+          "score": 1155,
+          "ci95": "-24/24"
+        },
+        {
+          "score": 1141,
+          "ci95": "-17/17"
+        },
+        {
+          "score": 1218,
+          "ci95": "-54/54"
+        },
+        {
+          "style": "Traditional Art",
+          "score": 1262,
+          "ci95": "-49/49"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1097,
+          "ci95": "-24/24"
+        },
+        {
+          "score": 1118,
+          "ci95": "-30/30"
+        },
+        {
+          "score": 1175,
+          "ci95": "-20/20"
+        },
+        {
+          "subject": "People: Groups & Activities",
+          "score": 1191,
+          "ci95": "-39/39"
+        },
+        {
+          "score": 1086,
+          "ci95": "-44/44"
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "name": "Wan 2.5 Preview",
+      "slug": "wan_wan-2-5-preview",
+      "creator": "Alibaba",
+      "score": 1149,
+      "ci95": "-12/12",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1174,
+          "ci95": "-19/19"
+        },
+        {
+          "style": "Cartoon & Illustration",
+          "score": 1116,
+          "ci95": "-40/40"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1166,
+          "ci95": "-36/36"
+        },
+        {
+          "style": "Anime",
+          "score": 1129,
+          "ci95": "-41/41"
+        },
+        {
+          "score": 1136,
+          "ci95": "-29/29"
+        },
+        {
+          "score": 1176,
+          "ci95": "-18/18"
+        },
+        {
+          "score": 1119,
+          "ci95": "-37/37"
+        },
+        {
+          "score": 1154,
+          "ci95": "-37/37"
+        },
+        {
+          "score": 1082,
+          "ci95": "-28/28"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1139,
+          "ci95": "-33/33"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1148,
+          "ci95": "-32/32"
+        },
+        {
+          "score": 1200,
+          "ci95": "-42/42"
+        },
+        {
+          "score": 1136,
+          "ci95": "-23/23"
+        },
+        {
+          "score": 1169,
+          "ci95": "-32/32"
+        },
+        {
+          "score": 1152,
+          "ci95": "-29/29"
+        },
+        {
+          "score": 1107,
+          "ci95": "-35/35"
+        },
+        {
+          "score": 1172,
+          "ci95": "-42/42"
+        },
+        {
+          "score": 1196,
+          "ci95": "-25/25"
+        },
+        {
+          "subject": "Nature & Landscapes",
+          "score": 1203,
+          "ci95": "-38/38"
+        },
+        {
+          "style": "Vintage & Retro",
+          "score": 1200,
+          "ci95": "-59/59"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1185,
+          "ci95": "-30/30"
+        },
+        {
+          "score": 1165,
+          "ci95": "-19/19"
+        },
+        {
+          "score": 1168,
+          "ci95": "-15/15"
+        },
+        {
+          "subject": "Commercial",
+          "score": 1166,
+          "ci95": "-52/52"
+        },
+        {
+          "score": 1170,
+          "ci95": "-39/39"
+        },
+        {
+          "score": 1172,
+          "ci95": "-22/22"
+        },
+        {
+          "score": 1153,
+          "ci95": "-16/16"
+        },
+        {
+          "score": 1276,
+          "ci95": "-60/60"
+        },
+        {
+          "style": "Traditional Art",
+          "score": 1272,
+          "ci95": "-48/48"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1106,
+          "ci95": "-23/23"
+        },
+        {
+          "score": 1124,
+          "ci95": "-27/27"
+        },
+        {
+          "score": 1162,
+          "ci95": "-19/19"
+        },
+        {
+          "subject": "People: Groups & Activities",
+          "score": 1162,
+          "ci95": "-36/36"
+        },
+        {
+          "score": 1121,
+          "ci95": "-41/41"
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "name": "ImagineArt 1.5 Preview",
+      "slug": "imagineart-1-5-preview",
+      "creator": "ImagineArt",
+      "score": 1148,
+      "ci95": "-8/8",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1190,
+          "ci95": "-13/13"
+        },
+        {
+          "style": "Cartoon & Illustration",
+          "score": 1152,
+          "ci95": "-28/28"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1120,
+          "ci95": "-24/24"
+        },
+        {
+          "style": "Anime",
+          "score": 1139,
+          "ci95": "-30/30"
+        },
+        {
+          "score": 1088,
+          "ci95": "-51/51"
+        },
+        {
+          "score": 1130,
+          "ci95": "-20/20"
+        },
+        {
+          "score": 1176,
+          "ci95": "-12/12"
+        },
+        {
+          "score": 1094,
+          "ci95": "-25/25"
+        },
+        {
+          "score": 1131,
+          "ci95": "-24/24"
+        },
+        {
+          "score": 1013,
+          "ci95": "-90/90"
+        },
+        {
+          "score": 1092,
+          "ci95": "-19/19"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1149,
+          "ci95": "-22/22"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1165,
+          "ci95": "-22/22"
+        },
+        {
+          "score": 1144,
+          "ci95": "-28/28"
+        },
+        {
+          "score": 1133,
+          "ci95": "-15/15"
+        },
+        {
+          "score": 1147,
+          "ci95": "-21/21"
+        },
+        {
+          "score": 1142,
+          "ci95": "-19/19"
+        },
+        {
+          "score": 1147,
+          "ci95": "-24/24"
+        },
+        {
+          "score": 1146,
+          "ci95": "-28/28"
+        },
+        {
+          "score": 1119,
+          "ci95": "-16/16"
+        },
+        {
+          "subject": "Text & Typography",
+          "score": 1120,
+          "ci95": "-45/45"
+        },
+        {
+          "subject": "Nature & Landscapes",
+          "score": 1143,
+          "ci95": "-25/25"
+        },
+        {
+          "style": "Vintage & Retro",
+          "score": 1108,
+          "ci95": "-40/40"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1167,
+          "ci95": "-21/21"
+        },
+        {
+          "score": 1191,
+          "ci95": "-13/13"
+        },
+        {
+          "score": 1179,
+          "ci95": "-10/10"
+        },
+        {
+          "subject": "UI/UX Design",
+          "score": 1071,
+          "ci95": "-54/54"
+        },
+        {
+          "score": 1131,
+          "ci95": "-56/56"
+        },
+        {
+          "subject": "Commercial",
+          "score": 1109,
+          "ci95": "-35/35"
+        },
+        {
+          "score": 1176,
+          "ci95": "-26/26"
+        },
+        {
+          "score": 1194,
+          "ci95": "-16/16"
+        },
+        {
+          "score": 1128,
+          "ci95": "-11/11"
+        },
+        {
+          "score": 1204,
+          "ci95": "-38/38"
+        },
+        {
+          "style": "Traditional Art",
+          "score": 1135,
+          "ci95": "-30/30"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1116,
+          "ci95": "-16/16"
+        },
+        {
+          "score": 1113,
+          "ci95": "-19/19"
+        },
+        {
+          "score": 1175,
+          "ci95": "-13/13"
+        },
+        {
+          "subject": "People: Groups & Activities",
+          "score": 1249,
+          "ci95": "-26/26"
+        },
+        {
+          "score": 1096,
+          "ci95": "-28/28"
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "name": "FLUX.2 [dev] Flash",
+      "slug": "fal_flux-2-dev-flash",
+      "creator": "Fal",
+      "score": 1138,
+      "ci95": "-12/12",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1156,
+          "ci95": "-18/18"
+        },
+        {
+          "style": "Cartoon & Illustration",
+          "score": 1157,
+          "ci95": "-41/41"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1154,
+          "ci95": "-34/34"
+        },
+        {
+          "style": "Anime",
+          "score": 1182,
+          "ci95": "-42/42"
+        },
+        {
+          "score": 1152,
+          "ci95": "-30/30"
+        },
+        {
+          "score": 1162,
+          "ci95": "-18/18"
+        },
+        {
+          "score": 1134,
+          "ci95": "-37/37"
+        },
+        {
+          "score": 1113,
+          "ci95": "-37/37"
+        },
+        {
+          "score": 1101,
+          "ci95": "-28/28"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1130,
+          "ci95": "-33/33"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1109,
+          "ci95": "-32/32"
+        },
+        {
+          "score": 1195,
+          "ci95": "-42/42"
+        },
+        {
+          "score": 1115,
+          "ci95": "-23/23"
+        },
+        {
+          "score": 1173,
+          "ci95": "-30/30"
+        },
+        {
+          "score": 1108,
+          "ci95": "-28/28"
+        },
+        {
+          "score": 1153,
+          "ci95": "-37/37"
+        },
+        {
+          "score": 1095,
+          "ci95": "-41/41"
+        },
+        {
+          "score": 1152,
+          "ci95": "-25/25"
+        },
+        {
+          "subject": "Text & Typography",
+          "score": 1129,
+          "ci95": "-63/63"
+        },
+        {
+          "subject": "Nature & Landscapes",
+          "score": 1134,
+          "ci95": "-37/37"
+        },
+        {
+          "style": "Vintage & Retro",
+          "score": 1126,
+          "ci95": "-58/58"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1188,
+          "ci95": "-31/31"
+        },
+        {
+          "score": 1155,
+          "ci95": "-18/18"
+        },
+        {
+          "score": 1149,
+          "ci95": "-15/15"
+        },
+        {
+          "subject": "Commercial",
+          "score": 1132,
+          "ci95": "-51/51"
+        },
+        {
+          "score": 1114,
+          "ci95": "-36/36"
+        },
+        {
+          "score": 1153,
+          "ci95": "-23/23"
+        },
+        {
+          "score": 1148,
+          "ci95": "-16/16"
+        },
+        {
+          "score": 1172,
+          "ci95": "-52/52"
+        },
+        {
+          "style": "Traditional Art",
+          "score": 1189,
+          "ci95": "-48/48"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1094,
+          "ci95": "-23/23"
+        },
+        {
+          "score": 1138,
+          "ci95": "-28/28"
+        },
+        {
+          "score": 1150,
+          "ci95": "-18/18"
+        },
+        {
+          "subject": "People: Groups & Activities",
+          "score": 1174,
+          "ci95": "-37/37"
+        },
+        {
+          "score": 1151,
+          "ci95": "-42/42"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "name": "grok-imagine-image-pro",
+      "slug": "grok-imagine-image-pro",
+      "creator": "xAI",
+      "score": 1137,
+      "ci95": "-8/8",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1146,
+          "ci95": "-14/14"
+        },
+        {
+          "style": "Cartoon & Illustration",
+          "score": 1171,
+          "ci95": "-31/31"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1106,
+          "ci95": "-26/26"
+        },
+        {
+          "style": "Anime",
+          "score": 1069,
+          "ci95": "-31/31"
+        },
+        {
+          "score": 1140,
+          "ci95": "-48/48"
+        },
+        {
+          "score": 1186,
+          "ci95": "-22/22"
+        },
+        {
+          "score": 1147,
+          "ci95": "-13/13"
+        },
+        {
+          "score": 1175,
+          "ci95": "-29/29"
+        },
+        {
+          "score": 1137,
+          "ci95": "-26/26"
+        },
+        {
+          "score": 1007,
+          "ci95": "-75/75"
+        },
+        {
+          "score": 1168,
+          "ci95": "-21/21"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1137,
+          "ci95": "-25/25"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1103,
+          "ci95": "-25/25"
+        },
+        {
+          "score": 1149,
+          "ci95": "-29/29"
+        },
+        {
+          "score": 1127,
+          "ci95": "-17/17"
+        },
+        {
+          "score": 1130,
+          "ci95": "-23/23"
+        },
+        {
+          "score": 1126,
+          "ci95": "-21/21"
+        },
+        {
+          "score": 1166,
+          "ci95": "-27/27"
+        },
+        {
+          "score": 1104,
+          "ci95": "-29/29"
+        },
+        {
+          "score": 1149,
+          "ci95": "-18/18"
+        },
+        {
+          "subject": "Text & Typography",
+          "score": 1150,
+          "ci95": "-44/44"
+        },
+        {
+          "subject": "Nature & Landscapes",
+          "score": 1114,
+          "ci95": "-29/29"
+        },
+        {
+          "style": "Vintage & Retro",
+          "score": 1146,
+          "ci95": "-42/42"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1169,
+          "ci95": "-23/23"
+        },
+        {
+          "score": 1142,
+          "ci95": "-13/13"
+        },
+        {
+          "score": 1146,
+          "ci95": "-11/11"
+        },
+        {
+          "subject": "UI/UX Design",
+          "score": 1153,
+          "ci95": "-50/50"
+        },
+        {
+          "score": 1186,
+          "ci95": "-44/44"
+        },
+        {
+          "subject": "Commercial",
+          "score": 1176,
+          "ci95": "-38/38"
+        },
+        {
+          "score": 1130,
+          "ci95": "-27/27"
+        },
+        {
+          "score": 1159,
+          "ci95": "-17/17"
+        },
+        {
+          "score": 1134,
+          "ci95": "-12/12"
+        },
+        {
+          "score": 1180,
+          "ci95": "-31/31"
+        },
+        {
+          "style": "Traditional Art",
+          "score": 1162,
+          "ci95": "-36/36"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1132,
+          "ci95": "-17/17"
+        },
+        {
+          "score": 1160,
+          "ci95": "-20/20"
+        },
+        {
+          "score": 1141,
+          "ci95": "-13/13"
+        },
+        {
+          "subject": "People: Groups & Activities",
+          "score": 1169,
+          "ci95": "-28/28"
+        },
+        {
+          "score": 1164,
+          "ci95": "-30/30"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "name": "Wan 2.6 Image",
+      "slug": "wan_wan-2-6",
+      "creator": "Alibaba",
+      "score": 1135,
+      "ci95": "-16/16",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1165,
+          "ci95": "-26/26"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1128,
+          "ci95": "-48/48"
+        },
+        {
+          "score": 1131,
+          "ci95": "-38/38"
+        },
+        {
+          "score": 1144,
+          "ci95": "-25/25"
+        },
+        {
+          "score": 1118,
+          "ci95": "-50/50"
+        },
+        {
+          "score": 1125,
+          "ci95": "-47/47"
+        },
+        {
+          "score": 1097,
+          "ci95": "-37/37"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1113,
+          "ci95": "-44/44"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1118,
+          "ci95": "-45/45"
+        },
+        {
+          "score": 1121,
+          "ci95": "-31/31"
+        },
+        {
+          "score": 1162,
+          "ci95": "-44/44"
+        },
+        {
+          "score": 1093,
+          "ci95": "-36/36"
+        },
+        {
+          "score": 1064,
+          "ci95": "-48/48"
+        },
+        {
+          "score": 1168,
+          "ci95": "-34/34"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1174,
+          "ci95": "-42/42"
+        },
+        {
+          "score": 1141,
+          "ci95": "-25/25"
+        },
+        {
+          "score": 1151,
+          "ci95": "-21/21"
+        },
+        {
+          "score": 1088,
+          "ci95": "-47/47"
+        },
+        {
+          "score": 1148,
+          "ci95": "-32/32"
+        },
+        {
+          "score": 1133,
+          "ci95": "-22/22"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1091,
+          "ci95": "-30/30"
+        },
+        {
+          "score": 1127,
+          "ci95": "-35/35"
+        },
+        {
+          "score": 1160,
+          "ci95": "-26/26"
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "name": "FLUX.2 [klein] 9B",
+      "slug": "flux_flux-2-klein-9b",
+      "creator": "Black Forest Labs",
+      "score": 1134,
+      "ci95": "-10/10",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1167,
+          "ci95": "-16/16"
+        },
+        {
+          "style": "Cartoon & Illustration",
+          "score": 1139,
+          "ci95": "-35/35"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1129,
+          "ci95": "-29/29"
+        },
+        {
+          "style": "Anime",
+          "score": 1145,
+          "ci95": "-36/36"
+        },
+        {
+          "score": 1037,
+          "ci95": "-61/61"
+        },
+        {
+          "score": 1102,
+          "ci95": "-25/25"
+        },
+        {
+          "score": 1167,
+          "ci95": "-15/15"
+        },
+        {
+          "score": 1062,
+          "ci95": "-32/32"
+        },
+        {
+          "score": 1122,
+          "ci95": "-30/30"
+        },
+        {
+          "score": 1044,
+          "ci95": "-25/25"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1137,
+          "ci95": "-28/28"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1154,
+          "ci95": "-28/28"
+        },
+        {
+          "score": 1139,
+          "ci95": "-35/35"
+        },
+        {
+          "score": 1124,
+          "ci95": "-20/20"
+        },
+        {
+          "score": 1163,
+          "ci95": "-26/26"
+        },
+        {
+          "score": 1116,
+          "ci95": "-24/24"
+        },
+        {
+          "score": 1129,
+          "ci95": "-31/31"
+        },
+        {
+          "score": 1121,
+          "ci95": "-34/34"
+        },
+        {
+          "score": 1157,
+          "ci95": "-21/21"
+        },
+        {
+          "subject": "Text & Typography",
+          "score": 1049,
+          "ci95": "-54/54"
+        },
+        {
+          "subject": "Nature & Landscapes",
+          "score": 1122,
+          "ci95": "-32/32"
+        },
+        {
+          "style": "Vintage & Retro",
+          "score": 1111,
+          "ci95": "-49/49"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1177,
+          "ci95": "-26/26"
+        },
+        {
+          "score": 1159,
+          "ci95": "-16/16"
+        },
+        {
+          "score": 1156,
+          "ci95": "-13/13"
+        },
+        {
+          "subject": "UI/UX Design",
+          "score": 1024,
+          "ci95": "-64/64"
+        },
+        {
+          "score": 1008,
+          "ci95": "-71/71"
+        },
+        {
+          "subject": "Commercial",
+          "score": 1133,
+          "ci95": "-44/44"
+        },
+        {
+          "score": 1140,
+          "ci95": "-32/32"
+        },
+        {
+          "score": 1177,
+          "ci95": "-20/20"
+        },
+        {
+          "score": 1145,
+          "ci95": "-14/14"
+        },
+        {
+          "score": 1192,
+          "ci95": "-44/44"
+        },
+        {
+          "style": "Traditional Art",
+          "score": 1221,
+          "ci95": "-39/39"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1076,
+          "ci95": "-20/20"
+        },
+        {
+          "score": 1077,
+          "ci95": "-24/24"
+        },
+        {
+          "score": 1157,
+          "ci95": "-16/16"
+        },
+        {
+          "subject": "People: Groups & Activities",
+          "score": 1204,
+          "ci95": "-33/33"
+        },
+        {
+          "score": 1054,
+          "ci95": "-35/35"
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "name": "Wan2.6 Text to Image",
+      "slug": "wan_wan-2-6-text-to-image-v2",
+      "creator": "Alibaba",
+      "score": 1134,
+      "ci95": "-9/9",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1175,
+          "ci95": "-15/15"
+        },
+        {
+          "style": "Cartoon & Illustration",
+          "score": 1111,
+          "ci95": "-31/31"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1163,
+          "ci95": "-27/27"
+        },
+        {
+          "style": "Anime",
+          "score": 1142,
+          "ci95": "-34/34"
+        },
+        {
+          "score": 1039,
+          "ci95": "-58/58"
+        },
+        {
+          "score": 1110,
+          "ci95": "-23/23"
+        },
+        {
+          "score": 1171,
+          "ci95": "-14/14"
+        },
+        {
+          "score": 1100,
+          "ci95": "-29/29"
+        },
+        {
+          "score": 1114,
+          "ci95": "-28/28"
+        },
+        {
+          "score": 1070,
+          "ci95": "-22/22"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1094,
+          "ci95": "-26/26"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1121,
+          "ci95": "-25/25"
+        },
+        {
+          "score": 1210,
+          "ci95": "-31/31"
+        },
+        {
+          "score": 1110,
+          "ci95": "-18/18"
+        },
+        {
+          "score": 1178,
+          "ci95": "-24/24"
+        },
+        {
+          "score": 1094,
+          "ci95": "-22/22"
+        },
+        {
+          "score": 1119,
+          "ci95": "-27/27"
+        },
+        {
+          "score": 1114,
+          "ci95": "-31/31"
+        },
+        {
+          "score": 1155,
+          "ci95": "-19/19"
+        },
+        {
+          "subject": "Text & Typography",
+          "score": 1125,
+          "ci95": "-47/47"
+        },
+        {
+          "subject": "Nature & Landscapes",
+          "score": 1161,
+          "ci95": "-30/30"
+        },
+        {
+          "style": "Vintage & Retro",
+          "score": 1125,
+          "ci95": "-46/46"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1182,
+          "ci95": "-23/23"
+        },
+        {
+          "score": 1160,
+          "ci95": "-14/14"
+        },
+        {
+          "score": 1163,
+          "ci95": "-11/11"
+        },
+        {
+          "subject": "UI/UX Design",
+          "score": 1007,
+          "ci95": "-61/61"
+        },
+        {
+          "score": 1031,
+          "ci95": "-51/51"
+        },
+        {
+          "subject": "Commercial",
+          "score": 1112,
+          "ci95": "-41/41"
+        },
+        {
+          "score": 1101,
+          "ci95": "-28/28"
+        },
+        {
+          "score": 1164,
+          "ci95": "-18/18"
+        },
+        {
+          "score": 1135,
+          "ci95": "-12/12"
+        },
+        {
+          "score": 1182,
+          "ci95": "-34/34"
+        },
+        {
+          "style": "Traditional Art",
+          "score": 1237,
+          "ci95": "-36/36"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1073,
+          "ci95": "-17/17"
+        },
+        {
+          "score": 1092,
+          "ci95": "-21/21"
+        },
+        {
+          "score": 1169,
+          "ci95": "-14/14"
+        },
+        {
+          "subject": "People: Groups & Activities",
+          "score": 1186,
+          "ci95": "-29/29"
+        },
+        {
+          "score": 1107,
+          "ci95": "-32/32"
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "name": "Recraft V4 Pro",
+      "slug": "recraft-v4-pro",
+      "creator": "Recraft",
+      "score": 1132,
+      "ci95": "-9/9",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1173,
+          "ci95": "-16/16"
+        },
+        {
+          "style": "Cartoon & Illustration",
+          "score": 1103,
+          "ci95": "-35/35"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1126,
+          "ci95": "-31/31"
+        },
+        {
+          "style": "Anime",
+          "score": 1087,
+          "ci95": "-36/36"
+        },
+        {
+          "score": 1107,
+          "ci95": "-49/49"
+        },
+        {
+          "score": 1147,
+          "ci95": "-22/22"
+        },
+        {
+          "score": 1168,
+          "ci95": "-15/15"
+        },
+        {
+          "score": 1122,
+          "ci95": "-31/31"
+        },
+        {
+          "score": 1097,
+          "ci95": "-28/28"
+        },
+        {
+          "score": 974,
+          "ci95": "-83/83"
+        },
+        {
+          "score": 1130,
+          "ci95": "-22/22"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1095,
+          "ci95": "-28/28"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1108,
+          "ci95": "-27/27"
+        },
+        {
+          "score": 1163,
+          "ci95": "-31/31"
+        },
+        {
+          "score": 1081,
+          "ci95": "-19/19"
+        },
+        {
+          "score": 1163,
+          "ci95": "-26/26"
+        },
+        {
+          "score": 1094,
+          "ci95": "-22/22"
+        },
+        {
+          "score": 1104,
+          "ci95": "-31/31"
+        },
+        {
+          "score": 1115,
+          "ci95": "-32/32"
+        },
+        {
+          "score": 1147,
+          "ci95": "-22/22"
+        },
+        {
+          "subject": "Text & Typography",
+          "score": 1089,
+          "ci95": "-48/48"
+        },
+        {
+          "subject": "Nature & Landscapes",
+          "score": 1129,
+          "ci95": "-33/33"
+        },
+        {
+          "style": "Vintage & Retro",
+          "score": 1092,
+          "ci95": "-46/46"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1162,
+          "ci95": "-27/27"
+        },
+        {
+          "score": 1169,
+          "ci95": "-14/14"
+        },
+        {
+          "score": 1154,
+          "ci95": "-12/12"
+        },
+        {
+          "subject": "UI/UX Design",
+          "score": 1100,
+          "ci95": "-54/54"
+        },
+        {
+          "score": 1137,
+          "ci95": "-43/43"
+        },
+        {
+          "subject": "Commercial",
+          "score": 1139,
+          "ci95": "-39/39"
+        },
+        {
+          "score": 1087,
+          "ci95": "-29/29"
+        },
+        {
+          "score": 1179,
+          "ci95": "-19/19"
+        },
+        {
+          "score": 1109,
+          "ci95": "-14/14"
+        },
+        {
+          "score": 1195,
+          "ci95": "-29/29"
+        },
+        {
+          "style": "Traditional Art",
+          "score": 1234,
+          "ci95": "-41/41"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1079,
+          "ci95": "-19/19"
+        },
+        {
+          "score": 1123,
+          "ci95": "-21/21"
+        },
+        {
+          "score": 1137,
+          "ci95": "-15/15"
+        },
+        {
+          "subject": "People: Groups & Activities",
+          "score": 1201,
+          "ci95": "-32/32"
+        },
+        {
+          "score": 1099,
+          "ci95": "-33/33"
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "name": "GPT Image 1 (high)",
+      "slug": "openai-gpt_gpt-image-1--high",
+      "creator": "OpenAI",
+      "score": 1128,
+      "ci95": "-11/11",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1139,
+          "ci95": "-18/18"
+        },
+        {
+          "style": "Cartoon & Illustration",
+          "score": 1133,
+          "ci95": "-40/40"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1119,
+          "ci95": "-33/33"
+        },
+        {
+          "style": "Anime",
+          "score": 1096,
+          "ci95": "-40/40"
+        },
+        {
+          "score": 1115,
+          "ci95": "-29/29"
+        },
+        {
+          "score": 1152,
+          "ci95": "-17/17"
+        },
+        {
+          "score": 1146,
+          "ci95": "-39/39"
+        },
+        {
+          "score": 1122,
+          "ci95": "-35/35"
+        },
+        {
+          "score": 1148,
+          "ci95": "-29/29"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1114,
+          "ci95": "-32/32"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1095,
+          "ci95": "-33/33"
+        },
+        {
+          "score": 1153,
+          "ci95": "-38/38"
+        },
+        {
+          "score": 1128,
+          "ci95": "-22/22"
+        },
+        {
+          "score": 1150,
+          "ci95": "-29/29"
+        },
+        {
+          "score": 1117,
+          "ci95": "-27/27"
+        },
+        {
+          "score": 1152,
+          "ci95": "-36/36"
+        },
+        {
+          "score": 1105,
+          "ci95": "-41/41"
+        },
+        {
+          "score": 1152,
+          "ci95": "-23/23"
+        },
+        {
+          "subject": "Text & Typography",
+          "score": 1080,
+          "ci95": "-62/62"
+        },
+        {
+          "subject": "Nature & Landscapes",
+          "score": 1126,
+          "ci95": "-36/36"
+        },
+        {
+          "style": "Vintage & Retro",
+          "score": 1148,
+          "ci95": "-60/60"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1169,
+          "ci95": "-28/28"
+        },
+        {
+          "score": 1122,
+          "ci95": "-18/18"
+        },
+        {
+          "score": 1130,
+          "ci95": "-14/14"
+        },
+        {
+          "subject": "Commercial",
+          "score": 1132,
+          "ci95": "-51/51"
+        },
+        {
+          "score": 1119,
+          "ci95": "-36/36"
+        },
+        {
+          "score": 1150,
+          "ci95": "-22/22"
+        },
+        {
+          "score": 1138,
+          "ci95": "-15/15"
+        },
+        {
+          "score": 1171,
+          "ci95": "-53/53"
+        },
+        {
+          "style": "Traditional Art",
+          "score": 1205,
+          "ci95": "-44/44"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1104,
+          "ci95": "-22/22"
+        },
+        {
+          "score": 1113,
+          "ci95": "-27/27"
+        },
+        {
+          "score": 1129,
+          "ci95": "-18/18"
+        },
+        {
+          "subject": "People: Groups & Activities",
+          "score": 1151,
+          "ci95": "-35/35"
+        },
+        {
+          "score": 1075,
+          "ci95": "-40/40"
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "name": "Vivago 2.1",
+      "slug": "vivago_vivago-2-1",
+      "creator": "HiDream",
+      "score": 1126,
+      "ci95": "-11/11",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1147,
+          "ci95": "-18/18"
+        },
+        {
+          "style": "Cartoon & Illustration",
+          "score": 1135,
+          "ci95": "-38/38"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1125,
+          "ci95": "-33/33"
+        },
+        {
+          "style": "Anime",
+          "score": 1139,
+          "ci95": "-40/40"
+        },
+        {
+          "score": 1117,
+          "ci95": "-29/29"
+        },
+        {
+          "score": 1160,
+          "ci95": "-17/17"
+        },
+        {
+          "score": 1092,
+          "ci95": "-38/38"
+        },
+        {
+          "score": 1126,
+          "ci95": "-36/36"
+        },
+        {
+          "score": 1102,
+          "ci95": "-28/28"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1130,
+          "ci95": "-31/31"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1096,
+          "ci95": "-31/31"
+        },
+        {
+          "score": 1148,
+          "ci95": "-38/38"
+        },
+        {
+          "score": 1093,
+          "ci95": "-22/22"
+        },
+        {
+          "score": 1143,
+          "ci95": "-29/29"
+        },
+        {
+          "score": 1121,
+          "ci95": "-28/28"
+        },
+        {
+          "score": 1122,
+          "ci95": "-34/34"
+        },
+        {
+          "score": 1084,
+          "ci95": "-37/37"
+        },
+        {
+          "score": 1134,
+          "ci95": "-23/23"
+        },
+        {
+          "subject": "Nature & Landscapes",
+          "score": 1110,
+          "ci95": "-33/33"
+        },
+        {
+          "style": "Vintage & Retro",
+          "score": 1093,
+          "ci95": "-56/56"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1179,
+          "ci95": "-29/29"
+        },
+        {
+          "score": 1133,
+          "ci95": "-17/17"
+        },
+        {
+          "score": 1137,
+          "ci95": "-14/14"
+        },
+        {
+          "subject": "Commercial",
+          "score": 1127,
+          "ci95": "-50/50"
+        },
+        {
+          "score": 1113,
+          "ci95": "-36/36"
+        },
+        {
+          "score": 1170,
+          "ci95": "-21/21"
+        },
+        {
+          "score": 1124,
+          "ci95": "-15/15"
+        },
+        {
+          "score": 1163,
+          "ci95": "-53/53"
+        },
+        {
+          "style": "Traditional Art",
+          "score": 1195,
+          "ci95": "-43/43"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1104,
+          "ci95": "-22/22"
+        },
+        {
+          "score": 1106,
+          "ci95": "-27/27"
+        },
+        {
+          "score": 1138,
+          "ci95": "-17/17"
+        },
+        {
+          "subject": "People: Groups & Activities",
+          "score": 1186,
+          "ci95": "-35/35"
+        },
+        {
+          "score": 1091,
+          "ci95": "-41/41"
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "name": "Kolors 2.1",
+      "slug": "kolors-2-1",
+      "creator": "KlingAI",
+      "score": 1125,
+      "ci95": "-12/12",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1150,
+          "ci95": "-19/19"
+        },
+        {
+          "style": "Cartoon & Illustration",
+          "score": 1184,
+          "ci95": "-42/42"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1120,
+          "ci95": "-36/36"
+        },
+        {
+          "style": "Anime",
+          "score": 1108,
+          "ci95": "-42/42"
+        },
+        {
+          "score": 1119,
+          "ci95": "-30/30"
+        },
+        {
+          "score": 1124,
+          "ci95": "-18/18"
+        },
+        {
+          "score": 1105,
+          "ci95": "-41/41"
+        },
+        {
+          "score": 1114,
+          "ci95": "-37/37"
+        },
+        {
+          "score": 1109,
+          "ci95": "-30/30"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1116,
+          "ci95": "-34/34"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1115,
+          "ci95": "-33/33"
+        },
+        {
+          "score": 1159,
+          "ci95": "-42/42"
+        },
+        {
+          "score": 1101,
+          "ci95": "-22/22"
+        },
+        {
+          "score": 1124,
+          "ci95": "-31/31"
+        },
+        {
+          "score": 1118,
+          "ci95": "-28/28"
+        },
+        {
+          "score": 1165,
+          "ci95": "-37/37"
+        },
+        {
+          "score": 1071,
+          "ci95": "-41/41"
+        },
+        {
+          "score": 1077,
+          "ci95": "-25/25"
+        },
+        {
+          "subject": "Nature & Landscapes",
+          "score": 1140,
+          "ci95": "-38/38"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1136,
+          "ci95": "-30/30"
+        },
+        {
+          "score": 1146,
+          "ci95": "-18/18"
+        },
+        {
+          "score": 1132,
+          "ci95": "-15/15"
+        },
+        {
+          "subject": "Commercial",
+          "score": 1151,
+          "ci95": "-49/49"
+        },
+        {
+          "score": 1136,
+          "ci95": "-37/37"
+        },
+        {
+          "score": 1109,
+          "ci95": "-23/23"
+        },
+        {
+          "score": 1112,
+          "ci95": "-16/16"
+        },
+        {
+          "score": 1127,
+          "ci95": "-60/60"
+        },
+        {
+          "style": "Traditional Art",
+          "score": 1099,
+          "ci95": "-49/49"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1102,
+          "ci95": "-23/23"
+        },
+        {
+          "score": 1113,
+          "ci95": "-29/29"
+        },
+        {
+          "score": 1133,
+          "ci95": "-19/19"
+        },
+        {
+          "subject": "People: Groups & Activities",
+          "score": 1172,
+          "ci95": "-37/37"
+        },
+        {
+          "score": 1073,
+          "ci95": "-43/43"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "name": "Seedream 5.0 Lite",
+      "slug": "seedream-5-0-lite",
+      "creator": "Bytedance",
+      "score": 1122,
+      "ci95": "-11/11",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1109,
+          "ci95": "-21/21"
+        },
+        {
+          "style": "Cartoon & Illustration",
+          "score": 1197,
+          "ci95": "-42/42"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1160,
+          "ci95": "-38/38"
+        },
+        {
+          "style": "Anime",
+          "score": 1136,
+          "ci95": "-45/45"
+        },
+        {
+          "score": 1127,
+          "ci95": "-55/55"
+        },
+        {
+          "score": 1121,
+          "ci95": "-26/26"
+        },
+        {
+          "score": 1138,
+          "ci95": "-18/18"
+        },
+        {
+          "score": 1126,
+          "ci95": "-36/36"
+        },
+        {
+          "score": 1097,
+          "ci95": "-33/33"
+        },
+        {
+          "score": 1126,
+          "ci95": "-25/25"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1073,
+          "ci95": "-34/34"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1085,
+          "ci95": "-34/34"
+        },
+        {
+          "score": 1126,
+          "ci95": "-39/39"
+        },
+        {
+          "score": 1095,
+          "ci95": "-23/23"
+        },
+        {
+          "score": 1144,
+          "ci95": "-32/32"
+        },
+        {
+          "score": 1087,
+          "ci95": "-25/25"
+        },
+        {
+          "score": 1197,
+          "ci95": "-38/38"
+        },
+        {
+          "score": 1092,
+          "ci95": "-42/42"
+        },
+        {
+          "score": 1129,
+          "ci95": "-26/26"
+        },
+        {
+          "subject": "Text & Typography",
+          "score": 1103,
+          "ci95": "-54/54"
+        },
+        {
+          "subject": "Nature & Landscapes",
+          "score": 1100,
+          "ci95": "-42/42"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1176,
+          "ci95": "-32/32"
+        },
+        {
+          "score": 1115,
+          "ci95": "-18/18"
+        },
+        {
+          "score": 1122,
+          "ci95": "-15/15"
+        },
+        {
+          "score": 1088,
+          "ci95": "-53/53"
+        },
+        {
+          "subject": "Commercial",
+          "score": 1133,
+          "ci95": "-45/45"
+        },
+        {
+          "score": 1088,
+          "ci95": "-33/33"
+        },
+        {
+          "score": 1132,
+          "ci95": "-24/24"
+        },
+        {
+          "score": 1131,
+          "ci95": "-16/16"
+        },
+        {
+          "score": 1142,
+          "ci95": "-36/36"
+        },
+        {
+          "style": "Traditional Art",
+          "score": 1186,
+          "ci95": "-48/48"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1094,
+          "ci95": "-22/22"
+        },
+        {
+          "score": 1112,
+          "ci95": "-25/25"
+        },
+        {
+          "score": 1121,
+          "ci95": "-18/18"
+        },
+        {
+          "subject": "People: Groups & Activities",
+          "score": 1154,
+          "ci95": "-39/39"
+        },
+        {
+          "score": 1108,
+          "ci95": "-37/37"
         }
       ]
     }
