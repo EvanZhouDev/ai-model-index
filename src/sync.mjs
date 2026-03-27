@@ -3,7 +3,7 @@ import path from "node:path";
 import process from "node:process";
 import { fileURLToPath } from "node:url";
 
-const TOP_N = 10;
+const TOP_N = 30;
 const SOURCE = {
   name: "Artificial Analysis",
   url: "https://artificialanalysis.ai/",
