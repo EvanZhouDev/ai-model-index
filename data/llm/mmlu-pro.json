@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T08:50:46.013Z",
+  "generated_at": "2026-04-01T08:41:50.621Z",
   "limit": 30,
   "modality": "llm",
   "metric": "mmlu-pro",
@@ -158,15 +158,15 @@
     },
     {
       "rank": 22,
-      "name": "Claude 4 Opus (Non-reasoning)",
-      "slug": "claude-4-opus",
+      "name": "Claude 4.5 Sonnet (Non-reasoning)",
+      "slug": "claude-4-5-sonnet",
       "creator": "Anthropic",
       "score": 0.86
     },
     {
       "rank": 23,
-      "name": "Claude 4.5 Sonnet (Non-reasoning)",
-      "slug": "claude-4-5-sonnet",
+      "name": "Claude 4 Opus (Non-reasoning)",
+      "slug": "claude-4-opus",
       "creator": "Anthropic",
       "score": 0.86
     },

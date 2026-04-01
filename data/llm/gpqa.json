@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T08:50:46.013Z",
+  "generated_at": "2026-04-01T08:41:50.621Z",
   "limit": 30,
   "modality": "llm",
   "metric": "gpqa",
@@ -200,24 +200,24 @@
     },
     {
       "rank": 28,
+      "name": "KAT Coder Pro V2",
+      "slug": "kat-coder-pro-v2",
+      "creator": "KwaiKAT",
+      "score": 0.855
+    },
+    {
+      "rank": 29,
       "name": "GPT-5 (high)",
       "slug": "gpt-5",
       "creator": "OpenAI",
       "score": 0.854
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Grok 4.1 Fast (Reasoning)",
       "slug": "grok-4-1-fast-reasoning",
       "creator": "xAI",
       "score": 0.853
-    },
-    {
-      "rank": 30,
-      "name": "Nanbeige4.1-3B",
-      "slug": "nanbeige4-1-3b",
-      "creator": "Nanbeige",
-      "score": 0.849
     }
   ]
 }

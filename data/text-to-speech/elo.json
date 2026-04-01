@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T08:50:46.013Z",
+  "generated_at": "2026-04-01T08:41:50.621Z",
   "limit": 30,
   "modality": "text-to-speech",
   "metric": "elo",
@@ -13,39 +13,39 @@
       "name": "Inworld TTS 1.5 Max",
       "slug": "tts-1-5-max",
       "creator": "Inworld",
-      "score": 1236,
-      "ci95": "-21/21"
+      "score": 1231,
+      "ci95": "-20/20"
     },
     {
       "rank": 2,
       "name": "Eleven v3",
       "slug": "eleven-v3",
       "creator": "ElevenLabs",
-      "score": 1196,
+      "score": 1197,
       "ci95": "-13/13"
     },
     {
       "rank": 3,
-      "name": "Inworld TTS 1 Max",
-      "slug": "inworld-tts-1-max",
-      "creator": "Inworld",
-      "score": 1184,
-      "ci95": "-20/20"
-    },
-    {
-      "rank": 4,
       "name": "Inworld TTS 1.5 Mini",
       "slug": "tts-1-5-mini",
       "creator": "Inworld",
-      "score": 1182,
-      "ci95": "-18/18"
+      "score": 1183,
+      "ci95": "-17/17"
+    },
+    {
+      "rank": 4,
+      "name": "Inworld TTS 1 Max",
+      "slug": "inworld-tts-1-max",
+      "creator": "Inworld",
+      "score": 1181,
+      "ci95": "-20/20"
     },
     {
       "rank": 5,
       "name": "Speech 2.8 HD",
       "slug": "speech-2-8-hd",
       "creator": "MiniMax",
-      "score": 1175,
+      "score": 1174,
       "ci95": "-13/13"
     },
     {
@@ -53,16 +53,16 @@
       "name": "Speech 2.8 Turbo",
       "slug": "speech-2-8-turbo",
       "creator": "MiniMax",
-      "score": 1160,
+      "score": 1159,
       "ci95": "-12/12"
     },
     {
       "rank": 7,
-      "name": "ST260212",
-      "slug": "st260212",
-      "creator": " ",
-      "score": 1149,
-      "ci95": "-28/28"
+      "name": "Step TTS 2 (Mar 2026)",
+      "slug": "step-tts-2-mar-2026",
+      "creator": "StepFun",
+      "score": 1151,
+      "ci95": "-27/27"
     },
     {
       "rank": 8,
@@ -77,7 +77,7 @@
       "name": "Inworld TTS 1",
       "slug": "inworld-tts",
       "creator": "Inworld",
-      "score": 1145,
+      "score": 1144,
       "ci95": "-17/17"
     },
     {
@@ -101,7 +101,7 @@
       "name": "TTS-1",
       "slug": "tts-1",
       "creator": "OpenAI",
-      "score": 1125,
+      "score": 1124,
       "ci95": "-8/8"
     },
     {
@@ -109,7 +109,7 @@
       "name": "Speech 2.6 HD",
       "slug": "speech-2.6-hd",
       "creator": "MiniMax",
-      "score": 1125,
+      "score": 1124,
       "ci95": "-12/12"
     },
     {
@@ -117,7 +117,7 @@
       "name": "Turbo v2.5",
       "slug": "turbo-v2-5",
       "creator": "ElevenLabs",
-      "score": 1120,
+      "score": 1119,
       "ci95": "-8/8"
     },
     {
@@ -133,19 +133,11 @@
       "name": "Flash v2.5",
       "slug": "flash-v2-5",
       "creator": "ElevenLabs",
-      "score": 1109,
+      "score": 1108,
       "ci95": "-9/9"
     },
     {
       "rank": 17,
-      "name": "Step TTS 2",
-      "slug": "step-tts-2",
-      "creator": "StepFun",
-      "score": 1107,
-      "ci95": "-19/19"
-    },
-    {
-      "rank": 18,
       "name": "Speech-02-Turbo",
       "slug": "speech-02-turbo",
       "creator": "MiniMax",
@@ -153,39 +145,39 @@
       "ci95": "-12/12"
     },
     {
-      "rank": 19,
-      "name": "ST260212X",
-      "slug": "st260212x",
-      "creator": " ",
+      "rank": 18,
+      "name": "Step Audio EditX (Mar 2026)",
+      "slug": "step-audio-editx-mar-2026",
+      "creator": "StepFun",
       "score": 1101,
-      "ci95": "-41/41"
+      "ci95": "-40/40"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Gemini 2.5 Flash Lite TTS",
       "slug": "gemini-2-5-flash-lite",
       "creator": "Google",
-      "score": 1093,
+      "score": 1096,
       "ci95": "-15/15"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "SIMBA 1.6",
       "slug": "simba-1-6",
       "creator": "Speechify",
-      "score": 1089,
+      "score": 1088,
       "ci95": "-24/24"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "OpenAudio S1",
       "slug": "openaudio-s1",
       "creator": "Fish Audio",
-      "score": 1086,
+      "score": 1085,
       "ci95": "-11/11"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Studio",
       "slug": "studio",
       "creator": "Google",
@@ -193,15 +185,15 @@
       "ci95": "-10/10"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Sonic 3",
       "slug": "sonic3",
       "creator": "Cartesia",
-      "score": 1076,
+      "score": 1077,
       "ci95": "-14/14"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "T2A-01-HD",
       "slug": "t2a-01-hd",
       "creator": "MiniMax",
@@ -209,20 +201,28 @@
       "ci95": "-10/10"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Polly Generative",
       "slug": "polly-generative",
       "creator": "Amazon",
-      "score": 1073,
+      "score": 1074,
       "ci95": "-12/12"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Kokoro 82M v1.0",
       "slug": "kokoro-82m-v1-0",
       "creator": "Kokoro",
-      "score": 1072,
+      "score": 1071,
       "ci95": "-10/10"
+    },
+    {
+      "rank": 27,
+      "name": "Azure Neural",
+      "slug": "azure-neural",
+      "creator": "Microsoft Azure",
+      "score": 1065,
+      "ci95": "-8/8"
     },
     {
       "rank": 28,
@@ -234,11 +234,11 @@
     },
     {
       "rank": 29,
-      "name": "Azure Neural",
-      "slug": "azure-neural",
-      "creator": "Microsoft Azure",
-      "score": 1065,
-      "ci95": "-8/8"
+      "name": "Sonic English (Oct 2024)",
+      "slug": "sonic-english-oct-24-",
+      "creator": "Cartesia",
+      "score": 1063,
+      "ci95": "-13/13"
     },
     {
       "rank": 30,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T08:50:46.013Z",
+  "generated_at": "2026-04-01T08:41:50.621Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-intelligence",
@@ -158,15 +158,15 @@
     },
     {
       "rank": 22,
-      "name": "GPT-5 (high)",
-      "slug": "gpt-5",
+      "name": "GPT-5 Codex (high)",
+      "slug": "gpt-5-codex",
       "creator": "OpenAI",
       "score": 44.6
     },
     {
       "rank": 23,
-      "name": "GPT-5 Codex (high)",
-      "slug": "gpt-5-codex",
+      "name": "GPT-5 (high)",
+      "slug": "gpt-5",
       "creator": "OpenAI",
       "score": 44.6
     },
@@ -186,38 +186,38 @@
     },
     {
       "rank": 26,
+      "name": "KAT Coder Pro V2",
+      "slug": "kat-coder-pro-v2",
+      "creator": "KwaiKAT",
+      "score": 43.8
+    },
+    {
+      "rank": 27,
       "name": "MiMo-V2-Omni",
       "slug": "mimo-v2-omni",
       "creator": "Xiaomi",
       "score": 43.4
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "GPT-5.1 Codex (high)",
       "slug": "gpt-5-1-codex",
       "creator": "OpenAI",
       "score": 43.1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Claude Opus 4.5 (Non-reasoning)",
       "slug": "claude-opus-4-5",
       "creator": "Anthropic",
       "score": 43.1
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Claude 4.5 Sonnet (Reasoning)",
       "slug": "claude-4-5-sonnet-thinking",
       "creator": "Anthropic",
       "score": 43
-    },
-    {
-      "rank": 30,
-      "name": "Claude Sonnet 4.6 (Non-reasoning, Low Effort)",
-      "slug": "claude-sonnet-4-6-non-reasoning-low-effort",
-      "creator": "Anthropic",
-      "score": 42.6
     }
   ]
 }
