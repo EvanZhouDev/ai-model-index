@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T08:41:50.621Z",
+  "generated_at": "2026-04-03T08:08:54.520Z",
   "limit": 30,
   "modality": "llm",
   "metric": "gpqa",
@@ -158,15 +158,15 @@
     },
     {
       "rank": 22,
-      "name": "Qwen3.5 397B A17B (Non-reasoning)",
-      "slug": "qwen3-5-397b-a17b-non-reasoning",
+      "name": "Qwen3 Max Thinking",
+      "slug": "qwen3-max-thinking",
       "creator": "Alibaba",
       "score": 0.861
     },
     {
       "rank": 23,
-      "name": "Qwen3 Max Thinking",
-      "slug": "qwen3-max-thinking",
+      "name": "Qwen3.5 397B A17B (Non-reasoning)",
+      "slug": "qwen3-5-397b-a17b-non-reasoning",
       "creator": "Alibaba",
       "score": 0.861
     },
@@ -193,31 +193,31 @@
     },
     {
       "rank": 27,
+      "name": "Gemma 4 31B (Reasoning)",
+      "slug": "gemma-4-31b",
+      "creator": "Google",
+      "score": 0.857
+    },
+    {
+      "rank": 28,
       "name": "Qwen3.5 122B A10B (Reasoning)",
       "slug": "qwen3-5-122b-a10b",
       "creator": "Alibaba",
       "score": 0.857
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "KAT Coder Pro V2",
       "slug": "kat-coder-pro-v2",
       "creator": "KwaiKAT",
       "score": 0.855
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "GPT-5 (high)",
       "slug": "gpt-5",
       "creator": "OpenAI",
       "score": 0.854
-    },
-    {
-      "rank": 30,
-      "name": "Grok 4.1 Fast (Reasoning)",
-      "slug": "grok-4-1-fast-reasoning",
-      "creator": "xAI",
-      "score": 0.853
     }
   ]
 }
