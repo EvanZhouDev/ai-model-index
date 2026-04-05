@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T08:08:54.520Z",
+  "generated_at": "2026-04-05T08:01:53.635Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -29,7 +29,7 @@
       "name": "Nano Banana Pro (Gemini 3 Pro Image)",
       "slug": "gemini_nano-banana-pro",
       "creator": "Google",
-      "score": 1249,
+      "score": 1250,
       "ci95": "-11/11"
     },
     {
@@ -74,19 +74,19 @@
     },
     {
       "rank": 9,
-      "name": "Wan 2.6 Image",
-      "slug": "wan_wan-2-6",
-      "creator": "Alibaba",
-      "score": 1196,
-      "ci95": "-11/11"
-    },
-    {
-      "rank": 10,
       "name": "Seedream 4.5",
       "slug": "seedream-4-5",
       "creator": "ByteDance Seed",
       "score": 1196,
       "ci95": "-8/8"
+    },
+    {
+      "rank": 10,
+      "name": "Wan 2.6 Image",
+      "slug": "wan_wan-2-6",
+      "creator": "Alibaba",
+      "score": 1196,
+      "ci95": "-11/11"
     },
     {
       "rank": 11,
@@ -101,7 +101,7 @@
       "name": "Seedream 4.0",
       "slug": "bytedance-seed_seedream-4-0",
       "creator": "ByteDance Seed",
-      "score": 1188,
+      "score": 1189,
       "ci95": "-8/8"
     },
     {
@@ -141,7 +141,7 @@
       "name": "Seedream 5.0 Lite",
       "slug": "seedream-5-0-lite",
       "creator": "Bytedance",
-      "score": 1175,
+      "score": 1174,
       "ci95": "-12/12"
     },
     {
@@ -173,7 +173,7 @@
       "name": "Qwen Image Edit Plus 2511",
       "slug": "qwen_qwen-image-edit-2511",
       "creator": "Alibaba",
-      "score": 1165,
+      "score": 1164,
       "ci95": "-11/11"
     },
     {
@@ -221,7 +221,7 @@
       "name": "Vidu Q2",
       "slug": "vidu_vidu_q2",
       "creator": "Vidu",
-      "score": 1144,
+      "score": 1143,
       "ci95": "-8/8"
     },
     {
