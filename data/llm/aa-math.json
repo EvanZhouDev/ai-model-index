@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T08:47:40.717Z",
+  "generated_at": "2026-04-09T08:48:05.344Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-math",
@@ -88,45 +88,45 @@
     },
     {
       "rank": 12,
+      "name": "Nova 2.0 Lite (high)",
+      "slug": "nova-2-0-lite-reasoning",
+      "creator": "Amazon",
+      "score": 94.3
+    },
+    {
+      "rank": 13,
       "name": "GPT-5 (high)",
       "slug": "gpt-5",
       "creator": "OpenAI",
       "score": 94.3
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "GPT-5.1 (high)",
       "slug": "gpt-5-1",
       "creator": "OpenAI",
       "score": 94
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "gpt-oss-120B (high)",
       "slug": "gpt-oss-120b",
       "creator": "OpenAI",
       "score": 93.4
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Grok 4",
       "slug": "grok-4",
       "creator": "xAI",
       "score": 92.7
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "DeepSeek V3.2 (Reasoning)",
       "slug": "deepseek-v3-2-reasoning",
       "creator": "DeepSeek",
       "score": 92
-    },
-    {
-      "rank": 17,
-      "name": "GPT-5.1 Codex mini (high)",
-      "slug": "gpt-5-1-codex-mini",
-      "creator": "OpenAI",
-      "score": 91.7
     },
     {
       "rank": 18,
@@ -137,31 +137,31 @@
     },
     {
       "rank": 19,
+      "name": "GPT-5.1 Codex mini (high)",
+      "slug": "gpt-5-1-codex-mini",
+      "creator": "OpenAI",
+      "score": 91.7
+    },
+    {
+      "rank": 20,
       "name": "Claude Opus 4.5 (Reasoning)",
       "slug": "claude-opus-4-5-thinking",
       "creator": "Anthropic",
       "score": 91.3
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "NVIDIA Nemotron 3 Nano 30B A3B (Reasoning)",
       "slug": "nvidia-nemotron-3-nano-30b-a3b-reasoning",
       "creator": "NVIDIA",
       "score": 91
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Qwen3 235B A22B 2507 (Reasoning)",
       "slug": "qwen3-235b-a22b-instruct-2507-reasoning",
       "creator": "Alibaba",
       "score": 91
-    },
-    {
-      "rank": 22,
-      "name": "GPT-5 mini (high)",
-      "slug": "gpt-5-mini",
-      "creator": "OpenAI",
-      "score": 90.7
     },
     {
       "rank": 23,
@@ -172,51 +172,51 @@
     },
     {
       "rank": 24,
+      "name": "GPT-5 mini (high)",
+      "slug": "gpt-5-mini",
+      "creator": "OpenAI",
+      "score": 90.7
+    },
+    {
+      "rank": 25,
       "name": "K-EXAONE (Reasoning)",
       "slug": "k-exaone",
       "creator": "LG AI Research",
       "score": 90.3
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Nova 2.0 Omni (medium)",
       "slug": "nova-2-0-omni-reasoning-medium",
       "creator": "Amazon",
       "score": 89.7
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "DeepSeek V3.1 (Reasoning)",
       "slug": "deepseek-v3-1-reasoning",
       "creator": "DeepSeek",
       "score": 89.7
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "DeepSeek V3.1 Terminus (Reasoning)",
       "slug": "deepseek-v3-1-terminus-reasoning",
       "creator": "DeepSeek",
       "score": 89.7
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Grok 4 Fast (Reasoning)",
       "slug": "grok-4-fast-reasoning",
       "creator": "xAI",
       "score": 89.7
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "gpt-oss-20B (high)",
       "slug": "gpt-oss-20b",
       "creator": "OpenAI",
-      "score": 89.3
-    },
-    {
-      "rank": 30,
-      "name": "Ring-1T",
-      "slug": "ring-1t",
-      "creator": "InclusionAI",
       "score": 89.3
     }
   ]
