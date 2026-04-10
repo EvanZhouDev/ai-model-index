@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T08:48:05.344Z",
+  "generated_at": "2026-04-10T08:49:18.524Z",
   "limit": 30,
   "modality": "llm",
   "metric": "hle",
@@ -207,17 +207,17 @@
     },
     {
       "rank": 29,
-      "name": "GPT-5 Codex (high)",
-      "slug": "gpt-5-codex",
-      "creator": "OpenAI",
+      "name": "GLM-5.1 (Non-reasoning)",
+      "slug": "glm-5-1-non-reasoning",
+      "creator": "Z AI",
       "score": 0.256
     },
     {
       "rank": 30,
-      "name": "GLM-5-Turbo",
-      "slug": "glm-5-turbo",
-      "creator": "Z AI",
-      "score": 0.254
+      "name": "GPT-5 Codex (high)",
+      "slug": "gpt-5-codex",
+      "creator": "OpenAI",
+      "score": 0.256
     }
   ]
 }

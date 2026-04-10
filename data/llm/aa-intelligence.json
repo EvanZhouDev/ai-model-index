@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T08:48:05.344Z",
+  "generated_at": "2026-04-10T08:49:18.524Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-intelligence",
@@ -11,24 +11,24 @@
   "models": [
     {
       "rank": 1,
-      "name": "GPT-5.4 (xhigh)",
-      "slug": "gpt-5-4",
-      "creator": "OpenAI",
-      "score": 57.2
-    },
-    {
-      "rank": 2,
       "name": "Gemini 3.1 Pro Preview",
       "slug": "gemini-3-1-pro-preview",
       "creator": "Google",
       "score": 57.2
     },
     {
+      "rank": 2,
+      "name": "GPT-5.4 (xhigh)",
+      "slug": "gpt-5-4",
+      "creator": "OpenAI",
+      "score": 56.8
+    },
+    {
       "rank": 3,
       "name": "GPT-5.3 Codex (xhigh)",
       "slug": "gpt-5-3-codex",
       "creator": "OpenAI",
-      "score": 54
+      "score": 53.6
     },
     {
       "rank": 4,
@@ -116,24 +116,24 @@
     },
     {
       "rank": 16,
+      "name": "GPT-5.4 mini (xhigh)",
+      "slug": "gpt-5-4-mini",
+      "creator": "OpenAI",
+      "score": 48.9
+    },
+    {
+      "rank": 17,
       "name": "Grok 4.20 0309 (Reasoning)",
       "slug": "grok-4-20-0309",
       "creator": "xAI",
       "score": 48.5
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Gemini 3 Pro Preview (high)",
       "slug": "gemini-3-pro",
       "creator": "Google",
       "score": 48.4
-    },
-    {
-      "rank": 18,
-      "name": "GPT-5.4 mini (xhigh)",
-      "slug": "gpt-5-4-mini",
-      "creator": "OpenAI",
-      "score": 48.1
     },
     {
       "rank": 19,
@@ -193,31 +193,31 @@
     },
     {
       "rank": 27,
-      "name": "GPT-5 (high)",
-      "slug": "gpt-5",
-      "creator": "OpenAI",
-      "score": 44.6
-    },
-    {
-      "rank": 28,
       "name": "GPT-5 Codex (high)",
       "slug": "gpt-5-codex",
       "creator": "OpenAI",
       "score": 44.6
     },
     {
-      "rank": 29,
-      "name": "GPT-5.4 nano (xhigh)",
-      "slug": "gpt-5-4-nano",
+      "rank": 28,
+      "name": "GPT-5 (high)",
+      "slug": "gpt-5",
       "creator": "OpenAI",
-      "score": 44.4
+      "score": 44.6
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Claude Sonnet 4.6 (Non-reasoning, High Effort)",
       "slug": "claude-sonnet-4-6",
       "creator": "Anthropic",
       "score": 44.4
+    },
+    {
+      "rank": 30,
+      "name": "GPT-5.4 nano (xhigh)",
+      "slug": "gpt-5-4-nano",
+      "creator": "OpenAI",
+      "score": 44
     }
   ]
 }
