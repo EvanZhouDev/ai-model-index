@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T08:09:15.276Z",
+  "generated_at": "2026-04-13T09:13:33.054Z",
   "limit": 30,
   "modality": "llm",
   "metric": "mmlu-pro",
@@ -158,15 +158,15 @@
     },
     {
       "rank": 22,
-      "name": "Claude 4 Opus (Non-reasoning)",
-      "slug": "claude-4-opus",
+      "name": "Claude 4.5 Sonnet (Non-reasoning)",
+      "slug": "claude-4-5-sonnet",
       "creator": "Anthropic",
       "score": 0.86
     },
     {
       "rank": 23,
-      "name": "Claude 4.5 Sonnet (Non-reasoning)",
-      "slug": "claude-4-5-sonnet",
+      "name": "Claude 4 Opus (Non-reasoning)",
+      "slug": "claude-4-opus",
       "creator": "Anthropic",
       "score": 0.86
     },
@@ -214,8 +214,8 @@
     },
     {
       "rank": 30,
-      "name": "DeepSeek V3.1 (Reasoning)",
-      "slug": "deepseek-v3-1-reasoning",
+      "name": "DeepSeek V3.1 Terminus (Reasoning)",
+      "slug": "deepseek-v3-1-terminus-reasoning",
       "creator": "DeepSeek",
       "score": 0.851
     }
