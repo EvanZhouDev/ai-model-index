@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T08:57:28.396Z",
+  "generated_at": "2026-04-19T08:14:36.290Z",
   "limit": 30,
   "modality": "text-to-speech",
   "metric": "elo",
@@ -130,14 +130,6 @@
     },
     {
       "rank": 16,
-      "name": "Qwen3.5 Omni Flash",
-      "slug": "qwen3-5-omni-flash",
-      "creator": "Alibaba",
-      "score": 1105,
-      "ci95": "-46/46"
-    },
-    {
-      "rank": 17,
       "name": "Step Audio EditX (Mar 2026)",
       "slug": "step-audio-editx-mar-2026",
       "creator": "StepFun",
@@ -145,7 +137,7 @@
       "ci95": "-31/31"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Speech-02-Turbo",
       "slug": "speech-02-turbo",
       "creator": "MiniMax",
@@ -153,7 +145,7 @@
       "ci95": "-12/12"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "TTS-1",
       "slug": "tts-1",
       "creator": "OpenAI",
@@ -161,7 +153,7 @@
       "ci95": "-8/8"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "TTS-1 HD",
       "slug": "tts-1-hd",
       "creator": "OpenAI",
@@ -169,7 +161,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "Turbo v2.5",
       "slug": "turbo-v2-5",
       "creator": "ElevenLabs",
@@ -177,7 +169,7 @@
       "ci95": "-8/8"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Flash v2.5",
       "slug": "flash-v2-5",
       "creator": "ElevenLabs",
@@ -185,7 +177,7 @@
       "ci95": "-9/9"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Gemini 2.5 Flash Lite TTS",
       "slug": "gemini-2-5-flash-lite",
       "creator": "Google",
@@ -193,7 +185,7 @@
       "ci95": "-15/15"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Sonic 3",
       "slug": "sonic3",
       "creator": "Cartesia",
@@ -201,7 +193,7 @@
       "ci95": "-14/14"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "OpenAudio S1",
       "slug": "openaudio-s1",
       "creator": "Fish Audio",
@@ -209,7 +201,7 @@
       "ci95": "-11/11"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "SIMBA 1.6",
       "slug": "simba-1-6",
       "creator": "Speechify",
@@ -217,7 +209,7 @@
       "ci95": "-22/22"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Studio",
       "slug": "studio",
       "creator": "Google",
@@ -225,7 +217,7 @@
       "ci95": "-10/10"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "T2A-01-HD",
       "slug": "t2a-01-hd",
       "creator": "MiniMax",
@@ -233,7 +225,7 @@
       "ci95": "-10/10"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Kokoro 82M v1.0",
       "slug": "kokoro-82m-v1-0",
       "creator": "Kokoro",
@@ -241,12 +233,20 @@
       "ci95": "-9/9"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Magpie-Multilingual 357M (Feb 2026)",
       "slug": "magpie-multilingual-357m-feb-2026",
       "creator": "NVIDIA",
       "score": 1057,
       "ci95": "-32/32"
+    },
+    {
+      "rank": 30,
+      "name": "Voxtral TTS",
+      "slug": "voxtral-tts",
+      "creator": "Mistral",
+      "score": 1056,
+      "ci95": "-34/34"
     }
   ]
 }
