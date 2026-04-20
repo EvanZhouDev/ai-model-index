@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T08:14:36.290Z",
+  "generated_at": "2026-04-20T09:19:41.679Z",
   "limit": 30,
   "modality": "llm",
   "metric": "mmlu-pro",
@@ -144,15 +144,15 @@
     },
     {
       "rank": 20,
-      "name": "GPT-5 (low)",
-      "slug": "gpt-5-low",
+      "name": "GPT-5.1 Codex (high)",
+      "slug": "gpt-5-1-codex",
       "creator": "OpenAI",
       "score": 0.86
     },
     {
       "rank": 21,
-      "name": "GPT-5.1 Codex (high)",
-      "slug": "gpt-5-1-codex",
+      "name": "GPT-5 (low)",
+      "slug": "gpt-5-low",
       "creator": "OpenAI",
       "score": 0.86
     },
@@ -214,8 +214,8 @@
     },
     {
       "rank": 30,
-      "name": "DeepSeek V3.1 (Reasoning)",
-      "slug": "deepseek-v3-1-reasoning",
+      "name": "DeepSeek V3.1 Terminus (Reasoning)",
+      "slug": "deepseek-v3-1-terminus-reasoning",
       "creator": "DeepSeek",
       "score": 0.851
     }

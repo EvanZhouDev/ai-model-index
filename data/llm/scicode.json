@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T08:14:36.290Z",
+  "generated_at": "2026-04-20T09:19:41.679Z",
   "limit": 30,
   "modality": "llm",
   "metric": "scicode",
@@ -88,15 +88,15 @@
     },
     {
       "rank": 12,
-      "name": "Gemini 3 Pro Preview (low)",
-      "slug": "gemini-3-pro-low",
+      "name": "Gemini 3 Flash Preview (Non-reasoning)",
+      "slug": "gemini-3-flash",
       "creator": "Google",
       "score": 0.499
     },
     {
       "rank": 13,
-      "name": "Gemini 3 Flash Preview (Non-reasoning)",
-      "slug": "gemini-3-flash",
+      "name": "Gemini 3 Pro Preview (low)",
+      "slug": "gemini-3-pro-low",
       "creator": "Google",
       "score": 0.499
     },
@@ -151,72 +151,72 @@
     },
     {
       "rank": 21,
+      "name": "Qwen3.6 Max Preview",
+      "slug": "qwen3-6-max",
+      "creator": "Alibaba",
+      "score": 0.469
+    },
+    {
+      "rank": 22,
       "name": "Claude Sonnet 4.6 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-sonnet-4-6-adaptive",
       "creator": "Anthropic",
       "score": 0.468
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "o4-mini (high)",
       "slug": "o4-mini",
       "creator": "OpenAI",
       "score": 0.465
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "GLM-5 (Reasoning)",
       "slug": "glm-5",
       "creator": "Z AI",
       "score": 0.462
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "GPT-5.2 (medium)",
       "slug": "gpt-5-2-medium",
       "creator": "OpenAI",
       "score": 0.462
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Claude Opus 4.6 (Non-reasoning)",
       "slug": "claude-opus-4-6",
       "creator": "Anthropic",
       "score": 0.457
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Grok 4",
       "slug": "grok-4",
       "creator": "xAI",
       "score": 0.457
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Grok 4.20 0309 v2 (Reasoning)",
       "slug": "grok-4-20",
       "creator": "xAI",
       "score": 0.456
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "GLM-4.7 (Reasoning)",
       "slug": "glm-4-7",
       "creator": "Z AI",
       "score": 0.451
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Claude 4.5 Sonnet (Reasoning)",
       "slug": "claude-4-5-sonnet-thinking",
       "creator": "Anthropic",
-      "score": 0.447
-    },
-    {
-      "rank": 30,
-      "name": "Grok 4.20 0309 (Reasoning)",
-      "slug": "grok-4-20-0309",
-      "creator": "xAI",
       "score": 0.447
     }
   ]
