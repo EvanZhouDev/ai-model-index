@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T09:04:20.396Z",
+  "generated_at": "2026-04-24T09:11:57.985Z",
   "limit": 30,
   "modality": "llm",
   "metric": "gpqa",
@@ -18,206 +18,206 @@
     },
     {
       "rank": 2,
+      "name": "GPT-5.5 (xhigh)",
+      "slug": "gpt-5-5",
+      "creator": "OpenAI",
+      "score": 0.935
+    },
+    {
+      "rank": 3,
+      "name": "GPT-5.5 (high)",
+      "slug": "gpt-5-5-high",
+      "creator": "OpenAI",
+      "score": 0.932
+    },
+    {
+      "rank": 4,
+      "name": "GPT-5.5 (medium)",
+      "slug": "gpt-5-5-medium",
+      "creator": "OpenAI",
+      "score": 0.926
+    },
+    {
+      "rank": 5,
       "name": "GPT-5.4 (xhigh)",
       "slug": "gpt-5-4",
       "creator": "OpenAI",
       "score": 0.92
     },
     {
-      "rank": 3,
+      "rank": 6,
       "name": "GPT-5.3 Codex (xhigh)",
       "slug": "gpt-5-3-codex",
       "creator": "OpenAI",
       "score": 0.915
     },
     {
-      "rank": 4,
+      "rank": 7,
       "name": "Claude Opus 4.7 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-opus-4-7",
       "creator": "Anthropic",
       "score": 0.914
     },
     {
-      "rank": 5,
+      "rank": 8,
       "name": "Grok 4.20 0309 v2 (Reasoning)",
       "slug": "grok-4-20",
       "creator": "xAI",
       "score": 0.911
     },
     {
-      "rank": 6,
+      "rank": 9,
       "name": "Kimi K2.6",
       "slug": "kimi-k2-6",
       "creator": "Kimi",
       "score": 0.911
     },
     {
-      "rank": 7,
+      "rank": 10,
+      "name": "GPT-5.5 (low)",
+      "slug": "gpt-5-5-low",
+      "creator": "OpenAI",
+      "score": 0.91
+    },
+    {
+      "rank": 11,
       "name": "Gemini 3 Pro Preview (high)",
       "slug": "gemini-3-pro",
       "creator": "Google",
       "score": 0.908
     },
     {
-      "rank": 8,
+      "rank": 12,
+      "name": "DeepSeek V4 Pro (Reasoning, High Effort)",
+      "slug": "deepseek-v4-pro-high",
+      "creator": "DeepSeek",
+      "score": 0.905
+    },
+    {
+      "rank": 13,
       "name": "GPT-5.2 (xhigh)",
       "slug": "gpt-5-2",
       "creator": "OpenAI",
       "score": 0.903
     },
     {
-      "rank": 9,
+      "rank": 14,
       "name": "GPT-5.2 Codex (xhigh)",
       "slug": "gpt-5-2-codex",
       "creator": "OpenAI",
       "score": 0.899
     },
     {
-      "rank": 10,
+      "rank": 15,
       "name": "Gemini 3 Flash Preview (Reasoning)",
       "slug": "gemini-3-flash-reasoning",
       "creator": "Google",
       "score": 0.898
     },
     {
-      "rank": 11,
+      "rank": 16,
       "name": "Claude Opus 4.6 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-opus-4-6-adaptive",
       "creator": "Anthropic",
       "score": 0.896
     },
     {
-      "rank": 12,
+      "rank": 17,
+      "name": "DeepSeek V4 Flash (Reasoning, Max Effort)",
+      "slug": "deepseek-v4-flash",
+      "creator": "DeepSeek",
+      "score": 0.894
+    },
+    {
+      "rank": 18,
       "name": "Qwen3.5 397B A17B (Reasoning)",
       "slug": "qwen3-5-397b-a17b",
       "creator": "Alibaba",
       "score": 0.893
     },
     {
-      "rank": 13,
+      "rank": 19,
+      "name": "DeepSeek V4 Pro (Reasoning, Max Effort)",
+      "slug": "deepseek-v4-pro",
+      "creator": "DeepSeek",
+      "score": 0.888
+    },
+    {
+      "rank": 20,
       "name": "Qwen3.6 Max Preview",
       "slug": "qwen3-6-max",
       "creator": "Alibaba",
       "score": 0.888
     },
     {
-      "rank": 14,
+      "rank": 21,
       "name": "Gemini 3 Pro Preview (low)",
       "slug": "gemini-3-pro-low",
       "creator": "Google",
       "score": 0.887
     },
     {
-      "rank": 15,
+      "rank": 22,
       "name": "Claude Opus 4.7 (Non-reasoning, High Effort)",
       "slug": "claude-opus-4-7-non-reasoning",
       "creator": "Anthropic",
       "score": 0.885
     },
     {
-      "rank": 16,
+      "rank": 23,
       "name": "Grok 4.20 0309 (Reasoning)",
       "slug": "grok-4-20-0309",
       "creator": "xAI",
       "score": 0.885
     },
     {
-      "rank": 17,
+      "rank": 24,
       "name": "Muse Spark",
       "slug": "muse-spark",
       "creator": "Meta",
       "score": 0.884
     },
     {
-      "rank": 18,
+      "rank": 25,
       "name": "Qwen3.6 Plus",
       "slug": "qwen3-6-plus",
       "creator": "Alibaba",
       "score": 0.882
     },
     {
-      "rank": 19,
+      "rank": 26,
       "name": "Kimi K2.5 (Reasoning)",
       "slug": "kimi-k2-5",
       "creator": "Kimi",
       "score": 0.879
     },
     {
-      "rank": 20,
+      "rank": 27,
       "name": "Grok 4",
       "slug": "grok-4",
       "creator": "xAI",
       "score": 0.877
     },
     {
-      "rank": 21,
+      "rank": 28,
       "name": "GPT-5.4 mini (xhigh)",
       "slug": "gpt-5-4-mini",
       "creator": "OpenAI",
       "score": 0.875
     },
     {
-      "rank": 22,
+      "rank": 29,
       "name": "Claude Sonnet 4.6 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-sonnet-4-6-adaptive",
       "creator": "Anthropic",
       "score": 0.875
     },
     {
-      "rank": 23,
+      "rank": 30,
       "name": "MiniMax-M2.7",
       "slug": "minimax-m2-7",
       "creator": "MiniMax",
       "score": 0.874
-    },
-    {
-      "rank": 24,
-      "name": "GPT-5.1 (high)",
-      "slug": "gpt-5-1",
-      "creator": "OpenAI",
-      "score": 0.873
-    },
-    {
-      "rank": 25,
-      "name": "DeepSeek V3.2 Speciale",
-      "slug": "deepseek-v3-2-speciale",
-      "creator": "DeepSeek",
-      "score": 0.871
-    },
-    {
-      "rank": 26,
-      "name": "MiMo-V2-Pro",
-      "slug": "mimo-v2-pro",
-      "creator": "Xiaomi",
-      "score": 0.87
-    },
-    {
-      "rank": 27,
-      "name": "GLM-5.1 (Reasoning)",
-      "slug": "glm-5-1",
-      "creator": "Z AI",
-      "score": 0.868
-    },
-    {
-      "rank": 28,
-      "name": "MiMo-V2.5-Pro",
-      "slug": "mimo-v2-5-pro",
-      "creator": "Xiaomi",
-      "score": 0.866
-    },
-    {
-      "rank": 29,
-      "name": "Claude Opus 4.5 (Reasoning)",
-      "slug": "claude-opus-4-5-thinking",
-      "creator": "Anthropic",
-      "score": 0.866
-    },
-    {
-      "rank": 30,
-      "name": "GPT-5.2 (medium)",
-      "slug": "gpt-5-2-medium",
-      "creator": "OpenAI",
-      "score": 0.864
     }
   ]
 }

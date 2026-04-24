@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T09:04:20.396Z",
+  "generated_at": "2026-04-24T09:11:57.985Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -13,7 +13,7 @@
       "name": "Riverflow 2.0",
       "slug": "sourceful_riverflow-2",
       "creator": "Sourceful",
-      "score": 1278,
+      "score": 1277,
       "ci95": "-10/10"
     },
     {
@@ -21,7 +21,7 @@
       "name": "GPT Image 1.5 (high)",
       "slug": "openai-gpt_image-1-5",
       "creator": "OpenAI",
-      "score": 1251,
+      "score": 1254,
       "ci95": "-10/10"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Nano Banana Pro (Gemini 3 Pro Image)",
       "slug": "gemini_nano-banana-pro",
       "creator": "Google",
-      "score": 1236,
+      "score": 1238,
       "ci95": "-10/10"
     },
     {
@@ -53,7 +53,7 @@
       "name": "HunyuanImage 3.0 Instruct (Fal)",
       "slug": "tencent_hunyuanimage-3-0-instruct--fal",
       "creator": "Tencent",
-      "score": 1215,
+      "score": 1216,
       "ci95": "-10/10"
     },
     {
@@ -61,7 +61,7 @@
       "name": "grok-imagine-image",
       "slug": "grok-imagine-image",
       "creator": "xAI",
-      "score": 1207,
+      "score": 1209,
       "ci95": "-10/10"
     },
     {
@@ -69,7 +69,7 @@
       "name": "grok-imagine-image-pro",
       "slug": "grok-imagine-image-pro",
       "creator": "xAI",
-      "score": 1203,
+      "score": 1205,
       "ci95": "-10/10"
     },
     {
@@ -77,7 +77,7 @@
       "name": "FLUX.2 [max]",
       "slug": "black_forest_labs_flux-2-max",
       "creator": "Black Forest Labs",
-      "score": 1196,
+      "score": 1198,
       "ci95": "-11/11"
     },
     {
@@ -85,39 +85,39 @@
       "name": "Kling Image 3.0",
       "slug": "kling-image-3-0",
       "creator": "KlingAI",
-      "score": 1191,
+      "score": 1192,
       "ci95": "-10/10"
     },
     {
       "rank": 11,
-      "name": "Kling Image O1",
-      "slug": "kling-image-o1",
-      "creator": "KlingAI",
-      "score": 1184,
-      "ci95": "-10/10"
+      "name": "Seedream 4.5",
+      "slug": "seedream-4-5",
+      "creator": "ByteDance Seed",
+      "score": 1182,
+      "ci95": "-9/9"
     },
     {
       "rank": 12,
-      "name": "Wan 2.6 Image",
-      "slug": "wan_wan-2-6",
-      "creator": "Alibaba",
-      "score": 1180,
+      "name": "Kling Image O1",
+      "slug": "kling-image-o1",
+      "creator": "KlingAI",
+      "score": 1181,
       "ci95": "-10/10"
     },
     {
       "rank": 13,
-      "name": "Seedream 4.5",
-      "slug": "seedream-4-5",
-      "creator": "ByteDance Seed",
-      "score": 1179,
-      "ci95": "-9/9"
+      "name": "Wan 2.6 Image",
+      "slug": "wan_wan-2-6",
+      "creator": "Alibaba",
+      "score": 1181,
+      "ci95": "-10/10"
     },
     {
       "rank": 14,
       "name": "Riverflow 1",
       "slug": "sourceful_riverflow",
       "creator": "Sourceful",
-      "score": 1179,
+      "score": 1180,
       "ci95": "-9/9"
     },
     {
@@ -130,6 +130,14 @@
     },
     {
       "rank": 16,
+      "name": "Reve V1 (December)",
+      "slug": "reve_reve-v1--december",
+      "creator": "Reve",
+      "score": 1171,
+      "ci95": "-10/10"
+    },
+    {
+      "rank": 17,
       "name": "Nano Banana (Gemini 2.5 Flash Image)",
       "slug": "google_gemini-2-5-flash",
       "creator": "Google",
@@ -137,19 +145,11 @@
       "ci95": "-9/9"
     },
     {
-      "rank": 17,
-      "name": "Reve V1 (December)",
-      "slug": "reve_reve-v1--december",
-      "creator": "Reve",
-      "score": 1168,
-      "ci95": "-10/10"
-    },
-    {
       "rank": 18,
       "name": "FLUX.2 [pro]",
       "slug": "flux_flux-2--pro",
       "creator": "Black Forest Labs",
-      "score": 1166,
+      "score": 1168,
       "ci95": "-10/10"
     },
     {
@@ -157,31 +157,31 @@
       "name": "FLUX.2 [klein] 9B",
       "slug": "flux_flux-2-klein-9b",
       "creator": "Black Forest Labs",
-      "score": 1154,
+      "score": 1155,
       "ci95": "-9/9"
     },
     {
       "rank": 20,
-      "name": "FLUX.2 [flex]",
-      "slug": "flux_flux-2--flex",
-      "creator": "Black Forest Labs",
-      "score": 1151,
+      "name": "Eigen Image",
+      "slug": "eigenai_eigen-image",
+      "creator": "Eigen AI",
+      "score": 1154,
       "ci95": "-9/9"
     },
     {
       "rank": 21,
-      "name": "Eigen Image",
-      "slug": "eigenai_eigen-image",
-      "creator": "Eigen AI",
-      "score": 1149,
-      "ci95": "-10/10"
+      "name": "FLUX.2 [flex]",
+      "slug": "flux_flux-2--flex",
+      "creator": "Black Forest Labs",
+      "score": 1153,
+      "ci95": "-9/9"
     },
     {
       "rank": 22,
       "name": "Seedream 5.0 Lite",
       "slug": "seedream-5-0-lite",
       "creator": "Bytedance",
-      "score": 1148,
+      "score": 1149,
       "ci95": "-10/10"
     },
     {
@@ -189,7 +189,7 @@
       "name": "Qwen Image Edit Max 2601",
       "slug": "qwen-image-edit-max-2601",
       "creator": "Alibaba",
-      "score": 1147,
+      "score": 1149,
       "ci95": "-9/9"
     },
     {
@@ -197,7 +197,7 @@
       "name": "Qwen Image Edit Plus 2511",
       "slug": "qwen_qwen-image-edit-2511",
       "creator": "Alibaba",
-      "score": 1146,
+      "score": 1148,
       "ci95": "-10/10"
     },
     {
@@ -205,11 +205,19 @@
       "name": "P-Image-Edit",
       "slug": "pruna_p-image-edit",
       "creator": "Pruna AI",
-      "score": 1143,
+      "score": 1146,
       "ci95": "-10/10"
     },
     {
       "rank": 26,
+      "name": "FLUX.2 [dev]",
+      "slug": "flux_flux-2--dev",
+      "creator": "Black Forest Labs",
+      "score": 1136,
+      "ci95": "-9/9"
+    },
+    {
+      "rank": 27,
       "name": "FLUX.2 [dev] Turbo",
       "slug": "fal_flux-2-dev-turbo",
       "creator": "Fal",
@@ -217,19 +225,11 @@
       "ci95": "-10/10"
     },
     {
-      "rank": 27,
-      "name": "FLUX.2 [dev]",
-      "slug": "flux_flux-2--dev",
-      "creator": "Black Forest Labs",
-      "score": 1134,
-      "ci95": "-9/9"
-    },
-    {
       "rank": 28,
       "name": "FLUX.2 [dev] Flash",
       "slug": "fal_flux-2-dev-flash",
       "creator": "Fal",
-      "score": 1130,
+      "score": 1132,
       "ci95": "-10/10"
     },
     {
@@ -237,7 +237,7 @@
       "name": "Qwen Image Edit Plus 2509",
       "slug": "qwen_qwen-image-edit-2509",
       "creator": "Alibaba",
-      "score": 1130,
+      "score": 1132,
       "ci95": "-9/9"
     },
     {
@@ -245,7 +245,7 @@
       "name": "Vidu Q2",
       "slug": "vidu_vidu_q2",
       "creator": "Vidu",
-      "score": 1129,
+      "score": 1130,
       "ci95": "-9/9"
     }
   ]
