@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T09:11:57.985Z",
+  "generated_at": "2026-04-26T08:39:11.177Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-coding",
@@ -130,94 +130,94 @@
     },
     {
       "rank": 18,
+      "name": "DeepSeek V4 Pro (Reasoning, Max Effort)",
+      "slug": "deepseek-v4-pro",
+      "creator": "DeepSeek",
+      "score": 47.5
+    },
+    {
+      "rank": 19,
       "name": "Kimi K2.6",
       "slug": "kimi-k2-6",
       "creator": "Kimi",
       "score": 47.1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Gemini 2.5 Pro Preview (Mar' 25)",
       "slug": "gemini-2-5-pro-03-25",
       "creator": "Google",
       "score": 46.7
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Gemini 3 Pro Preview (high)",
       "slug": "gemini-3-pro",
       "creator": "Google",
       "score": 46.5
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Claude Sonnet 4.6 (Non-reasoning, High Effort)",
       "slug": "claude-sonnet-4-6",
       "creator": "Anthropic",
       "score": 46.4
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "KAT Coder Pro V2",
       "slug": "kat-coder-pro-v2",
       "creator": "KwaiKAT",
       "score": 45.6
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "MiMo-V2.5-Pro",
       "slug": "mimo-v2-5-pro",
       "creator": "Xiaomi",
       "score": 45.5
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Qwen3.6 Max Preview",
       "slug": "qwen3-6-max",
       "creator": "Alibaba",
       "score": 44.9
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "GPT-5.1 (high)",
       "slug": "gpt-5-1",
       "creator": "OpenAI",
       "score": 44.7
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "GLM-5 (Reasoning)",
       "slug": "glm-5",
       "creator": "Z AI",
       "score": 44.2
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "GPT-5.2 (medium)",
       "slug": "gpt-5-2-medium",
       "creator": "OpenAI",
       "score": 44.2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "GPT-5.4 nano (xhigh)",
       "slug": "gpt-5-4-nano",
       "creator": "OpenAI",
       "score": 43.9
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "GLM-5.1 (Reasoning)",
       "slug": "glm-5-1",
       "creator": "Z AI",
       "score": 43.4
-    },
-    {
-      "rank": 30,
-      "name": "Claude Sonnet 4.6 (Non-reasoning, Low Effort)",
-      "slug": "claude-sonnet-4-6-non-reasoning-low-effort",
-      "creator": "Anthropic",
-      "score": 43
     }
   ]
 }
