@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T08:39:11.177Z",
+  "generated_at": "2026-04-27T09:30:52.760Z",
   "limit": 30,
   "modality": "llm",
   "metric": "mmlu-pro",
@@ -144,29 +144,29 @@
     },
     {
       "rank": 20,
-      "name": "GPT-5.1 Codex (high)",
-      "slug": "gpt-5-1-codex",
-      "creator": "OpenAI",
-      "score": 0.86
-    },
-    {
-      "rank": 21,
       "name": "GPT-5 (low)",
       "slug": "gpt-5-low",
       "creator": "OpenAI",
       "score": 0.86
     },
     {
+      "rank": 21,
+      "name": "GPT-5.1 Codex (high)",
+      "slug": "gpt-5-1-codex",
+      "creator": "OpenAI",
+      "score": 0.86
+    },
+    {
       "rank": 22,
-      "name": "Claude 4.5 Sonnet (Non-reasoning)",
-      "slug": "claude-4-5-sonnet",
+      "name": "Claude 4 Opus (Non-reasoning)",
+      "slug": "claude-4-opus",
       "creator": "Anthropic",
       "score": 0.86
     },
     {
       "rank": 23,
-      "name": "Claude 4 Opus (Non-reasoning)",
-      "slug": "claude-4-opus",
+      "name": "Claude 4.5 Sonnet (Non-reasoning)",
+      "slug": "claude-4-5-sonnet",
       "creator": "Anthropic",
       "score": 0.86
     },
