@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T09:30:52.760Z",
+  "generated_at": "2026-04-28T09:34:52.047Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-intelligence",
@@ -186,38 +186,38 @@
     },
     {
       "rank": 26,
+      "name": "MiMo-V2.5",
+      "slug": "mimo-v2-5-0424",
+      "creator": "Xiaomi",
+      "score": 49
+    },
+    {
+      "rank": 27,
       "name": "GPT-5.2 Codex (xhigh)",
       "slug": "gpt-5-2-codex",
       "creator": "OpenAI",
       "score": 49
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "GPT-5.4 mini (xhigh)",
       "slug": "gpt-5-4-mini",
       "creator": "OpenAI",
       "score": 48.9
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Grok 4.20 0309 (Reasoning)",
       "slug": "grok-4-20-0309",
       "creator": "xAI",
       "score": 48.5
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Gemini 3 Pro Preview (high)",
       "slug": "gemini-3-pro",
       "creator": "Google",
       "score": 48.4
-    },
-    {
-      "rank": 30,
-      "name": "GPT-5.1 (high)",
-      "slug": "gpt-5-1",
-      "creator": "OpenAI",
-      "score": 47.7
     }
   ]
 }
