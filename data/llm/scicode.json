@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T09:34:52.047Z",
+  "generated_at": "2026-04-30T09:27:20.416Z",
   "limit": 30,
   "modality": "llm",
   "metric": "scicode",
@@ -116,107 +116,107 @@
     },
     {
       "rank": 16,
+      "name": "GPT-5.4 (low)",
+      "slug": "gpt-5-4-low",
+      "creator": "OpenAI",
+      "score": 0.503
+    },
+    {
+      "rank": 17,
       "name": "MiMo-V2.5-Pro",
       "slug": "mimo-v2-5-pro",
       "creator": "Xiaomi",
       "score": 0.502
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Claude Opus 4.7 (Non-reasoning, High Effort)",
       "slug": "claude-opus-4-7-non-reasoning",
       "creator": "Anthropic",
       "score": 0.501
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "DeepSeek V4 Pro (Reasoning, Max Effort)",
       "slug": "deepseek-v4-pro",
       "creator": "DeepSeek",
       "score": 0.5
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "GPT-5.4 mini (xhigh)",
       "slug": "gpt-5-4-mini",
       "creator": "OpenAI",
       "score": 0.499
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Gemini 3 Pro Preview (low)",
       "slug": "gemini-3-pro-low",
       "creator": "Google",
       "score": 0.499
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Gemini 3 Flash Preview (Non-reasoning)",
       "slug": "gemini-3-flash",
       "creator": "Google",
       "score": 0.499
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Claude Opus 4.5 (Reasoning)",
       "slug": "claude-opus-4-5-thinking",
       "creator": "Anthropic",
       "score": 0.495
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Kimi K2.5 (Reasoning)",
       "slug": "kimi-k2-5",
       "creator": "Kimi",
       "score": 0.49
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "GPT-5.5 (Non-reasoning)",
       "slug": "gpt-5-5-non-reasoning",
       "creator": "OpenAI",
       "score": 0.473
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "GPT-5.4 (Non-reasoning)",
       "slug": "gpt-5-4-non-reasoning",
       "creator": "OpenAI",
       "score": 0.471
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "MiniMax-M2.7",
       "slug": "minimax-m2-7",
       "creator": "MiniMax",
       "score": 0.47
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Claude Opus 4.5 (Non-reasoning)",
       "slug": "claude-opus-4-5",
       "creator": "Anthropic",
       "score": 0.47
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "GPT-5.4 nano (xhigh)",
       "slug": "gpt-5-4-nano",
       "creator": "OpenAI",
       "score": 0.469
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Claude Sonnet 4.6 (Non-reasoning, High Effort)",
       "slug": "claude-sonnet-4-6",
       "creator": "Anthropic",
-      "score": 0.469
-    },
-    {
-      "rank": 30,
-      "name": "Qwen3.6 Max Preview",
-      "slug": "qwen3-6-max",
-      "creator": "Alibaba",
       "score": 0.469
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T09:34:52.047Z",
+  "generated_at": "2026-04-30T09:27:20.416Z",
   "limit": 30,
   "modality": "llm",
   "metric": "hle",
@@ -186,38 +186,38 @@
     },
     {
       "rank": 26,
+      "name": "GPT-5.4 (low)",
+      "slug": "gpt-5-4-low",
+      "creator": "OpenAI",
+      "score": 0.289
+    },
+    {
+      "rank": 27,
       "name": "Qwen3.6 Max Preview",
       "slug": "qwen3-6-max",
       "creator": "Alibaba",
       "score": 0.289
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Claude Opus 4.5 (Reasoning)",
       "slug": "claude-opus-4-5-thinking",
       "creator": "Anthropic",
       "score": 0.284
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "MiMo-V2-Pro",
       "slug": "mimo-v2-pro",
       "creator": "Xiaomi",
       "score": 0.283
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "MiniMax-M2.7",
       "slug": "minimax-m2-7",
       "creator": "MiniMax",
       "score": 0.281
-    },
-    {
-      "rank": 30,
-      "name": "GLM-5.1 (Reasoning)",
-      "slug": "glm-5-1",
-      "creator": "Z AI",
-      "score": 0.28
     }
   ]
 }

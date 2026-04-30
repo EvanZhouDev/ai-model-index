@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T09:34:52.047Z",
+  "generated_at": "2026-04-30T09:27:20.416Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-coding",
@@ -165,59 +165,59 @@
     },
     {
       "rank": 23,
+      "name": "GPT-5.4 (low)",
+      "slug": "gpt-5-4-low",
+      "creator": "OpenAI",
+      "score": 45.6
+    },
+    {
+      "rank": 24,
       "name": "KAT Coder Pro V2",
       "slug": "kat-coder-pro-v2",
       "creator": "KwaiKAT",
       "score": 45.6
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "MiMo-V2.5-Pro",
       "slug": "mimo-v2-5-pro",
       "creator": "Xiaomi",
       "score": 45.5
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Qwen3.6 Max Preview",
       "slug": "qwen3-6-max",
       "creator": "Alibaba",
       "score": 44.9
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "GPT-5.1 (high)",
       "slug": "gpt-5-1",
       "creator": "OpenAI",
       "score": 44.7
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "GLM-5 (Reasoning)",
       "slug": "glm-5",
       "creator": "Z AI",
       "score": 44.2
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "GPT-5.2 (medium)",
       "slug": "gpt-5-2-medium",
       "creator": "OpenAI",
       "score": 44.2
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "GPT-5.4 nano (xhigh)",
       "slug": "gpt-5-4-nano",
       "creator": "OpenAI",
       "score": 43.9
-    },
-    {
-      "rank": 30,
-      "name": "GLM-5.1 (Reasoning)",
-      "slug": "glm-5-1",
-      "creator": "Z AI",
-      "score": 43.4
     }
   ]
 }
