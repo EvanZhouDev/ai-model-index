@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T09:27:20.416Z",
+  "generated_at": "2026-05-03T08:58:12.156Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aime",
@@ -88,136 +88,136 @@
     },
     {
       "rank": 12,
-      "name": "Gemini 2.5 Pro Preview (Mar' 25)",
-      "slug": "gemini-2-5-pro-03-25",
-      "creator": "Google",
-      "score": 0.87
-    },
-    {
-      "rank": 13,
       "name": "Llama Nemotron Super 49B v1.5 (Reasoning)",
       "slug": "llama-nemotron-super-49b-v1-5-reasoning",
       "creator": "NVIDIA",
       "score": 0.86
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "o3-mini (high)",
       "slug": "o3-mini-high",
       "creator": "OpenAI",
       "score": 0.86
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "MiniMax M1 80k",
       "slug": "minimax-m1-80k",
       "creator": "MiniMax",
       "score": 0.847
     },
     {
-      "rank": 16,
-      "name": "EXAONE 4.0 32B (Reasoning)",
-      "slug": "exaone-4-0-32b-reasoning",
-      "creator": "LG AI Research",
-      "score": 0.843
-    },
-    {
-      "rank": 17,
-      "name": "Gemini 2.5 Flash Preview (Reasoning)",
-      "slug": "gemini-2-5-flash-reasoning-04-2025",
-      "creator": "Google",
-      "score": 0.843
-    },
-    {
-      "rank": 18,
+      "rank": 15,
       "name": "Gemini 2.5 Pro Preview (May' 25)",
       "slug": "gemini-2-5-pro-05-06",
       "creator": "Google",
       "score": 0.843
     },
     {
-      "rank": 19,
+      "rank": 16,
       "name": "Qwen3 235B A22B (Reasoning)",
       "slug": "qwen3-235b-a22b-instruct-reasoning",
       "creator": "Alibaba",
       "score": 0.84
     },
     {
-      "rank": 20,
+      "rank": 17,
       "name": "GPT-5 (low)",
       "slug": "gpt-5-low",
       "creator": "OpenAI",
       "score": 0.83
     },
     {
-      "rank": 21,
+      "rank": 18,
       "name": "Gemini 2.5 Flash (Reasoning)",
       "slug": "gemini-2-5-flash-reasoning",
       "creator": "Google",
       "score": 0.823
     },
     {
-      "rank": 22,
-      "name": "MiniMax M1 40k",
-      "slug": "minimax-m1-40k",
-      "creator": "MiniMax",
-      "score": 0.813
-    },
-    {
-      "rank": 23,
+      "rank": 19,
       "name": "Qwen3 32B (Reasoning)",
       "slug": "qwen3-32b-instruct-reasoning",
       "creator": "Alibaba",
       "score": 0.807
     },
     {
-      "rank": 24,
-      "name": "Sonar Reasoning Pro",
-      "slug": "sonar-reasoning-pro",
-      "creator": "Perplexity",
-      "score": 0.79
-    },
-    {
-      "rank": 25,
+      "rank": 20,
       "name": "QwQ 32B",
       "slug": "qwq-32b",
       "creator": "Alibaba",
       "score": 0.78
     },
     {
-      "rank": 26,
+      "rank": 21,
       "name": "Claude 4 Sonnet (Reasoning)",
       "slug": "claude-4-sonnet-thinking",
       "creator": "Anthropic",
       "score": 0.773
     },
     {
-      "rank": 27,
+      "rank": 22,
       "name": "o3-mini",
       "slug": "o3-mini",
       "creator": "OpenAI",
       "score": 0.77
     },
     {
-      "rank": 28,
-      "name": "Sonar Reasoning",
-      "slug": "sonar-reasoning",
-      "creator": "Perplexity",
-      "score": 0.77
-    },
-    {
-      "rank": 29,
+      "rank": 23,
       "name": "Qwen3 14B (Reasoning)",
       "slug": "qwen3-14b-instruct-reasoning",
       "creator": "Alibaba",
       "score": 0.763
     },
     {
-      "rank": 30,
+      "rank": 24,
       "name": "Claude 4 Opus (Reasoning)",
       "slug": "claude-4-opus-thinking",
       "creator": "Anthropic",
       "score": 0.757
+    },
+    {
+      "rank": 25,
+      "name": "Qwen3 30B A3B (Reasoning)",
+      "slug": "qwen3-30b-a3b-instruct-reasoning",
+      "creator": "Alibaba",
+      "score": 0.753
+    },
+    {
+      "rank": 26,
+      "name": "Llama 3.1 Nemotron Ultra 253B v1 (Reasoning)",
+      "slug": "llama-3-1-nemotron-ultra-253b-v1-reasoning",
+      "creator": "NVIDIA",
+      "score": 0.747
+    },
+    {
+      "rank": 27,
+      "name": "Qwen3 8B (Reasoning)",
+      "slug": "qwen3-8b-instruct-reasoning",
+      "creator": "Alibaba",
+      "score": 0.747
+    },
+    {
+      "rank": 28,
+      "name": "Qwen3 30B A3B 2507 Instruct",
+      "slug": "qwen3-30b-a3b-2507",
+      "creator": "Alibaba",
+      "score": 0.727
+    },
+    {
+      "rank": 29,
+      "name": "o1",
+      "slug": "o1",
+      "creator": "OpenAI",
+      "score": 0.723
+    },
+    {
+      "rank": 30,
+      "name": "Qwen3 235B A22B 2507 Instruct",
+      "slug": "qwen3-235b-a22b-instruct-2507",
+      "creator": "Alibaba",
+      "score": 0.717
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T09:27:20.416Z",
+  "generated_at": "2026-05-03T08:58:12.156Z",
   "limit": 30,
   "modality": "llm",
   "metric": "scicode",
@@ -102,51 +102,51 @@
     },
     {
       "rank": 14,
-      "name": "Muse Spark",
-      "slug": "muse-spark",
-      "creator": "Meta",
-      "score": 0.515
-    },
-    {
-      "rank": 15,
       "name": "Gemini 3 Flash Preview (Reasoning)",
       "slug": "gemini-3-flash-reasoning",
       "creator": "Google",
       "score": 0.506
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "GPT-5.4 (low)",
       "slug": "gpt-5-4-low",
       "creator": "OpenAI",
       "score": 0.503
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "MiMo-V2.5-Pro",
       "slug": "mimo-v2-5-pro",
       "creator": "Xiaomi",
       "score": 0.502
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "Claude Opus 4.7 (Non-reasoning, High Effort)",
       "slug": "claude-opus-4-7-non-reasoning",
       "creator": "Anthropic",
       "score": 0.501
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "DeepSeek V4 Pro (Reasoning, Max Effort)",
       "slug": "deepseek-v4-pro",
       "creator": "DeepSeek",
       "score": 0.5
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "GPT-5.4 mini (xhigh)",
       "slug": "gpt-5-4-mini",
       "creator": "OpenAI",
+      "score": 0.499
+    },
+    {
+      "rank": 20,
+      "name": "Gemini 3 Flash Preview (Non-reasoning)",
+      "slug": "gemini-3-flash",
+      "creator": "Google",
       "score": 0.499
     },
     {
@@ -158,30 +158,30 @@
     },
     {
       "rank": 22,
-      "name": "Gemini 3 Flash Preview (Non-reasoning)",
-      "slug": "gemini-3-flash",
-      "creator": "Google",
-      "score": 0.499
-    },
-    {
-      "rank": 23,
       "name": "Claude Opus 4.5 (Reasoning)",
       "slug": "claude-opus-4-5-thinking",
       "creator": "Anthropic",
       "score": 0.495
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Kimi K2.5 (Reasoning)",
       "slug": "kimi-k2-5",
       "creator": "Kimi",
       "score": 0.49
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "GPT-5.5 (Non-reasoning)",
       "slug": "gpt-5-5-non-reasoning",
       "creator": "OpenAI",
+      "score": 0.473
+    },
+    {
+      "rank": 25,
+      "name": "Grok 4.3",
+      "slug": "grok-4-3",
+      "creator": "xAI",
       "score": 0.473
     },
     {

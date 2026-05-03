@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T09:27:20.416Z",
+  "generated_at": "2026-05-03T08:58:12.156Z",
   "limit": 30,
   "modality": "llm",
   "metric": "gpqa",
@@ -60,16 +60,16 @@
     },
     {
       "rank": 8,
-      "name": "Grok 4.20 0309 v2 (Reasoning)",
-      "slug": "grok-4-20",
-      "creator": "xAI",
+      "name": "Kimi K2.6",
+      "slug": "kimi-k2-6",
+      "creator": "Kimi",
       "score": 0.911
     },
     {
       "rank": 9,
-      "name": "Kimi K2.6",
-      "slug": "kimi-k2-6",
-      "creator": "Kimi",
+      "name": "Grok 4.20 0309 v2 (Reasoning)",
+      "slug": "grok-4-20",
+      "creator": "xAI",
       "score": 0.911
     },
     {
@@ -102,80 +102,80 @@
     },
     {
       "rank": 14,
+      "name": "Grok 4.3",
+      "slug": "grok-4-3",
+      "creator": "xAI",
+      "score": 0.901
+    },
+    {
+      "rank": 15,
       "name": "GPT-5.2 Codex (xhigh)",
       "slug": "gpt-5-2-codex",
       "creator": "OpenAI",
       "score": 0.899
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Gemini 3 Flash Preview (Reasoning)",
       "slug": "gemini-3-flash-reasoning",
       "creator": "Google",
       "score": 0.898
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Claude Opus 4.6 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-opus-4-6-adaptive",
       "creator": "Anthropic",
       "score": 0.896
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "DeepSeek V4 Flash (Reasoning, Max Effort)",
       "slug": "deepseek-v4-flash",
       "creator": "DeepSeek",
       "score": 0.894
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Qwen3.5 397B A17B (Reasoning)",
       "slug": "qwen3-5-397b-a17b",
       "creator": "Alibaba",
       "score": 0.893
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "DeepSeek V4 Pro (Reasoning, Max Effort)",
       "slug": "deepseek-v4-pro",
       "creator": "DeepSeek",
       "score": 0.888
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Qwen3.6 Max Preview",
       "slug": "qwen3-6-max",
       "creator": "Alibaba",
       "score": 0.888
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Gemini 3 Pro Preview (low)",
       "slug": "gemini-3-pro-low",
       "creator": "Google",
       "score": 0.887
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Claude Opus 4.7 (Non-reasoning, High Effort)",
       "slug": "claude-opus-4-7-non-reasoning",
       "creator": "Anthropic",
       "score": 0.885
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Grok 4.20 0309 (Reasoning)",
       "slug": "grok-4-20-0309",
       "creator": "xAI",
       "score": 0.885
-    },
-    {
-      "rank": 24,
-      "name": "Muse Spark",
-      "slug": "muse-spark",
-      "creator": "Meta",
-      "score": 0.884
     },
     {
       "rank": 25,

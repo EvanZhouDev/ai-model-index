@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T09:27:20.416Z",
+  "generated_at": "2026-05-03T08:58:12.156Z",
   "limit": 30,
   "modality": "llm",
   "metric": "livecodebench",
@@ -25,199 +25,199 @@
     },
     {
       "rank": 3,
-      "name": "DeepSeek V3.2 Speciale",
-      "slug": "deepseek-v3-2-speciale",
-      "creator": "DeepSeek",
-      "score": 0.896
-    },
-    {
-      "rank": 4,
       "name": "GPT-5.2 (medium)",
       "slug": "gpt-5-2-medium",
       "creator": "OpenAI",
       "score": 0.894
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "GLM-4.7 (Reasoning)",
       "slug": "glm-4-7",
       "creator": "Z AI",
       "score": 0.894
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "GPT-5.2 (xhigh)",
       "slug": "gpt-5-2",
       "creator": "OpenAI",
       "score": 0.889
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "gpt-oss-120B (high)",
       "slug": "gpt-oss-120b",
       "creator": "OpenAI",
       "score": 0.878
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Claude Opus 4.5 (Reasoning)",
       "slug": "claude-opus-4-5-thinking",
       "creator": "Anthropic",
       "score": 0.871
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "GPT-5.1 (high)",
       "slug": "gpt-5-1",
       "creator": "OpenAI",
       "score": 0.868
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "MiMo-V2-Flash (Reasoning)",
       "slug": "mimo-v2-flash-reasoning",
       "creator": "Xiaomi",
       "score": 0.868
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "DeepSeek V3.2 (Reasoning)",
       "slug": "deepseek-v3-2-reasoning",
       "creator": "DeepSeek",
       "score": 0.862
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "o4-mini (high)",
       "slug": "o4-mini",
       "creator": "OpenAI",
       "score": 0.859
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "Gemini 3 Pro Preview (low)",
       "slug": "gemini-3-pro-low",
       "creator": "Google",
       "score": 0.857
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "Kimi K2 Thinking",
       "slug": "kimi-k2-thinking",
       "creator": "Kimi",
       "score": 0.853
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "GPT-5.1 Codex (high)",
       "slug": "gpt-5-1-codex",
       "creator": "OpenAI",
       "score": 0.849
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "GPT-5 (high)",
       "slug": "gpt-5",
       "creator": "OpenAI",
       "score": 0.846
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "GPT-5 Codex (high)",
       "slug": "gpt-5-codex",
       "creator": "OpenAI",
       "score": 0.84
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "GPT-5 mini (high)",
       "slug": "gpt-5-mini",
       "creator": "OpenAI",
       "score": 0.838
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "GPT-5.1 Codex mini (high)",
       "slug": "gpt-5-1-codex-mini",
       "creator": "OpenAI",
       "score": 0.836
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Grok 4 Fast (Reasoning)",
       "slug": "grok-4-fast-reasoning",
       "creator": "xAI",
       "score": 0.832
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "MiniMax-M2",
       "slug": "minimax-m2",
       "creator": "MiniMax",
       "score": 0.826
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "Grok 4.1 Fast (Reasoning)",
       "slug": "grok-4-1-fast-reasoning",
       "creator": "xAI",
       "score": 0.822
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Grok 4",
       "slug": "grok-4",
       "creator": "xAI",
       "score": 0.819
     },
     {
-      "rank": 24,
-      "name": "ERNIE 5.0 Thinking Preview",
-      "slug": "ernie-5-0-thinking-preview",
-      "creator": "Baidu",
-      "score": 0.812
-    },
-    {
-      "rank": 25,
+      "rank": 23,
       "name": "MiniMax-M2.1",
       "slug": "minimax-m2-1",
       "creator": "MiniMax",
       "score": 0.81
     },
     {
-      "rank": 26,
+      "rank": 24,
       "name": "o3",
       "slug": "o3",
       "creator": "OpenAI",
       "score": 0.808
     },
     {
-      "rank": 27,
+      "rank": 25,
       "name": "Apriel-v1.6-15B-Thinker",
       "slug": "apriel-v1-6-15b-thinker",
       "creator": "ServiceNow",
       "score": 0.807
     },
     {
-      "rank": 28,
+      "rank": 26,
       "name": "Gemini 2.5 Pro",
       "slug": "gemini-2-5-pro",
       "creator": "Google",
       "score": 0.801
     },
     {
-      "rank": 29,
+      "rank": 27,
       "name": "DeepSeek V3.1 Terminus (Reasoning)",
       "slug": "deepseek-v3-1-terminus-reasoning",
       "creator": "DeepSeek",
       "score": 0.798
     },
     {
-      "rank": 30,
+      "rank": 28,
       "name": "Gemini 3 Flash Preview (Non-reasoning)",
       "slug": "gemini-3-flash",
       "creator": "Google",
       "score": 0.797
+    },
+    {
+      "rank": 29,
+      "name": "GPT-5 nano (high)",
+      "slug": "gpt-5-nano",
+      "creator": "OpenAI",
+      "score": 0.789
+    },
+    {
+      "rank": 30,
+      "name": "DeepSeek V3.2 Exp (Reasoning)",
+      "slug": "deepseek-v3-2-reasoning-0925",
+      "creator": "DeepSeek",
+      "score": 0.789
     }
   ]
 }
