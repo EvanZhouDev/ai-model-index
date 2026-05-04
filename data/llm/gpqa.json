@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T08:58:12.156Z",
+  "generated_at": "2026-05-04T09:32:09.758Z",
   "limit": 30,
   "modality": "llm",
   "metric": "gpqa",
@@ -179,45 +179,45 @@
     },
     {
       "rank": 25,
+      "name": "Muse Spark",
+      "slug": "muse-spark",
+      "creator": "Meta",
+      "score": 0.884
+    },
+    {
+      "rank": 26,
       "name": "Qwen3.6 Plus",
       "slug": "qwen3-6-plus",
       "creator": "Alibaba",
       "score": 0.882
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Kimi K2.5 (Reasoning)",
       "slug": "kimi-k2-5",
       "creator": "Kimi",
       "score": 0.879
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Grok 4",
       "slug": "grok-4",
       "creator": "xAI",
       "score": 0.877
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "GPT-5.4 mini (xhigh)",
       "slug": "gpt-5-4-mini",
       "creator": "OpenAI",
       "score": 0.875
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Claude Sonnet 4.6 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-sonnet-4-6-adaptive",
       "creator": "Anthropic",
       "score": 0.875
-    },
-    {
-      "rank": 30,
-      "name": "MiniMax-M2.7",
-      "slug": "minimax-m2-7",
-      "creator": "MiniMax",
-      "score": 0.874
     }
   ]
 }
