@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T09:36:44.933Z",
+  "generated_at": "2026-05-07T09:46:42.146Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -13,7 +13,7 @@
       "name": "Riverflow 2.0",
       "slug": "sourceful_riverflow-2",
       "creator": "Sourceful",
-      "score": 1290,
+      "score": 1289,
       "ci95": "-10/10"
     },
     {
@@ -29,7 +29,7 @@
       "name": "GPT Image 2 (high)",
       "slug": "gpt-image-2",
       "creator": "OpenAI",
-      "score": 1252,
+      "score": 1251,
       "ci95": "-8/8"
     },
     {
@@ -53,7 +53,7 @@
       "name": "HunyuanImage 3.0 Instruct (Fal)",
       "slug": "tencent_hunyuanimage-3-0-instruct--fal",
       "creator": "Tencent",
-      "score": 1227,
+      "score": 1226,
       "ci95": "-9/9"
     },
     {
@@ -69,7 +69,7 @@
       "name": "grok-imagine-image",
       "slug": "grok-imagine-image",
       "creator": "xAI",
-      "score": 1214,
+      "score": 1215,
       "ci95": "-10/10"
     },
     {
@@ -77,7 +77,7 @@
       "name": "Kling Image 3.0 Omni",
       "slug": "kling-image-3-0-omni",
       "creator": "KlingAI",
-      "score": 1206,
+      "score": 1207,
       "ci95": "-10/10"
     },
     {
@@ -85,7 +85,7 @@
       "name": "FLUX.2 [max]",
       "slug": "black_forest_labs_flux-2-max",
       "creator": "Black Forest Labs",
-      "score": 1205,
+      "score": 1206,
       "ci95": "-10/10"
     },
     {
@@ -101,7 +101,7 @@
       "name": "Kling Image 3.0",
       "slug": "kling-image-3-0",
       "creator": "KlingAI",
-      "score": 1202,
+      "score": 1201,
       "ci95": "-10/10"
     },
     {
@@ -149,7 +149,7 @@
       "name": "Wan 2.7",
       "slug": "wan-2-7",
       "creator": "Alibaba",
-      "score": 1178,
+      "score": 1179,
       "ci95": "-10/10"
     },
     {
@@ -173,7 +173,7 @@
       "name": "FLUX.2 [pro]",
       "slug": "flux_flux-2--pro",
       "creator": "Black Forest Labs",
-      "score": 1171,
+      "score": 1172,
       "ci95": "-10/10"
     },
     {
@@ -189,7 +189,7 @@
       "name": "Eigen Image",
       "slug": "eigenai_eigen-image",
       "creator": "Eigen AI",
-      "score": 1161,
+      "score": 1162,
       "ci95": "-10/10"
     },
     {
@@ -197,24 +197,24 @@
       "name": "FLUX.2 [klein] 9B",
       "slug": "flux_flux-2-klein-9b",
       "creator": "Black Forest Labs",
-      "score": 1158,
+      "score": 1160,
       "ci95": "-9/9"
     },
     {
       "rank": 25,
-      "name": "Seedream 5.0 Lite",
-      "slug": "seedream-5-0-lite",
-      "creator": "Bytedance",
-      "score": 1158,
-      "ci95": "-10/10"
-    },
-    {
-      "rank": 26,
       "name": "Qwen Image Edit Max 2601",
       "slug": "qwen-image-edit-max-2601",
       "creator": "Alibaba",
       "score": 1158,
       "ci95": "-9/9"
+    },
+    {
+      "rank": 26,
+      "name": "Seedream 5.0 Lite",
+      "slug": "seedream-5-0-lite",
+      "creator": "Bytedance",
+      "score": 1157,
+      "ci95": "-10/10"
     },
     {
       "rank": 27,
