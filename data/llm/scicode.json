@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T10:44:34.165Z",
+  "generated_at": "2026-05-13T10:00:03.866Z",
   "limit": 30,
   "modality": "llm",
   "metric": "scicode",
@@ -151,15 +151,15 @@
     },
     {
       "rank": 21,
-      "name": "Gemini 3 Flash Preview (Non-reasoning)",
-      "slug": "gemini-3-flash",
+      "name": "Gemini 3 Pro Preview (low)",
+      "slug": "gemini-3-pro-low",
       "creator": "Google",
       "score": 0.499
     },
     {
       "rank": 22,
-      "name": "Gemini 3 Pro Preview (low)",
-      "slug": "gemini-3-pro-low",
+      "name": "Gemini 3 Flash Preview (Non-reasoning)",
+      "slug": "gemini-3-flash",
       "creator": "Google",
       "score": 0.499
     },
