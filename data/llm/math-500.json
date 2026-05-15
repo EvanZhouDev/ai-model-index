@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T10:00:03.866Z",
+  "generated_at": "2026-05-15T09:59:58.999Z",
   "limit": 30,
   "modality": "llm",
   "metric": "math-500",
@@ -35,14 +35,14 @@
       "name": "GPT-5 (medium)",
       "slug": "gpt-5-medium",
       "creator": "OpenAI",
-      "score": 0.991
+      "score": 0.991333333333333
     },
     {
       "rank": 5,
       "name": "Claude 4 Sonnet (Reasoning)",
       "slug": "claude-4-sonnet-thinking",
       "creator": "Anthropic",
-      "score": 0.991
+      "score": 0.990666666666667
     },
     {
       "rank": 6,
@@ -56,14 +56,14 @@
       "name": "o4-mini (high)",
       "slug": "o4-mini",
       "creator": "OpenAI",
-      "score": 0.989
+      "score": 0.988666666666667
     },
     {
       "rank": 8,
       "name": "GPT-5 (low)",
       "slug": "gpt-5-low",
       "creator": "OpenAI",
-      "score": 0.987
+      "score": 0.987333333333333
     },
     {
       "rank": 9,
@@ -77,7 +77,7 @@
       "name": "o3-mini (high)",
       "slug": "o3-mini-high",
       "creator": "OpenAI",
-      "score": 0.985
+      "score": 0.984666666666667
     },
     {
       "rank": 11,
@@ -88,17 +88,17 @@
     },
     {
       "rank": 12,
-      "name": "DeepSeek R1 0528 (May '25)",
-      "slug": "deepseek-r1",
-      "creator": "DeepSeek",
-      "score": 0.983
-    },
-    {
-      "rank": 13,
       "name": "Llama Nemotron Super 49B v1.5 (Reasoning)",
       "slug": "llama-nemotron-super-49b-v1-5-reasoning",
       "creator": "NVIDIA",
-      "score": 0.983
+      "score": 0.983333333333333
+    },
+    {
+      "rank": 13,
+      "name": "DeepSeek R1 0528 (May '25)",
+      "slug": "deepseek-r1",
+      "creator": "DeepSeek",
+      "score": 0.982666666666667
     },
     {
       "rank": 14,
@@ -109,17 +109,17 @@
     },
     {
       "rank": 15,
-      "name": "Gemini 2.5 Flash Preview (Reasoning)",
-      "slug": "gemini-2-5-flash-reasoning-04-2025",
-      "creator": "Google",
-      "score": 0.981
-    },
-    {
-      "rank": 16,
       "name": "Gemini 2.5 Flash (Reasoning)",
       "slug": "gemini-2-5-flash-reasoning",
       "creator": "Google",
-      "score": 0.981
+      "score": 0.981333333333333
+    },
+    {
+      "rank": 16,
+      "name": "Gemini 2.5 Flash Preview (Reasoning)",
+      "slug": "gemini-2-5-flash-reasoning-04-2025",
+      "creator": "Google",
+      "score": 0.980666666666667
     },
     {
       "rank": 17,
@@ -147,14 +147,14 @@
       "name": "GLM-4.5 (Reasoning)",
       "slug": "glm-4.5",
       "creator": "Z AI",
-      "score": 0.979
+      "score": 0.978666666666667
     },
     {
       "rank": 21,
       "name": "EXAONE 4.0 32B (Reasoning)",
       "slug": "exaone-4-0-32b-reasoning",
       "creator": "LG AI Research",
-      "score": 0.977
+      "score": 0.976666666666667
     },
     {
       "rank": 22,
@@ -168,14 +168,14 @@
       "name": "Qwen3 30B A3B 2507 Instruct",
       "slug": "qwen3-30b-a3b-2507",
       "creator": "Alibaba",
-      "score": 0.975
+      "score": 0.975333333333333
     },
     {
       "rank": 24,
       "name": "o3-mini",
       "slug": "o3-mini",
       "creator": "OpenAI",
-      "score": 0.973
+      "score": 0.973333333333333
     },
     {
       "rank": 25,
@@ -189,7 +189,7 @@
       "name": "Kimi K2",
       "slug": "kimi-k2",
       "creator": "Kimi",
-      "score": 0.971
+      "score": 0.971333333333333
     },
     {
       "rank": 27,
@@ -203,21 +203,21 @@
       "name": "Gemini 2.5 Flash-Lite (Reasoning)",
       "slug": "gemini-2-5-flash-lite-reasoning",
       "creator": "Google",
-      "score": 0.969
+      "score": 0.968666666666667
     },
     {
       "rank": 29,
       "name": "Gemini 2.5 Pro",
       "slug": "gemini-2-5-pro",
       "creator": "Google",
-      "score": 0.967
+      "score": 0.967333333333333
     },
     {
       "rank": 30,
       "name": "Solar Pro 2 (Reasoning)",
       "slug": "solar-pro-2-reasoning",
       "creator": "Upstage",
-      "score": 0.967
+      "score": 0.966666666666667
     }
   ]
 }

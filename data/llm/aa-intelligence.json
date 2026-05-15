@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T10:00:03.866Z",
+  "generated_at": "2026-05-15T09:59:58.999Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-intelligence",
@@ -74,7 +74,7 @@
     },
     {
       "rank": 10,
-      "name": "Grok 4.3",
+      "name": "Grok 4.3 (high)",
       "slug": "grok-4-3",
       "creator": "xAI",
       "score": 53.2
@@ -84,14 +84,14 @@
       "name": "Claude Opus 4.6 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-opus-4-6-adaptive",
       "creator": "Anthropic",
-      "score": 53
+      "score": 52.9
     },
     {
       "rank": 12,
       "name": "Muse Spark",
       "slug": "muse-spark",
       "creator": "Meta",
-      "score": 52.1
+      "score": 52.2
     },
     {
       "rank": 13,

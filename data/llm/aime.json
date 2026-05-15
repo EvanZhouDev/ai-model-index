@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T10:00:03.866Z",
+  "generated_at": "2026-05-15T09:59:58.999Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aime",
@@ -14,14 +14,14 @@
       "name": "GPT-5 (high)",
       "slug": "gpt-5",
       "creator": "OpenAI",
-      "score": 0.957
+      "score": 0.956666666666667
     },
     {
       "rank": 2,
       "name": "Grok 4",
       "slug": "grok-4",
       "creator": "xAI",
-      "score": 0.943
+      "score": 0.943333333333333
     },
     {
       "rank": 3,
@@ -42,49 +42,49 @@
       "name": "Grok 3 mini Reasoning (high)",
       "slug": "grok-3-mini-reasoning",
       "creator": "xAI",
-      "score": 0.933
+      "score": 0.933333333333333
     },
     {
       "rank": 6,
       "name": "GPT-5 (medium)",
       "slug": "gpt-5-medium",
       "creator": "OpenAI",
-      "score": 0.917
+      "score": 0.916666666666667
     },
     {
       "rank": 7,
       "name": "Qwen3 30B A3B 2507 (Reasoning)",
       "slug": "qwen3-30b-a3b-2507-reasoning",
       "creator": "Alibaba",
-      "score": 0.907
+      "score": 0.906666666666667
     },
     {
       "rank": 8,
       "name": "o3",
       "slug": "o3",
       "creator": "OpenAI",
-      "score": 0.903
+      "score": 0.903333333333333
     },
     {
       "rank": 9,
       "name": "DeepSeek R1 0528 (May '25)",
       "slug": "deepseek-r1",
       "creator": "DeepSeek",
-      "score": 0.893
+      "score": 0.893333333333333
     },
     {
       "rank": 10,
       "name": "Gemini 2.5 Pro",
       "slug": "gemini-2-5-pro",
       "creator": "Google",
-      "score": 0.887
+      "score": 0.886666666666667
     },
     {
       "rank": 11,
       "name": "GLM-4.5 (Reasoning)",
       "slug": "glm-4.5",
       "creator": "Z AI",
-      "score": 0.873
+      "score": 0.873333333333333
     },
     {
       "rank": 12,
@@ -112,28 +112,28 @@
       "name": "MiniMax M1 80k",
       "slug": "minimax-m1-80k",
       "creator": "MiniMax",
-      "score": 0.847
+      "score": 0.846666666666667
     },
     {
       "rank": 16,
       "name": "EXAONE 4.0 32B (Reasoning)",
       "slug": "exaone-4-0-32b-reasoning",
       "creator": "LG AI Research",
-      "score": 0.843
+      "score": 0.843333333333333
     },
     {
       "rank": 17,
       "name": "Gemini 2.5 Flash Preview (Reasoning)",
       "slug": "gemini-2-5-flash-reasoning-04-2025",
       "creator": "Google",
-      "score": 0.843
+      "score": 0.843333333333333
     },
     {
       "rank": 18,
       "name": "Gemini 2.5 Pro Preview (May' 25)",
       "slug": "gemini-2-5-pro-05-06",
       "creator": "Google",
-      "score": 0.843
+      "score": 0.843333333333333
     },
     {
       "rank": 19,
@@ -154,21 +154,21 @@
       "name": "Gemini 2.5 Flash (Reasoning)",
       "slug": "gemini-2-5-flash-reasoning",
       "creator": "Google",
-      "score": 0.823
+      "score": 0.823333333333333
     },
     {
       "rank": 22,
       "name": "MiniMax M1 40k",
       "slug": "minimax-m1-40k",
       "creator": "MiniMax",
-      "score": 0.813
+      "score": 0.813333333333333
     },
     {
       "rank": 23,
       "name": "Qwen3 32B (Reasoning)",
       "slug": "qwen3-32b-instruct-reasoning",
       "creator": "Alibaba",
-      "score": 0.807
+      "score": 0.806666666666667
     },
     {
       "rank": 24,
@@ -189,7 +189,7 @@
       "name": "Claude 4 Sonnet (Reasoning)",
       "slug": "claude-4-sonnet-thinking",
       "creator": "Anthropic",
-      "score": 0.773
+      "score": 0.773333333333333
     },
     {
       "rank": 27,
@@ -210,14 +210,14 @@
       "name": "Qwen3 14B (Reasoning)",
       "slug": "qwen3-14b-instruct-reasoning",
       "creator": "Alibaba",
-      "score": 0.763
+      "score": 0.763333333333333
     },
     {
       "rank": 30,
       "name": "Claude 4 Opus (Reasoning)",
       "slug": "claude-4-opus-thinking",
       "creator": "Anthropic",
-      "score": 0.757
+      "score": 0.756666666666667
     }
   ]
 }
