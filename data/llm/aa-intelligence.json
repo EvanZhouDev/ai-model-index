@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T10:45:20.004Z",
+  "generated_at": "2026-05-20T10:29:16.716Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-intelligence",
@@ -53,171 +53,171 @@
     },
     {
       "rank": 7,
+      "name": "Qwen3.7 Max",
+      "slug": "qwen3-7-max",
+      "creator": "Alibaba",
+      "score": 56.6
+    },
+    {
+      "rank": 8,
+      "name": "Gemini 3.5 Flash (high)",
+      "slug": "gemini-3-5-flash",
+      "creator": "Google",
+      "score": 55.3
+    },
+    {
+      "rank": 9,
       "name": "Kimi K2.6",
       "slug": "kimi-k2-6",
       "creator": "Kimi",
       "score": 53.9
     },
     {
-      "rank": 8,
+      "rank": 10,
       "name": "MiMo-V2.5-Pro",
       "slug": "mimo-v2-5-pro",
       "creator": "Xiaomi",
       "score": 53.8
     },
     {
-      "rank": 9,
+      "rank": 11,
       "name": "GPT-5.3 Codex (xhigh)",
       "slug": "gpt-5-3-codex",
       "creator": "OpenAI",
       "score": 53.6
     },
     {
-      "rank": 10,
+      "rank": 12,
       "name": "Grok 4.3 (high)",
       "slug": "grok-4-3",
       "creator": "xAI",
       "score": 53.2
     },
     {
-      "rank": 11,
+      "rank": 13,
       "name": "Claude Opus 4.6 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-opus-4-6-adaptive",
       "creator": "Anthropic",
       "score": 52.9
     },
     {
-      "rank": 12,
+      "rank": 14,
       "name": "Muse Spark",
       "slug": "muse-spark",
       "creator": "Meta",
       "score": 52.2
     },
     {
-      "rank": 13,
+      "rank": 15,
       "name": "Claude Opus 4.7 (Non-reasoning, High Effort)",
       "slug": "claude-opus-4-7-non-reasoning",
       "creator": "Anthropic",
       "score": 51.8
     },
     {
-      "rank": 14,
+      "rank": 16,
       "name": "Qwen3.6 Max Preview",
       "slug": "qwen3-6-max",
       "creator": "Alibaba",
       "score": 51.8
     },
     {
-      "rank": 15,
+      "rank": 17,
       "name": "Claude Sonnet 4.6 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-sonnet-4-6-adaptive",
       "creator": "Anthropic",
       "score": 51.7
     },
     {
-      "rank": 16,
+      "rank": 18,
       "name": "DeepSeek V4 Pro (Reasoning, Max Effort)",
       "slug": "deepseek-v4-pro",
       "creator": "DeepSeek",
       "score": 51.5
     },
     {
-      "rank": 17,
+      "rank": 19,
       "name": "GLM-5.1 (Reasoning)",
       "slug": "glm-5-1",
       "creator": "Z AI",
       "score": 51.4
     },
     {
-      "rank": 18,
+      "rank": 20,
       "name": "GPT-5.2 (xhigh)",
       "slug": "gpt-5-2",
       "creator": "OpenAI",
       "score": 51.3
     },
     {
-      "rank": 19,
+      "rank": 21,
       "name": "GPT-5.5 (low)",
       "slug": "gpt-5-5-low",
       "creator": "OpenAI",
       "score": 50.8
     },
     {
-      "rank": 20,
+      "rank": 22,
       "name": "Qwen3.6 Plus",
       "slug": "qwen3-6-plus",
       "creator": "Alibaba",
       "score": 50
     },
     {
-      "rank": 21,
+      "rank": 23,
       "name": "DeepSeek V4 Pro (Reasoning, High Effort)",
       "slug": "deepseek-v4-pro-high",
       "creator": "DeepSeek",
       "score": 49.8
     },
     {
-      "rank": 22,
+      "rank": 24,
       "name": "GLM-5 (Reasoning)",
       "slug": "glm-5",
       "creator": "Z AI",
       "score": 49.8
     },
     {
-      "rank": 23,
+      "rank": 25,
       "name": "Claude Opus 4.5 (Reasoning)",
       "slug": "claude-opus-4-5-thinking",
       "creator": "Anthropic",
       "score": 49.7
     },
     {
-      "rank": 24,
+      "rank": 26,
       "name": "MiniMax-M2.7",
       "slug": "minimax-m2-7",
       "creator": "MiniMax",
       "score": 49.6
     },
     {
-      "rank": 25,
+      "rank": 27,
       "name": "Grok 4.20 0309 v2 (Reasoning)",
       "slug": "grok-4-20",
       "creator": "xAI",
       "score": 49.3
     },
     {
-      "rank": 26,
+      "rank": 28,
       "name": "MiMo-V2-Pro",
       "slug": "mimo-v2-pro",
       "creator": "Xiaomi",
       "score": 49.2
     },
     {
-      "rank": 27,
+      "rank": 29,
       "name": "MiMo-V2.5",
       "slug": "mimo-v2-5-0424",
       "creator": "Xiaomi",
       "score": 49
     },
     {
-      "rank": 28,
+      "rank": 30,
       "name": "GPT-5.2 Codex (xhigh)",
       "slug": "gpt-5-2-codex",
       "creator": "OpenAI",
       "score": 49
-    },
-    {
-      "rank": 29,
-      "name": "GPT-5.4 mini (xhigh)",
-      "slug": "gpt-5-4-mini",
-      "creator": "OpenAI",
-      "score": 48.9
-    },
-    {
-      "rank": 30,
-      "name": "Grok 4.20 0309 (Reasoning)",
-      "slug": "grok-4-20-0309",
-      "creator": "xAI",
-      "score": 48.5
     }
   ]
 }
