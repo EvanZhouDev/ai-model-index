@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T10:29:16.716Z",
+  "generated_at": "2026-05-21T10:49:28.236Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -46,14 +46,14 @@
       "slug": "nano-banana-2",
       "creator": "Google",
       "score": 1235,
-      "ci95": "-10/10"
+      "ci95": "-9/9"
     },
     {
       "rank": 6,
       "name": "HunyuanImage 3.0 Instruct (Fal)",
       "slug": "tencent_hunyuanimage-3-0-instruct--fal",
       "creator": "Tencent",
-      "score": 1224,
+      "score": 1225,
       "ci95": "-9/9"
     },
     {
@@ -61,7 +61,7 @@
       "name": "grok-imagine-image",
       "slug": "grok-imagine-image",
       "creator": "xAI",
-      "score": 1214,
+      "score": 1215,
       "ci95": "-9/9"
     },
     {
@@ -109,7 +109,7 @@
       "name": "Kling Image 3.0",
       "slug": "kling-image-3-0",
       "creator": "KlingAI",
-      "score": 1201,
+      "score": 1202,
       "ci95": "-9/9"
     },
     {
@@ -125,7 +125,7 @@
       "name": "Wan 2.6 Image",
       "slug": "wan_wan-2-6",
       "creator": "Alibaba",
-      "score": 1194,
+      "score": 1193,
       "ci95": "-10/10"
     },
     {
@@ -138,17 +138,17 @@
     },
     {
       "rank": 17,
-      "name": "Wan 2.7",
-      "slug": "wan-2-7",
-      "creator": "Alibaba",
-      "score": 1186,
+      "name": "Seedream 4.5",
+      "slug": "seedream-4-5",
+      "creator": "ByteDance Seed",
+      "score": 1185,
       "ci95": "-9/9"
     },
     {
       "rank": 18,
-      "name": "Seedream 4.5",
-      "slug": "seedream-4-5",
-      "creator": "ByteDance Seed",
+      "name": "Wan 2.7",
+      "slug": "wan-2-7",
+      "creator": "Alibaba",
       "score": 1185,
       "ci95": "-9/9"
     },
@@ -165,7 +165,7 @@
       "name": "Agnes Image 2.0 Flash",
       "slug": "agnes-image-2-0-flash",
       "creator": "Sapiens AI",
-      "score": 1182,
+      "score": 1183,
       "ci95": "-11/11"
     },
     {
@@ -173,7 +173,7 @@
       "name": "Nano Banana (Gemini 2.5 Flash Image)",
       "slug": "google_gemini-2-5-flash",
       "creator": "Google",
-      "score": 1175,
+      "score": 1174,
       "ci95": "-8/8"
     },
     {
@@ -197,7 +197,7 @@
       "name": "FLUX.2 [flex]",
       "slug": "flux_flux-2--flex",
       "creator": "Black Forest Labs",
-      "score": 1165,
+      "score": 1166,
       "ci95": "-9/9"
     },
     {
@@ -221,7 +221,7 @@
       "name": "Qwen Image Edit Max 2601",
       "slug": "qwen-image-edit-max-2601",
       "creator": "Alibaba",
-      "score": 1160,
+      "score": 1161,
       "ci95": "-9/9"
     },
     {
@@ -245,7 +245,7 @@
       "name": "Qwen Image Edit Plus 2511",
       "slug": "qwen_qwen-image-edit-2511",
       "creator": "Alibaba",
-      "score": 1153,
+      "score": 1152,
       "ci95": "-10/10"
     }
   ]
