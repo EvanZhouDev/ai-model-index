@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T10:49:28.236Z",
+  "generated_at": "2026-05-22T10:29:05.293Z",
   "limit": 30,
   "modality": "llm",
   "metric": "scicode",
@@ -186,38 +186,38 @@
     },
     {
       "rank": 26,
+      "name": "Gemini 3.5 Flash (minimal)",
+      "slug": "gemini-3-5-flash-minimal",
+      "creator": "Google",
+      "score": 0.488
+    },
+    {
+      "rank": 27,
       "name": "Qwen3.7 Max",
       "slug": "qwen3-7-max",
       "creator": "Alibaba",
       "score": 0.488
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "GPT-5.5 (Non-reasoning)",
       "slug": "gpt-5-5-non-reasoning",
       "creator": "OpenAI",
       "score": 0.473
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Grok 4.3 (high)",
       "slug": "grok-4-3",
       "creator": "xAI",
       "score": 0.473
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "GPT-5.4 (Non-reasoning)",
       "slug": "gpt-5-4-non-reasoning",
       "creator": "OpenAI",
       "score": 0.471
-    },
-    {
-      "rank": 30,
-      "name": "MiniMax-M2.7",
-      "slug": "minimax-m2-7",
-      "creator": "MiniMax",
-      "score": 0.47
     }
   ]
 }
