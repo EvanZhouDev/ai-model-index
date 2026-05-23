@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T10:29:05.293Z",
+  "generated_at": "2026-05-23T09:14:41.938Z",
   "limit": 30,
   "modality": "llm",
   "metric": "gpqa",
@@ -158,66 +158,66 @@
     },
     {
       "rank": 22,
+      "name": "Grok 4.3 (medium)",
+      "slug": "grok-4-3-medium",
+      "creator": "xAI",
+      "score": 0.89
+    },
+    {
+      "rank": 23,
       "name": "DeepSeek V4 Pro (Reasoning, Max Effort)",
       "slug": "deepseek-v4-pro",
       "creator": "DeepSeek",
       "score": 0.888
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Qwen3.6 Max Preview",
       "slug": "qwen3-6-max",
       "creator": "Alibaba",
       "score": 0.888
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Gemini 3 Pro Preview (low)",
       "slug": "gemini-3-pro-low",
       "creator": "Google",
       "score": 0.887
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Claude Opus 4.7 (Non-reasoning, High Effort)",
       "slug": "claude-opus-4-7-non-reasoning",
       "creator": "Anthropic",
       "score": 0.885
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Grok 4.20 0309 (Reasoning)",
       "slug": "grok-4-20-0309",
       "creator": "xAI",
       "score": 0.885
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Muse Spark",
       "slug": "muse-spark",
       "creator": "Meta",
       "score": 0.884
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Qwen3.6 Plus",
       "slug": "qwen3-6-plus",
       "creator": "Alibaba",
       "score": 0.882
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Kimi K2.5 (Reasoning)",
       "slug": "kimi-k2-5",
       "creator": "Kimi",
       "score": 0.879
-    },
-    {
-      "rank": 30,
-      "name": "Grok 4",
-      "slug": "grok-4",
-      "creator": "xAI",
-      "score": 0.877
     }
   ]
 }
