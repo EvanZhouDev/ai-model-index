@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T09:14:41.938Z",
+  "generated_at": "2026-05-24T09:26:01.696Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -77,7 +77,7 @@
       "name": "grok-imagine-image-pro",
       "slug": "grok-imagine-image-pro",
       "creator": "xAI",
-      "score": 1214,
+      "score": 1215,
       "ci95": "-9/9"
     },
     {
@@ -85,7 +85,7 @@
       "name": "HiDream-O1-Image",
       "slug": "hidream-o1-image-wavespeed",
       "creator": "HiDream",
-      "score": 1213,
+      "score": 1212,
       "ci95": "-11/11"
     },
     {
@@ -93,7 +93,7 @@
       "name": "Luma UNI 1 Max",
       "slug": "luma-uni-1-max",
       "creator": "Luma Labs",
-      "score": 1209,
+      "score": 1210,
       "ci95": "-11/11"
     },
     {
@@ -101,7 +101,7 @@
       "name": "Kling Image 3.0 Omni",
       "slug": "kling-image-3-0-omni",
       "creator": "KlingAI",
-      "score": 1208,
+      "score": 1209,
       "ci95": "-9/9"
     },
     {
@@ -114,17 +114,17 @@
     },
     {
       "rank": 14,
-      "name": "Wan 2.7 Pro",
-      "slug": "wan-2-7-pro",
-      "creator": "Alibaba",
+      "name": "Kling Image 3.0",
+      "slug": "kling-image-3-0",
+      "creator": "KlingAI",
       "score": 1202,
       "ci95": "-9/9"
     },
     {
       "rank": 15,
-      "name": "Kling Image 3.0",
-      "slug": "kling-image-3-0",
-      "creator": "KlingAI",
+      "name": "Wan 2.7 Pro",
+      "slug": "wan-2-7-pro",
+      "creator": "Alibaba",
       "score": 1202,
       "ci95": "-9/9"
     },
@@ -162,18 +162,18 @@
     },
     {
       "rank": 20,
-      "name": "Wan 2.7",
-      "slug": "wan-2-7",
-      "creator": "Alibaba",
+      "name": "Riverflow 1",
+      "slug": "sourceful_riverflow",
+      "creator": "Sourceful",
       "score": 1185,
       "ci95": "-9/9"
     },
     {
       "rank": 21,
-      "name": "Riverflow 1",
-      "slug": "sourceful_riverflow",
-      "creator": "Sourceful",
-      "score": 1184,
+      "name": "Wan 2.7",
+      "slug": "wan-2-7",
+      "creator": "Alibaba",
+      "score": 1185,
       "ci95": "-9/9"
     },
     {
@@ -245,7 +245,7 @@
       "name": "Seedream 5.0 Lite",
       "slug": "seedream-5-0-lite",
       "creator": "Bytedance",
-      "score": 1159,
+      "score": 1160,
       "ci95": "-10/10"
     }
   ]
