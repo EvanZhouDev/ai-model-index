@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T11:17:05.120Z",
+  "generated_at": "2026-05-27T11:01:15.972Z",
   "limit": 30,
   "modality": "llm",
   "metric": "mmlu-pro",
@@ -144,29 +144,29 @@
     },
     {
       "rank": 20,
-      "name": "GPT-5.1 Codex (high)",
-      "slug": "gpt-5-1-codex",
-      "creator": "OpenAI",
-      "score": 0.86
-    },
-    {
-      "rank": 21,
       "name": "GPT-5 (low)",
       "slug": "gpt-5-low",
       "creator": "OpenAI",
       "score": 0.86
     },
     {
+      "rank": 21,
+      "name": "GPT-5.1 Codex (high)",
+      "slug": "gpt-5-1-codex",
+      "creator": "OpenAI",
+      "score": 0.86
+    },
+    {
       "rank": 22,
-      "name": "Claude 4.5 Sonnet (Non-reasoning)",
-      "slug": "claude-4-5-sonnet",
+      "name": "Claude 4 Opus (Non-reasoning)",
+      "slug": "claude-4-opus",
       "creator": "Anthropic",
       "score": 0.86
     },
     {
       "rank": 23,
-      "name": "Claude 4 Opus (Non-reasoning)",
-      "slug": "claude-4-opus",
+      "name": "Claude 4.5 Sonnet (Non-reasoning)",
+      "slug": "claude-4-5-sonnet",
       "creator": "Anthropic",
       "score": 0.86
     },
@@ -193,16 +193,16 @@
     },
     {
       "rank": 27,
-      "name": "Grok 4.1 Fast (Reasoning)",
-      "slug": "grok-4-1-fast-reasoning",
-      "creator": "xAI",
+      "name": "Doubao Seed Code",
+      "slug": "doubao-seed-code",
+      "creator": "ByteDance Seed",
       "score": 0.854
     },
     {
       "rank": 28,
-      "name": "Doubao Seed Code",
-      "slug": "doubao-seed-code",
-      "creator": "ByteDance Seed",
+      "name": "Grok 4.1 Fast (Reasoning)",
+      "slug": "grok-4-1-fast-reasoning",
+      "creator": "xAI",
       "score": 0.854
     },
     {
