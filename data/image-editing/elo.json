@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T09:25:22.486Z",
+  "generated_at": "2026-05-31T09:57:34.899Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -77,7 +77,7 @@
       "name": "grok-imagine-image",
       "slug": "grok-imagine-image",
       "creator": "xAI",
-      "score": 1213,
+      "score": 1214,
       "ci95": "-9/9"
     },
     {
@@ -93,7 +93,7 @@
       "name": "Kling Image 3.0 Omni",
       "slug": "kling-image-3-0-omni",
       "creator": "KlingAI",
-      "score": 1208,
+      "score": 1209,
       "ci95": "-9/9"
     },
     {
@@ -101,7 +101,7 @@
       "name": "FLUX.2 [max]",
       "slug": "black_forest_labs_flux-2-max",
       "creator": "Black Forest Labs",
-      "score": 1207,
+      "score": 1208,
       "ci95": "-10/10"
     },
     {
@@ -117,7 +117,7 @@
       "name": "Kling Image 3.0",
       "slug": "kling-image-3-0",
       "creator": "KlingAI",
-      "score": 1202,
+      "score": 1203,
       "ci95": "-9/9"
     },
     {
@@ -125,7 +125,7 @@
       "name": "Wan 2.7 Pro",
       "slug": "wan-2-7-pro",
       "creator": "Alibaba",
-      "score": 1200,
+      "score": 1201,
       "ci95": "-9/9"
     },
     {
@@ -154,19 +154,19 @@
     },
     {
       "rank": 19,
-      "name": "Seedream 4.0",
-      "slug": "bytedance-seed_seedream-4-0",
-      "creator": "ByteDance Seed",
-      "score": 1185,
-      "ci95": "-8/8"
-    },
-    {
-      "rank": 20,
       "name": "Seedream 4.5",
       "slug": "seedream-4-5",
       "creator": "ByteDance Seed",
       "score": 1185,
       "ci95": "-9/9"
+    },
+    {
+      "rank": 20,
+      "name": "Seedream 4.0",
+      "slug": "bytedance-seed_seedream-4-0",
+      "creator": "ByteDance Seed",
+      "score": 1185,
+      "ci95": "-8/8"
     },
     {
       "rank": 21,
@@ -213,7 +213,7 @@
       "name": "FLUX.2 [flex]",
       "slug": "flux_flux-2--flex",
       "creator": "Black Forest Labs",
-      "score": 1164,
+      "score": 1163,
       "ci95": "-9/9"
     },
     {
@@ -237,7 +237,7 @@
       "name": "FLUX.2 [klein] 9B",
       "slug": "flux_flux-2-klein-9b",
       "creator": "Black Forest Labs",
-      "score": 1160,
+      "score": 1161,
       "ci95": "-9/9"
     },
     {
