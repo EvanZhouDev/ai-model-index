@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T11:43:42.350Z",
+  "generated_at": "2026-06-03T12:12:38.525Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -13,7 +13,7 @@
       "name": "Riverflow 2.0",
       "slug": "sourceful_riverflow-2",
       "creator": "Sourceful",
-      "score": 1283,
+      "score": 1284,
       "ci95": "-9/9"
     },
     {
@@ -53,7 +53,7 @@
       "name": "grok-imagine-image-quality",
       "slug": "grok-imagine-image-quality",
       "creator": "xAI",
-      "score": 1231,
+      "score": 1230,
       "ci95": "-11/11"
     },
     {
@@ -93,7 +93,7 @@
       "name": "Kling Image 3.0 Omni",
       "slug": "kling-image-3-0-omni",
       "creator": "KlingAI",
-      "score": 1210,
+      "score": 1211,
       "ci95": "-9/9"
     },
     {
@@ -109,7 +109,7 @@
       "name": "HiDream-O1-Image",
       "slug": "hidream-o1-image-wavespeed",
       "creator": "HiDream",
-      "score": 1205,
+      "score": 1204,
       "ci95": "-11/11"
     },
     {
@@ -125,7 +125,7 @@
       "name": "Wan 2.7 Pro",
       "slug": "wan-2-7-pro",
       "creator": "Alibaba",
-      "score": 1200,
+      "score": 1201,
       "ci95": "-9/9"
     },
     {
@@ -133,7 +133,7 @@
       "name": "Kling Image O1",
       "slug": "kling-image-o1",
       "creator": "KlingAI",
-      "score": 1199,
+      "score": 1197,
       "ci95": "-9/9"
     },
     {
@@ -146,14 +146,6 @@
     },
     {
       "rank": 18,
-      "name": "Seedream 4.5",
-      "slug": "seedream-4-5",
-      "creator": "ByteDance Seed",
-      "score": 1185,
-      "ci95": "-9/9"
-    },
-    {
-      "rank": 19,
       "name": "Seedream 4.0",
       "slug": "bytedance-seed_seedream-4-0",
       "creator": "ByteDance Seed",
@@ -161,19 +153,27 @@
       "ci95": "-8/8"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Riverflow 1",
       "slug": "sourceful_riverflow",
       "creator": "Sourceful",
-      "score": 1185,
+      "score": 1184,
       "ci95": "-8/8"
+    },
+    {
+      "rank": 20,
+      "name": "Seedream 4.5",
+      "slug": "seedream-4-5",
+      "creator": "ByteDance Seed",
+      "score": 1184,
+      "ci95": "-9/9"
     },
     {
       "rank": 21,
       "name": "Wan 2.7",
       "slug": "wan-2-7",
       "creator": "Alibaba",
-      "score": 1184,
+      "score": 1183,
       "ci95": "-9/9"
     },
     {
@@ -197,7 +197,7 @@
       "name": "Nano Banana (Gemini 2.5 Flash Image)",
       "slug": "google_gemini-2-5-flash",
       "creator": "Google",
-      "score": 1175,
+      "score": 1176,
       "ci95": "-8/8"
     },
     {
@@ -221,7 +221,7 @@
       "name": "Eigen Image",
       "slug": "eigenai_eigen-image",
       "creator": "Eigen AI",
-      "score": 1160,
+      "score": 1161,
       "ci95": "-9/9"
     },
     {

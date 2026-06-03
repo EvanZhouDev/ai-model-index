@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T11:43:42.350Z",
+  "generated_at": "2026-06-03T12:12:38.525Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-coding",
@@ -172,52 +172,52 @@
     },
     {
       "rank": 24,
+      "name": "Qwen3.7 Plus",
+      "slug": "qwen3-7-plus",
+      "creator": "Alibaba",
+      "score": 46.5
+    },
+    {
+      "rank": 25,
       "name": "Gemini 3 Pro Preview (high)",
       "slug": "gemini-3-pro",
       "creator": "Google",
       "score": 46.5
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Claude Sonnet 4.6 (Non-reasoning, High Effort)",
       "slug": "claude-sonnet-4-6",
       "creator": "Anthropic",
       "score": 46.4
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "KAT Coder Pro V2",
       "slug": "kat-coder-pro-v2",
       "creator": "KwaiKAT",
       "score": 45.6
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "GPT-5.4 (low)",
       "slug": "gpt-5-4-low",
       "creator": "OpenAI",
       "score": 45.6
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "MiMo-V2.5-Pro",
       "slug": "mimo-v2-5-pro",
       "creator": "Xiaomi",
       "score": 45.5
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "GPT-5.5 Instant (May 2026)",
       "slug": "gpt-5-5-instant-05-26",
       "creator": "OpenAI",
       "score": 45.1
-    },
-    {
-      "rank": 30,
-      "name": "Gemini 3.5 Flash (high)",
-      "slug": "gemini-3-5-flash",
-      "creator": "Google",
-      "score": 45
     }
   ]
 }
