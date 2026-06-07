@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T09:30:57.473Z",
+  "generated_at": "2026-06-07T10:09:54.525Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -53,7 +53,7 @@
       "name": "grok-imagine-image-quality",
       "slug": "grok-imagine-image-quality",
       "creator": "xAI",
-      "score": 1239,
+      "score": 1240,
       "ci95": "-10/10"
     },
     {
@@ -93,7 +93,7 @@
       "name": "Kling Image 3.0 Omni",
       "slug": "kling-image-3-0-omni",
       "creator": "KlingAI",
-      "score": 1218,
+      "score": 1219,
       "ci95": "-9/9"
     },
     {
@@ -101,7 +101,7 @@
       "name": "FLUX.2 [max]",
       "slug": "black_forest_labs_flux-2-max",
       "creator": "Black Forest Labs",
-      "score": 1215,
+      "score": 1214,
       "ci95": "-9/9"
     },
     {
@@ -109,7 +109,7 @@
       "name": "HiDream-O1-Image",
       "slug": "hidream-o1-image-wavespeed",
       "creator": "HiDream",
-      "score": 1210,
+      "score": 1211,
       "ci95": "-10/10"
     },
     {
@@ -122,18 +122,18 @@
     },
     {
       "rank": 15,
-      "name": "Wan 2.7 Pro",
-      "slug": "wan-2-7-pro",
-      "creator": "Alibaba",
+      "name": "Kling Image O1",
+      "slug": "kling-image-o1",
+      "creator": "KlingAI",
       "score": 1207,
       "ci95": "-9/9"
     },
     {
       "rank": 16,
-      "name": "Kling Image O1",
-      "slug": "kling-image-o1",
-      "creator": "KlingAI",
-      "score": 1207,
+      "name": "Wan 2.7 Pro",
+      "slug": "wan-2-7-pro",
+      "creator": "Alibaba",
+      "score": 1206,
       "ci95": "-9/9"
     },
     {
@@ -229,7 +229,7 @@
       "name": "Seedream 5.0 Lite",
       "slug": "seedream-5-0-lite",
       "creator": "Bytedance",
-      "score": 1169,
+      "score": 1170,
       "ci95": "-9/9"
     },
     {
@@ -237,7 +237,7 @@
       "name": "FLUX.2 [klein] 9B",
       "slug": "flux_flux-2-klein-9b",
       "creator": "Black Forest Labs",
-      "score": 1168,
+      "score": 1167,
       "ci95": "-9/9"
     },
     {
