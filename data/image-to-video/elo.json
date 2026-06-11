@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T11:04:41.769Z",
+  "generated_at": "2026-06-11T11:49:44.286Z",
   "limit": 30,
   "modality": "image-to-video",
   "metric": "elo",
@@ -208,7 +208,7 @@
         },
         {
           "subject": "Indoor",
-          "score": 1331,
+          "score": 1332,
           "ci95": "-15/15"
         },
         {
@@ -253,7 +253,7 @@
         },
         {
           "format": "Multi-scene",
-          "score": 1015,
+          "score": 1016,
           "ci95": "-50/50"
         },
         {
@@ -303,7 +303,7 @@
         },
         {
           "subject": "Water",
-          "score": 1333,
+          "score": 1334,
           "ci95": "-22/22"
         }
       ]
@@ -348,7 +348,7 @@
         },
         {
           "subject": "Buildings",
-          "score": 1368,
+          "score": 1367,
           "ci95": "-19/19"
         },
         {
@@ -358,7 +358,7 @@
         },
         {
           "subject": "People",
-          "score": 1329,
+          "score": 1330,
           "ci95": "-16/16"
         },
         {
@@ -503,8 +503,8 @@
         },
         {
           "subject": "Action",
-          "score": 1357,
-          "ci95": "-26/26"
+          "score": 1358,
+          "ci95": "-25/25"
         },
         {
           "format": "Long prompt",
@@ -528,7 +528,7 @@
         },
         {
           "subject": "Fashion",
-          "score": 1336,
+          "score": 1337,
           "ci95": "-17/17"
         },
         {
@@ -543,7 +543,7 @@
         },
         {
           "subject": "Screens",
-          "score": 1376,
+          "score": 1377,
           "ci95": "-35/35"
         },
         {
@@ -598,7 +598,7 @@
         },
         {
           "subject": "Text",
-          "score": 1295,
+          "score": 1294,
           "ci95": "-15/15"
         },
         {
@@ -643,7 +643,7 @@
         },
         {
           "subject": "Sports",
-          "score": 1305,
+          "score": 1306,
           "ci95": "-19/19"
         },
         {
@@ -713,7 +713,7 @@
         },
         {
           "subject": "Outdoor",
-          "score": 1314,
+          "score": 1315,
           "ci95": "-11/11"
         },
         {
@@ -758,7 +758,7 @@
         },
         {
           "subject": "Technology",
-          "score": 1271,
+          "score": 1272,
           "ci95": "-18/18"
         },
         {
@@ -778,12 +778,12 @@
         },
         {
           "subject": "Indoor",
-          "score": 1309,
+          "score": 1310,
           "ci95": "-17/17"
         },
         {
           "subject": "People",
-          "score": 1307,
+          "score": 1308,
           "ci95": "-13/13"
         },
         {
@@ -793,7 +793,7 @@
         },
         {
           "subject": "Sports",
-          "score": 1293,
+          "score": 1294,
           "ci95": "-22/22"
         },
         {
@@ -843,7 +843,7 @@
         },
         {
           "subject": "Screens",
-          "score": 1329,
+          "score": 1330,
           "ci95": "-38/38"
         },
         {
@@ -988,7 +988,7 @@
         },
         {
           "subject": "Screens",
-          "score": 1318,
+          "score": 1317,
           "ci95": "-35/35"
         },
         {
@@ -1058,7 +1058,7 @@
         },
         {
           "style": "Fantasy",
-          "score": 1356,
+          "score": 1355,
           "ci95": "-35/35"
         },
         {
@@ -1133,12 +1133,12 @@
         },
         {
           "style": "Photorealistic",
-          "score": 1284,
+          "score": 1283,
           "ci95": "-11/11"
         },
         {
           "subject": "Screens",
-          "score": 1361,
+          "score": 1359,
           "ci95": "-37/37"
         },
         {
@@ -1158,7 +1158,7 @@
         },
         {
           "subject": "Outdoor",
-          "score": 1284,
+          "score": 1283,
           "ci95": "-12/12"
         },
         {
@@ -1169,7 +1169,7 @@
         {
           "subject": "Water",
           "score": 1305,
-          "ci95": "-23/23"
+          "ci95": "-22/22"
         }
       ]
     },
@@ -1243,7 +1243,7 @@
         },
         {
           "subject": "Weather and effects",
-          "score": 1288,
+          "score": 1287,
           "ci95": "-10/10"
         },
         {
@@ -1268,7 +1268,7 @@
         },
         {
           "format": "Multi-scene",
-          "score": 999,
+          "score": 998,
           "ci95": "-49/49"
         },
         {
@@ -1283,7 +1283,7 @@
         },
         {
           "style": "Photorealistic",
-          "score": 1282,
+          "score": 1281,
           "ci95": "-10/10"
         },
         {
@@ -1325,6 +1325,156 @@
     },
     {
       "rank": 10,
+      "name": "PixVerse V5.6",
+      "slug": "pixverse-v5-6",
+      "creator": "PixVerse",
+      "score": 1282,
+      "ci95": "-10/10",
+      "category_distribution": [
+        {
+          "subject": "Physics",
+          "score": 1261,
+          "ci95": "-16/16"
+        },
+        {
+          "format": "Moving camera",
+          "score": 1297,
+          "ci95": "-14/14"
+        },
+        {
+          "subject": "Text",
+          "score": 1254,
+          "ci95": "-17/17"
+        },
+        {
+          "subject": "Nature",
+          "score": 1276,
+          "ci95": "-13/13"
+        },
+        {
+          "subject": "Technology",
+          "score": 1269,
+          "ci95": "-17/17"
+        },
+        {
+          "style": "Fantasy",
+          "score": 1382,
+          "ci95": "-35/35"
+        },
+        {
+          "style": "Abstract",
+          "score": 1403,
+          "ci95": "-38/38"
+        },
+        {
+          "subject": "Buildings",
+          "score": 1311,
+          "ci95": "-15/15"
+        },
+        {
+          "subject": "Indoor",
+          "score": 1273,
+          "ci95": "-16/16"
+        },
+        {
+          "subject": "People",
+          "score": 1287,
+          "ci95": "-12/12"
+        },
+        {
+          "format": "Short prompt",
+          "score": 1289,
+          "ci95": "-10/10"
+        },
+        {
+          "subject": "Sports",
+          "score": 1287,
+          "ci95": "-21/21"
+        },
+        {
+          "subject": "Weather and effects",
+          "score": 1282,
+          "ci95": "-11/11"
+        },
+        {
+          "subject": "Action",
+          "score": 1324,
+          "ci95": "-26/26"
+        },
+        {
+          "format": "Long prompt",
+          "score": 1205,
+          "ci95": "-42/42"
+        },
+        {
+          "subject": "Food",
+          "score": 1301,
+          "ci95": "-26/26"
+        },
+        {
+          "subject": "Animals",
+          "score": 1248,
+          "ci95": "-23/23"
+        },
+        {
+          "format": "Multi-scene",
+          "score": 950,
+          "ci95": "-52/52"
+        },
+        {
+          "subject": "Fashion",
+          "score": 1271,
+          "ci95": "-17/17"
+        },
+        {
+          "style": "Cartoon and anime",
+          "score": 1369,
+          "ci95": "-39/39"
+        },
+        {
+          "style": "Photorealistic",
+          "score": 1276,
+          "ci95": "-11/11"
+        },
+        {
+          "subject": "Screens",
+          "score": 1314,
+          "ci95": "-35/35"
+        },
+        {
+          "style": "Sci Fi",
+          "score": 1318,
+          "ci95": "-55/55"
+        },
+        {
+          "subject": "Transport",
+          "score": 1280,
+          "ci95": "-19/19"
+        },
+        {
+          "style": "3D animation",
+          "score": 1356,
+          "ci95": "-34/34"
+        },
+        {
+          "subject": "Outdoor",
+          "score": 1285,
+          "ci95": "-12/12"
+        },
+        {
+          "subject": "Specific lighting",
+          "score": 1282,
+          "ci95": "-14/14"
+        },
+        {
+          "subject": "Water",
+          "score": 1264,
+          "ci95": "-22/22"
+        }
+      ]
+    },
+    {
+      "rank": 11,
       "name": "SkyReels V4",
       "slug": "skyreels-v4",
       "creator": "Skywork AI",
@@ -1378,7 +1528,7 @@
         },
         {
           "subject": "People",
-          "score": 1305,
+          "score": 1304,
           "ci95": "-15/15"
         },
         {
@@ -1388,7 +1538,7 @@
         },
         {
           "subject": "Sports",
-          "score": 1283,
+          "score": 1282,
           "ci95": "-25/25"
         },
         {
@@ -1423,17 +1573,17 @@
         },
         {
           "style": "Photorealistic",
-          "score": 1286,
+          "score": 1285,
           "ci95": "-13/13"
         },
         {
           "subject": "Screens",
-          "score": 1358,
+          "score": 1357,
           "ci95": "-43/43"
         },
         {
           "subject": "Transport",
-          "score": 1329,
+          "score": 1328,
           "ci95": "-23/23"
         },
         {
@@ -1448,163 +1598,13 @@
         },
         {
           "subject": "Specific lighting",
-          "score": 1279,
+          "score": 1278,
           "ci95": "-16/16"
         },
         {
           "subject": "Water",
           "score": 1270,
           "ci95": "-26/26"
-        }
-      ]
-    },
-    {
-      "rank": 11,
-      "name": "PixVerse V5.6",
-      "slug": "pixverse-v5-6",
-      "creator": "PixVerse",
-      "score": 1282,
-      "ci95": "-10/10",
-      "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1261,
-          "ci95": "-16/16"
-        },
-        {
-          "format": "Moving camera",
-          "score": 1297,
-          "ci95": "-14/14"
-        },
-        {
-          "subject": "Text",
-          "score": 1255,
-          "ci95": "-17/17"
-        },
-        {
-          "subject": "Nature",
-          "score": 1276,
-          "ci95": "-13/13"
-        },
-        {
-          "subject": "Technology",
-          "score": 1269,
-          "ci95": "-17/17"
-        },
-        {
-          "style": "Fantasy",
-          "score": 1382,
-          "ci95": "-35/35"
-        },
-        {
-          "style": "Abstract",
-          "score": 1403,
-          "ci95": "-38/38"
-        },
-        {
-          "subject": "Buildings",
-          "score": 1311,
-          "ci95": "-15/15"
-        },
-        {
-          "subject": "Indoor",
-          "score": 1274,
-          "ci95": "-16/16"
-        },
-        {
-          "subject": "People",
-          "score": 1288,
-          "ci95": "-12/12"
-        },
-        {
-          "format": "Short prompt",
-          "score": 1289,
-          "ci95": "-10/10"
-        },
-        {
-          "subject": "Sports",
-          "score": 1287,
-          "ci95": "-21/21"
-        },
-        {
-          "subject": "Weather and effects",
-          "score": 1282,
-          "ci95": "-11/11"
-        },
-        {
-          "subject": "Action",
-          "score": 1324,
-          "ci95": "-26/26"
-        },
-        {
-          "format": "Long prompt",
-          "score": 1205,
-          "ci95": "-42/42"
-        },
-        {
-          "subject": "Food",
-          "score": 1301,
-          "ci95": "-26/26"
-        },
-        {
-          "subject": "Animals",
-          "score": 1248,
-          "ci95": "-23/23"
-        },
-        {
-          "format": "Multi-scene",
-          "score": 950,
-          "ci95": "-52/52"
-        },
-        {
-          "subject": "Fashion",
-          "score": 1271,
-          "ci95": "-17/17"
-        },
-        {
-          "style": "Cartoon and anime",
-          "score": 1368,
-          "ci95": "-39/39"
-        },
-        {
-          "style": "Photorealistic",
-          "score": 1276,
-          "ci95": "-11/11"
-        },
-        {
-          "subject": "Screens",
-          "score": 1314,
-          "ci95": "-35/35"
-        },
-        {
-          "style": "Sci Fi",
-          "score": 1318,
-          "ci95": "-55/55"
-        },
-        {
-          "subject": "Transport",
-          "score": 1281,
-          "ci95": "-19/19"
-        },
-        {
-          "style": "3D animation",
-          "score": 1356,
-          "ci95": "-34/34"
-        },
-        {
-          "subject": "Outdoor",
-          "score": 1285,
-          "ci95": "-12/12"
-        },
-        {
-          "subject": "Specific lighting",
-          "score": 1282,
-          "ci95": "-14/14"
-        },
-        {
-          "subject": "Water",
-          "score": 1264,
-          "ci95": "-22/22"
         }
       ]
     },
@@ -1723,7 +1723,7 @@
         },
         {
           "subject": "Screens",
-          "score": 1283,
+          "score": 1284,
           "ci95": "-35/35"
         },
         {
@@ -1788,7 +1788,7 @@
         },
         {
           "subject": "Technology",
-          "score": 1292,
+          "score": 1291,
           "ci95": "-17/17"
         },
         {
@@ -1868,7 +1868,7 @@
         },
         {
           "style": "Photorealistic",
-          "score": 1274,
+          "score": 1273,
           "ci95": "-10/10"
         },
         {
@@ -1953,7 +1953,7 @@
         },
         {
           "subject": "Buildings",
-          "score": 1280,
+          "score": 1279,
           "ci95": "-14/14"
         },
         {
@@ -1978,7 +1978,7 @@
         },
         {
           "subject": "Weather and effects",
-          "score": 1274,
+          "score": 1273,
           "ci95": "-10/10"
         },
         {
@@ -1988,7 +1988,7 @@
         },
         {
           "subject": "Food",
-          "score": 1307,
+          "score": 1306,
           "ci95": "-25/25"
         },
         {
@@ -2003,12 +2003,12 @@
         },
         {
           "subject": "Fashion",
-          "score": 1267,
+          "score": 1266,
           "ci95": "-16/16"
         },
         {
           "style": "Cartoon and anime",
-          "score": 1355,
+          "score": 1357,
           "ci95": "-38/38"
         },
         {
@@ -2023,12 +2023,12 @@
         },
         {
           "style": "Sci Fi",
-          "score": 1220,
+          "score": 1216,
           "ci95": "-53/53"
         },
         {
           "subject": "Transport",
-          "score": 1273,
+          "score": 1271,
           "ci95": "-18/18"
         },
         {
@@ -2038,7 +2038,7 @@
         },
         {
           "subject": "Outdoor",
-          "score": 1267,
+          "score": 1266,
           "ci95": "-12/12"
         },
         {
@@ -2323,7 +2323,7 @@
         },
         {
           "subject": "Outdoor",
-          "score": 1282,
+          "score": 1281,
           "ci95": "-12/12"
         },
         {
@@ -2343,7 +2343,7 @@
       "name": "PixVerse V5",
       "slug": "pixverse-v5",
       "creator": "PixVerse",
-      "score": 1263,
+      "score": 1262,
       "ci95": "-9/9",
       "category_distribution": [
         {
@@ -2358,7 +2358,7 @@
         },
         {
           "subject": "Text",
-          "score": 1260,
+          "score": 1259,
           "ci95": "-16/16"
         },
         {
@@ -2388,7 +2388,7 @@
         },
         {
           "subject": "Indoor",
-          "score": 1274,
+          "score": 1273,
           "ci95": "-15/15"
         },
         {
@@ -2428,7 +2428,7 @@
         },
         {
           "subject": "Animals",
-          "score": 1281,
+          "score": 1280,
           "ci95": "-23/23"
         },
         {
@@ -2640,156 +2640,6 @@
     },
     {
       "rank": 19,
-      "name": "Kling 3.0 Omni 720p (Standard)",
-      "slug": "kling-o3-standard",
-      "creator": "KlingAI",
-      "score": 1262,
-      "ci95": "-10/10",
-      "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1243,
-          "ci95": "-16/16"
-        },
-        {
-          "format": "Moving camera",
-          "score": 1276,
-          "ci95": "-14/14"
-        },
-        {
-          "subject": "Text",
-          "score": 1253,
-          "ci95": "-17/17"
-        },
-        {
-          "subject": "Nature",
-          "score": 1254,
-          "ci95": "-13/13"
-        },
-        {
-          "subject": "Technology",
-          "score": 1254,
-          "ci95": "-17/17"
-        },
-        {
-          "style": "Fantasy",
-          "score": 1367,
-          "ci95": "-35/35"
-        },
-        {
-          "style": "Abstract",
-          "score": 1342,
-          "ci95": "-38/38"
-        },
-        {
-          "subject": "Buildings",
-          "score": 1298,
-          "ci95": "-15/15"
-        },
-        {
-          "subject": "Indoor",
-          "score": 1262,
-          "ci95": "-16/16"
-        },
-        {
-          "subject": "People",
-          "score": 1263,
-          "ci95": "-12/12"
-        },
-        {
-          "format": "Short prompt",
-          "score": 1267,
-          "ci95": "-10/10"
-        },
-        {
-          "subject": "Sports",
-          "score": 1255,
-          "ci95": "-21/21"
-        },
-        {
-          "subject": "Weather and effects",
-          "score": 1257,
-          "ci95": "-11/11"
-        },
-        {
-          "subject": "Action",
-          "score": 1339,
-          "ci95": "-27/27"
-        },
-        {
-          "format": "Long prompt",
-          "score": 1208,
-          "ci95": "-46/46"
-        },
-        {
-          "subject": "Food",
-          "score": 1271,
-          "ci95": "-26/26"
-        },
-        {
-          "subject": "Animals",
-          "score": 1276,
-          "ci95": "-24/24"
-        },
-        {
-          "format": "Multi-scene",
-          "score": 1049,
-          "ci95": "-54/54"
-        },
-        {
-          "subject": "Fashion",
-          "score": 1276,
-          "ci95": "-17/17"
-        },
-        {
-          "style": "Cartoon and anime",
-          "score": 1295,
-          "ci95": "-38/38"
-        },
-        {
-          "style": "Photorealistic",
-          "score": 1261,
-          "ci95": "-11/11"
-        },
-        {
-          "subject": "Screens",
-          "score": 1297,
-          "ci95": "-36/36"
-        },
-        {
-          "style": "Sci Fi",
-          "score": 1233,
-          "ci95": "-54/54"
-        },
-        {
-          "subject": "Transport",
-          "score": 1273,
-          "ci95": "-19/19"
-        },
-        {
-          "style": "3D animation",
-          "score": 1291,
-          "ci95": "-33/33"
-        },
-        {
-          "subject": "Outdoor",
-          "score": 1262,
-          "ci95": "-12/12"
-        },
-        {
-          "subject": "Specific lighting",
-          "score": 1242,
-          "ci95": "-14/14"
-        },
-        {
-          "subject": "Water",
-          "score": 1260,
-          "ci95": "-22/22"
-        }
-      ]
-    },
-    {
-      "rank": 20,
       "name": "Kling 3.0 720p (Standard)",
       "slug": "kling-3-0-standard",
       "creator": "KlingAI",
@@ -2934,6 +2784,156 @@
         {
           "subject": "Water",
           "score": 1279,
+          "ci95": "-22/22"
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "name": "Kling 3.0 Omni 720p (Standard)",
+      "slug": "kling-o3-standard",
+      "creator": "KlingAI",
+      "score": 1262,
+      "ci95": "-10/10",
+      "category_distribution": [
+        {
+          "subject": "Physics",
+          "score": 1243,
+          "ci95": "-16/16"
+        },
+        {
+          "format": "Moving camera",
+          "score": 1276,
+          "ci95": "-14/14"
+        },
+        {
+          "subject": "Text",
+          "score": 1253,
+          "ci95": "-17/17"
+        },
+        {
+          "subject": "Nature",
+          "score": 1254,
+          "ci95": "-13/13"
+        },
+        {
+          "subject": "Technology",
+          "score": 1253,
+          "ci95": "-17/17"
+        },
+        {
+          "style": "Fantasy",
+          "score": 1363,
+          "ci95": "-35/35"
+        },
+        {
+          "style": "Abstract",
+          "score": 1342,
+          "ci95": "-38/38"
+        },
+        {
+          "subject": "Buildings",
+          "score": 1297,
+          "ci95": "-15/15"
+        },
+        {
+          "subject": "Indoor",
+          "score": 1262,
+          "ci95": "-16/16"
+        },
+        {
+          "subject": "People",
+          "score": 1263,
+          "ci95": "-12/12"
+        },
+        {
+          "format": "Short prompt",
+          "score": 1267,
+          "ci95": "-10/10"
+        },
+        {
+          "subject": "Sports",
+          "score": 1255,
+          "ci95": "-21/21"
+        },
+        {
+          "subject": "Weather and effects",
+          "score": 1257,
+          "ci95": "-11/11"
+        },
+        {
+          "subject": "Action",
+          "score": 1339,
+          "ci95": "-27/27"
+        },
+        {
+          "format": "Long prompt",
+          "score": 1208,
+          "ci95": "-46/46"
+        },
+        {
+          "subject": "Food",
+          "score": 1271,
+          "ci95": "-26/26"
+        },
+        {
+          "subject": "Animals",
+          "score": 1276,
+          "ci95": "-24/24"
+        },
+        {
+          "format": "Multi-scene",
+          "score": 1049,
+          "ci95": "-54/54"
+        },
+        {
+          "subject": "Fashion",
+          "score": 1276,
+          "ci95": "-17/17"
+        },
+        {
+          "style": "Cartoon and anime",
+          "score": 1295,
+          "ci95": "-38/38"
+        },
+        {
+          "style": "Photorealistic",
+          "score": 1261,
+          "ci95": "-11/11"
+        },
+        {
+          "subject": "Screens",
+          "score": 1297,
+          "ci95": "-36/36"
+        },
+        {
+          "style": "Sci Fi",
+          "score": 1233,
+          "ci95": "-54/54"
+        },
+        {
+          "subject": "Transport",
+          "score": 1273,
+          "ci95": "-19/19"
+        },
+        {
+          "style": "3D animation",
+          "score": 1291,
+          "ci95": "-33/33"
+        },
+        {
+          "subject": "Outdoor",
+          "score": 1262,
+          "ci95": "-12/12"
+        },
+        {
+          "subject": "Specific lighting",
+          "score": 1242,
+          "ci95": "-14/14"
+        },
+        {
+          "subject": "Water",
+          "score": 1260,
           "ci95": "-22/22"
         }
       ]
@@ -3118,7 +3118,7 @@
         },
         {
           "subject": "Technology",
-          "score": 1252,
+          "score": 1251,
           "ci95": "-17/17"
         },
         {
@@ -3218,7 +3218,7 @@
         },
         {
           "subject": "Outdoor",
-          "score": 1262,
+          "score": 1261,
           "ci95": "-12/12"
         },
         {
@@ -3238,7 +3238,7 @@
       "name": "GenFlare",
       "slug": "genflare",
       "creator": "Baidu",
-      "score": 1260,
+      "score": 1261,
       "ci95": "-10/10",
       "category_distribution": [
         {
@@ -3298,7 +3298,7 @@
         },
         {
           "subject": "Sports",
-          "score": 1232,
+          "score": 1233,
           "ci95": "-22/22"
         },
         {
@@ -3358,7 +3358,7 @@
         },
         {
           "subject": "Specific lighting",
-          "score": 1252,
+          "score": 1253,
           "ci95": "-14/14"
         },
         {
@@ -3370,6 +3370,146 @@
     },
     {
       "rank": 24,
+      "name": "Runway Gen-4.5",
+      "slug": "runway-gen-4-5",
+      "creator": "Runway",
+      "score": 1257,
+      "ci95": "-10/10",
+      "category_distribution": [
+        {
+          "subject": "Physics",
+          "score": 1253,
+          "ci95": "-16/16"
+        },
+        {
+          "format": "Moving camera",
+          "score": 1276,
+          "ci95": "-14/14"
+        },
+        {
+          "subject": "Text",
+          "score": 1256,
+          "ci95": "-17/17"
+        },
+        {
+          "subject": "Nature",
+          "score": 1255,
+          "ci95": "-13/13"
+        },
+        {
+          "subject": "Technology",
+          "score": 1262,
+          "ci95": "-17/17"
+        },
+        {
+          "style": "Fantasy",
+          "score": 1414,
+          "ci95": "-35/35"
+        },
+        {
+          "style": "Abstract",
+          "score": 1345,
+          "ci95": "-37/37"
+        },
+        {
+          "subject": "Buildings",
+          "score": 1292,
+          "ci95": "-15/15"
+        },
+        {
+          "subject": "Indoor",
+          "score": 1260,
+          "ci95": "-16/16"
+        },
+        {
+          "subject": "People",
+          "score": 1246,
+          "ci95": "-12/12"
+        },
+        {
+          "format": "Short prompt",
+          "score": 1267,
+          "ci95": "-10/10"
+        },
+        {
+          "subject": "Sports",
+          "score": 1234,
+          "ci95": "-21/21"
+        },
+        {
+          "subject": "Weather and effects",
+          "score": 1258,
+          "ci95": "-10/10"
+        },
+        {
+          "subject": "Action",
+          "score": 1339,
+          "ci95": "-27/27"
+        },
+        {
+          "subject": "Food",
+          "score": 1290,
+          "ci95": "-26/26"
+        },
+        {
+          "subject": "Animals",
+          "score": 1256,
+          "ci95": "-24/24"
+        },
+        {
+          "subject": "Fashion",
+          "score": 1245,
+          "ci95": "-17/17"
+        },
+        {
+          "style": "Cartoon and anime",
+          "score": 1334,
+          "ci95": "-38/38"
+        },
+        {
+          "style": "Photorealistic",
+          "score": 1257,
+          "ci95": "-11/11"
+        },
+        {
+          "subject": "Screens",
+          "score": 1299,
+          "ci95": "-35/35"
+        },
+        {
+          "style": "Sci Fi",
+          "score": 1244,
+          "ci95": "-53/53"
+        },
+        {
+          "subject": "Transport",
+          "score": 1291,
+          "ci95": "-19/19"
+        },
+        {
+          "style": "3D animation",
+          "score": 1321,
+          "ci95": "-33/33"
+        },
+        {
+          "subject": "Outdoor",
+          "score": 1258,
+          "ci95": "-12/12"
+        },
+        {
+          "subject": "Specific lighting",
+          "score": 1257,
+          "ci95": "-13/13"
+        },
+        {
+          "subject": "Water",
+          "score": 1263,
+          "ci95": "-22/22"
+        }
+      ]
+    },
+    {
+      "rank": 25,
       "name": "Kling 2.6 Pro (January)",
       "slug": "kling-2-6-pro-january-no-audio",
       "creator": "KlingAI",
@@ -3388,7 +3528,7 @@
         },
         {
           "subject": "Text",
-          "score": 1252,
+          "score": 1251,
           "ci95": "-16/16"
         },
         {
@@ -3398,7 +3538,7 @@
         },
         {
           "subject": "Technology",
-          "score": 1253,
+          "score": 1252,
           "ci95": "-16/16"
         },
         {
@@ -3413,7 +3553,7 @@
         },
         {
           "subject": "Buildings",
-          "score": 1277,
+          "score": 1276,
           "ci95": "-14/14"
         },
         {
@@ -3428,7 +3568,7 @@
         },
         {
           "format": "Short prompt",
-          "score": 1260,
+          "score": 1259,
           "ci95": "-9/9"
         },
         {
@@ -3438,7 +3578,7 @@
         },
         {
           "subject": "Weather and effects",
-          "score": 1258,
+          "score": 1257,
           "ci95": "-10/10"
         },
         {
@@ -3519,146 +3659,6 @@
       ]
     },
     {
-      "rank": 25,
-      "name": "Runway Gen-4.5",
-      "slug": "runway-gen-4-5",
-      "creator": "Runway",
-      "score": 1257,
-      "ci95": "-10/10",
-      "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1252,
-          "ci95": "-16/16"
-        },
-        {
-          "format": "Moving camera",
-          "score": 1276,
-          "ci95": "-14/14"
-        },
-        {
-          "subject": "Text",
-          "score": 1256,
-          "ci95": "-17/17"
-        },
-        {
-          "subject": "Nature",
-          "score": 1255,
-          "ci95": "-13/13"
-        },
-        {
-          "subject": "Technology",
-          "score": 1262,
-          "ci95": "-17/17"
-        },
-        {
-          "style": "Fantasy",
-          "score": 1414,
-          "ci95": "-35/35"
-        },
-        {
-          "style": "Abstract",
-          "score": 1345,
-          "ci95": "-37/37"
-        },
-        {
-          "subject": "Buildings",
-          "score": 1292,
-          "ci95": "-15/15"
-        },
-        {
-          "subject": "Indoor",
-          "score": 1260,
-          "ci95": "-16/16"
-        },
-        {
-          "subject": "People",
-          "score": 1246,
-          "ci95": "-12/12"
-        },
-        {
-          "format": "Short prompt",
-          "score": 1267,
-          "ci95": "-10/10"
-        },
-        {
-          "subject": "Sports",
-          "score": 1234,
-          "ci95": "-21/21"
-        },
-        {
-          "subject": "Weather and effects",
-          "score": 1258,
-          "ci95": "-10/10"
-        },
-        {
-          "subject": "Action",
-          "score": 1339,
-          "ci95": "-27/27"
-        },
-        {
-          "subject": "Food",
-          "score": 1289,
-          "ci95": "-26/26"
-        },
-        {
-          "subject": "Animals",
-          "score": 1256,
-          "ci95": "-24/24"
-        },
-        {
-          "subject": "Fashion",
-          "score": 1245,
-          "ci95": "-17/17"
-        },
-        {
-          "style": "Cartoon and anime",
-          "score": 1334,
-          "ci95": "-38/38"
-        },
-        {
-          "style": "Photorealistic",
-          "score": 1257,
-          "ci95": "-11/11"
-        },
-        {
-          "subject": "Screens",
-          "score": 1299,
-          "ci95": "-35/35"
-        },
-        {
-          "style": "Sci Fi",
-          "score": 1244,
-          "ci95": "-53/53"
-        },
-        {
-          "subject": "Transport",
-          "score": 1291,
-          "ci95": "-19/19"
-        },
-        {
-          "style": "3D animation",
-          "score": 1321,
-          "ci95": "-33/33"
-        },
-        {
-          "subject": "Outdoor",
-          "score": 1258,
-          "ci95": "-12/12"
-        },
-        {
-          "subject": "Specific lighting",
-          "score": 1257,
-          "ci95": "-13/13"
-        },
-        {
-          "subject": "Water",
-          "score": 1264,
-          "ci95": "-22/22"
-        }
-      ]
-    },
-    {
       "rank": 26,
       "name": "Veo 3.1 Lite",
       "slug": "veo-3-1-lite",
@@ -3668,7 +3668,7 @@
       "category_distribution": [
         {
           "subject": "Physics",
-          "score": 1226,
+          "score": 1227,
           "ci95": "-17/17"
         },
         {
@@ -3683,7 +3683,7 @@
         },
         {
           "subject": "Nature",
-          "score": 1257,
+          "score": 1258,
           "ci95": "-14/14"
         },
         {
@@ -3693,7 +3693,7 @@
         },
         {
           "style": "Fantasy",
-          "score": 1343,
+          "score": 1342,
           "ci95": "-36/36"
         },
         {
@@ -3728,7 +3728,7 @@
         },
         {
           "subject": "Weather and effects",
-          "score": 1255,
+          "score": 1256,
           "ci95": "-11/11"
         },
         {
@@ -3743,7 +3743,7 @@
         },
         {
           "subject": "Food",
-          "score": 1278,
+          "score": 1279,
           "ci95": "-27/27"
         },
         {
@@ -3768,12 +3768,12 @@
         },
         {
           "style": "Photorealistic",
-          "score": 1251,
+          "score": 1252,
           "ci95": "-11/11"
         },
         {
           "subject": "Screens",
-          "score": 1258,
+          "score": 1256,
           "ci95": "-37/37"
         },
         {
@@ -3783,7 +3783,7 @@
         },
         {
           "subject": "Transport",
-          "score": 1260,
+          "score": 1259,
           "ci95": "-20/20"
         },
         {
@@ -3793,12 +3793,12 @@
         },
         {
           "subject": "Outdoor",
-          "score": 1260,
+          "score": 1261,
           "ci95": "-13/13"
         },
         {
           "subject": "Specific lighting",
-          "score": 1245,
+          "score": 1246,
           "ci95": "-14/14"
         },
         {
@@ -3838,7 +3838,7 @@
         },
         {
           "subject": "Technology",
-          "score": 1257,
+          "score": 1256,
           "ci95": "-17/17"
         },
         {
@@ -3853,7 +3853,7 @@
         },
         {
           "subject": "Buildings",
-          "score": 1279,
+          "score": 1278,
           "ci95": "-15/15"
         },
         {
@@ -3933,7 +3933,7 @@
         },
         {
           "subject": "Transport",
-          "score": 1260,
+          "score": 1259,
           "ci95": "-18/18"
         },
         {
@@ -3948,7 +3948,7 @@
         },
         {
           "subject": "Specific lighting",
-          "score": 1250,
+          "score": 1249,
           "ci95": "-13/13"
         },
         {
@@ -3983,7 +3983,7 @@
         },
         {
           "subject": "Nature",
-          "score": 1255,
+          "score": 1254,
           "ci95": "-12/12"
         },
         {
@@ -4003,7 +4003,7 @@
         },
         {
           "subject": "Buildings",
-          "score": 1289,
+          "score": 1288,
           "ci95": "-14/14"
         },
         {
@@ -4068,7 +4068,7 @@
         },
         {
           "subject": "Screens",
-          "score": 1286,
+          "score": 1285,
           "ci95": "-35/35"
         },
         {
@@ -4093,7 +4093,7 @@
         },
         {
           "subject": "Specific lighting",
-          "score": 1249,
+          "score": 1248,
           "ci95": "-13/13"
         },
         {
@@ -4138,7 +4138,7 @@
         },
         {
           "style": "Fantasy",
-          "score": 1313,
+          "score": 1317,
           "ci95": "-40/40"
         },
         {
@@ -4148,7 +4148,7 @@
         },
         {
           "subject": "Indoor",
-          "score": 1253,
+          "score": 1254,
           "ci95": "-19/19"
         },
         {
@@ -4163,12 +4163,12 @@
         },
         {
           "subject": "Sports",
-          "score": 1202,
+          "score": 1203,
           "ci95": "-25/25"
         },
         {
           "subject": "Weather and effects",
-          "score": 1251,
+          "score": 1252,
           "ci95": "-13/13"
         },
         {
@@ -4183,12 +4183,12 @@
         },
         {
           "subject": "Animals",
-          "score": 1228,
+          "score": 1229,
           "ci95": "-29/29"
         },
         {
           "subject": "Fashion",
-          "score": 1216,
+          "score": 1217,
           "ci95": "-20/20"
         },
         {
@@ -4198,17 +4198,17 @@
         },
         {
           "subject": "Screens",
-          "score": 1261,
+          "score": 1260,
           "ci95": "-42/42"
         },
         {
           "subject": "Transport",
-          "score": 1229,
+          "score": 1230,
           "ci95": "-22/22"
         },
         {
           "style": "3D animation",
-          "score": 1276,
+          "score": 1279,
           "ci95": "-39/39"
         },
         {
@@ -4218,7 +4218,7 @@
         },
         {
           "subject": "Specific lighting",
-          "score": 1245,
+          "score": 1244,
           "ci95": "-16/16"
         },
         {
@@ -4243,7 +4243,7 @@
         },
         {
           "format": "Moving camera",
-          "score": 1250,
+          "score": 1249,
           "ci95": "-14/14"
         },
         {
@@ -4313,12 +4313,12 @@
         },
         {
           "subject": "Animals",
-          "score": 1209,
+          "score": 1208,
           "ci95": "-23/23"
         },
         {
           "format": "Multi-scene",
-          "score": 907,
+          "score": 906,
           "ci95": "-58/58"
         },
         {
@@ -4328,7 +4328,7 @@
         },
         {
           "style": "Cartoon and anime",
-          "score": 1256,
+          "score": 1255,
           "ci95": "-37/37"
         },
         {
