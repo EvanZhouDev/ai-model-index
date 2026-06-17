@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T12:22:40.954Z",
+  "generated_at": "2026-06-17T11:57:15.908Z",
   "limit": 30,
   "modality": "llm",
   "metric": "gpqa",
@@ -172,52 +172,52 @@
     },
     {
       "rank": 24,
+      "name": "Kimi K2.7 Code",
+      "slug": "kimi-k2-7-code",
+      "creator": "Kimi",
+      "score": 0.896
+    },
+    {
+      "rank": 25,
       "name": "Claude Opus 4.6 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-opus-4-6-adaptive",
       "creator": "Anthropic",
       "score": 0.896
     },
     {
-      "rank": 25,
+      "rank": 26,
+      "name": "GLM-5.2 (max)",
+      "slug": "glm-5-2",
+      "creator": "Z AI",
+      "score": 0.895
+    },
+    {
+      "rank": 27,
       "name": "DeepSeek V4 Flash (Reasoning, Max Effort)",
       "slug": "deepseek-v4-flash",
       "creator": "DeepSeek",
       "score": 0.894
     },
     {
-      "rank": 26,
+      "rank": 28,
       "name": "Qwen3.5 397B A17B (Reasoning)",
       "slug": "qwen3-5-397b-a17b",
       "creator": "Alibaba",
       "score": 0.893
     },
     {
-      "rank": 27,
+      "rank": 29,
       "name": "Grok 4.3 (medium)",
       "slug": "grok-4-3-medium",
       "creator": "xAI",
       "score": 0.89
     },
     {
-      "rank": 28,
+      "rank": 30,
       "name": "DeepSeek V4 Pro (Reasoning, Max Effort)",
       "slug": "deepseek-v4-pro",
       "creator": "DeepSeek",
       "score": 0.888
-    },
-    {
-      "rank": 29,
-      "name": "Qwen3.6 Max Preview",
-      "slug": "qwen3-6-max",
-      "creator": "Alibaba",
-      "score": 0.888
-    },
-    {
-      "rank": 30,
-      "name": "Gemini 3 Pro Preview (low)",
-      "slug": "gemini-3-pro-low",
-      "creator": "Google",
-      "score": 0.887
     }
   ]
 }
