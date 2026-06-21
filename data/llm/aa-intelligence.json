@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T10:13:32.728Z",
+  "generated_at": "2026-06-21T10:47:54.029Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-intelligence",
@@ -60,24 +60,24 @@
     },
     {
       "rank": 8,
+      "name": "GPT-5.5 (medium)",
+      "slug": "gpt-5-5-medium",
+      "creator": "OpenAI",
+      "score": 50.4
+    },
+    {
+      "rank": 9,
       "name": "Gemini 3.5 Flash (high)",
       "slug": "gemini-3-5-flash",
       "creator": "Google",
       "score": 50.2
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Claude Sonnet 4.6 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-sonnet-4-6-adaptive",
       "creator": "Anthropic",
       "score": 47.2
-    },
-    {
-      "rank": 10,
-      "name": "GPT-5.5 (medium)",
-      "slug": "gpt-5-5-medium",
-      "creator": "OpenAI",
-      "score": 47.1
     },
     {
       "rank": 11,
@@ -130,52 +130,52 @@
     },
     {
       "rank": 18,
+      "name": "GPT-5.5 (low)",
+      "slug": "gpt-5-5-low",
+      "creator": "OpenAI",
+      "score": 43.5
+    },
+    {
+      "rank": 19,
       "name": "Muse Spark",
       "slug": "muse-spark",
       "creator": "Meta",
       "score": 43.1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Kimi K2.6",
       "slug": "kimi-k2-6",
       "creator": "Kimi",
       "score": 42.8
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Claude Opus 4.7 (Non-reasoning, High Effort)",
       "slug": "claude-opus-4-7-non-reasoning",
       "creator": "Anthropic",
       "score": 42.7
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "MiMo-V2.5-Pro",
       "slug": "mimo-v2-5-pro",
       "creator": "Xiaomi",
       "score": 42.2
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "GPT-5.2 (xhigh)",
       "slug": "gpt-5-2",
       "creator": "OpenAI",
       "score": 42.2
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Kimi K2.7 Code",
       "slug": "kimi-k2-7-code",
       "creator": "Kimi",
       "score": 41.9
-    },
-    {
-      "rank": 24,
-      "name": "GPT-5.5 (low)",
-      "slug": "gpt-5-5-low",
-      "creator": "OpenAI",
-      "score": 41.7
     },
     {
       "rank": 25,
