@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T10:47:54.029Z",
+  "generated_at": "2026-06-22T13:06:08.274Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -13,7 +13,7 @@
       "name": "Riverflow 2.0",
       "slug": "sourceful_riverflow-2",
       "creator": "Sourceful",
-      "score": 1291,
+      "score": 1292,
       "ci95": "-9/9"
     },
     {
@@ -45,8 +45,8 @@
       "name": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
       "slug": "nano-banana-2",
       "creator": "Google",
-      "score": 1248,
-      "ci95": "-9/9"
+      "score": 1247,
+      "ci95": "-8/8"
     },
     {
       "rank": 6,
@@ -69,7 +69,7 @@
       "name": "Luma UNI 1 Max",
       "slug": "luma-uni-1-max",
       "creator": "Luma Labs",
-      "score": 1225,
+      "score": 1226,
       "ci95": "-10/10"
     },
     {
@@ -106,19 +106,19 @@
     },
     {
       "rank": 13,
-      "name": "Kling Image 3.0",
-      "slug": "kling-image-3-0",
-      "creator": "KlingAI",
-      "score": 1209,
-      "ci95": "-9/9"
-    },
-    {
-      "rank": 14,
       "name": "HiDream-O1-Image",
       "slug": "hidream-o1-image",
       "creator": "HiDream",
       "score": 1209,
       "ci95": "-10/10"
+    },
+    {
+      "rank": 14,
+      "name": "Kling Image 3.0",
+      "slug": "kling-image-3-0",
+      "creator": "KlingAI",
+      "score": 1209,
+      "ci95": "-9/9"
     },
     {
       "rank": 15,
@@ -146,19 +146,19 @@
     },
     {
       "rank": 18,
-      "name": "Agnes Image 2.0 Flash",
-      "slug": "agnes-image-2-0-flash",
-      "creator": "Sapiens AI",
-      "score": 1192,
-      "ci95": "-9/9"
-    },
-    {
-      "rank": 19,
       "name": "Seedream 4.0",
       "slug": "bytedance-seed_seedream-4-0",
       "creator": "ByteDance Seed",
       "score": 1192,
       "ci95": "-8/8"
+    },
+    {
+      "rank": 19,
+      "name": "Agnes Image 2.0 Flash",
+      "slug": "agnes-image-2-0-flash",
+      "creator": "Sapiens AI",
+      "score": 1192,
+      "ci95": "-9/9"
     },
     {
       "rank": 20,
@@ -213,7 +213,7 @@
       "name": "Qwen Image 2.0 Pro (2026-04-22)",
       "slug": "qwen-image-2-0-pro-alibaba-cloud-may-2026",
       "creator": "Alibaba",
-      "score": 1174,
+      "score": 1173,
       "ci95": "-10/10"
     },
     {
