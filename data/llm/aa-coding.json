@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T10:43:58.544Z",
+  "generated_at": "2026-06-24T10:27:50.019Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-coding",
@@ -151,15 +151,15 @@
     },
     {
       "rank": 21,
-      "name": "GPT-5.4 mini (xhigh)",
-      "slug": "gpt-5-4-mini",
+      "name": "GPT-5.4 nano (xhigh)",
+      "slug": "gpt-5-4-nano",
       "creator": "OpenAI",
       "score": 56.1
     },
     {
       "rank": 22,
-      "name": "GPT-5.4 nano (xhigh)",
-      "slug": "gpt-5-4-nano",
+      "name": "GPT-5.4 mini (xhigh)",
+      "slug": "gpt-5-4-mini",
       "creator": "OpenAI",
       "score": 56.1
     },
@@ -207,17 +207,17 @@
     },
     {
       "rank": 29,
+      "name": "Grok Build 0.1 0616",
+      "slug": "grok-build-0-1-06-16",
+      "creator": "xAI",
+      "score": 51.5
+    },
+    {
+      "rank": 30,
       "name": "Nemotron 3 Ultra 550B A55B (Reasoning)",
       "slug": "nvidia-nemotron-3-ultra-550b-a55b",
       "creator": "NVIDIA",
       "score": 49.3
-    },
-    {
-      "rank": 30,
-      "name": "Qwen3.5 397B A17B (Reasoning)",
-      "slug": "qwen3-5-397b-a17b",
-      "creator": "Alibaba",
-      "score": 48.2
     }
   ]
 }
