@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T10:21:07.703Z",
+  "generated_at": "2026-06-26T10:29:08.932Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -36,7 +36,7 @@
       "rank": 4,
       "name": "MAI-Image-2.5",
       "slug": "mai-image-2-5",
-      "creator": "Microsoft",
+      "creator": "Microsoft AI",
       "score": 1251,
       "ci95": "-11/11"
     },
@@ -60,8 +60,8 @@
       "rank": 7,
       "name": "MAI-Image-2.5-Flash",
       "slug": "mai-image-2-5-flash",
-      "creator": "Microsoft",
-      "score": 1238,
+      "creator": "Microsoft AI",
+      "score": 1239,
       "ci95": "-11/11"
     },
     {
@@ -109,7 +109,7 @@
       "name": "grok-imagine-image",
       "slug": "grok-imagine-image",
       "creator": "xAI",
-      "score": 1217,
+      "score": 1218,
       "ci95": "-8/8"
     },
     {
@@ -141,7 +141,7 @@
       "name": "Kling Image O1",
       "slug": "kling-image-o1",
       "creator": "KlingAI",
-      "score": 1206,
+      "score": 1207,
       "ci95": "-8/8"
     },
     {
@@ -170,6 +170,14 @@
     },
     {
       "rank": 21,
+      "name": "Seedream 4.5",
+      "slug": "seedream-4-5",
+      "creator": "ByteDance Seed",
+      "score": 1191,
+      "ci95": "-8/8"
+    },
+    {
+      "rank": 22,
       "name": "Riverflow 1",
       "slug": "sourceful_riverflow",
       "creator": "Sourceful",
@@ -177,26 +185,18 @@
       "ci95": "-8/8"
     },
     {
-      "rank": 22,
-      "name": "Seedream 4.0",
-      "slug": "bytedance-seed_seedream-4-0",
-      "creator": "ByteDance Seed",
-      "score": 1190,
-      "ci95": "-8/8"
-    },
-    {
       "rank": 23,
-      "name": "Seedream 4.5",
-      "slug": "seedream-4-5",
-      "creator": "ByteDance Seed",
-      "score": 1190,
+      "name": "Wan 2.7",
+      "slug": "wan-2-7",
+      "creator": "Alibaba",
+      "score": 1189,
       "ci95": "-8/8"
     },
     {
       "rank": 24,
-      "name": "Wan 2.7",
-      "slug": "wan-2-7",
-      "creator": "Alibaba",
+      "name": "Seedream 4.0",
+      "slug": "bytedance-seed_seedream-4-0",
+      "creator": "ByteDance Seed",
       "score": 1189,
       "ci95": "-8/8"
     },
@@ -206,7 +206,7 @@
       "slug": "reve_reve-v1--december",
       "creator": "Reve",
       "score": 1186,
-      "ci95": "-9/9"
+      "ci95": "-8/8"
     },
     {
       "rank": 26,
@@ -245,7 +245,7 @@
       "name": "FLUX.2 [flex]",
       "slug": "flux_flux-2--flex",
       "creator": "Black Forest Labs",
-      "score": 1169,
+      "score": 1170,
       "ci95": "-8/8"
     }
   ]
