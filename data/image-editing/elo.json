@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T10:08:19.978Z",
+  "generated_at": "2026-06-29T12:11:45.724Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -53,7 +53,7 @@
       "name": "Nano Banana Pro (Gemini 3 Pro Image)",
       "slug": "gemini_nano-banana-pro",
       "creator": "Google",
-      "score": 1247,
+      "score": 1248,
       "ci95": "-8/8"
     },
     {
@@ -69,7 +69,7 @@
       "name": "grok-imagine-image-quality",
       "slug": "grok-imagine-image-quality",
       "creator": "xAI",
-      "score": 1235,
+      "score": 1234,
       "ci95": "-9/9"
     },
     {
@@ -133,7 +133,7 @@
       "name": "HiDream-O1-Image",
       "slug": "hidream-o1-image",
       "creator": "HiDream",
-      "score": 1207,
+      "score": 1208,
       "ci95": "-9/9"
     },
     {
@@ -178,14 +178,6 @@
     },
     {
       "rank": 22,
-      "name": "Seedream 4.0",
-      "slug": "bytedance-seed_seedream-4-0",
-      "creator": "ByteDance Seed",
-      "score": 1190,
-      "ci95": "-8/8"
-    },
-    {
-      "rank": 23,
       "name": "Wan 2.7",
       "slug": "wan-2-7",
       "creator": "Alibaba",
@@ -193,10 +185,18 @@
       "ci95": "-8/8"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Riverflow 1",
       "slug": "sourceful_riverflow",
       "creator": "Sourceful",
+      "score": 1190,
+      "ci95": "-8/8"
+    },
+    {
+      "rank": 24,
+      "name": "Seedream 4.0",
+      "slug": "bytedance-seed_seedream-4-0",
+      "creator": "ByteDance Seed",
       "score": 1190,
       "ci95": "-8/8"
     },
@@ -221,7 +221,7 @@
       "name": "FLUX.2 [pro]",
       "slug": "flux_flux-2--pro",
       "creator": "Black Forest Labs",
-      "score": 1180,
+      "score": 1181,
       "ci95": "-8/8"
     },
     {
@@ -237,7 +237,7 @@
       "name": "Seedream 5.0 Lite",
       "slug": "seedream-5-0-lite",
       "creator": "Bytedance",
-      "score": 1171,
+      "score": 1170,
       "ci95": "-8/8"
     },
     {
