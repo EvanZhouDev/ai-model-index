@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T12:11:45.724Z",
+  "generated_at": "2026-06-30T10:39:12.011Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -14,7 +14,7 @@
       "slug": "sourceful_riverflow-2",
       "creator": "Sourceful",
       "score": 1291,
-      "ci95": "-9/9"
+      "ci95": "-8/8"
     },
     {
       "rank": 2,
@@ -61,7 +61,7 @@
       "name": "MAI-Image-2.5-Flash",
       "slug": "mai-image-2-5-flash",
       "creator": "Microsoft AI",
-      "score": 1239,
+      "score": 1240,
       "ci95": "-11/11"
     },
     {
@@ -69,7 +69,7 @@
       "name": "grok-imagine-image-quality",
       "slug": "grok-imagine-image-quality",
       "creator": "xAI",
-      "score": 1234,
+      "score": 1235,
       "ci95": "-9/9"
     },
     {
@@ -77,7 +77,7 @@
       "name": "HunyuanImage 3.0 Instruct (Fal)",
       "slug": "tencent_hunyuanimage-3-0-instruct--fal",
       "creator": "Tencent",
-      "score": 1229,
+      "score": 1230,
       "ci95": "-8/8"
     },
     {
@@ -85,7 +85,7 @@
       "name": "Luma UNI 1 Max",
       "slug": "luma-uni-1-max",
       "creator": "Luma Labs",
-      "score": 1224,
+      "score": 1225,
       "ci95": "-10/10"
     },
     {
@@ -117,7 +117,7 @@
       "name": "FLUX.2 [max]",
       "slug": "black_forest_labs_flux-2-max",
       "creator": "Black Forest Labs",
-      "score": 1210,
+      "score": 1211,
       "ci95": "-9/9"
     },
     {
@@ -133,7 +133,7 @@
       "name": "HiDream-O1-Image",
       "slug": "hidream-o1-image",
       "creator": "HiDream",
-      "score": 1208,
+      "score": 1207,
       "ci95": "-9/9"
     },
     {
@@ -173,7 +173,7 @@
       "name": "Seedream 4.5",
       "slug": "seedream-4-5",
       "creator": "ByteDance Seed",
-      "score": 1191,
+      "score": 1190,
       "ci95": "-8/8"
     },
     {
@@ -186,17 +186,17 @@
     },
     {
       "rank": 23,
-      "name": "Riverflow 1",
-      "slug": "sourceful_riverflow",
-      "creator": "Sourceful",
+      "name": "Seedream 4.0",
+      "slug": "bytedance-seed_seedream-4-0",
+      "creator": "ByteDance Seed",
       "score": 1190,
       "ci95": "-8/8"
     },
     {
       "rank": 24,
-      "name": "Seedream 4.0",
-      "slug": "bytedance-seed_seedream-4-0",
-      "creator": "ByteDance Seed",
+      "name": "Riverflow 1",
+      "slug": "sourceful_riverflow",
+      "creator": "Sourceful",
       "score": 1190,
       "ci95": "-8/8"
     },
@@ -237,7 +237,7 @@
       "name": "Seedream 5.0 Lite",
       "slug": "seedream-5-0-lite",
       "creator": "Bytedance",
-      "score": 1170,
+      "score": 1171,
       "ci95": "-8/8"
     },
     {
