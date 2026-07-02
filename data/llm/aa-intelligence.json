@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T10:48:52.528Z",
+  "generated_at": "2026-07-02T10:14:33.746Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-intelligence",
@@ -186,37 +186,37 @@
     },
     {
       "rank": 26,
+      "name": "Claude Sonnet 5 (Non-reasoning, High Effort)",
+      "slug": "claude-sonnet-5-non-reasoning",
+      "creator": "Anthropic",
+      "score": 41.7
+    },
+    {
+      "rank": 27,
       "name": "Nex-N2-Pro",
       "slug": "nex-n2-pro",
       "creator": "Nex AGI",
       "score": 41
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "DeepSeek V4 Pro (Reasoning, High Effort)",
       "slug": "deepseek-v4-pro-high",
       "creator": "DeepSeek",
       "score": 40.8
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Claude Opus 4.5 (Reasoning)",
       "slug": "claude-opus-4-5-thinking",
       "creator": "Anthropic",
       "score": 40.8
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "DeepSeek V4 Flash (Reasoning, Max Effort)",
       "slug": "deepseek-v4-flash",
       "creator": "DeepSeek",
-      "score": 40.3
-    },
-    {
-      "rank": 30,
-      "name": "MiMo-V2-Pro",
-      "slug": "mimo-v2-pro",
-      "creator": "Xiaomi",
       "score": 40.3
     }
   ]
