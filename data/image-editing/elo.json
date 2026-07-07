@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T11:43:50.088Z",
+  "generated_at": "2026-07-07T10:32:43.010Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -45,7 +45,7 @@
       "name": "MAI-Image-2.5",
       "slug": "mai-image-2-5",
       "creator": "Microsoft AI",
-      "score": 1245,
+      "score": 1244,
       "ci95": "-10/10"
     },
     {
@@ -61,7 +61,7 @@
       "name": "MAI-Image-2.5-Flash",
       "slug": "mai-image-2-5-flash",
       "creator": "Microsoft AI",
-      "score": 1229,
+      "score": 1230,
       "ci95": "-10/10"
     },
     {
@@ -125,7 +125,7 @@
       "name": "Kling Image 3.0",
       "slug": "kling-image-3-0",
       "creator": "KlingAI",
-      "score": 1205,
+      "score": 1204,
       "ci95": "-8/8"
     },
     {
@@ -133,7 +133,7 @@
       "name": "FLUX.2 [max]",
       "slug": "black_forest_labs_flux-2-max",
       "creator": "Black Forest Labs",
-      "score": 1204,
+      "score": 1203,
       "ci95": "-8/8"
     },
     {
@@ -141,7 +141,7 @@
       "name": "Kling Image O1",
       "slug": "kling-image-o1",
       "creator": "KlingAI",
-      "score": 1202,
+      "score": 1203,
       "ci95": "-8/8"
     },
     {
@@ -173,7 +173,7 @@
       "name": "Wan 2.7",
       "slug": "wan-2-7",
       "creator": "Alibaba",
-      "score": 1185,
+      "score": 1186,
       "ci95": "-8/8"
     },
     {
@@ -181,7 +181,7 @@
       "name": "Seedream 4.5",
       "slug": "seedream-4-5",
       "creator": "ByteDance Seed",
-      "score": 1184,
+      "score": 1185,
       "ci95": "-8/8"
     },
     {
@@ -189,7 +189,7 @@
       "name": "Riverflow 1",
       "slug": "sourceful_riverflow",
       "creator": "Sourceful",
-      "score": 1184,
+      "score": 1183,
       "ci95": "-8/8"
     },
     {
@@ -197,7 +197,7 @@
       "name": "Seedream 4.0",
       "slug": "bytedance-seed_seedream-4-0",
       "creator": "ByteDance Seed",
-      "score": 1182,
+      "score": 1183,
       "ci95": "-7/7"
     },
     {
@@ -234,19 +234,19 @@
     },
     {
       "rank": 29,
+      "name": "Qwen Image 2.0 Pro (2026-04-22)",
+      "slug": "qwen-image-2-0-pro-alibaba-cloud-may-2026",
+      "creator": "Alibaba",
+      "score": 1165,
+      "ci95": "-9/9"
+    },
+    {
+      "rank": 30,
       "name": "FLUX.2 [flex]",
       "slug": "flux_flux-2--flex",
       "creator": "Black Forest Labs",
       "score": 1165,
       "ci95": "-8/8"
-    },
-    {
-      "rank": 30,
-      "name": "Qwen Image 2.0 Pro (2026-04-22)",
-      "slug": "qwen-image-2-0-pro-alibaba-cloud-may-2026",
-      "creator": "Alibaba",
-      "score": 1164,
-      "ci95": "-9/9"
     }
   ]
 }
