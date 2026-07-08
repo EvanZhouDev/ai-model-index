@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T10:32:43.010Z",
+  "generated_at": "2026-07-08T09:38:22.095Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -21,7 +21,7 @@
       "name": "GPT Image 2 (high)",
       "slug": "gpt-image-2",
       "creator": "OpenAI",
-      "score": 1255,
+      "score": 1254,
       "ci95": "-7/7"
     },
     {
@@ -34,19 +34,19 @@
     },
     {
       "rank": 4,
+      "name": "MAI-Image-2.5",
+      "slug": "mai-image-2-5",
+      "creator": "Microsoft AI",
+      "score": 1245,
+      "ci95": "-10/10"
+    },
+    {
+      "rank": 5,
       "name": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
       "slug": "nano-banana-2",
       "creator": "Google",
       "score": 1245,
       "ci95": "-8/8"
-    },
-    {
-      "rank": 5,
-      "name": "MAI-Image-2.5",
-      "slug": "mai-image-2-5",
-      "creator": "Microsoft AI",
-      "score": 1244,
-      "ci95": "-10/10"
     },
     {
       "rank": 6,
@@ -68,7 +68,7 @@
       "rank": 8,
       "name": "grok-imagine-image-quality",
       "slug": "grok-imagine-image-quality",
-      "creator": "xAI",
+      "creator": "SpaceXAI",
       "score": 1229,
       "ci95": "-9/9"
     },
@@ -85,14 +85,14 @@
       "name": "Luma UNI 1 Max",
       "slug": "luma-uni-1-max",
       "creator": "Luma Labs",
-      "score": 1219,
+      "score": 1220,
       "ci95": "-9/9"
     },
     {
       "rank": 11,
       "name": "grok-imagine-image-pro",
       "slug": "grok-imagine-image-pro",
-      "creator": "xAI",
+      "creator": "SpaceXAI",
       "score": 1215,
       "ci95": "-8/8"
     },
@@ -108,7 +108,7 @@
       "rank": 13,
       "name": "grok-imagine-image",
       "slug": "grok-imagine-image",
-      "creator": "xAI",
+      "creator": "SpaceXAI",
       "score": 1214,
       "ci95": "-8/8"
     },
@@ -189,7 +189,7 @@
       "name": "Riverflow 1",
       "slug": "sourceful_riverflow",
       "creator": "Sourceful",
-      "score": 1183,
+      "score": 1184,
       "ci95": "-8/8"
     },
     {
@@ -234,19 +234,19 @@
     },
     {
       "rank": 29,
-      "name": "Qwen Image 2.0 Pro (2026-04-22)",
-      "slug": "qwen-image-2-0-pro-alibaba-cloud-may-2026",
-      "creator": "Alibaba",
-      "score": 1165,
-      "ci95": "-9/9"
-    },
-    {
-      "rank": 30,
       "name": "FLUX.2 [flex]",
       "slug": "flux_flux-2--flex",
       "creator": "Black Forest Labs",
       "score": 1165,
       "ci95": "-8/8"
+    },
+    {
+      "rank": 30,
+      "name": "Qwen Image 2.0 Pro (2026-04-22)",
+      "slug": "qwen-image-2-0-pro-alibaba-cloud-may-2026",
+      "creator": "Alibaba",
+      "score": 1164,
+      "ci95": "-9/9"
     }
   ]
 }

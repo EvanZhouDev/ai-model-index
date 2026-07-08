@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T10:32:43.010Z",
+  "generated_at": "2026-07-08T09:38:22.095Z",
   "limit": 30,
   "modality": "llm",
   "metric": "scicode",
@@ -158,15 +158,15 @@
     },
     {
       "rank": 22,
-      "name": "GPT-5.4 (low)",
-      "slug": "gpt-5-4-low",
+      "name": "GPT-5.5 Instant (May 2026)",
+      "slug": "gpt-5-5-instant-05-26",
       "creator": "OpenAI",
       "score": 0.503
     },
     {
       "rank": 23,
-      "name": "GPT-5.5 Instant (May 2026)",
-      "slug": "gpt-5-5-instant-05-26",
+      "name": "GPT-5.4 (low)",
+      "slug": "gpt-5-4-low",
       "creator": "OpenAI",
       "score": 0.503
     },
@@ -174,7 +174,7 @@
       "rank": 24,
       "name": "Grok Build 0.1 0616",
       "slug": "grok-build-0-1-06-16",
-      "creator": "xAI",
+      "creator": "SpaceXAI",
       "score": 0.502
     },
     {
@@ -207,15 +207,15 @@
     },
     {
       "rank": 29,
-      "name": "Gemini 3 Pro Preview (low)",
-      "slug": "gemini-3-pro-low",
+      "name": "Gemini 3 Flash Preview (Non-reasoning)",
+      "slug": "gemini-3-flash",
       "creator": "Google",
       "score": 0.499
     },
     {
       "rank": 30,
-      "name": "Gemini 3 Flash Preview (Non-reasoning)",
-      "slug": "gemini-3-flash",
+      "name": "Gemini 3 Pro Preview (low)",
+      "slug": "gemini-3-pro-low",
       "creator": "Google",
       "score": 0.499
     }
