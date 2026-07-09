@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T09:38:22.095Z",
+  "generated_at": "2026-07-09T10:32:13.781Z",
   "limit": 30,
   "modality": "llm",
   "metric": "scicode",
@@ -67,101 +67,101 @@
     },
     {
       "rank": 9,
+      "name": "Grok 4.5 (high)",
+      "slug": "grok-4-5",
+      "creator": "SpaceXAI",
+      "score": 0.541
+    },
+    {
+      "rank": 10,
       "name": "Claude Sonnet 5 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-sonnet-5",
       "creator": "Anthropic",
       "score": 0.536
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "GPT-5.5 (medium)",
       "slug": "gpt-5-5-medium",
       "creator": "OpenAI",
       "score": 0.535
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Claude Opus 4.8 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-opus-4-8",
       "creator": "Anthropic",
       "score": 0.535
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Kimi K2.6",
       "slug": "kimi-k2-6",
       "creator": "Kimi",
       "score": 0.535
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "GPT-5.3 Codex (xhigh)",
       "slug": "gpt-5-3-codex",
       "creator": "OpenAI",
       "score": 0.532
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Gemini 3.5 Flash (high)",
       "slug": "gemini-3-5-flash",
       "creator": "Google",
       "score": 0.531
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Gemini 3.5 Flash (medium)",
       "slug": "gemini-3-5-flash-medium",
       "creator": "Google",
       "score": 0.53
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "GPT-5.2 (xhigh)",
       "slug": "gpt-5-2",
       "creator": "OpenAI",
       "score": 0.521
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Claude Opus 4.6 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-opus-4-6-adaptive",
       "creator": "Anthropic",
       "score": 0.519
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "GPT-5.5 (low)",
       "slug": "gpt-5-5-low",
       "creator": "OpenAI",
       "score": 0.516
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Muse Spark",
       "slug": "muse-spark",
       "creator": "Meta",
       "score": 0.515
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Gemini 3 Flash Preview (Reasoning)",
       "slug": "gemini-3-flash-reasoning",
       "creator": "Google",
       "score": 0.506
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "GLM-5.2 (max)",
       "slug": "glm-5-2",
       "creator": "Z AI",
       "score": 0.505
-    },
-    {
-      "rank": 22,
-      "name": "GPT-5.5 Instant (May 2026)",
-      "slug": "gpt-5-5-instant-05-26",
-      "creator": "OpenAI",
-      "score": 0.503
     },
     {
       "rank": 23,
@@ -172,44 +172,44 @@
     },
     {
       "rank": 24,
+      "name": "GPT-5.5 Instant (May 2026)",
+      "slug": "gpt-5-5-instant-05-26",
+      "creator": "OpenAI",
+      "score": 0.503
+    },
+    {
+      "rank": 25,
       "name": "Grok Build 0.1 0616",
       "slug": "grok-build-0-1-06-16",
       "creator": "SpaceXAI",
       "score": 0.502
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "MiMo-V2.5-Pro",
       "slug": "mimo-v2-5-pro",
       "creator": "Xiaomi",
       "score": 0.502
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Claude Opus 4.7 (Non-reasoning, High Effort)",
       "slug": "claude-opus-4-7-non-reasoning",
       "creator": "Anthropic",
       "score": 0.501
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "DeepSeek V4 Pro (Reasoning, Max Effort)",
       "slug": "deepseek-v4-pro",
       "creator": "DeepSeek",
       "score": 0.5
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "GPT-5.4 mini (xhigh)",
       "slug": "gpt-5-4-mini",
       "creator": "OpenAI",
-      "score": 0.499
-    },
-    {
-      "rank": 29,
-      "name": "Gemini 3 Flash Preview (Non-reasoning)",
-      "slug": "gemini-3-flash",
-      "creator": "Google",
       "score": 0.499
     },
     {

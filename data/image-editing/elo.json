@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T09:38:22.095Z",
+  "generated_at": "2026-07-09T10:32:13.781Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -21,7 +21,7 @@
       "name": "GPT Image 2 (high)",
       "slug": "gpt-image-2",
       "creator": "OpenAI",
-      "score": 1254,
+      "score": 1255,
       "ci95": "-7/7"
     },
     {
@@ -34,19 +34,19 @@
     },
     {
       "rank": 4,
-      "name": "MAI-Image-2.5",
-      "slug": "mai-image-2-5",
-      "creator": "Microsoft AI",
-      "score": 1245,
-      "ci95": "-10/10"
-    },
-    {
-      "rank": 5,
       "name": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
       "slug": "nano-banana-2",
       "creator": "Google",
-      "score": 1245,
+      "score": 1246,
       "ci95": "-8/8"
+    },
+    {
+      "rank": 5,
+      "name": "MAI-Image-2.5",
+      "slug": "mai-image-2-5",
+      "creator": "Microsoft AI",
+      "score": 1244,
+      "ci95": "-10/10"
     },
     {
       "rank": 6,
@@ -61,7 +61,7 @@
       "name": "MAI-Image-2.5-Flash",
       "slug": "mai-image-2-5-flash",
       "creator": "Microsoft AI",
-      "score": 1230,
+      "score": 1229,
       "ci95": "-10/10"
     },
     {
@@ -133,7 +133,7 @@
       "name": "FLUX.2 [max]",
       "slug": "black_forest_labs_flux-2-max",
       "creator": "Black Forest Labs",
-      "score": 1203,
+      "score": 1204,
       "ci95": "-8/8"
     },
     {
@@ -141,7 +141,7 @@
       "name": "Kling Image O1",
       "slug": "kling-image-o1",
       "creator": "KlingAI",
-      "score": 1203,
+      "score": 1202,
       "ci95": "-8/8"
     },
     {
@@ -162,22 +162,30 @@
     },
     {
       "rank": 20,
-      "name": "Agnes Image 2.0 Flash",
-      "slug": "agnes-image-2-0-flash",
-      "creator": "Sapiens AI",
-      "score": 1186,
-      "ci95": "-9/9"
+      "name": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
+      "slug": "nano-banana-2-lite",
+      "creator": "Google",
+      "score": 1188,
+      "ci95": "-10/10"
     },
     {
       "rank": 21,
       "name": "Wan 2.7",
       "slug": "wan-2-7",
       "creator": "Alibaba",
-      "score": 1186,
+      "score": 1187,
       "ci95": "-8/8"
     },
     {
       "rank": 22,
+      "name": "Agnes Image 2.0 Flash",
+      "slug": "agnes-image-2-0-flash",
+      "creator": "Sapiens AI",
+      "score": 1185,
+      "ci95": "-9/9"
+    },
+    {
+      "rank": 23,
       "name": "Seedream 4.5",
       "slug": "seedream-4-5",
       "creator": "ByteDance Seed",
@@ -185,7 +193,7 @@
       "ci95": "-8/8"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Riverflow 1",
       "slug": "sourceful_riverflow",
       "creator": "Sourceful",
@@ -193,7 +201,7 @@
       "ci95": "-8/8"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Seedream 4.0",
       "slug": "bytedance-seed_seedream-4-0",
       "creator": "ByteDance Seed",
@@ -201,7 +209,7 @@
       "ci95": "-7/7"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Reve V1 (December)",
       "slug": "reve_reve-v1--december",
       "creator": "Reve",
@@ -209,7 +217,7 @@
       "ci95": "-8/8"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Nano Banana (Gemini 2.5 Flash Image)",
       "slug": "google_gemini-2-5-flash",
       "creator": "Google",
@@ -217,7 +225,7 @@
       "ci95": "-8/8"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "FLUX.2 [pro]",
       "slug": "flux_flux-2--pro",
       "creator": "Black Forest Labs",
@@ -225,7 +233,7 @@
       "ci95": "-8/8"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Seedream 5.0 Lite",
       "slug": "seedream-5-0-lite",
       "creator": "Bytedance",
@@ -233,19 +241,11 @@
       "ci95": "-8/8"
     },
     {
-      "rank": 29,
-      "name": "FLUX.2 [flex]",
-      "slug": "flux_flux-2--flex",
-      "creator": "Black Forest Labs",
-      "score": 1165,
-      "ci95": "-8/8"
-    },
-    {
       "rank": 30,
       "name": "Qwen Image 2.0 Pro (2026-04-22)",
       "slug": "qwen-image-2-0-pro-alibaba-cloud-may-2026",
       "creator": "Alibaba",
-      "score": 1164,
+      "score": 1165,
       "ci95": "-9/9"
     }
   ]
