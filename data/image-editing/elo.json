@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T10:32:13.781Z",
+  "generated_at": "2026-07-10T10:29:37.235Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -45,7 +45,7 @@
       "name": "MAI-Image-2.5",
       "slug": "mai-image-2-5",
       "creator": "Microsoft AI",
-      "score": 1244,
+      "score": 1245,
       "ci95": "-10/10"
     },
     {
@@ -85,7 +85,7 @@
       "name": "Luma UNI 1 Max",
       "slug": "luma-uni-1-max",
       "creator": "Luma Labs",
-      "score": 1220,
+      "score": 1221,
       "ci95": "-9/9"
     },
     {
@@ -93,7 +93,7 @@
       "name": "grok-imagine-image-pro",
       "slug": "grok-imagine-image-pro",
       "creator": "SpaceXAI",
-      "score": 1215,
+      "score": 1216,
       "ci95": "-8/8"
     },
     {
@@ -109,7 +109,7 @@
       "name": "grok-imagine-image",
       "slug": "grok-imagine-image",
       "creator": "SpaceXAI",
-      "score": 1214,
+      "score": 1213,
       "ci95": "-8/8"
     },
     {
@@ -133,7 +133,7 @@
       "name": "FLUX.2 [max]",
       "slug": "black_forest_labs_flux-2-max",
       "creator": "Black Forest Labs",
-      "score": 1204,
+      "score": 1203,
       "ci95": "-8/8"
     },
     {
@@ -149,7 +149,7 @@
       "name": "Wan 2.7 Pro",
       "slug": "wan-2-7-pro",
       "creator": "Alibaba",
-      "score": 1198,
+      "score": 1199,
       "ci95": "-8/8"
     },
     {
@@ -165,7 +165,7 @@
       "name": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "slug": "nano-banana-2-lite",
       "creator": "Google",
-      "score": 1188,
+      "score": 1187,
       "ci95": "-10/10"
     },
     {
@@ -242,11 +242,11 @@
     },
     {
       "rank": 30,
-      "name": "Qwen Image 2.0 Pro (2026-04-22)",
-      "slug": "qwen-image-2-0-pro-alibaba-cloud-may-2026",
-      "creator": "Alibaba",
+      "name": "FLUX.2 [flex]",
+      "slug": "flux_flux-2--flex",
+      "creator": "Black Forest Labs",
       "score": 1165,
-      "ci95": "-9/9"
+      "ci95": "-8/8"
     }
   ]
 }
