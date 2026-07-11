@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T10:29:37.235Z",
+  "generated_at": "2026-07-11T08:59:32.918Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-intelligence",
@@ -123,100 +123,100 @@
     },
     {
       "rank": 17,
+      "name": "Muse Spark 1.1 (xhigh)",
+      "slug": "muse-spark-1-1",
+      "creator": "Meta",
+      "score": 50.6
+    },
+    {
+      "rank": 18,
       "name": "GPT-5.5 (medium)",
       "slug": "gpt-5-5-medium",
       "creator": "OpenAI",
       "score": 50.4
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Gemini 3.5 Flash (high)",
       "slug": "gemini-3-5-flash",
       "creator": "Google",
       "score": 50.2
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "GPT-5.6 Sol (low)",
       "slug": "gpt-5-6-sol-low",
       "creator": "OpenAI",
       "score": 49.4
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "GPT-5.6 Luna (xhigh)",
       "slug": "gpt-5-6-luna-xhigh",
       "creator": "OpenAI",
       "score": 49.1
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "GPT-5.6 Terra (high)",
       "slug": "gpt-5-6-terra-high",
       "creator": "OpenAI",
       "score": 49
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Claude Sonnet 4.6 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-sonnet-4-6-adaptive",
       "creator": "Anthropic",
       "score": 47.2
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Gemini 3.1 Pro Preview",
       "slug": "gemini-3-1-pro-preview",
       "creator": "Google",
       "score": 46.5
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "GPT-5.6 Luna (high)",
       "slug": "gpt-5-6-luna-high",
       "creator": "OpenAI",
       "score": 46.1
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Qwen3.7 Max",
       "slug": "qwen3-7-max",
       "creator": "Alibaba",
       "score": 46
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "GPT-5.6 Terra (medium)",
       "slug": "gpt-5-6-terra-medium",
       "creator": "OpenAI",
       "score": 45.6
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Gemini 3.5 Flash (medium)",
       "slug": "gemini-3-5-flash-medium",
       "creator": "Google",
       "score": 45.4
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "MiniMax-M3",
       "slug": "minimax-m3",
       "creator": "MiniMax",
       "score": 44.4
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "GPT-5.3 Codex (xhigh)",
       "slug": "gpt-5-3-codex",
       "creator": "OpenAI",
-      "score": 44.3
-    },
-    {
-      "rank": 30,
-      "name": "DeepSeek V4 Pro (Reasoning, Max Effort)",
-      "slug": "deepseek-v4-pro",
-      "creator": "DeepSeek",
       "score": 44.3
     }
   ]
