@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T09:17:50.736Z",
+  "generated_at": "2026-07-15T09:22:01.019Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -13,7 +13,7 @@
       "name": "Riverflow 2.0",
       "slug": "sourceful_riverflow-2",
       "creator": "Sourceful",
-      "score": 1282,
+      "score": 1283,
       "ci95": "-8/8"
     },
     {
@@ -61,7 +61,7 @@
       "name": "grok-imagine-image-quality",
       "slug": "grok-imagine-image-quality",
       "creator": "SpaceXAI",
-      "score": 1229,
+      "score": 1230,
       "ci95": "-9/9"
     },
     {
@@ -69,7 +69,7 @@
       "name": "MAI-Image-2.5-Flash",
       "slug": "mai-image-2-5-flash",
       "creator": "Microsoft AI",
-      "score": 1227,
+      "score": 1228,
       "ci95": "-10/10"
     },
     {
@@ -122,6 +122,14 @@
     },
     {
       "rank": 15,
+      "name": "Kling Image 3.0",
+      "slug": "kling-image-3-0",
+      "creator": "KlingAI",
+      "score": 1204,
+      "ci95": "-8/8"
+    },
+    {
+      "rank": 16,
       "name": "HiDream-O1-Image",
       "slug": "hidream-o1-image",
       "creator": "HiDream",
@@ -129,19 +137,11 @@
       "ci95": "-9/9"
     },
     {
-      "rank": 16,
-      "name": "Kling Image 3.0",
-      "slug": "kling-image-3-0",
-      "creator": "KlingAI",
-      "score": 1203,
-      "ci95": "-8/8"
-    },
-    {
       "rank": 17,
       "name": "Kling Image O1",
       "slug": "kling-image-o1",
       "creator": "KlingAI",
-      "score": 1202,
+      "score": 1203,
       "ci95": "-8/8"
     },
     {
@@ -149,7 +149,7 @@
       "name": "Wan 2.7 Pro",
       "slug": "wan-2-7-pro",
       "creator": "Alibaba",
-      "score": 1198,
+      "score": 1199,
       "ci95": "-8/8"
     },
     {
@@ -189,7 +189,7 @@
       "name": "Agnes Image 2.0 Flash",
       "slug": "agnes-image-2-0-flash",
       "creator": "Sapiens AI",
-      "score": 1183,
+      "score": 1184,
       "ci95": "-9/9"
     },
     {
@@ -197,7 +197,7 @@
       "name": "Riverflow 1",
       "slug": "sourceful_riverflow",
       "creator": "Sourceful",
-      "score": 1183,
+      "score": 1184,
       "ci95": "-8/8"
     },
     {
@@ -214,7 +214,7 @@
       "slug": "google_gemini-2-5-flash",
       "creator": "Google",
       "score": 1177,
-      "ci95": "-8/8"
+      "ci95": "-7/7"
     },
     {
       "rank": 27,
@@ -229,7 +229,7 @@
       "name": "FLUX.2 [pro]",
       "slug": "flux_flux-2--pro",
       "creator": "Black Forest Labs",
-      "score": 1172,
+      "score": 1173,
       "ci95": "-8/8"
     },
     {
