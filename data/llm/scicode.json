@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T09:29:25.389Z",
+  "generated_at": "2026-07-17T09:21:44.660Z",
   "limit": 30,
   "modality": "llm",
   "metric": "scicode",
@@ -25,38 +25,38 @@
     },
     {
       "rank": 3,
+      "name": "Kimi K3",
+      "slug": "kimi-k3",
+      "creator": "Kimi",
+      "score": 0.587
+    },
+    {
+      "rank": 4,
       "name": "Muse Spark 1.1 (xhigh)",
       "slug": "muse-spark-1-1",
       "creator": "Meta",
       "score": 0.582
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "GPT-5.6 Sol (high)",
       "slug": "gpt-5-6-sol-high",
       "creator": "OpenAI",
       "score": 0.569
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "GPT-5.4 (xhigh)",
       "slug": "gpt-5-4",
       "creator": "OpenAI",
       "score": 0.566
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "GPT-5.6 Sol (medium)",
       "slug": "gpt-5-6-sol-medium",
       "creator": "OpenAI",
       "score": 0.565
-    },
-    {
-      "rank": 7,
-      "name": "GPT-5.5 (xhigh)",
-      "slug": "gpt-5-5",
-      "creator": "OpenAI",
-      "score": 0.561
     },
     {
       "rank": 8,
@@ -67,157 +67,157 @@
     },
     {
       "rank": 9,
+      "name": "GPT-5.5 (xhigh)",
+      "slug": "gpt-5-5",
+      "creator": "OpenAI",
+      "score": 0.561
+    },
+    {
+      "rank": 10,
       "name": "Gemini 3 Pro Preview (high)",
       "slug": "gemini-3-pro",
       "creator": "Google",
       "score": 0.561
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "GPT-5.6 Sol (xhigh)",
       "slug": "gpt-5-6-sol-xhigh",
       "creator": "OpenAI",
       "score": 0.56
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "GPT-5.5 (high)",
       "slug": "gpt-5-5-high",
       "creator": "OpenAI",
       "score": 0.559
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "GPT-5.6 Sol (low)",
       "slug": "gpt-5-6-sol-low",
       "creator": "OpenAI",
       "score": 0.554
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "GPT-5.2 Codex (xhigh)",
       "slug": "gpt-5-2-codex",
       "creator": "OpenAI",
       "score": 0.546
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Claude Opus 4.7 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-opus-4-7",
       "creator": "Anthropic",
       "score": 0.545
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Grok 4.5 (high)",
       "slug": "grok-4-5",
       "creator": "SpaceXAI",
       "score": 0.541
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "GPT-5.6 Terra (max)",
       "slug": "gpt-5-6-terra",
       "creator": "OpenAI",
       "score": 0.539
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Claude Sonnet 5 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-sonnet-5",
       "creator": "Anthropic",
       "score": 0.536
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "GPT-5.5 (medium)",
       "slug": "gpt-5-5-medium",
       "creator": "OpenAI",
       "score": 0.535
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Claude Opus 4.8 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-opus-4-8",
       "creator": "Anthropic",
       "score": 0.535
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Kimi K2.6",
       "slug": "kimi-k2-6",
       "creator": "Kimi",
       "score": 0.535
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "GPT-5.3 Codex (xhigh)",
       "slug": "gpt-5-3-codex",
       "creator": "OpenAI",
       "score": 0.532
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Gemini 3.5 Flash (high)",
       "slug": "gemini-3-5-flash",
       "creator": "Google",
       "score": 0.531
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Gemini 3.5 Flash (medium)",
       "slug": "gemini-3-5-flash-medium",
       "creator": "Google",
       "score": 0.53
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "GPT-5.6 Luna (max)",
       "slug": "gpt-5-6-luna",
       "creator": "OpenAI",
       "score": 0.525
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "GPT-5.2 (xhigh)",
       "slug": "gpt-5-2",
       "creator": "OpenAI",
       "score": 0.521
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Claude Opus 4.6 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-opus-4-6-adaptive",
       "creator": "Anthropic",
       "score": 0.519
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "GPT-5.6 Terra (xhigh)",
       "slug": "gpt-5-6-terra-xhigh",
       "creator": "OpenAI",
       "score": 0.516
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "GPT-5.5 (low)",
       "slug": "gpt-5-5-low",
       "creator": "OpenAI",
       "score": 0.516
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Muse Spark",
       "slug": "muse-spark",
       "creator": "Meta",
       "score": 0.515
-    },
-    {
-      "rank": 30,
-      "name": "GPT-5.6 Luna (high)",
-      "slug": "gpt-5-6-luna-high",
-      "creator": "OpenAI",
-      "score": 0.507
     }
   ]
 }
