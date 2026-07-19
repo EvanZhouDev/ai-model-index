@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T08:59:39.080Z",
+  "generated_at": "2026-07-19T09:17:48.462Z",
   "limit": 30,
   "modality": "llm",
   "metric": "scicode",
@@ -60,15 +60,15 @@
     },
     {
       "rank": 8,
-      "name": "GPT-5.6 Sol (max)",
-      "slug": "gpt-5-6-sol",
+      "name": "GPT-5.5 (xhigh)",
+      "slug": "gpt-5-5",
       "creator": "OpenAI",
       "score": 0.561
     },
     {
       "rank": 9,
-      "name": "GPT-5.5 (xhigh)",
-      "slug": "gpt-5-5",
+      "name": "GPT-5.6 Sol (max)",
+      "slug": "gpt-5-6-sol",
       "creator": "OpenAI",
       "score": 0.561
     },
@@ -200,15 +200,15 @@
     },
     {
       "rank": 28,
-      "name": "GPT-5.5 (low)",
-      "slug": "gpt-5-5-low",
+      "name": "GPT-5.6 Terra (xhigh)",
+      "slug": "gpt-5-6-terra-xhigh",
       "creator": "OpenAI",
       "score": 0.516
     },
     {
       "rank": 29,
-      "name": "GPT-5.6 Terra (xhigh)",
-      "slug": "gpt-5-6-terra-xhigh",
+      "name": "GPT-5.5 (low)",
+      "slug": "gpt-5-5-low",
       "creator": "OpenAI",
       "score": 0.516
     },
