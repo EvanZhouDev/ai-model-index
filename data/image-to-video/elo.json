@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T09:17:48.462Z",
+  "generated_at": "2026-07-20T10:20:26.926Z",
   "limit": 30,
   "modality": "image-to-video",
   "metric": "elo",
@@ -13,7 +13,7 @@
       "name": "Gemini Omni Flash",
       "slug": "gemini-omni-flash",
       "creator": "Google",
-      "score": 1374,
+      "score": 1375,
       "ci95": "-13/13",
       "category_distribution": [
         {
@@ -98,7 +98,7 @@
         },
         {
           "subject": "Fashion",
-          "score": 1387,
+          "score": 1388,
           "ci95": "-22/22"
         },
         {
@@ -608,7 +608,7 @@
         },
         {
           "subject": "Technology",
-          "score": 1312,
+          "score": 1313,
           "ci95": "-16/16"
         },
         {
@@ -703,7 +703,7 @@
         },
         {
           "subject": "Transport",
-          "score": 1347,
+          "score": 1348,
           "ci95": "-18/18"
         },
         {
@@ -738,17 +738,17 @@
       "category_distribution": [
         {
           "subject": "Physics",
-          "score": 1300,
+          "score": 1301,
           "ci95": "-19/19"
         },
         {
           "format": "Moving camera",
-          "score": 1349,
+          "score": 1350,
           "ci95": "-17/17"
         },
         {
           "subject": "Text",
-          "score": 1294,
+          "score": 1295,
           "ci95": "-20/20"
         },
         {
@@ -773,7 +773,7 @@
         },
         {
           "subject": "Indoor",
-          "score": 1310,
+          "score": 1311,
           "ci95": "-19/19"
         },
         {
@@ -788,7 +788,7 @@
         },
         {
           "subject": "Sports",
-          "score": 1330,
+          "score": 1331,
           "ci95": "-26/26"
         },
         {
@@ -818,7 +818,7 @@
         },
         {
           "style": "Cartoon and anime",
-          "score": 1364,
+          "score": 1368,
           "ci95": "-45/45"
         },
         {
@@ -834,11 +834,11 @@
         {
           "subject": "Transport",
           "score": 1318,
-          "ci95": "-23/23"
+          "ci95": "-22/22"
         },
         {
           "style": "3D animation",
-          "score": 1337,
+          "score": 1339,
           "ci95": "-39/39"
         },
         {
@@ -853,7 +853,7 @@
         },
         {
           "subject": "Water",
-          "score": 1314,
+          "score": 1315,
           "ci95": "-27/27"
         }
       ]
@@ -863,7 +863,7 @@
       "name": "GenFlare 2.0",
       "slug": "genflare-2-0",
       "creator": "Baidu",
-      "score": 1311,
+      "score": 1312,
       "ci95": "-9/9",
       "category_distribution": [
         {
@@ -928,7 +928,7 @@
         },
         {
           "subject": "Weather and effects",
-          "score": 1310,
+          "score": 1311,
           "ci95": "-10/10"
         },
         {
@@ -1160,26 +1160,6 @@
     },
     {
       "rank": 9,
-      "name": "Kling O1 Pro (December)",
-      "slug": "kling-o1-pro",
-      "creator": "KlingAI",
-      "score": 1292,
-      "ci95": "-20/20",
-      "category_distribution": [
-        {
-          "format": "Short prompt",
-          "score": 1291,
-          "ci95": "-21/21"
-        },
-        {
-          "subject": "Weather and effects",
-          "score": 1314,
-          "ci95": "-23/23"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "name": "Kling 2.5 Turbo 1080p",
       "slug": "kling-25-turbo-1080p",
       "creator": "KlingAI",
@@ -1238,7 +1218,7 @@
         },
         {
           "format": "Short prompt",
-          "score": 1292,
+          "score": 1291,
           "ci95": "-9/9"
         },
         {
@@ -1248,7 +1228,7 @@
         },
         {
           "subject": "Weather and effects",
-          "score": 1290,
+          "score": 1291,
           "ci95": "-10/10"
         },
         {
@@ -1325,6 +1305,26 @@
           "subject": "Water",
           "score": 1295,
           "ci95": "-21/21"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "name": "Kling O1 Pro (December)",
+      "slug": "kling-o1-pro",
+      "creator": "KlingAI",
+      "score": 1287,
+      "ci95": "-20/20",
+      "category_distribution": [
+        {
+          "format": "Short prompt",
+          "score": 1291,
+          "ci95": "-21/21"
+        },
+        {
+          "subject": "Weather and effects",
+          "score": 1308,
+          "ci95": "-22/22"
         }
       ]
     },
@@ -2008,7 +2008,7 @@
         },
         {
           "format": "Multi-scene",
-          "score": 948,
+          "score": 947,
           "ci95": "-53/53"
         },
         {
@@ -2718,7 +2718,7 @@
         },
         {
           "format": "Multi-scene",
-          "score": 1004,
+          "score": 1003,
           "ci95": "-55/55"
         },
         {

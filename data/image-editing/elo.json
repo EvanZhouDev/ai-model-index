@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T09:17:48.462Z",
+  "generated_at": "2026-07-20T10:20:26.926Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -114,17 +114,17 @@
     },
     {
       "rank": 14,
-      "name": "FLUX.2 [max]",
-      "slug": "black_forest_labs_flux-2-max",
-      "creator": "Black Forest Labs",
+      "name": "Kling Image 3.0",
+      "slug": "kling-image-3-0",
+      "creator": "KlingAI",
       "score": 1205,
       "ci95": "-8/8"
     },
     {
       "rank": 15,
-      "name": "Kling Image 3.0",
-      "slug": "kling-image-3-0",
-      "creator": "KlingAI",
+      "name": "FLUX.2 [max]",
+      "slug": "black_forest_labs_flux-2-max",
+      "creator": "Black Forest Labs",
       "score": 1205,
       "ci95": "-8/8"
     },
@@ -149,7 +149,7 @@
       "name": "Wan 2.7 Pro",
       "slug": "wan-2-7-pro",
       "creator": "Alibaba",
-      "score": 1200,
+      "score": 1199,
       "ci95": "-8/8"
     },
     {
@@ -157,7 +157,7 @@
       "name": "Wan 2.6 Image",
       "slug": "wan_wan-2-6",
       "creator": "Alibaba",
-      "score": 1194,
+      "score": 1195,
       "ci95": "-8/8"
     },
     {
@@ -165,7 +165,7 @@
       "name": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "slug": "nano-banana-2-lite",
       "creator": "Google",
-      "score": 1191,
+      "score": 1192,
       "ci95": "-10/10"
     },
     {
@@ -189,24 +189,24 @@
       "name": "Agnes Image 2.0 Flash",
       "slug": "agnes-image-2-0-flash",
       "creator": "Sapiens AI",
-      "score": 1184,
+      "score": 1185,
       "ci95": "-9/9"
     },
     {
       "rank": 24,
+      "name": "Seedream 4.0",
+      "slug": "bytedance-seed_seedream-4-0",
+      "creator": "ByteDance Seed",
+      "score": 1184,
+      "ci95": "-7/7"
+    },
+    {
+      "rank": 25,
       "name": "Riverflow 1",
       "slug": "sourceful_riverflow",
       "creator": "Sourceful",
       "score": 1183,
       "ci95": "-8/8"
-    },
-    {
-      "rank": 25,
-      "name": "Seedream 4.0",
-      "slug": "bytedance-seed_seedream-4-0",
-      "creator": "ByteDance Seed",
-      "score": 1183,
-      "ci95": "-7/7"
     },
     {
       "rank": 26,
@@ -221,7 +221,7 @@
       "name": "Reve V1 (December)",
       "slug": "reve_reve-v1--december",
       "creator": "Reve",
-      "score": 1177,
+      "score": 1178,
       "ci95": "-8/8"
     },
     {
@@ -245,7 +245,7 @@
       "name": "FLUX.2 [flex]",
       "slug": "flux_flux-2--flex",
       "creator": "Black Forest Labs",
-      "score": 1166,
+      "score": 1167,
       "ci95": "-8/8"
     }
   ]
