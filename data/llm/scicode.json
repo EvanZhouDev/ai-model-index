@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T10:20:26.926Z",
+  "generated_at": "2026-07-21T09:40:59.617Z",
   "limit": 30,
   "modality": "llm",
   "metric": "scicode",
@@ -60,15 +60,15 @@
     },
     {
       "rank": 8,
-      "name": "GPT-5.5 (xhigh)",
-      "slug": "gpt-5-5",
+      "name": "GPT-5.6 Sol (max)",
+      "slug": "gpt-5-6-sol",
       "creator": "OpenAI",
       "score": 0.561
     },
     {
       "rank": 9,
-      "name": "GPT-5.6 Sol (max)",
-      "slug": "gpt-5-6-sol",
+      "name": "GPT-5.5 (xhigh)",
+      "slug": "gpt-5-5",
       "creator": "OpenAI",
       "score": 0.561
     },
@@ -137,16 +137,16 @@
     },
     {
       "rank": 19,
-      "name": "GPT-5.5 (medium)",
-      "slug": "gpt-5-5-medium",
-      "creator": "OpenAI",
+      "name": "Claude Opus 4.8 (Adaptive Reasoning, Max Effort)",
+      "slug": "claude-opus-4-8",
+      "creator": "Anthropic",
       "score": 0.535
     },
     {
       "rank": 20,
-      "name": "Claude Opus 4.8 (Adaptive Reasoning, Max Effort)",
-      "slug": "claude-opus-4-8",
-      "creator": "Anthropic",
+      "name": "GPT-5.5 (medium)",
+      "slug": "gpt-5-5-medium",
+      "creator": "OpenAI",
       "score": 0.535
     },
     {

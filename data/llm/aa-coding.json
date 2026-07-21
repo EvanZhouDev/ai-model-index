@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T10:20:26.926Z",
+  "generated_at": "2026-07-21T09:40:59.617Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-coding",
@@ -95,16 +95,16 @@
     },
     {
       "rank": 13,
-      "name": "GPT-5.5 (medium)",
-      "slug": "gpt-5-5-medium",
-      "creator": "OpenAI",
+      "name": "Claude Sonnet 5 (Adaptive Reasoning, Max Effort)",
+      "slug": "claude-sonnet-5",
+      "creator": "Anthropic",
       "score": 71.5
     },
     {
       "rank": 14,
-      "name": "Claude Sonnet 5 (Adaptive Reasoning, Max Effort)",
-      "slug": "claude-sonnet-5",
-      "creator": "Anthropic",
+      "name": "GPT-5.5 (medium)",
+      "slug": "gpt-5-5-medium",
+      "creator": "OpenAI",
       "score": 71.5
     },
     {
