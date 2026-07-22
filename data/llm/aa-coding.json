@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T09:40:59.617Z",
+  "generated_at": "2026-07-22T09:39:19.974Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-coding",
@@ -151,73 +151,73 @@
     },
     {
       "rank": 21,
+      "name": "Gemini 3.6 Flash (high)",
+      "slug": "gemini-3-6-flash",
+      "creator": "Google",
+      "score": 69.2
+    },
+    {
+      "rank": 22,
       "name": "Gemini 3.1 Pro Preview",
       "slug": "gemini-3-1-pro-preview",
       "creator": "Google",
       "score": 68.8
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "GLM-5.2 (max)",
       "slug": "glm-5-2",
       "creator": "Z AI",
       "score": 68.8
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "GPT-5.6 Luna (xhigh)",
       "slug": "gpt-5-6-luna-xhigh",
       "creator": "OpenAI",
       "score": 68.6
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "GPT-5.6 Terra (high)",
       "slug": "gpt-5-6-terra-high",
       "creator": "OpenAI",
       "score": 67.1
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Claude Sonnet 5 (Non-reasoning, High Effort)",
       "slug": "claude-sonnet-5-non-reasoning",
       "creator": "Anthropic",
       "score": 66.4
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Qwen3.7 Max",
       "slug": "qwen3-7-max",
       "creator": "Alibaba",
       "score": 66
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "GPT-5.6 Sol (Non-reasoning)",
       "slug": "gpt-5-6-sol-non-reasoning",
       "creator": "OpenAI",
       "score": 65.1
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "GPT-5.6 Terra (medium)",
       "slug": "gpt-5-6-terra-medium",
       "creator": "OpenAI",
       "score": 64.7
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "GPT-5.6 Luna (high)",
       "slug": "gpt-5-6-luna-high",
       "creator": "OpenAI",
       "score": 63.3
-    },
-    {
-      "rank": 30,
-      "name": "Claude Sonnet 4.6 (Adaptive Reasoning, Max Effort)",
-      "slug": "claude-sonnet-4-6-adaptive",
-      "creator": "Anthropic",
-      "score": 63
     }
   ]
 }
