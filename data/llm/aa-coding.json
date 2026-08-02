@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T09:22:09.027Z",
+  "generated_at": "2026-08-02T09:23:20.500Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-coding",
@@ -53,15 +53,15 @@
     },
     {
       "rank": 7,
-      "name": "Claude Fable 5 (Adaptive Reasoning, Max Effort, Opus 4.8 Fallback)",
-      "slug": "claude-fable-5",
+      "name": "Claude Opus 5 (Adaptive Reasoning, High Effort)",
+      "slug": "claude-opus-5-high",
       "creator": "Anthropic",
       "score": 76.5
     },
     {
       "rank": 8,
-      "name": "Claude Opus 5 (Adaptive Reasoning, High Effort)",
-      "slug": "claude-opus-5-high",
+      "name": "Claude Fable 5 (Adaptive Reasoning, Max Effort, Opus 4.8 Fallback)",
+      "slug": "claude-fable-5",
       "creator": "Anthropic",
       "score": 76.5
     },
