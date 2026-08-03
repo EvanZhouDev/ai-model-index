@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T09:23:20.500Z",
+  "generated_at": "2026-08-03T10:51:16.053Z",
   "limit": 30,
   "modality": "text-to-image",
   "metric": "elo",
@@ -480,86 +480,6 @@
     },
     {
       "rank": 7,
-      "name": "Riverflow 2.0",
-      "slug": "sourceful_riverflow-2",
-      "creator": "Sourceful",
-      "score": 1254,
-      "ci95": "-8/8",
-      "category_distribution": [
-        {
-          "style": "General & Photorealistic",
-          "score": 1242,
-          "ci95": "-17/17"
-        },
-        {
-          "style": "Cartoon & Illustration",
-          "score": 1204,
-          "ci95": "-34/34"
-        },
-        {
-          "subject": "People: Portraits",
-          "score": 1270,
-          "ci95": "-27/27"
-        },
-        {
-          "style": "Anime",
-          "score": 1257,
-          "ci95": "-31/31"
-        },
-        {
-          "subject": "Futuristic & Sci-Fi",
-          "score": 1233,
-          "ci95": "-23/23"
-        },
-        {
-          "subject": "Physical Spaces",
-          "score": 1216,
-          "ci95": "-23/23"
-        },
-        {
-          "subject": "Text & Typography",
-          "score": 1190,
-          "ci95": "-34/34"
-        },
-        {
-          "subject": "Nature & Landscapes",
-          "score": 1257,
-          "ci95": "-28/28"
-        },
-        {
-          "subject": "Fantasy & Mythical",
-          "score": 1275,
-          "ci95": "-22/22"
-        },
-        {
-          "subject": "UI/UX Design",
-          "score": 1243,
-          "ci95": "-34/34"
-        },
-        {
-          "subject": "Commercial",
-          "score": 1252,
-          "ci95": "-29/29"
-        },
-        {
-          "style": "Traditional Art",
-          "score": 1268,
-          "ci95": "-38/38"
-        },
-        {
-          "style": "Graphic Design & Digital Rendering",
-          "score": 1196,
-          "ci95": "-18/18"
-        },
-        {
-          "subject": "People: Groups & Activities",
-          "score": 1319,
-          "ci95": "-29/29"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "name": "HiDream-O1-Image-1.5",
       "slug": "hidream-o1-image-1-5",
       "creator": "HiDream",
@@ -700,86 +620,6 @@
           "subject": "People: Groups & Activities",
           "score": 1277,
           "ci95": "-42/42"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "name": "Reve 2.0",
-      "slug": "reve-2",
-      "creator": "Reve",
-      "score": 1238,
-      "ci95": "-10/10",
-      "category_distribution": [
-        {
-          "style": "General & Photorealistic",
-          "score": 1214,
-          "ci95": "-21/21"
-        },
-        {
-          "style": "Cartoon & Illustration",
-          "score": 1221,
-          "ci95": "-46/46"
-        },
-        {
-          "subject": "People: Portraits",
-          "score": 1203,
-          "ci95": "-33/33"
-        },
-        {
-          "style": "Anime",
-          "score": 1295,
-          "ci95": "-43/43"
-        },
-        {
-          "subject": "Futuristic & Sci-Fi",
-          "score": 1229,
-          "ci95": "-29/29"
-        },
-        {
-          "subject": "Physical Spaces",
-          "score": 1185,
-          "ci95": "-29/29"
-        },
-        {
-          "subject": "Text & Typography",
-          "score": 1255,
-          "ci95": "-43/43"
-        },
-        {
-          "subject": "Nature & Landscapes",
-          "score": 1218,
-          "ci95": "-36/36"
-        },
-        {
-          "subject": "Fantasy & Mythical",
-          "score": 1268,
-          "ci95": "-30/30"
-        },
-        {
-          "subject": "UI/UX Design",
-          "score": 1313,
-          "ci95": "-42/42"
-        },
-        {
-          "subject": "Commercial",
-          "score": 1261,
-          "ci95": "-36/36"
-        },
-        {
-          "style": "Traditional Art",
-          "score": 1269,
-          "ci95": "-46/46"
-        },
-        {
-          "style": "Graphic Design & Digital Rendering",
-          "score": 1218,
-          "ci95": "-22/22"
-        },
-        {
-          "subject": "People: Groups & Activities",
-          "score": 1344,
-          "ci95": "-41/41"
         }
       ]
     },
@@ -2325,6 +2165,171 @@
           "subject": "People: Groups & Activities",
           "score": 1232,
           "ci95": "-32/32"
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "name": "Imagen 4 Ultra",
+      "slug": "google-imagen_imagen-4-ultra",
+      "creator": "Google",
+      "score": 1172,
+      "ci95": "-8/8",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1161,
+          "ci95": "-16/16"
+        },
+        {
+          "style": "Cartoon & Illustration",
+          "score": 1187,
+          "ci95": "-35/35"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1176,
+          "ci95": "-26/26"
+        },
+        {
+          "style": "Anime",
+          "score": 1233,
+          "ci95": "-33/33"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1144,
+          "ci95": "-23/23"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1139,
+          "ci95": "-22/22"
+        },
+        {
+          "subject": "Text & Typography",
+          "score": 1162,
+          "ci95": "-34/34"
+        },
+        {
+          "subject": "Nature & Landscapes",
+          "score": 1147,
+          "ci95": "-27/27"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1206,
+          "ci95": "-23/23"
+        },
+        {
+          "subject": "UI/UX Design",
+          "score": 1205,
+          "ci95": "-33/33"
+        },
+        {
+          "subject": "Commercial",
+          "score": 1180,
+          "ci95": "-28/28"
+        },
+        {
+          "style": "Traditional Art",
+          "score": 1128,
+          "ci95": "-37/37"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1155,
+          "ci95": "-18/18"
+        },
+        {
+          "subject": "People: Groups & Activities",
+          "score": 1244,
+          "ci95": "-29/29"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "name": "Seedream 4.5",
+      "slug": "seedream-4-5",
+      "creator": "ByteDance Seed",
+      "score": 1169,
+      "ci95": "-7/7",
+      "category_distribution": [
+        {
+          "style": "General & Photorealistic",
+          "score": 1143,
+          "ci95": "-15/15"
+        },
+        {
+          "style": "Cartoon & Illustration",
+          "score": 1168,
+          "ci95": "-30/30"
+        },
+        {
+          "subject": "People: Portraits",
+          "score": 1192,
+          "ci95": "-24/24"
+        },
+        {
+          "style": "Anime",
+          "score": 1242,
+          "ci95": "-28/28"
+        },
+        {
+          "subject": "Futuristic & Sci-Fi",
+          "score": 1169,
+          "ci95": "-21/21"
+        },
+        {
+          "subject": "Physical Spaces",
+          "score": 1115,
+          "ci95": "-20/20"
+        },
+        {
+          "subject": "Text & Typography",
+          "score": 1099,
+          "ci95": "-29/29"
+        },
+        {
+          "subject": "Nature & Landscapes",
+          "score": 1169,
+          "ci95": "-25/25"
+        },
+        {
+          "style": "Vintage & Retro",
+          "score": 1148,
+          "ci95": "-81/81"
+        },
+        {
+          "subject": "Fantasy & Mythical",
+          "score": 1239,
+          "ci95": "-21/21"
+        },
+        {
+          "subject": "UI/UX Design",
+          "score": 1152,
+          "ci95": "-29/29"
+        },
+        {
+          "subject": "Commercial",
+          "score": 1161,
+          "ci95": "-25/25"
+        },
+        {
+          "style": "Traditional Art",
+          "score": 1216,
+          "ci95": "-33/33"
+        },
+        {
+          "style": "Graphic Design & Digital Rendering",
+          "score": 1134,
+          "ci95": "-16/16"
+        },
+        {
+          "subject": "People: Groups & Activities",
+          "score": 1205,
+          "ci95": "-25/25"
         }
       ]
     }
