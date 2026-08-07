@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T09:59:47.737Z",
+  "generated_at": "2026-08-07T08:31:11.650Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -10,19 +10,19 @@
   "models": [
     {
       "rank": 1,
+      "name": "Reve 2.1",
+      "slug": "reve-2-1",
+      "creator": "Reve",
+      "score": 1260,
+      "ci95": "-11/11"
+    },
+    {
+      "rank": 2,
       "name": "GPT Image 2 (high)",
       "slug": "gpt-image-2",
       "creator": "OpenAI",
       "score": 1258,
       "ci95": "-7/7"
-    },
-    {
-      "rank": 2,
-      "name": "Reve 2.1",
-      "slug": "reve-2-1",
-      "creator": "Reve",
-      "score": 1258,
-      "ci95": "-11/11"
     },
     {
       "rank": 3,
@@ -93,7 +93,7 @@
       "name": "Luma UNI 1 Max",
       "slug": "luma-uni-1-max",
       "creator": "Luma Labs",
-      "score": 1220,
+      "score": 1219,
       "ci95": "-9/9"
     },
     {
@@ -109,7 +109,7 @@
       "name": "Kling Image 3.0 Omni",
       "slug": "kling-image-3-0-omni",
       "creator": "KlingAI",
-      "score": 1213,
+      "score": 1212,
       "ci95": "-7/7"
     },
     {
@@ -122,22 +122,6 @@
     },
     {
       "rank": 15,
-      "name": "FLUX.2 [max]",
-      "slug": "black_forest_labs_flux-2-max",
-      "creator": "Black Forest Labs",
-      "score": 1201,
-      "ci95": "-8/8"
-    },
-    {
-      "rank": 16,
-      "name": "Kling Image O1",
-      "slug": "kling-image-o1",
-      "creator": "KlingAI",
-      "score": 1201,
-      "ci95": "-8/8"
-    },
-    {
-      "rank": 17,
       "name": "Wan 2.7 Pro",
       "slug": "wan-2-7-pro",
       "creator": "Alibaba",
@@ -145,11 +129,27 @@
       "ci95": "-7/7"
     },
     {
+      "rank": 16,
+      "name": "FLUX.2 [max]",
+      "slug": "black_forest_labs_flux-2-max",
+      "creator": "Black Forest Labs",
+      "score": 1201,
+      "ci95": "-8/8"
+    },
+    {
+      "rank": 17,
+      "name": "Kling Image O1",
+      "slug": "kling-image-o1",
+      "creator": "KlingAI",
+      "score": 1201,
+      "ci95": "-8/8"
+    },
+    {
       "rank": 18,
       "name": "HiDream-O1-Image",
       "slug": "hidream-o1-image",
       "creator": "HiDream",
-      "score": 1200,
+      "score": 1199,
       "ci95": "-8/8"
     },
     {
@@ -213,7 +213,7 @@
       "name": "Reve V1 (December)",
       "slug": "reve_reve-v1--december",
       "creator": "Reve",
-      "score": 1176,
+      "score": 1177,
       "ci95": "-8/8"
     },
     {
