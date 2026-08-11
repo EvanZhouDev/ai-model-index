@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T08:51:29.346Z",
+  "generated_at": "2026-08-11T08:15:18.560Z",
   "limit": 30,
   "modality": "llm",
   "metric": "gpqa",
@@ -25,15 +25,15 @@
     },
     {
       "rank": 3,
-      "name": "Claude Opus 5 (Adaptive Reasoning, High Effort)",
-      "slug": "claude-opus-5-high",
+      "name": "Claude Opus 5 (Adaptive Reasoning, Xhigh Effort)",
+      "slug": "claude-opus-5-xhigh",
       "creator": "Anthropic",
       "score": 0.937
     },
     {
       "rank": 4,
-      "name": "Claude Opus 5 (Adaptive Reasoning, Xhigh Effort)",
-      "slug": "claude-opus-5-xhigh",
+      "name": "Claude Opus 5 (Adaptive Reasoning, High Effort)",
+      "slug": "claude-opus-5-high",
       "creator": "Anthropic",
       "score": 0.937
     },
