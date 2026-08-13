@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T08:40:13.657Z",
+  "generated_at": "2026-08-13T08:44:16.127Z",
   "limit": 30,
   "modality": "llm",
   "metric": "scicode",
@@ -165,59 +165,59 @@
     },
     {
       "rank": 23,
+      "name": "Grok 4.6 (high)",
+      "slug": "grok-4-6",
+      "creator": "SpaceXAI",
+      "score": 0.536
+    },
+    {
+      "rank": 24,
       "name": "GPT-5.5 (medium)",
       "slug": "gpt-5-5-medium",
       "creator": "OpenAI",
       "score": 0.535
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Claude Opus 4.8 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-opus-4-8",
       "creator": "Anthropic",
       "score": 0.535
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Kimi K2.6",
       "slug": "kimi-k2-6",
       "creator": "Kimi",
       "score": 0.535
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "GPT-5.3 Codex (xhigh)",
       "slug": "gpt-5-3-codex",
       "creator": "OpenAI",
       "score": 0.532
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Gemini 3.5 Flash (high)",
       "slug": "gemini-3-5-flash",
       "creator": "Google",
       "score": 0.531
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Gemini 3.5 Flash (medium)",
       "slug": "gemini-3-5-flash-medium",
       "creator": "Google",
       "score": 0.53
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Qwen3.8 Max",
       "slug": "qwen3-8-max",
       "creator": "Alibaba",
       "score": 0.529
-    },
-    {
-      "rank": 30,
-      "name": "Gemini 3.6 Flash (high)",
-      "slug": "gemini-3-6-flash",
-      "creator": "Google",
-      "score": 0.527
     }
   ]
 }

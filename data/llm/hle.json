@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T08:40:13.657Z",
+  "generated_at": "2026-08-13T08:44:16.127Z",
   "limit": 30,
   "modality": "llm",
   "metric": "hle",
@@ -144,80 +144,80 @@
     },
     {
       "rank": 20,
+      "name": "Grok 4.6 (high)",
+      "slug": "grok-4-6",
+      "creator": "SpaceXAI",
+      "score": 0.429
+    },
+    {
+      "rank": 21,
       "name": "Grok 4.5 (high)",
       "slug": "grok-4-5",
       "creator": "SpaceXAI",
       "score": 0.427
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Gemini 3.5 Flash (high)",
       "slug": "gemini-3-5-flash",
       "creator": "Google",
       "score": 0.427
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "GPT-5.3 Codex (xhigh)",
       "slug": "gpt-5-3-codex",
       "creator": "OpenAI",
       "score": 0.425
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "GPT-5.5 (medium)",
       "slug": "gpt-5-5-medium",
       "creator": "OpenAI",
       "score": 0.424
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Claude Opus 4.7 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-opus-4-7",
       "creator": "Anthropic",
       "score": 0.423
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "GPT-5.6 Sol (medium)",
       "slug": "gpt-5-6-sol-medium",
       "creator": "OpenAI",
       "score": 0.422
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "GPT-5.6 Terra (xhigh)",
       "slug": "gpt-5-6-terra-xhigh",
       "creator": "OpenAI",
       "score": 0.419
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Gemini 3.5 Flash (medium)",
       "slug": "gemini-3-5-flash-medium",
       "creator": "Google",
       "score": 0.413
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Claude Sonnet 5 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-sonnet-5",
       "creator": "Anthropic",
       "score": 0.413
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "GLM-5.2 (max)",
       "slug": "glm-5-2",
       "creator": "Z AI",
       "score": 0.411
-    },
-    {
-      "rank": 30,
-      "name": "Gemini 3.6 Flash (high)",
-      "slug": "gemini-3-6-flash",
-      "creator": "Google",
-      "score": 0.408
     }
   ]
 }
