@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T08:44:16.127Z",
+  "generated_at": "2026-08-14T08:37:58.238Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -21,7 +21,7 @@
       "name": "GPT Image 2 (high)",
       "slug": "gpt-image-2",
       "creator": "OpenAI",
-      "score": 1257,
+      "score": 1258,
       "ci95": "-7/7"
     },
     {
@@ -37,7 +37,7 @@
       "name": "GPT Image 1.5 (high)",
       "slug": "openai-gpt_image-1-5",
       "creator": "OpenAI",
-      "score": 1251,
+      "score": 1252,
       "ci95": "-7/7"
     },
     {
@@ -93,7 +93,7 @@
       "name": "DreamImage 2.0",
       "slug": "dreamimage-2-0",
       "creator": "Newport AI",
-      "score": 1221,
+      "score": 1220,
       "ci95": "-11/11"
     },
     {
@@ -117,7 +117,7 @@
       "name": "Kling Image 3.0 Omni",
       "slug": "kling-image-3-0-omni",
       "creator": "KlingAI",
-      "score": 1211,
+      "score": 1210,
       "ci95": "-7/7"
     },
     {
@@ -138,16 +138,16 @@
     },
     {
       "rank": 17,
-      "name": "Kling Image O1",
-      "slug": "kling-image-o1",
+      "name": "Kling Image 3.0",
+      "slug": "kling-image-3-0",
       "creator": "KlingAI",
       "score": 1200,
       "ci95": "-8/8"
     },
     {
       "rank": 18,
-      "name": "Kling Image 3.0",
-      "slug": "kling-image-3-0",
+      "name": "Kling Image O1",
+      "slug": "kling-image-o1",
       "creator": "KlingAI",
       "score": 1200,
       "ci95": "-8/8"
@@ -213,7 +213,7 @@
       "name": "Nano Banana (Gemini 2.5 Flash Image)",
       "slug": "google_gemini-2-5-flash",
       "creator": "Google",
-      "score": 1178,
+      "score": 1179,
       "ci95": "-7/7"
     },
     {
