@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T07:55:04.146Z",
+  "generated_at": "2026-08-19T07:54:54.513Z",
   "limit": 30,
   "modality": "llm",
   "metric": "gpqa",
@@ -39,15 +39,15 @@
     },
     {
       "rank": 5,
-      "name": "Claude Opus 5 (Adaptive Reasoning, High Effort)",
-      "slug": "claude-opus-5-high",
+      "name": "Claude Opus 5 (Adaptive Reasoning, Xhigh Effort)",
+      "slug": "claude-opus-5-xhigh",
       "creator": "Anthropic",
       "score": 0.937
     },
     {
       "rank": 6,
-      "name": "Claude Opus 5 (Adaptive Reasoning, Xhigh Effort)",
-      "slug": "claude-opus-5-xhigh",
+      "name": "Claude Opus 5 (Adaptive Reasoning, High Effort)",
+      "slug": "claude-opus-5-high",
       "creator": "Anthropic",
       "score": 0.937
     },
@@ -214,10 +214,10 @@
     },
     {
       "rank": 30,
-      "name": "GPT-5.3 Codex (xhigh)",
-      "slug": "gpt-5-3-codex",
-      "creator": "OpenAI",
-      "score": 0.915
+      "name": "GLM-5.3 (max)",
+      "slug": "glm-5-3",
+      "creator": "Z AI",
+      "score": 0.917
     }
   ]
 }
