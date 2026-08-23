@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T07:46:51.911Z",
+  "generated_at": "2026-08-23T07:48:03.343Z",
   "limit": 30,
   "modality": "text-to-speech",
   "metric": "elo",
@@ -42,6 +42,14 @@
     },
     {
       "rank": 5,
+      "name": "v3 Conversational",
+      "slug": "mitty",
+      "creator": "ElevenLabs",
+      "score": 1220,
+      "ci95": "-16/16"
+    },
+    {
+      "rank": 6,
       "name": "Gemini 3.1 Flash TTS",
       "slug": "gemini-3-1-tts",
       "creator": "Google",
@@ -49,7 +57,7 @@
       "ci95": "-12/12"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "StepAudio 2.5 TTS",
       "slug": "st260629",
       "creator": "StepFun",
@@ -57,7 +65,7 @@
       "ci95": "-14/14"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Sonic 3.5",
       "slug": "sonic-3-5",
       "creator": "Cartesia",
@@ -65,7 +73,7 @@
       "ci95": "-12/12"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Realtime TTS 1.5 Max",
       "slug": "realtime-tts-1-5-max",
       "creator": "Inworld",
@@ -73,7 +81,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Lightning V3.1 Pro (Jul 2026)",
       "slug": "lightning-v3-1-pro-july",
       "creator": "Smallest.ai",
@@ -81,7 +89,7 @@
       "ci95": "-15/15"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Realtime TTS-2 - Research Preview",
       "slug": "realtime-tts-2-research-preview",
       "creator": "Inworld",
@@ -89,7 +97,7 @@
       "ci95": "-12/12"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Soniox TTS Real-Time v2",
       "slug": "soniox-tts-rt-v2",
       "creator": "Soniox",
@@ -97,7 +105,7 @@
       "ci95": "-11/11"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Eleven v3",
       "slug": "eleven-v3",
       "creator": "ElevenLabs",
@@ -105,7 +113,7 @@
       "ci95": "-11/11"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Speech 2.8 HD",
       "slug": "speech-2-8-hd",
       "creator": "MiniMax",
@@ -113,7 +121,7 @@
       "ci95": "-11/11"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Falcon 2",
       "slug": "falcon-2",
       "creator": "Murf AI",
@@ -121,7 +129,7 @@
       "ci95": "-15/15"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Gradium TTS Beta",
       "slug": "gradium-tts-beta",
       "creator": "Gradium",
@@ -129,7 +137,7 @@
       "ci95": "-15/15"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Speech 2.8 Turbo",
       "slug": "speech-2-8-turbo",
       "creator": "MiniMax",
@@ -137,7 +145,7 @@
       "ci95": "-11/11"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Async Flash v1.5",
       "slug": "async-flash-v1-5",
       "creator": "async",
@@ -145,7 +153,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Fish Audio S2.1 Pro",
       "slug": "s2-1-pro",
       "creator": "Fish Audio",
@@ -153,7 +161,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Step TTS 2 (Mar 2026)",
       "slug": "step-tts-2-mar-2026",
       "creator": "StepFun",
@@ -161,7 +169,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Speech 2.6 HD",
       "slug": "speech-2.6-hd",
       "creator": "MiniMax",
@@ -169,7 +177,7 @@
       "ci95": "-11/11"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Lightning V3.1 Pro TTS (Jun 2026)",
       "slug": "lightning-v3-1-pro-june",
       "creator": "Smallest.ai",
@@ -177,7 +185,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Realtime TTS 1.5 Mini",
       "slug": "realtime-tts-1-5-mini",
       "creator": "Inworld",
@@ -185,7 +193,7 @@
       "ci95": "-12/12"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Azure HD 2.5",
       "slug": "azure-hd-2-5",
       "creator": "Microsoft",
@@ -193,7 +201,7 @@
       "ci95": "-12/12"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Async Pro v1.0",
       "slug": "async-pro-v1-0",
       "creator": "async",
@@ -201,7 +209,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Speech 2.6 Turbo",
       "slug": "speech-2.6-turbo",
       "creator": "MiniMax",
@@ -209,7 +217,7 @@
       "ci95": "-11/11"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Fish Audio S2 Pro",
       "slug": "fish-audio-s2-pro",
       "creator": "Fish Audio",
@@ -217,7 +225,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Simba 3.0",
       "slug": "simba-3-0",
       "creator": "SpeechifyAI",
@@ -225,7 +233,7 @@
       "ci95": "-12/12"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "SpaceXAI TTS",
       "slug": "xai-text-to-speech",
       "creator": "SpaceXAI",
@@ -233,19 +241,11 @@
       "ci95": "-16/16"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Speech-02-HD",
       "slug": "speech-02-hd",
       "creator": "MiniMax",
       "score": 1112,
-      "ci95": "-11/11"
-    },
-    {
-      "rank": 30,
-      "name": "TTS-1 HD",
-      "slug": "tts-1-hd",
-      "creator": "OpenAI",
-      "score": 1108,
       "ci95": "-11/11"
     }
   ]
