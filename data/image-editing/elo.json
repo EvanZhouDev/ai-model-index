@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T08:04:53.982Z",
+  "generated_at": "2026-08-25T07:59:31.755Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -13,7 +13,7 @@
       "name": "MAI-Image-2.5-Pro",
       "slug": "mai-image-2-5-pro",
       "creator": "Microsoft AI",
-      "score": 1272,
+      "score": 1271,
       "ci95": "-10/10"
     },
     {
@@ -50,19 +50,19 @@
     },
     {
       "rank": 6,
-      "name": "Qwen-Image-3.0-Pro",
-      "slug": "qwen-image-3-0-pro",
-      "creator": "Alibaba",
-      "score": 1250,
-      "ci95": "-10/10"
-    },
-    {
-      "rank": 7,
       "name": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
       "slug": "nano-banana-2",
       "creator": "Google",
-      "score": 1249,
+      "score": 1250,
       "ci95": "-7/7"
+    },
+    {
+      "rank": 7,
+      "name": "Qwen-Image-3.0-Pro",
+      "slug": "qwen-image-3-0-pro",
+      "creator": "Alibaba",
+      "score": 1249,
+      "ci95": "-10/10"
     },
     {
       "rank": 8,
@@ -77,7 +77,7 @@
       "name": "Nano Banana Pro (Gemini 3 Pro Image)",
       "slug": "gemini_nano-banana-pro",
       "creator": "Google",
-      "score": 1245,
+      "score": 1246,
       "ci95": "-7/7"
     },
     {
@@ -93,7 +93,7 @@
       "name": "grok-imagine-image-quality",
       "slug": "grok-imagine-image-quality",
       "creator": "SpaceXAI",
-      "score": 1226,
+      "score": 1225,
       "ci95": "-8/8"
     },
     {
@@ -117,7 +117,7 @@
       "name": "Luma UNI 1 Max",
       "slug": "luma-uni-1-max",
       "creator": "Luma Labs",
-      "score": 1219,
+      "score": 1220,
       "ci95": "-8/8"
     },
     {
@@ -125,7 +125,7 @@
       "name": "Qwen-Image-3.0",
       "slug": "qwen-image-3-0",
       "creator": "Alibaba",
-      "score": 1218,
+      "score": 1217,
       "ci95": "-10/10"
     },
     {
@@ -197,7 +197,7 @@
       "name": "HiDream-O1-Image",
       "slug": "hidream-o1-image",
       "creator": "HiDream",
-      "score": 1191,
+      "score": 1190,
       "ci95": "-8/8"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T08:04:53.982Z",
+  "generated_at": "2026-08-25T07:59:31.755Z",
   "limit": 30,
   "modality": "text-to-image",
   "metric": "elo",
@@ -18,12 +18,12 @@
       "category_distribution": [
         {
           "style": "Anime",
-          "score": 1309,
+          "score": 1310,
           "ci95": "-78/78"
         },
         {
           "subject": "Fantasy & Mythical",
-          "score": 1353,
+          "score": 1354,
           "ci95": "-55/55"
         }
       ]
@@ -63,13 +63,13 @@
       "name": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
       "slug": "nano-banana-2",
       "creator": "Google",
-      "score": 1320,
+      "score": 1321,
       "ci95": "-9/9",
       "category_distribution": [
         {
           "style": "Anime",
-          "score": 1318,
-          "ci95": "-67/67"
+          "score": 1319,
+          "ci95": "-68/68"
         },
         {
           "subject": "Futuristic & Sci-Fi",
@@ -108,12 +108,12 @@
       "name": "MAI-Image-2.5",
       "slug": "mai-image-2-5",
       "creator": "Microsoft AI",
-      "score": 1305,
+      "score": 1304,
       "ci95": "-9/9",
       "category_distribution": [
         {
           "style": "Anime",
-          "score": 1210,
+          "score": 1211,
           "ci95": "-78/78"
         },
         {
@@ -214,7 +214,7 @@
       "name": "Qwen Image 2.0 Pro (2026-04-22)",
       "slug": "qwen-image-2-0-pro-alibaba-cloud-may-2026",
       "creator": "Alibaba",
-      "score": 1237,
+      "score": 1238,
       "ci95": "-10/10"
     },
     {
@@ -222,7 +222,7 @@
       "name": "grok-imagine-image-quality",
       "slug": "grok-imagine-image-quality",
       "creator": "SpaceXAI",
-      "score": 1235,
+      "score": 1234,
       "ci95": "-8/8",
       "category_distribution": [
         {
@@ -275,7 +275,7 @@
         },
         {
           "subject": "Fantasy & Mythical",
-          "score": 1297,
+          "score": 1298,
           "ci95": "-50/50"
         }
       ]
@@ -285,7 +285,7 @@
       "name": "FLUX.2 [max]",
       "slug": "black_forest_labs_flux-2-max",
       "creator": "Black Forest Labs",
-      "score": 1226,
+      "score": 1225,
       "ci95": "-9/9"
     },
     {
@@ -309,7 +309,7 @@
       "name": "Ideogram 4.0",
       "slug": "ideogram-v4",
       "creator": "Ideogram",
-      "score": 1220,
+      "score": 1221,
       "ci95": "-9/9"
     },
     {
@@ -317,7 +317,7 @@
       "name": "Krea 2 Large",
       "slug": "krea-2-large",
       "creator": "Krea",
-      "score": 1219,
+      "score": 1220,
       "ci95": "-8/8",
       "category_distribution": [
         {
@@ -347,7 +347,7 @@
       "name": "Luma UNI 1 Max",
       "slug": "luma-uni-1-max",
       "creator": "Luma Labs",
-      "score": 1219,
+      "score": 1220,
       "ci95": "-10/10"
     },
     {
@@ -413,14 +413,6 @@
     },
     {
       "rank": 26,
-      "name": "Krea 2 Medium Turbo",
-      "slug": "krea-2-medium-turbo",
-      "creator": "Krea",
-      "score": 1213,
-      "ci95": "-10/10"
-    },
-    {
-      "rank": 27,
       "name": "Krea 2 Medium",
       "slug": "krea-2-medium",
       "creator": "Krea",
@@ -429,8 +421,8 @@
       "category_distribution": [
         {
           "style": "Anime",
-          "score": 1226,
-          "ci95": "-58/58"
+          "score": 1228,
+          "ci95": "-57/57"
         },
         {
           "subject": "Futuristic & Sci-Fi",
@@ -444,10 +436,18 @@
         },
         {
           "subject": "Fantasy & Mythical",
-          "score": 1244,
+          "score": 1246,
           "ci95": "-42/42"
         }
       ]
+    },
+    {
+      "rank": 27,
+      "name": "Krea 2 Medium Turbo",
+      "slug": "krea-2-medium-turbo",
+      "creator": "Krea",
+      "score": 1212,
+      "ci95": "-10/10"
     },
     {
       "rank": 28,
@@ -459,7 +459,7 @@
       "category_distribution": [
         {
           "style": "General & Photorealistic",
-          "score": 1199,
+          "score": 1198,
           "ci95": "-19/19"
         },
         {
@@ -537,7 +537,7 @@
       "name": "FLUX.2 [pro]",
       "slug": "flux_flux-2--pro",
       "creator": "Black Forest Labs",
-      "score": 1207,
+      "score": 1206,
       "ci95": "-9/9"
     }
   ]
