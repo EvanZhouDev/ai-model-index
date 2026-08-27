@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T08:01:10.386Z",
+  "generated_at": "2026-08-27T18:18:07.827Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-coding",
@@ -144,80 +144,80 @@
     },
     {
       "rank": 20,
+      "name": "Qwen3.8-Flash-Next",
+      "slug": "qwen3-8-flash-next",
+      "creator": "Alibaba",
+      "score": 73.1
+    },
+    {
+      "rank": 21,
       "name": "Grok 4.5 (high)",
       "slug": "grok-4-5",
       "creator": "SpaceXAI",
       "score": 72.4
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Muse Spark 1.2 (xhigh)",
       "slug": "muse-spark-1-2",
       "creator": "Meta",
       "score": 72.2
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Kimi K3 (low)",
       "slug": "kimi-k3-low",
       "creator": "Kimi",
       "score": 72
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Qwen3.8 2.4T A95B",
       "slug": "qwen3-8-2-4t-a95b",
       "creator": "Alibaba",
       "score": 71.9
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Qwen3.8 Max",
       "slug": "qwen3-8-max",
       "creator": "Alibaba",
       "score": 71.8
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "GPT-5.5 (high)",
       "slug": "gpt-5-5-high",
       "creator": "OpenAI",
       "score": 71.6
     },
     {
-      "rank": 26,
+      "rank": 27,
+      "name": "GLM-5.3-Flash",
+      "slug": "glm-5-3-flash",
+      "creator": "Z AI",
+      "score": 71.5
+    },
+    {
+      "rank": 28,
       "name": "Gemini 3.7 Flash (medium)",
       "slug": "gemini-3-7-flash-medium",
       "creator": "Google",
       "score": 71.5
     },
     {
-      "rank": 27,
+      "rank": 29,
       "name": "Claude Sonnet 5 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-sonnet-5",
       "creator": "Anthropic",
       "score": 71.5
     },
     {
-      "rank": 28,
+      "rank": 30,
       "name": "GPT-5.5 (medium)",
       "slug": "gpt-5-5-medium",
       "creator": "OpenAI",
       "score": 71.5
-    },
-    {
-      "rank": 29,
-      "name": "GPT-5.6 Luna (max)",
-      "slug": "gpt-5-6-luna",
-      "creator": "OpenAI",
-      "score": 71.4
-    },
-    {
-      "rank": 30,
-      "name": "Muse Spark 1.1 (xhigh)",
-      "slug": "muse-spark-1-1",
-      "creator": "Meta",
-      "score": 71.3
     }
   ]
 }

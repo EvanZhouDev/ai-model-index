@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T08:01:10.386Z",
+  "generated_at": "2026-08-27T18:18:07.827Z",
   "limit": 30,
   "modality": "llm",
   "metric": "gpqa",
@@ -179,44 +179,44 @@
     },
     {
       "rank": 25,
+      "name": "Qwen3.8-Flash-Next",
+      "slug": "qwen3-8-flash-next",
+      "creator": "Alibaba",
+      "score": 0.923
+    },
+    {
+      "rank": 26,
       "name": "Qwen3.7 Max",
       "slug": "qwen3-7-max",
       "creator": "Alibaba",
       "score": 0.923
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Gemini 3.5 Flash (high)",
       "slug": "gemini-3-5-flash",
       "creator": "Google",
       "score": 0.922
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Gemini 3.5 Flash (medium)",
       "slug": "gemini-3-5-flash-medium",
       "creator": "Google",
       "score": 0.921
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Gemini 3.7 Flash (medium)",
       "slug": "gemini-3-7-flash-medium",
       "creator": "Google",
       "score": 0.921
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "GPT-5.4 (xhigh)",
       "slug": "gpt-5-4",
       "creator": "OpenAI",
-      "score": 0.92
-    },
-    {
-      "rank": 30,
-      "name": "Claude Opus 4.8 (Adaptive Reasoning, Max Effort)",
-      "slug": "claude-opus-4-8",
-      "creator": "Anthropic",
       "score": 0.92
     }
   ]

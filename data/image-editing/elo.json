@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T08:01:10.386Z",
+  "generated_at": "2026-08-27T18:18:07.827Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -21,7 +21,7 @@
       "name": "MAI-Image-2.5-Pro",
       "slug": "mai-image-2-5-pro",
       "creator": "Microsoft AI",
-      "score": 1270,
+      "score": 1271,
       "ci95": "-10/10"
     },
     {
@@ -29,24 +29,24 @@
       "name": "Reve 2.1",
       "slug": "reve-2-1",
       "creator": "Reve",
-      "score": 1263,
+      "score": 1264,
       "ci95": "-10/10"
     },
     {
       "rank": 4,
-      "name": "MAI-Image-2.5",
-      "slug": "mai-image-2-5",
-      "creator": "Microsoft AI",
-      "score": 1257,
-      "ci95": "-8/8"
-    },
-    {
-      "rank": 5,
       "name": "GPT Image 2 (high)",
       "slug": "gpt-image-2",
       "creator": "OpenAI",
       "score": 1257,
       "ci95": "-6/6"
+    },
+    {
+      "rank": 5,
+      "name": "MAI-Image-2.5",
+      "slug": "mai-image-2-5",
+      "creator": "Microsoft AI",
+      "score": 1257,
+      "ci95": "-8/8"
     },
     {
       "rank": 6,
@@ -58,14 +58,6 @@
     },
     {
       "rank": 7,
-      "name": "Qwen-Image-3.0-Pro",
-      "slug": "qwen-image-3-0-pro",
-      "creator": "Alibaba",
-      "score": 1250,
-      "ci95": "-10/10"
-    },
-    {
-      "rank": 8,
       "name": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
       "slug": "nano-banana-2",
       "creator": "Google",
@@ -73,11 +65,19 @@
       "ci95": "-7/7"
     },
     {
+      "rank": 8,
+      "name": "Qwen-Image-3.0-Pro",
+      "slug": "qwen-image-3-0-pro",
+      "creator": "Alibaba",
+      "score": 1249,
+      "ci95": "-10/10"
+    },
+    {
       "rank": 9,
       "name": "Seedream 5.0 Pro",
       "slug": "seedream-5-0-pro",
       "creator": "Bytedance",
-      "score": 1248,
+      "score": 1249,
       "ci95": "-10/10"
     },
     {
@@ -125,7 +125,7 @@
       "name": "DreamImage 2.0",
       "slug": "dreamimage-2-0",
       "creator": "Newport AI",
-      "score": 1220,
+      "score": 1219,
       "ci95": "-10/10"
     },
     {
@@ -197,7 +197,7 @@
       "name": "Wan 2.6 Image",
       "slug": "wan_wan-2-6",
       "creator": "Alibaba",
-      "score": 1195,
+      "score": 1196,
       "ci95": "-8/8"
     },
     {
@@ -218,19 +218,19 @@
     },
     {
       "rank": 27,
-      "name": "Agnes Image 2.0 Flash",
-      "slug": "agnes-image-2-0-flash",
-      "creator": "Sapiens AI",
-      "score": 1186,
-      "ci95": "-8/8"
-    },
-    {
-      "rank": 28,
       "name": "Seedream 4.5",
       "slug": "seedream-4-5",
       "creator": "ByteDance Seed",
       "score": 1186,
       "ci95": "-7/7"
+    },
+    {
+      "rank": 28,
+      "name": "Agnes Image 2.0 Flash",
+      "slug": "agnes-image-2-0-flash",
+      "creator": "Sapiens AI",
+      "score": 1186,
+      "ci95": "-8/8"
     },
     {
       "rank": 29,
