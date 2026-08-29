@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T19:27:14.300Z",
+  "generated_at": "2026-08-29T13:10:40.284Z",
   "limit": 30,
   "modality": "text-to-speech",
   "metric": "elo",
@@ -13,23 +13,23 @@
       "name": "Sonic 3.6",
       "slug": "sonic-3-6",
       "creator": "Cartesia",
-      "score": 1285,
+      "score": 1288,
       "ci95": "-17/17"
     },
     {
       "rank": 2,
-      "name": "Simba 3.2",
-      "slug": "simba-3-2",
-      "creator": "SpeechifyAI",
-      "score": 1241,
+      "name": "Qwen-Audio-3.0-TTS-Plus",
+      "slug": "qwen-audio-3-0-tts-plus",
+      "creator": "Alibaba",
+      "score": 1243,
       "ci95": "-14/14"
     },
     {
       "rank": 3,
-      "name": "Qwen-Audio-3.0-TTS-Plus",
-      "slug": "qwen-audio-3-0-tts-plus",
-      "creator": "Alibaba",
-      "score": 1240,
+      "name": "Simba 3.2",
+      "slug": "simba-3-2",
+      "creator": "SpeechifyAI",
+      "score": 1239,
       "ci95": "-14/14"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Realtime TTS-2 Flash - Research Preview",
       "slug": "realtime-tts-2-flash-research-preview",
       "creator": "Inworld",
-      "score": 1227,
+      "score": 1226,
       "ci95": "-15/15"
     },
     {
@@ -53,7 +53,7 @@
       "name": "Breeze TTS 2",
       "slug": "breeze-tts-2",
       "creator": "BreezeBlue",
-      "score": 1217,
+      "score": 1221,
       "ci95": "-17/17"
     },
     {
@@ -77,7 +77,7 @@
       "name": "StepAudio 2.5 TTS",
       "slug": "st260629",
       "creator": "StepFun",
-      "score": 1208,
+      "score": 1206,
       "ci95": "-14/14"
     },
     {
@@ -117,7 +117,7 @@
       "name": "Soniox TTS Real-Time v2",
       "slug": "soniox-tts-rt-v2",
       "creator": "Soniox",
-      "score": 1181,
+      "score": 1182,
       "ci95": "-11/11"
     },
     {
@@ -125,7 +125,7 @@
       "name": "Eleven v3",
       "slug": "eleven-v3",
       "creator": "ElevenLabs",
-      "score": 1179,
+      "score": 1180,
       "ci95": "-11/11"
     },
     {
@@ -149,15 +149,15 @@
       "name": "Gradium TTS Beta",
       "slug": "gradium-tts-beta",
       "creator": "Gradium",
-      "score": 1155,
-      "ci95": "-15/15"
+      "score": 1156,
+      "ci95": "-14/14"
     },
     {
       "rank": 19,
       "name": "Speech 2.8 Turbo",
       "slug": "speech-2-8-turbo",
       "creator": "MiniMax",
-      "score": 1152,
+      "score": 1155,
       "ci95": "-11/11"
     },
     {
@@ -173,7 +173,7 @@
       "name": "Fish Audio S2.1 Pro",
       "slug": "s2-1-pro",
       "creator": "Fish Audio",
-      "score": 1146,
+      "score": 1145,
       "ci95": "-13/13"
     },
     {
@@ -181,7 +181,7 @@
       "name": "Step TTS 2 (Mar 2026)",
       "slug": "step-tts-2-mar-2026",
       "creator": "StepFun",
-      "score": 1140,
+      "score": 1141,
       "ci95": "-12/12"
     },
     {
@@ -197,22 +197,22 @@
       "name": "Lightning V3.1 Pro TTS (Jun 2026)",
       "slug": "lightning-v3-1-pro-june",
       "creator": "Smallest.ai",
-      "score": 1134,
+      "score": 1135,
       "ci95": "-13/13"
     },
     {
       "rank": 25,
-      "name": "Realtime TTS 1.5 Mini",
-      "slug": "realtime-tts-1-5-mini",
-      "creator": "Inworld",
-      "score": 1132,
+      "name": "Azure HD 2.5",
+      "slug": "azure-hd-2-5",
+      "creator": "Microsoft",
+      "score": 1133,
       "ci95": "-12/12"
     },
     {
       "rank": 26,
-      "name": "Azure HD 2.5",
-      "slug": "azure-hd-2-5",
-      "creator": "Microsoft",
+      "name": "Realtime TTS 1.5 Mini",
+      "slug": "realtime-tts-1-5-mini",
+      "creator": "Inworld",
       "score": 1132,
       "ci95": "-12/12"
     },
@@ -226,14 +226,6 @@
     },
     {
       "rank": 28,
-      "name": "Fish Audio S2 Pro",
-      "slug": "fish-audio-s2-pro",
-      "creator": "Fish Audio",
-      "score": 1127,
-      "ci95": "-12/12"
-    },
-    {
-      "rank": 29,
       "name": "Async Pro v1.0",
       "slug": "async-pro-v1-0",
       "creator": "async",
@@ -241,12 +233,20 @@
       "ci95": "-13/13"
     },
     {
+      "rank": 29,
+      "name": "Simba 3.0",
+      "slug": "simba-3-0",
+      "creator": "SpeechifyAI",
+      "score": 1126,
+      "ci95": "-12/12"
+    },
+    {
       "rank": 30,
-      "name": "SpaceXAI TTS",
-      "slug": "xai-text-to-speech",
-      "creator": "SpaceXAI",
-      "score": 1125,
-      "ci95": "-16/16"
+      "name": "Fish Audio S2 Pro",
+      "slug": "fish-audio-s2-pro",
+      "creator": "Fish Audio",
+      "score": 1126,
+      "ci95": "-12/12"
     }
   ]
 }
