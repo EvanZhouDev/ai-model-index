@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T12:07:27.393Z",
+  "generated_at": "2026-09-03T12:06:57.817Z",
   "limit": 30,
   "modality": "llm",
   "metric": "scicode",
@@ -200,24 +200,24 @@
     },
     {
       "rank": 28,
+      "name": "Gemini 3.8 Flash (medium)",
+      "slug": "gemini-3-8-flash-medium",
+      "creator": "Google",
+      "score": 0.544
+    },
+    {
+      "rank": 29,
+      "name": "Gemini 3.8 Flash (low)",
+      "slug": "gemini-3-8-flash-low",
+      "creator": "Google",
+      "score": 0.543
+    },
+    {
+      "rank": 30,
       "name": "Claude Opus 5 (Adaptive Reasoning, High Effort)",
       "slug": "claude-opus-5-high",
       "creator": "Anthropic",
       "score": 0.543
-    },
-    {
-      "rank": 29,
-      "name": "Grok 4.5 (high)",
-      "slug": "grok-4-5",
-      "creator": "SpaceXAI",
-      "score": 0.541
-    },
-    {
-      "rank": 30,
-      "name": "GPT-5.6 Terra (max)",
-      "slug": "gpt-5-6-terra",
-      "creator": "OpenAI",
-      "score": 0.539
     }
   ]
 }
