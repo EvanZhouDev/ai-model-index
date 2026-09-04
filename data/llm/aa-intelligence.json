@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T12:06:57.817Z",
+  "generated_at": "2026-09-04T12:08:30.082Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-intelligence",
@@ -46,178 +46,178 @@
     },
     {
       "rank": 6,
+      "name": "Muse Spark 1.3 (max)",
+      "slug": "muse-spark-1-3",
+      "creator": "Meta",
+      "score": 62.1
+    },
+    {
+      "rank": 7,
       "name": "Claude Fable 5 (Adaptive Reasoning, Max Effort, Opus 4.8 Fallback)",
       "slug": "claude-fable-5",
       "creator": "Anthropic",
       "score": 62.1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Claude Opus 5 (Adaptive Reasoning, High Effort)",
       "slug": "claude-opus-5-high",
       "creator": "Anthropic",
       "score": 61.5
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "name": "GPT-6 Astra (max)",
+      "slug": "gpt-6-astra",
+      "creator": "OpenAI",
+      "score": 61.2
+    },
+    {
+      "rank": 10,
+      "name": "GPT-6 Astra (xhigh)",
+      "slug": "gpt-6-astra-xhigh",
+      "creator": "OpenAI",
+      "score": 61
+    },
+    {
+      "rank": 11,
       "name": "GPT-5.6 Sol (max)",
       "slug": "gpt-5-6-sol",
       "creator": "OpenAI",
       "score": 60.9
     },
     {
-      "rank": 9,
+      "rank": 12,
       "name": "Grok 4.6 (high)",
       "slug": "grok-4-6",
       "creator": "SpaceXAI",
       "score": 60.9
     },
     {
-      "rank": 10,
+      "rank": 13,
+      "name": "Muse Spark 1.3 (xhigh)",
+      "slug": "muse-spark-1-3-xhigh",
+      "creator": "Meta",
+      "score": 60.8
+    },
+    {
+      "rank": 14,
       "name": "Claude Fable 5.1 (Adaptive Reasoning, Medium Effort, Default Fallback)",
       "slug": "claude-fable-5-1-medium",
       "creator": "Anthropic",
       "score": 60.5
     },
     {
-      "rank": 11,
+      "rank": 15,
+      "name": "GPT-6 Astra (high)",
+      "slug": "gpt-6-astra-high",
+      "creator": "OpenAI",
+      "score": 60.3
+    },
+    {
+      "rank": 16,
       "name": "Grok 4.6 (xhigh)",
       "slug": "grok-4-6-xhigh",
       "creator": "SpaceXAI",
       "score": 60
     },
     {
-      "rank": 12,
+      "rank": 17,
       "name": "Kimi K3 (max)",
       "slug": "kimi-k3",
       "creator": "Kimi",
       "score": 59.7
     },
     {
-      "rank": 13,
+      "rank": 18,
       "name": "GLM-5.3 (max)",
       "slug": "glm-5-3",
       "creator": "Z AI",
       "score": 59.5
     },
     {
-      "rank": 14,
+      "rank": 19,
+      "name": "GPT-6 Astra (medium)",
+      "slug": "gpt-6-astra-medium",
+      "creator": "OpenAI",
+      "score": 59.2
+    },
+    {
+      "rank": 20,
       "name": "GPT-5.6 Sol (xhigh)",
       "slug": "gpt-5-6-sol-xhigh",
       "creator": "OpenAI",
       "score": 59
     },
     {
-      "rank": 15,
+      "rank": 21,
       "name": "Grok 4.6 (medium)",
       "slug": "grok-4-6-medium",
       "creator": "SpaceXAI",
       "score": 59
     },
     {
-      "rank": 16,
+      "rank": 22,
       "name": "Gemini 3.8 Flash (high)",
       "slug": "gemini-3-8-flash",
       "creator": "Google",
       "score": 58.7
     },
     {
-      "rank": 17,
+      "rank": 23,
       "name": "Claude Opus 5 (Adaptive Reasoning, Medium Effort)",
       "slug": "claude-opus-5-medium",
       "creator": "Anthropic",
       "score": 58.6
     },
     {
-      "rank": 18,
+      "rank": 24,
       "name": "Claude Fable 5.1 (Adaptive Reasoning, Low Effort, Default Fallback)",
       "slug": "claude-fable-5-1-low",
       "creator": "Anthropic",
       "score": 58.1
     },
     {
-      "rank": 19,
+      "rank": 25,
       "name": "Qwen3.8 Max",
       "slug": "qwen3-8-max",
       "creator": "Alibaba",
       "score": 58.1
     },
     {
-      "rank": 20,
+      "rank": 26,
       "name": "Qwen3.8 2.4T A95B",
       "slug": "qwen3-8-2-4t-a95b",
       "creator": "Alibaba",
       "score": 57.7
     },
     {
-      "rank": 21,
+      "rank": 27,
       "name": "GLM-5.3-Flash",
       "slug": "glm-5-3-flash",
       "creator": "Z AI",
       "score": 57.5
     },
     {
-      "rank": 22,
+      "rank": 28,
       "name": "GPT-5.6 Sol (high)",
       "slug": "gpt-5-6-sol-high",
       "creator": "OpenAI",
       "score": 57.3
     },
     {
-      "rank": 23,
+      "rank": 29,
       "name": "Claude Opus 4.8 (Adaptive Reasoning, Max Effort)",
       "slug": "claude-opus-4-8",
       "creator": "Anthropic",
       "score": 57.3
     },
     {
-      "rank": 24,
+      "rank": 30,
       "name": "Muse Spark 1.2 (xhigh)",
       "slug": "muse-spark-1-2",
       "creator": "Meta",
       "score": 56.8
-    },
-    {
-      "rank": 25,
-      "name": "Gemini 3.8 Flash (medium)",
-      "slug": "gemini-3-8-flash-medium",
-      "creator": "Google",
-      "score": 56.6
-    },
-    {
-      "rank": 26,
-      "name": "GPT-5.6 Terra (max)",
-      "slug": "gpt-5-6-terra",
-      "creator": "OpenAI",
-      "score": 56.6
-    },
-    {
-      "rank": 27,
-      "name": "GPT-5.5 (xhigh)",
-      "slug": "gpt-5-5",
-      "creator": "OpenAI",
-      "score": 56.3
-    },
-    {
-      "rank": 28,
-      "name": "Gemini 3.7 Flash (high)",
-      "slug": "gemini-3-7-flash",
-      "creator": "Google",
-      "score": 56
-    },
-    {
-      "rank": 29,
-      "name": "Qwen3.8-Flash-Next",
-      "slug": "qwen3-8-flash-next",
-      "creator": "Alibaba",
-      "score": 55.8
-    },
-    {
-      "rank": 30,
-      "name": "Grok 4.5 (high)",
-      "slug": "grok-4-5",
-      "creator": "SpaceXAI",
-      "score": 55.8
     }
   ]
 }
