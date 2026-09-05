@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T12:08:30.082Z",
+  "generated_at": "2026-09-05T11:16:31.092Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -10,26 +10,26 @@
   "models": [
     {
       "rank": 1,
-      "name": "MAI-Image-2.6-Preview",
-      "slug": "mai-image-2-6-preview",
+      "name": "MAI-Image-2.6",
+      "slug": "mai-image-2-6",
       "creator": "Microsoft AI",
-      "score": 1324,
+      "score": 1128,
       "ci95": "-10/10"
     },
     {
       "rank": 2,
-      "name": "GPT Image 2 (high)",
-      "slug": "gpt-image-2",
-      "creator": "OpenAI",
-      "score": 1314,
+      "name": "MAI-Image-2.6-Flash",
+      "slug": "mai-image-2-6-flash",
+      "creator": "Microsoft AI",
+      "score": 1120,
       "ci95": "-10/10"
     },
     {
       "rank": 3,
-      "name": "Nano Banana 2 (Gemini 3.1 Flash Image)",
-      "slug": "nano-banana-2",
-      "creator": "Google",
-      "score": 1311,
+      "name": "GPT Image 2 (high)",
+      "slug": "gpt-image-2",
+      "creator": "OpenAI",
+      "score": 1117,
       "ci95": "-10/10"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Muse Image",
       "slug": "muse-image-1.0",
       "creator": "Meta",
-      "score": 1303,
+      "score": 1110,
       "ci95": "-10/10"
     },
     {
@@ -45,23 +45,23 @@
       "name": "MAI-Image-2.5",
       "slug": "mai-image-2-5",
       "creator": "Microsoft AI",
-      "score": 1300,
+      "score": 1109,
       "ci95": "-10/10"
     },
     {
       "rank": 6,
-      "name": "Seedream 5.0 Pro",
-      "slug": "seedream-5-0-pro",
-      "creator": "ByteDance Seed",
-      "score": 1297,
-      "ci95": "-11/11"
+      "name": "Nano Banana 2 (Gemini 3.1 Flash Image)",
+      "slug": "nano-banana-2",
+      "creator": "Google",
+      "score": 1104,
+      "ci95": "-9/9"
     },
     {
       "rank": 7,
-      "name": "Nano Banana Pro (Gemini 3 Pro Image)",
-      "slug": "gemini_nano-banana-pro",
-      "creator": "Google",
-      "score": 1295,
+      "name": "Seedream 5.0 Pro",
+      "slug": "seedream-5-0-pro",
+      "creator": "ByteDance Seed",
+      "score": 1101,
       "ci95": "-10/10"
     },
     {
@@ -69,184 +69,184 @@
       "name": "MAI-Image-2.5-Pro",
       "slug": "mai-image-2-5-pro",
       "creator": "Microsoft AI",
-      "score": 1293,
-      "ci95": "-10/10"
+      "score": 1097,
+      "ci95": "-9/9"
     },
     {
       "rank": 9,
       "name": "GPT Image 1.5 (high)",
       "slug": "openai-gpt_image-1-5",
       "creator": "OpenAI",
-      "score": 1290,
-      "ci95": "-10/10"
+      "score": 1093,
+      "ci95": "-9/9"
     },
     {
       "rank": 10,
-      "name": "Qwen-Image-3.0-Pro",
-      "slug": "qwen-image-3-0-pro",
-      "creator": "Alibaba",
-      "score": 1280,
-      "ci95": "-10/10"
+      "name": "Nano Banana Pro (Gemini 3 Pro Image)",
+      "slug": "gemini_nano-banana-pro",
+      "creator": "Google",
+      "score": 1092,
+      "ci95": "-9/9"
     },
     {
       "rank": 11,
-      "name": "grok-imagine-image-quality",
-      "slug": "grok-imagine-image-quality",
-      "creator": "SpaceXAI",
-      "score": 1276,
-      "ci95": "-11/11"
+      "name": "Reve 2.1",
+      "slug": "reve-2-1",
+      "creator": "Reve",
+      "score": 1090,
+      "ci95": "-15/15"
     },
     {
       "rank": 12,
       "name": "MAI-Image-2.5-Flash",
       "slug": "mai-image-2-5-flash",
       "creator": "Microsoft AI",
-      "score": 1276,
-      "ci95": "-11/11"
+      "score": 1081,
+      "ci95": "-10/10"
     },
     {
       "rank": 13,
-      "name": "Reve 2.1",
-      "slug": "reve-2-1",
-      "creator": "Reve",
-      "score": 1272,
-      "ci95": "-15/15"
+      "name": "Qwen-Image-3.0-Pro",
+      "slug": "qwen-image-3-0-pro",
+      "creator": "Alibaba",
+      "score": 1078,
+      "ci95": "-9/9"
     },
     {
       "rank": 14,
-      "name": "Luma UNI 1 Max",
-      "slug": "luma-uni-1-max",
-      "creator": "Luma Labs",
-      "score": 1266,
-      "ci95": "-12/12"
+      "name": "grok-imagine-image-quality",
+      "slug": "grok-imagine-image-quality",
+      "creator": "SpaceXAI",
+      "score": 1074,
+      "ci95": "-10/10"
     },
     {
       "rank": 15,
       "name": "grok-imagine-image",
       "slug": "grok-imagine-image",
       "creator": "SpaceXAI",
-      "score": 1259,
-      "ci95": "-12/12"
+      "score": 1063,
+      "ci95": "-10/10"
     },
     {
       "rank": 16,
-      "name": "Seedream 5.0 Lite",
-      "slug": "seedream-5-0-lite",
-      "creator": "ByteDance Seed",
-      "score": 1250,
-      "ci95": "-12/12"
+      "name": "Luma UNI 1 Max",
+      "slug": "luma-uni-1-max",
+      "creator": "Luma Labs",
+      "score": 1062,
+      "ci95": "-10/10"
     },
     {
       "rank": 17,
-      "name": "Luma UNI 1",
-      "slug": "luma-uni-1",
-      "creator": "Luma Labs",
-      "score": 1239,
-      "ci95": "-11/11"
+      "name": "HiDream-O1-Edit-1.5",
+      "slug": "hidream-o1-edit-1-5",
+      "creator": "HiDream",
+      "score": 1060,
+      "ci95": "-10/10"
     },
     {
       "rank": 18,
-      "name": "DreamImage 2.0",
-      "slug": "dreamimage-2-0",
-      "creator": "Newport AI",
-      "score": 1237,
-      "ci95": "-11/11"
+      "name": "Seedream 5.0 Lite",
+      "slug": "seedream-5-0-lite",
+      "creator": "ByteDance Seed",
+      "score": 1057,
+      "ci95": "-10/10"
     },
     {
       "rank": 19,
-      "name": "Wan 2.6 Image",
-      "slug": "wan_wan-2-6",
-      "creator": "Alibaba",
-      "score": 1235,
-      "ci95": "-12/12"
-    },
-    {
-      "rank": 20,
-      "name": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
-      "slug": "nano-banana-2-lite",
-      "creator": "Google",
-      "score": 1229,
-      "ci95": "-11/11"
-    },
-    {
-      "rank": 21,
-      "name": "HunyuanImage 3.0 Instruct (Fal)",
-      "slug": "tencent_hunyuanimage-3-0-instruct--fal",
-      "creator": "Tencent",
-      "score": 1226,
-      "ci95": "-12/12"
-    },
-    {
-      "rank": 22,
-      "name": "Kling Image 3.0",
-      "slug": "kling-image-3-0",
-      "creator": "KlingAI",
-      "score": 1226,
-      "ci95": "-9/9"
-    },
-    {
-      "rank": 23,
       "name": "Qwen-Image-3.0",
       "slug": "qwen-image-3-0",
       "creator": "Alibaba",
-      "score": 1224,
-      "ci95": "-11/11"
+      "score": 1043,
+      "ci95": "-10/10"
     },
     {
-      "rank": 24,
+      "rank": 20,
+      "name": "DreamImage 2.0",
+      "slug": "dreamimage-2-0",
+      "creator": "Newport AI",
+      "score": 1041,
+      "ci95": "-10/10"
+    },
+    {
+      "rank": 21,
+      "name": "Luma UNI 1",
+      "slug": "luma-uni-1",
+      "creator": "Luma Labs",
+      "score": 1038,
+      "ci95": "-10/10"
+    },
+    {
+      "rank": 22,
       "name": "Seedream 4.5",
       "slug": "seedream-4-5",
       "creator": "ByteDance Seed",
-      "score": 1223,
-      "ci95": "-12/12"
+      "score": 1037,
+      "ci95": "-10/10"
+    },
+    {
+      "rank": 23,
+      "name": "Wan 2.6 Image",
+      "slug": "wan_wan-2-6",
+      "creator": "Alibaba",
+      "score": 1036,
+      "ci95": "-10/10"
+    },
+    {
+      "rank": 24,
+      "name": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
+      "slug": "nano-banana-2-lite",
+      "creator": "Google",
+      "score": 1036,
+      "ci95": "-10/10"
     },
     {
       "rank": 25,
       "name": "Wan 2.7 Pro",
       "slug": "wan-2-7-pro",
       "creator": "Alibaba",
-      "score": 1221,
-      "ci95": "-12/12"
+      "score": 1034,
+      "ci95": "-10/10"
     },
     {
       "rank": 26,
-      "name": "Agnes Image 2.0 Flash",
-      "slug": "agnes-image-2-0-flash",
-      "creator": "Sapiens AI",
-      "score": 1215,
-      "ci95": "-9/9"
-    },
-    {
-      "rank": 27,
       "name": "Wan 2.7",
       "slug": "wan-2-7",
       "creator": "Alibaba",
-      "score": 1214,
-      "ci95": "-12/12"
+      "score": 1032,
+      "ci95": "-10/10"
+    },
+    {
+      "rank": 27,
+      "name": "HunyuanImage 3.0 Instruct (Fal)",
+      "slug": "tencent_hunyuanimage-3-0-instruct--fal",
+      "creator": "Tencent",
+      "score": 1027,
+      "ci95": "-10/10"
     },
     {
       "rank": 28,
-      "name": "Seedream 4.0",
-      "slug": "bytedance-seed_seedream-4-0",
-      "creator": "ByteDance Seed",
-      "score": 1206,
-      "ci95": "-8/8"
+      "name": "Agnes Image 2.0 Flash",
+      "slug": "agnes-image-2-0-flash",
+      "creator": "Sapiens AI",
+      "score": 1018,
+      "ci95": "-10/10"
     },
     {
       "rank": 29,
-      "name": "Step Image Edit 2",
-      "slug": "step-image-edit-2",
-      "creator": "StepFun",
-      "score": 1201,
-      "ci95": "-11/11"
+      "name": "Seedream 4.0",
+      "slug": "bytedance-seed_seedream-4-0",
+      "creator": "ByteDance Seed",
+      "score": 1017,
+      "ci95": "-8/8"
     },
     {
       "rank": 30,
-      "name": "Reve V1 (December)",
-      "slug": "reve_reve-v1--december",
-      "creator": "Reve",
-      "score": 1197,
-      "ci95": "-9/9"
+      "name": "Kling Image 3.0",
+      "slug": "kling-image-3-0",
+      "creator": "KlingAI",
+      "score": 1012,
+      "ci95": "-8/8"
     }
   ]
 }
