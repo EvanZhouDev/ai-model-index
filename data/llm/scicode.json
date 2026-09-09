@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T12:09:02.689Z",
+  "generated_at": "2026-09-09T12:21:00.661Z",
   "limit": 30,
   "modality": "llm",
   "metric": "scicode",
@@ -60,31 +60,31 @@
     },
     {
       "rank": 8,
+      "name": "Muse Spark 1.3 (max)",
+      "slug": "muse-spark-1-3",
+      "creator": "Meta",
+      "score": 0.588
+    },
+    {
+      "rank": 9,
       "name": "Muse Spark 1.1 (xhigh)",
       "slug": "muse-spark-1-1",
       "creator": "Meta",
       "score": 0.588
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Gemini 3.1 Pro Preview",
       "slug": "gemini-3-1-pro-preview",
       "creator": "Google",
       "score": 0.587
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Claude Fable 5.1 (Adaptive Reasoning, High Effort, Default Fallback)",
       "slug": "claude-fable-5-1-high",
       "creator": "Anthropic",
       "score": 0.587
-    },
-    {
-      "rank": 11,
-      "name": "Muse Spark 1.3 (max)",
-      "slug": "muse-spark-1-3",
-      "creator": "Meta",
-      "score": 0.583
     },
     {
       "rank": 12,
@@ -179,45 +179,45 @@
     },
     {
       "rank": 25,
+      "name": "GPT-5.5 (high)",
+      "slug": "gpt-5-5-high",
+      "creator": "OpenAI",
+      "score": 0.561
+    },
+    {
+      "rank": 26,
       "name": "Grok 4.6 (medium)",
       "slug": "grok-4-6-medium",
       "creator": "SpaceXAI",
       "score": 0.559
     },
     {
-      "rank": 26,
+      "rank": 27,
+      "name": "GPT-5.5 (xhigh)",
+      "slug": "gpt-5-5",
+      "creator": "OpenAI",
+      "score": 0.558
+    },
+    {
+      "rank": 28,
       "name": "GPT-6 Astra (xhigh)",
       "slug": "gpt-6-astra-xhigh",
       "creator": "OpenAI",
       "score": 0.557
     },
     {
-      "rank": 27,
+      "rank": 29,
       "name": "Gemini 3.7 Flash (low)",
       "slug": "gemini-3-7-flash-low",
       "creator": "Google",
       "score": 0.557
     },
     {
-      "rank": 28,
+      "rank": 30,
       "name": "Claude Opus 5 (Adaptive Reasoning, Xhigh Effort)",
       "slug": "claude-opus-5-xhigh",
       "creator": "Anthropic",
       "score": 0.557
-    },
-    {
-      "rank": 29,
-      "name": "GPT-6 Astra (high)",
-      "slug": "gpt-6-astra-high",
-      "creator": "OpenAI",
-      "score": 0.554
-    },
-    {
-      "rank": 30,
-      "name": "Claude Opus 5 (Adaptive Reasoning, High Effort)",
-      "slug": "claude-opus-5-high",
-      "creator": "Anthropic",
-      "score": 0.554
     }
   ]
 }
