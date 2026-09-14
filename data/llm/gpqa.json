@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T12:44:19.281Z",
+  "generated_at": "2026-09-14T14:06:46.837Z",
   "limit": 30,
   "modality": "llm",
   "metric": "gpqa",
@@ -81,44 +81,44 @@
     },
     {
       "rank": 11,
-      "name": "Claude Opus 5 (Adaptive Reasoning, Xhigh Effort)",
-      "slug": "claude-opus-5-xhigh",
-      "creator": "Anthropic",
-      "score": 0.937
-    },
-    {
-      "rank": 12,
-      "name": "Claude Opus 5 (Adaptive Reasoning, High Effort)",
-      "slug": "claude-opus-5-high",
-      "creator": "Anthropic",
-      "score": 0.937
-    },
-    {
-      "rank": 13,
       "name": "Claude Fable 5.1 (Adaptive Reasoning, Max Effort, Default Fallback)",
       "slug": "claude-fable-5-1",
       "creator": "Anthropic",
       "score": 0.937
     },
     {
-      "rank": 14,
-      "name": "Gemini 3.8 Flash (medium)",
-      "slug": "gemini-3-8-flash-medium",
-      "creator": "Google",
-      "score": 0.935
+      "rank": 12,
+      "name": "Claude Opus 5 (Adaptive Reasoning, Xhigh Effort)",
+      "slug": "claude-opus-5-xhigh",
+      "creator": "Anthropic",
+      "score": 0.937
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "name": "Claude Opus 5 (Adaptive Reasoning, High Effort)",
+      "slug": "claude-opus-5-high",
+      "creator": "Anthropic",
+      "score": 0.937
+    },
+    {
+      "rank": 14,
       "name": "Muse Spark 1.3 (max)",
       "slug": "muse-spark-1-3",
       "creator": "Meta",
       "score": 0.935
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "Grok 4.6 (xhigh)",
       "slug": "grok-4-6-xhigh",
       "creator": "SpaceXAI",
+      "score": 0.935
+    },
+    {
+      "rank": 16,
+      "name": "Kimi K3 (max)",
+      "slug": "kimi-k3",
+      "creator": "Kimi",
       "score": 0.935
     },
     {
@@ -130,16 +130,16 @@
     },
     {
       "rank": 18,
-      "name": "Kimi K3 (max)",
-      "slug": "kimi-k3",
-      "creator": "Kimi",
+      "name": "Qwen3.8 2.4T A95B",
+      "slug": "qwen3-8-2-4t-a95b",
+      "creator": "Alibaba",
       "score": 0.935
     },
     {
       "rank": 19,
-      "name": "Qwen3.8 2.4T A95B",
-      "slug": "qwen3-8-2-4t-a95b",
-      "creator": "Alibaba",
+      "name": "Gemini 3.8 Flash (medium)",
+      "slug": "gemini-3-8-flash-medium",
+      "creator": "Google",
       "score": 0.935
     },
     {
@@ -207,16 +207,16 @@
     },
     {
       "rank": 29,
-      "name": "Gemini 3.6 Flash (high)",
-      "slug": "gemini-3-6-flash",
-      "creator": "Google",
+      "name": "DeepSeek V4 Pro 0813 (Reasoning, Max Effort)",
+      "slug": "deepseek-v4-pro",
+      "creator": "DeepSeek",
       "score": 0.928
     },
     {
       "rank": 30,
-      "name": "DeepSeek V4 Pro 0813 (Reasoning, Max Effort)",
-      "slug": "deepseek-v4-pro",
-      "creator": "DeepSeek",
+      "name": "Gemini 3.6 Flash (high)",
+      "slug": "gemini-3-6-flash",
+      "creator": "Google",
       "score": 0.928
     }
   ]

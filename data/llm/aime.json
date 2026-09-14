@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T12:44:19.281Z",
+  "generated_at": "2026-09-14T14:06:46.837Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aime",
@@ -95,16 +95,16 @@
     },
     {
       "rank": 13,
-      "name": "Llama Nemotron Super 49B v1.5 (Reasoning)",
-      "slug": "llama-nemotron-super-49b-v1-5-reasoning",
-      "creator": "NVIDIA",
+      "name": "o3-mini (high)",
+      "slug": "o3-mini-high",
+      "creator": "OpenAI",
       "score": 0.86
     },
     {
       "rank": 14,
-      "name": "o3-mini (high)",
-      "slug": "o3-mini-high",
-      "creator": "OpenAI",
+      "name": "Llama Nemotron Super 49B v1.5 (Reasoning)",
+      "slug": "llama-nemotron-super-49b-v1-5-reasoning",
+      "creator": "NVIDIA",
       "score": 0.86
     },
     {
@@ -116,9 +116,9 @@
     },
     {
       "rank": 16,
-      "name": "EXAONE 4.0 32B (Reasoning)",
-      "slug": "exaone-4-0-32b-reasoning",
-      "creator": "LG AI Research",
+      "name": "Gemini 2.5 Pro Preview (May' 25)",
+      "slug": "gemini-2-5-pro-05-06",
+      "creator": "Google",
       "score": 0.843333333333333
     },
     {
@@ -130,9 +130,9 @@
     },
     {
       "rank": 18,
-      "name": "Gemini 2.5 Pro Preview (May' 25)",
-      "slug": "gemini-2-5-pro-05-06",
-      "creator": "Google",
+      "name": "EXAONE 4.0 32B (Reasoning)",
+      "slug": "exaone-4-0-32b-reasoning",
+      "creator": "LG AI Research",
       "score": 0.843333333333333
     },
     {

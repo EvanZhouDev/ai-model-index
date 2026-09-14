@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T12:44:19.281Z",
+  "generated_at": "2026-09-14T14:06:46.837Z",
   "limit": 30,
   "modality": "llm",
   "metric": "mmlu-pro",
@@ -18,16 +18,16 @@
     },
     {
       "rank": 2,
-      "name": "Gemini 3 Pro Preview (low)",
-      "slug": "gemini-3-pro-low",
-      "creator": "Google",
+      "name": "Claude Opus 4.5 (Reasoning)",
+      "slug": "claude-opus-4-5-thinking",
+      "creator": "Anthropic",
       "score": 0.895
     },
     {
       "rank": 3,
-      "name": "Claude Opus 4.5 (Reasoning)",
-      "slug": "claude-opus-4-5-thinking",
-      "creator": "Anthropic",
+      "name": "Gemini 3 Pro Preview (low)",
+      "slug": "gemini-3-pro-low",
+      "creator": "Google",
       "score": 0.895
     },
     {
@@ -130,16 +130,16 @@
     },
     {
       "rank": 18,
-      "name": "Gemini 2.5 Pro",
-      "slug": "gemini-2-5-pro",
-      "creator": "Google",
+      "name": "DeepSeek V3.2 (Reasoning)",
+      "slug": "deepseek-v3-2-reasoning",
+      "creator": "DeepSeek",
       "score": 0.862
     },
     {
       "rank": 19,
-      "name": "DeepSeek V3.2 (Reasoning)",
-      "slug": "deepseek-v3-2-reasoning",
-      "creator": "DeepSeek",
+      "name": "Gemini 2.5 Pro",
+      "slug": "gemini-2-5-pro",
+      "creator": "Google",
       "score": 0.862
     },
     {
@@ -193,16 +193,16 @@
     },
     {
       "rank": 27,
-      "name": "Doubao Seed Code",
-      "slug": "doubao-seed-code",
-      "creator": "ByteDance Seed",
+      "name": "Grok 4.1 Fast (Reasoning)",
+      "slug": "grok-4-1-fast-reasoning",
+      "creator": "SpaceXAI",
       "score": 0.854
     },
     {
       "rank": 28,
-      "name": "Grok 4.1 Fast (Reasoning)",
-      "slug": "grok-4-1-fast-reasoning",
-      "creator": "SpaceXAI",
+      "name": "Doubao Seed Code",
+      "slug": "doubao-seed-code",
+      "creator": "ByteDance Seed",
       "score": 0.854
     },
     {
@@ -214,8 +214,8 @@
     },
     {
       "rank": 30,
-      "name": "DeepSeek V3.1 (Reasoning)",
-      "slug": "deepseek-v3-1-reasoning",
+      "name": "DeepSeek V3.1 Terminus (Reasoning)",
+      "slug": "deepseek-v3-1-terminus-reasoning",
       "creator": "DeepSeek",
       "score": 0.851
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T12:44:19.281Z",
+  "generated_at": "2026-09-14T14:06:46.837Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-math",
@@ -53,16 +53,16 @@
     },
     {
       "rank": 7,
-      "name": "GPT-5.1 Codex (high)",
-      "slug": "gpt-5-1-codex",
-      "creator": "OpenAI",
+      "name": "Gemini 3 Pro Preview (high)",
+      "slug": "gemini-3-pro",
+      "creator": "Google",
       "score": 95.7
     },
     {
       "rank": 8,
-      "name": "Gemini 3 Pro Preview (high)",
-      "slug": "gemini-3-pro",
-      "creator": "Google",
+      "name": "GPT-5.1 Codex (high)",
+      "slug": "gpt-5-1-codex",
+      "creator": "OpenAI",
       "score": 95.7
     },
     {
@@ -88,16 +88,16 @@
     },
     {
       "rank": 12,
-      "name": "Nova 2.0 Lite (high)",
-      "slug": "nova-2-0-lite-reasoning",
-      "creator": "Amazon",
+      "name": "GPT-5 (high)",
+      "slug": "gpt-5",
+      "creator": "OpenAI",
       "score": 94.3
     },
     {
       "rank": 13,
-      "name": "GPT-5 (high)",
-      "slug": "gpt-5",
-      "creator": "OpenAI",
+      "name": "Nova 2.0 Lite (high)",
+      "slug": "nova-2-0-lite-reasoning",
+      "creator": "Amazon",
       "score": 94.3
     },
     {
@@ -151,16 +151,16 @@
     },
     {
       "rank": 21,
-      "name": "NVIDIA Nemotron 3 Nano 30B A3B (Reasoning)",
-      "slug": "nvidia-nemotron-3-nano-30b-a3b-reasoning",
-      "creator": "NVIDIA",
+      "name": "Qwen3 235B A22B 2507 (Reasoning)",
+      "slug": "qwen3-235b-a22b-instruct-2507-reasoning",
+      "creator": "Alibaba",
       "score": 91
     },
     {
       "rank": 22,
-      "name": "Qwen3 235B A22B 2507 (Reasoning)",
-      "slug": "qwen3-235b-a22b-instruct-2507-reasoning",
-      "creator": "Alibaba",
+      "name": "NVIDIA Nemotron 3 Nano 30B A3B (Reasoning)",
+      "slug": "nvidia-nemotron-3-nano-30b-a3b-reasoning",
+      "creator": "NVIDIA",
       "score": 91
     },
     {
@@ -186,37 +186,37 @@
     },
     {
       "rank": 26,
-      "name": "Nova 2.0 Omni (medium)",
-      "slug": "nova-2-0-omni-reasoning-medium",
-      "creator": "Amazon",
-      "score": 89.7
-    },
-    {
-      "rank": 27,
-      "name": "DeepSeek V3.1 (Reasoning)",
-      "slug": "deepseek-v3-1-reasoning",
-      "creator": "DeepSeek",
-      "score": 89.7
-    },
-    {
-      "rank": 28,
-      "name": "DeepSeek V3.1 Terminus (Reasoning)",
-      "slug": "deepseek-v3-1-terminus-reasoning",
-      "creator": "DeepSeek",
-      "score": 89.7
-    },
-    {
-      "rank": 29,
       "name": "Grok 4 Fast (Reasoning)",
       "slug": "grok-4-fast-reasoning",
       "creator": "SpaceXAI",
       "score": 89.7
     },
     {
+      "rank": 27,
+      "name": "DeepSeek V3.1 Terminus (Reasoning)",
+      "slug": "deepseek-v3-1-terminus-reasoning",
+      "creator": "DeepSeek",
+      "score": 89.7
+    },
+    {
+      "rank": 28,
+      "name": "Nova 2.0 Omni (medium)",
+      "slug": "nova-2-0-omni-reasoning-medium",
+      "creator": "Amazon",
+      "score": 89.7
+    },
+    {
+      "rank": 29,
+      "name": "DeepSeek V3.1 (Reasoning)",
+      "slug": "deepseek-v3-1-reasoning",
+      "creator": "DeepSeek",
+      "score": 89.7
+    },
+    {
       "rank": 30,
-      "name": "gpt-oss-20b (high)",
-      "slug": "gpt-oss-20b",
-      "creator": "OpenAI",
+      "name": "Grok 4.1 Fast (Reasoning)",
+      "slug": "grok-4-1-fast-reasoning",
+      "creator": "SpaceXAI",
       "score": 89.3
     }
   ]

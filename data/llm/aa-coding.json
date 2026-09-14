@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T12:44:19.281Z",
+  "generated_at": "2026-09-14T14:06:46.837Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-coding",
@@ -109,23 +109,23 @@
     },
     {
       "rank": 15,
-      "name": "Muse Spark 1.3 (xhigh)",
-      "slug": "muse-spark-1-3-xhigh",
-      "creator": "Meta",
-      "score": 76.5
-    },
-    {
-      "rank": 16,
       "name": "Claude Fable 5 (Adaptive Reasoning, Max Effort, Opus 4.8 Fallback)",
       "slug": "claude-fable-5",
       "creator": "Anthropic",
       "score": 76.5
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "Claude Opus 5 (Adaptive Reasoning, High Effort)",
       "slug": "claude-opus-5-high",
       "creator": "Anthropic",
+      "score": 76.5
+    },
+    {
+      "rank": 17,
+      "name": "Muse Spark 1.3 (xhigh)",
+      "slug": "muse-spark-1-3-xhigh",
+      "creator": "Meta",
       "score": 76.5
     },
     {
