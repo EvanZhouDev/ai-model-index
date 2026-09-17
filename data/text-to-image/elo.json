@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T12:36:58.664Z",
+  "generated_at": "2026-09-17T12:36:36.124Z",
   "limit": 30,
   "modality": "text-to-image",
   "metric": "elo",
@@ -13,7 +13,7 @@
       "name": "GPT Image 2.5 Flare (max)",
       "slug": "gpt-image-2.5-flare-2026-09-08",
       "creator": "OpenAI",
-      "score": 1189,
+      "score": 1186,
       "ci95": "-11/11"
     },
     {
@@ -21,7 +21,7 @@
       "name": "GPT Image 2.5 Sunburst (max)",
       "slug": "gpt-image-2.5-sunburst-2026-09-08",
       "creator": "OpenAI",
-      "score": 1183,
+      "score": 1180,
       "ci95": "-11/11"
     },
     {
@@ -29,23 +29,18 @@
       "name": "GPT Image 2 (high)",
       "slug": "gpt-image-2",
       "creator": "OpenAI",
-      "score": 1173,
+      "score": 1169,
       "ci95": "-9/9",
       "category_distribution": [
         {
           "style": "Anime",
-          "score": 1142,
-          "ci95": "-66/66"
-        },
-        {
-          "subject": "Futuristic & Sci-Fi",
-          "score": 1608,
-          "ci95": "-66/66"
+          "score": 1126,
+          "ci95": "-68/68"
         },
         {
           "subject": "Fantasy & Mythical",
-          "score": 1188,
-          "ci95": "-49/49"
+          "score": 1169,
+          "ci95": "-52/52"
         }
       ]
     },
@@ -54,36 +49,31 @@
       "name": "MAI-Image-2.6",
       "slug": "mai-image-2-6",
       "creator": "Microsoft AI",
-      "score": 1149,
-      "ci95": "-10/10"
+      "score": 1146,
+      "ci95": "-11/11"
     },
     {
       "rank": 5,
       "name": "Reve 2.1",
       "slug": "reve-2-1",
       "creator": "Reve",
-      "score": 1127,
+      "score": 1129,
       "ci95": "-9/9",
       "category_distribution": [
         {
           "style": "Anime",
-          "score": 1129,
-          "ci95": "-63/63"
+          "score": 1105,
+          "ci95": "-67/67"
         },
         {
           "subject": "Futuristic & Sci-Fi",
           "score": 1597,
-          "ci95": "-62/62"
-        },
-        {
-          "subject": "Physical Spaces",
-          "score": 1433,
-          "ci95": "-78/78"
+          "ci95": "-70/70"
         },
         {
           "subject": "Fantasy & Mythical",
-          "score": 1100,
-          "ci95": "-48/48"
+          "score": 1078,
+          "ci95": "-53/53"
         }
       ]
     },
@@ -97,18 +87,18 @@
       "category_distribution": [
         {
           "style": "Anime",
-          "score": 1125,
-          "ci95": "-58/58"
+          "score": 1164,
+          "ci95": "-64/64"
         },
         {
           "subject": "Futuristic & Sci-Fi",
-          "score": 1580,
-          "ci95": "-54/54"
+          "score": 1593,
+          "ci95": "-59/59"
         },
         {
           "subject": "Fantasy & Mythical",
-          "score": 1178,
-          "ci95": "-44/44"
+          "score": 1191,
+          "ci95": "-47/47"
         }
       ]
     },
@@ -117,56 +107,41 @@
       "name": "Muse Image",
       "slug": "muse-image-1.0",
       "creator": "Meta",
-      "score": 1111,
+      "score": 1113,
       "ci95": "-10/10"
     },
     {
       "rank": 8,
-      "name": "MAI-Image-2.5",
-      "slug": "mai-image-2-5",
-      "creator": "Microsoft AI",
-      "score": 1105,
+      "name": "GPT Image 1.5 (high)",
+      "slug": "openai-gpt_image-1-5",
+      "creator": "OpenAI",
+      "score": 1102,
       "ci95": "-9/9",
       "category_distribution": [
         {
-          "style": "Anime",
-          "score": 1052,
-          "ci95": "-61/61"
-        },
-        {
-          "subject": "Futuristic & Sci-Fi",
-          "score": 1582,
-          "ci95": "-66/66"
-        },
-        {
           "subject": "Fantasy & Mythical",
-          "score": 1099,
-          "ci95": "-51/51"
-        },
-        {
-          "subject": "People: Groups & Activities",
-          "score": 1564,
-          "ci95": "-112/112"
+          "score": 1092,
+          "ci95": "-53/53"
         }
       ]
     },
     {
       "rank": 9,
-      "name": "GPT Image 1.5 (high)",
-      "slug": "openai-gpt_image-1-5",
-      "creator": "OpenAI",
-      "score": 1104,
+      "name": "MAI-Image-2.5",
+      "slug": "mai-image-2-5",
+      "creator": "Microsoft AI",
+      "score": 1101,
       "ci95": "-9/9",
       "category_distribution": [
         {
           "style": "Anime",
-          "score": 1117,
-          "ci95": "-66/66"
+          "score": 1026,
+          "ci95": "-65/65"
         },
         {
           "subject": "Fantasy & Mythical",
-          "score": 1136,
-          "ci95": "-49/49"
+          "score": 1089,
+          "ci95": "-55/55"
         }
       ]
     },
@@ -176,75 +151,60 @@
       "slug": "gemini_nano-banana-pro",
       "creator": "Google",
       "score": 1099,
-      "ci95": "-8/8",
+      "ci95": "-9/9",
       "category_distribution": [
         {
-          "style": "Anime",
-          "score": 1058,
-          "ci95": "-69/69"
-        },
-        {
           "subject": "Fantasy & Mythical",
-          "score": 1090,
-          "ci95": "-49/49"
+          "score": 1101,
+          "ci95": "-54/54"
         }
       ]
     },
     {
       "rank": 11,
-      "name": "MAI-Image-2.6-Flash",
-      "slug": "mai-image-2-6-flash",
-      "creator": "Microsoft AI",
-      "score": 1097,
-      "ci95": "-10/10"
-    },
-    {
-      "rank": 12,
       "name": "MAI-Image-2.5-Pro",
       "slug": "mai-image-2-5-pro",
       "creator": "Microsoft AI",
-      "score": 1097,
+      "score": 1099,
       "ci95": "-8/8",
       "category_distribution": [
         {
-          "style": "Anime",
-          "score": 1074,
-          "ci95": "-57/57"
-        },
-        {
           "subject": "Futuristic & Sci-Fi",
-          "score": 1559,
-          "ci95": "-51/51"
-        },
-        {
-          "subject": "Physical Spaces",
-          "score": 1349,
-          "ci95": "-47/47"
+          "score": 1577,
+          "ci95": "-54/54"
         },
         {
           "subject": "Fantasy & Mythical",
-          "score": 1170,
-          "ci95": "-45/45"
+          "score": 1164,
+          "ci95": "-48/48"
         }
       ]
+    },
+    {
+      "rank": 12,
+      "name": "MAI-Image-2.6-Flash",
+      "slug": "mai-image-2-6-flash",
+      "creator": "Microsoft AI",
+      "score": 1099,
+      "ci95": "-10/10"
     },
     {
       "rank": 13,
       "name": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "slug": "nano-banana-2-lite",
       "creator": "Google",
-      "score": 1087,
-      "ci95": "-8/8",
+      "score": 1091,
+      "ci95": "-9/9",
       "category_distribution": [
         {
           "style": "Anime",
-          "score": 1139,
-          "ci95": "-67/67"
+          "score": 1181,
+          "ci95": "-74/74"
         },
         {
           "subject": "Fantasy & Mythical",
-          "score": 1084,
-          "ci95": "-50/50"
+          "score": 1090,
+          "ci95": "-53/53"
         }
       ]
     },
@@ -253,7 +213,7 @@
       "name": "Qwen-Image-3.0-Pro",
       "slug": "qwen-image-3-0-pro",
       "creator": "Alibaba",
-      "score": 1087,
+      "score": 1086,
       "ci95": "-10/10"
     },
     {
@@ -261,23 +221,23 @@
       "name": "Seedream 5.0 Pro",
       "slug": "seedream-5-0-pro",
       "creator": "ByteDance Seed",
-      "score": 1082,
+      "score": 1077,
       "ci95": "-8/8",
       "category_distribution": [
         {
           "style": "Anime",
-          "score": 1113,
-          "ci95": "-56/56"
+          "score": 1108,
+          "ci95": "-61/61"
         },
         {
           "subject": "Futuristic & Sci-Fi",
-          "score": 1560,
-          "ci95": "-52/52"
+          "score": 1564,
+          "ci95": "-55/55"
         },
         {
           "subject": "Fantasy & Mythical",
-          "score": 1047,
-          "ci95": "-43/43"
+          "score": 1014,
+          "ci95": "-45/45"
         }
       ]
     },
@@ -286,7 +246,7 @@
       "name": "Qwen-Image-3.0",
       "slug": "qwen-image-3-0",
       "creator": "Alibaba",
-      "score": 1072,
+      "score": 1076,
       "ci95": "-10/10"
     },
     {
@@ -294,46 +254,33 @@
       "name": "grok-imagine-image-quality",
       "slug": "grok-imagine-image-quality",
       "creator": "SpaceXAI",
-      "score": 1041,
+      "score": 1042,
       "ci95": "-7/7",
       "category_distribution": [
         {
           "style": "Anime",
-          "score": 1030,
-          "ci95": "-53/53"
+          "score": 1047,
+          "ci95": "-59/59"
         },
         {
           "subject": "Futuristic & Sci-Fi",
-          "score": 1460,
-          "ci95": "-46/46"
+          "score": 1469,
+          "ci95": "-51/51"
         },
         {
           "subject": "Physical Spaces",
-          "score": 1397,
-          "ci95": "-50/50"
+          "score": 1428,
+          "ci95": "-55/55"
         },
         {
           "subject": "Fantasy & Mythical",
-          "score": 1049,
-          "ci95": "-38/38"
-        },
-        {
-          "subject": "People: Groups & Activities",
-          "score": 1536,
-          "ci95": "-65/65"
+          "score": 1039,
+          "ci95": "-40/40"
         }
       ]
     },
     {
       "rank": 18,
-      "name": "Seedream 4.0",
-      "slug": "bytedance-seed_seedream-4-0",
-      "creator": "ByteDance Seed",
-      "score": 1033,
-      "ci95": "-9/9"
-    },
-    {
-      "rank": 19,
       "name": "MAI-Image-2.5-Flash",
       "slug": "mai-image-2-5-flash",
       "creator": "Microsoft AI",
@@ -341,168 +288,154 @@
       "ci95": "-9/9"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "Qwen Image 2.0 Pro (2026-04-22)",
       "slug": "qwen-image-2-0-pro-alibaba-cloud-may-2026",
       "creator": "Alibaba",
-      "score": 1029,
-      "ci95": "-9/9"
-    },
-    {
-      "rank": 21,
-      "name": "Recraft V4.1 Utility",
-      "slug": "recraft-v4-1-utility",
-      "creator": "Recraft",
       "score": 1028,
       "ci95": "-9/9"
     },
     {
+      "rank": 20,
+      "name": "Seedream 4.0",
+      "slug": "bytedance-seed_seedream-4-0",
+      "creator": "ByteDance Seed",
+      "score": 1026,
+      "ci95": "-10/10"
+    },
+    {
+      "rank": 21,
+      "name": "FLUX.2 [flex]",
+      "slug": "flux_flux-2--flex",
+      "creator": "Black Forest Labs",
+      "score": 1026,
+      "ci95": "-9/9"
+    },
+    {
       "rank": 22,
+      "name": "Wan 2.6 Image",
+      "slug": "wan_wan-2-6",
+      "creator": "Alibaba",
+      "score": 1024,
+      "ci95": "-9/9"
+    },
+    {
+      "rank": 23,
       "name": "Krea 2 Large",
       "slug": "krea-2-large",
       "creator": "Krea",
-      "score": 1025,
+      "score": 1024,
       "ci95": "-7/7",
       "category_distribution": [
         {
           "style": "Anime",
-          "score": 1042,
-          "ci95": "-54/54"
+          "score": 1040,
+          "ci95": "-58/58"
         },
         {
           "subject": "Futuristic & Sci-Fi",
-          "score": 1489,
-          "ci95": "-46/46"
+          "score": 1501,
+          "ci95": "-49/49"
         },
         {
           "subject": "Physical Spaces",
-          "score": 1316,
-          "ci95": "-43/43"
+          "score": 1328,
+          "ci95": "-46/46"
         },
         {
           "subject": "Fantasy & Mythical",
-          "score": 1083,
-          "ci95": "-37/37"
+          "score": 1063,
+          "ci95": "-39/39"
         }
       ]
     },
     {
-      "rank": 23,
-      "name": "FLUX.2 [max]",
-      "slug": "black_forest_labs_flux-2-max",
-      "creator": "Black Forest Labs",
-      "score": 1025,
-      "ci95": "-8/8"
-    },
-    {
       "rank": 24,
-      "name": "FLUX.2 [flex]",
-      "slug": "flux_flux-2--flex",
-      "creator": "Black Forest Labs",
-      "score": 1022,
-      "ci95": "-9/9"
-    },
-    {
-      "rank": 25,
       "name": "HiDream-O1-Image-1.5",
       "slug": "hidream-o1-image-1-5",
       "creator": "HiDream",
-      "score": 1020,
+      "score": 1022,
       "ci95": "-8/8",
       "category_distribution": [
         {
           "style": "Anime",
-          "score": 1076,
-          "ci95": "-59/59"
+          "score": 1085,
+          "ci95": "-64/64"
         },
         {
           "subject": "Futuristic & Sci-Fi",
-          "score": 1526,
-          "ci95": "-57/57"
+          "score": 1541,
+          "ci95": "-63/63"
         },
         {
           "subject": "Fantasy & Mythical",
-          "score": 1153,
-          "ci95": "-47/47"
+          "score": 1124,
+          "ci95": "-48/48"
         }
       ]
     },
     {
+      "rank": 25,
+      "name": "FLUX.2 [max]",
+      "slug": "black_forest_labs_flux-2-max",
+      "creator": "Black Forest Labs",
+      "score": 1021,
+      "ci95": "-9/9"
+    },
+    {
       "rank": 26,
-      "name": "Luma UNI 1 Max",
-      "slug": "luma-uni-1-max",
-      "creator": "Luma Labs",
-      "score": 1019,
+      "name": "Recraft V4.1 Utility",
+      "slug": "recraft-v4-1-utility",
+      "creator": "Recraft",
+      "score": 1021,
       "ci95": "-9/9"
     },
     {
       "rank": 27,
-      "name": "grok-imagine-image",
-      "slug": "grok-imagine-image",
-      "creator": "SpaceXAI",
-      "score": 1019,
+      "name": "Seedream 4.5",
+      "slug": "seedream-4-5",
+      "creator": "ByteDance Seed",
+      "score": 1020,
       "ci95": "-9/9"
     },
     {
       "rank": 28,
-      "name": "Recraft V4.1 Utility Pro",
-      "slug": "recraft-v4-1-utility-pro",
-      "creator": "Recraft",
-      "score": 1019,
-      "ci95": "-7/7",
-      "category_distribution": [
-        {
-          "style": "Anime",
-          "score": 990,
-          "ci95": "-53/53"
-        },
-        {
-          "subject": "Futuristic & Sci-Fi",
-          "score": 1454,
-          "ci95": "-45/45"
-        },
-        {
-          "subject": "Physical Spaces",
-          "score": 1517,
-          "ci95": "-55/55"
-        },
-        {
-          "subject": "Fantasy & Mythical",
-          "score": 1061,
-          "ci95": "-38/38"
-        }
-      ]
+      "name": "Krea 2 Medium Turbo",
+      "slug": "krea-2-medium-turbo",
+      "creator": "Krea",
+      "score": 1017,
+      "ci95": "-9/9"
     },
     {
       "rank": 29,
-      "name": "Ideogram 4.0",
-      "slug": "ideogram-v4",
-      "creator": "Ideogram",
-      "score": 1018,
-      "ci95": "-8/8"
+      "name": "grok-imagine-image",
+      "slug": "grok-imagine-image",
+      "creator": "SpaceXAI",
+      "score": 1017,
+      "ci95": "-9/9"
     },
     {
       "rank": 30,
-      "name": "Ideogram 4.0 (Quality)",
-      "slug": "ideogram-v4-quality",
-      "creator": "Ideogram",
-      "score": 1018,
+      "name": "Recraft V4.1 Utility Pro",
+      "slug": "recraft-v4-1-utility-pro",
+      "creator": "Recraft",
+      "score": 1017,
       "ci95": "-7/7",
       "category_distribution": [
         {
           "style": "Anime",
-          "score": 995,
-          "ci95": "-52/52"
+          "score": 1016,
+          "ci95": "-60/60"
         },
         {
           "subject": "Futuristic & Sci-Fi",
-          "score": 1450,
-          "ci95": "-42/42"
+          "score": 1452,
+          "ci95": "-50/50"
         },
         {
           "subject": "Fantasy & Mythical",
-          "score": 975,
-          "ci95": "-38/38"
+          "score": 1080,
+          "ci95": "-42/42"
         }
       ]
     }
