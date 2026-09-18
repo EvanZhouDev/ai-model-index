@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T12:36:36.124Z",
+  "generated_at": "2026-09-18T12:14:50.176Z",
   "limit": 30,
   "modality": "text-to-image",
   "metric": "elo",
@@ -13,7 +13,7 @@
       "name": "GPT Image 2.5 Flare (max)",
       "slug": "gpt-image-2.5-flare-2026-09-08",
       "creator": "OpenAI",
-      "score": 1186,
+      "score": 1188,
       "ci95": "-11/11"
     },
     {
@@ -21,7 +21,7 @@
       "name": "GPT Image 2.5 Sunburst (max)",
       "slug": "gpt-image-2.5-sunburst-2026-09-08",
       "creator": "OpenAI",
-      "score": 1180,
+      "score": 1182,
       "ci95": "-11/11"
     },
     {
@@ -29,7 +29,7 @@
       "name": "GPT Image 2 (high)",
       "slug": "gpt-image-2",
       "creator": "OpenAI",
-      "score": 1169,
+      "score": 1171,
       "ci95": "-9/9",
       "category_distribution": [
         {
@@ -49,7 +49,7 @@
       "name": "MAI-Image-2.6",
       "slug": "mai-image-2-6",
       "creator": "Microsoft AI",
-      "score": 1146,
+      "score": 1147,
       "ci95": "-11/11"
     },
     {
@@ -107,7 +107,7 @@
       "name": "Muse Image",
       "slug": "muse-image-1.0",
       "creator": "Meta",
-      "score": 1113,
+      "score": 1112,
       "ci95": "-10/10"
     },
     {
@@ -130,7 +130,7 @@
       "name": "MAI-Image-2.5",
       "slug": "mai-image-2-5",
       "creator": "Microsoft AI",
-      "score": 1101,
+      "score": 1102,
       "ci95": "-9/9",
       "category_distribution": [
         {
@@ -150,7 +150,7 @@
       "name": "Nano Banana Pro (Gemini 3 Pro Image)",
       "slug": "gemini_nano-banana-pro",
       "creator": "Google",
-      "score": 1099,
+      "score": 1100,
       "ci95": "-9/9",
       "category_distribution": [
         {
@@ -213,7 +213,7 @@
       "name": "Qwen-Image-3.0-Pro",
       "slug": "qwen-image-3-0-pro",
       "creator": "Alibaba",
-      "score": 1086,
+      "score": 1088,
       "ci95": "-10/10"
     },
     {
@@ -221,7 +221,7 @@
       "name": "Seedream 5.0 Pro",
       "slug": "seedream-5-0-pro",
       "creator": "ByteDance Seed",
-      "score": 1077,
+      "score": 1078,
       "ci95": "-8/8",
       "category_distribution": [
         {
@@ -254,7 +254,7 @@
       "name": "grok-imagine-image-quality",
       "slug": "grok-imagine-image-quality",
       "creator": "SpaceXAI",
-      "score": 1042,
+      "score": 1043,
       "ci95": "-7/7",
       "category_distribution": [
         {
@@ -292,7 +292,7 @@
       "name": "Qwen Image 2.0 Pro (2026-04-22)",
       "slug": "qwen-image-2-0-pro-alibaba-cloud-may-2026",
       "creator": "Alibaba",
-      "score": 1028,
+      "score": 1029,
       "ci95": "-9/9"
     },
     {
@@ -300,7 +300,7 @@
       "name": "Seedream 4.0",
       "slug": "bytedance-seed_seedream-4-0",
       "creator": "ByteDance Seed",
-      "score": 1026,
+      "score": 1025,
       "ci95": "-10/10"
     },
     {
@@ -308,19 +308,11 @@
       "name": "FLUX.2 [flex]",
       "slug": "flux_flux-2--flex",
       "creator": "Black Forest Labs",
-      "score": 1026,
+      "score": 1025,
       "ci95": "-9/9"
     },
     {
       "rank": 22,
-      "name": "Wan 2.6 Image",
-      "slug": "wan_wan-2-6",
-      "creator": "Alibaba",
-      "score": 1024,
-      "ci95": "-9/9"
-    },
-    {
-      "rank": 23,
       "name": "Krea 2 Large",
       "slug": "krea-2-large",
       "creator": "Krea",
@@ -348,6 +340,14 @@
           "ci95": "-39/39"
         }
       ]
+    },
+    {
+      "rank": 23,
+      "name": "Wan 2.6 Image",
+      "slug": "wan_wan-2-6",
+      "creator": "Alibaba",
+      "score": 1023,
+      "ci95": "-9/9"
     },
     {
       "rank": 24,
@@ -379,39 +379,39 @@
       "name": "FLUX.2 [max]",
       "slug": "black_forest_labs_flux-2-max",
       "creator": "Black Forest Labs",
-      "score": 1021,
-      "ci95": "-9/9"
+      "score": 1022,
+      "ci95": "-8/8"
     },
     {
       "rank": 26,
-      "name": "Recraft V4.1 Utility",
-      "slug": "recraft-v4-1-utility",
-      "creator": "Recraft",
+      "name": "Seedream 4.5",
+      "slug": "seedream-4-5",
+      "creator": "ByteDance Seed",
       "score": 1021,
       "ci95": "-9/9"
     },
     {
       "rank": 27,
-      "name": "Seedream 4.5",
-      "slug": "seedream-4-5",
-      "creator": "ByteDance Seed",
+      "name": "Recraft V4.1 Utility",
+      "slug": "recraft-v4-1-utility",
+      "creator": "Recraft",
       "score": 1020,
       "ci95": "-9/9"
     },
     {
       "rank": 28,
-      "name": "Krea 2 Medium Turbo",
-      "slug": "krea-2-medium-turbo",
-      "creator": "Krea",
-      "score": 1017,
+      "name": "grok-imagine-image",
+      "slug": "grok-imagine-image",
+      "creator": "SpaceXAI",
+      "score": 1018,
       "ci95": "-9/9"
     },
     {
       "rank": 29,
-      "name": "grok-imagine-image",
-      "slug": "grok-imagine-image",
-      "creator": "SpaceXAI",
-      "score": 1017,
+      "name": "Krea 2 Medium Turbo",
+      "slug": "krea-2-medium-turbo",
+      "creator": "Krea",
+      "score": 1018,
       "ci95": "-9/9"
     },
     {
