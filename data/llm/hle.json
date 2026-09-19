@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T12:14:50.176Z",
+  "generated_at": "2026-09-19T11:56:27.822Z",
   "limit": 30,
   "modality": "llm",
   "metric": "hle",
@@ -179,45 +179,45 @@
     },
     {
       "rank": 25,
+      "name": "Step 5 Preview",
+      "slug": "step-5",
+      "creator": "StepFun",
+      "score": 0.465
+    },
+    {
+      "rank": 26,
       "name": "Muse Spark 1.1 (xhigh)",
       "slug": "muse-spark-1-1",
       "creator": "Meta",
       "score": 0.462
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "GPT-5.6 Sol (high)",
       "slug": "gpt-5-6-sol-high",
       "creator": "OpenAI",
       "score": 0.46
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "GPT-5.5 (xhigh)",
       "slug": "gpt-5-5",
       "creator": "OpenAI",
       "score": 0.458
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Muse Spark 1.2 (xhigh)",
       "slug": "muse-spark-1-2",
       "creator": "Meta",
       "score": 0.455
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "GPT-5.5 (high)",
       "slug": "gpt-5-5-high",
       "creator": "OpenAI",
       "score": 0.45
-    },
-    {
-      "rank": 30,
-      "name": "Grok 4.6 (xhigh)",
-      "slug": "grok-4-6-xhigh",
-      "creator": "SpaceXAI",
-      "score": 0.441
     }
   ]
 }
