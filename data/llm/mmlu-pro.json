@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T11:56:27.822Z",
+  "generated_at": "2026-09-20T12:24:49.488Z",
   "limit": 30,
   "modality": "llm",
   "metric": "mmlu-pro",
@@ -60,16 +60,16 @@
     },
     {
       "rank": 8,
-      "name": "Claude 4.5 Sonnet (Reasoning)",
-      "slug": "claude-4-5-sonnet-thinking",
-      "creator": "Anthropic",
+      "name": "MiniMax-M2.1",
+      "slug": "minimax-m2-1",
+      "creator": "MiniMax",
       "score": 0.875
     },
     {
       "rank": 9,
-      "name": "MiniMax-M2.1",
-      "slug": "minimax-m2-1",
-      "creator": "MiniMax",
+      "name": "Claude 4.5 Sonnet (Reasoning)",
+      "slug": "claude-4-5-sonnet-thinking",
+      "creator": "Anthropic",
       "score": 0.875
     },
     {
