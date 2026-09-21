@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T12:24:49.488Z",
+  "generated_at": "2026-09-21T14:13:13.974Z",
   "limit": 30,
   "modality": "text-to-video",
   "metric": "elo",
@@ -16,11 +16,6 @@
       "score": 1336,
       "ci95": "-13/13",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1368,
-          "ci95": "-20/20"
-        },
         {
           "format": "Moving camera",
           "score": 1333,
@@ -142,11 +137,6 @@
       "ci95": "-10/10",
       "category_distribution": [
         {
-          "subject": "Physics",
-          "score": 1334,
-          "ci95": "-15/15"
-        },
-        {
           "format": "Moving camera",
           "score": 1321,
           "ci95": "-25/25"
@@ -227,6 +217,11 @@
           "ci95": "-20/20"
         },
         {
+          "format": "Multi-scene",
+          "score": 1426,
+          "ci95": "-37/37"
+        },
+        {
           "subject": "Fashion",
           "score": 1352,
           "ci95": "-31/31"
@@ -291,11 +286,6 @@
       "score": 1302,
       "ci95": "-11/11",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1322,
-          "ci95": "-16/16"
-        },
         {
           "format": "Moving camera",
           "score": 1328,
@@ -377,6 +367,11 @@
           "ci95": "-21/21"
         },
         {
+          "format": "Multi-scene",
+          "score": 1368,
+          "ci95": "-38/38"
+        },
+        {
           "subject": "Fashion",
           "score": 1345,
           "ci95": "-33/33"
@@ -441,11 +436,6 @@
       "score": 1287,
       "ci95": "-9/9",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1290,
-          "ci95": "-13/13"
-        },
         {
           "format": "Moving camera",
           "score": 1275,
@@ -527,6 +517,11 @@
           "ci95": "-17/17"
         },
         {
+          "format": "Multi-scene",
+          "score": 1335,
+          "ci95": "-30/30"
+        },
+        {
           "subject": "Fashion",
           "score": 1344,
           "ci95": "-27/27"
@@ -591,11 +586,6 @@
       "score": 1272,
       "ci95": "-9/9",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1295,
-          "ci95": "-14/14"
-        },
         {
           "format": "Moving camera",
           "score": 1286,
@@ -677,6 +667,11 @@
           "ci95": "-18/18"
         },
         {
+          "format": "Multi-scene",
+          "score": 1321,
+          "ci95": "-31/31"
+        },
+        {
           "subject": "Fashion",
           "score": 1301,
           "ci95": "-28/28"
@@ -741,11 +736,6 @@
       "score": 1259,
       "ci95": "-8/8",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1284,
-          "ci95": "-12/12"
-        },
         {
           "format": "Moving camera",
           "score": 1243,
@@ -827,6 +817,11 @@
           "ci95": "-15/15"
         },
         {
+          "format": "Multi-scene",
+          "score": 1360,
+          "ci95": "-28/28"
+        },
+        {
           "subject": "Fashion",
           "score": 1308,
           "ci95": "-24/24"
@@ -891,11 +886,6 @@
       "score": 1243,
       "ci95": "-9/9",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1261,
-          "ci95": "-13/13"
-        },
         {
           "format": "Moving camera",
           "score": 1279,
@@ -977,6 +967,11 @@
           "ci95": "-18/18"
         },
         {
+          "format": "Multi-scene",
+          "score": 1290,
+          "ci95": "-31/31"
+        },
+        {
           "subject": "Fashion",
           "score": 1317,
           "ci95": "-28/28"
@@ -1041,11 +1036,6 @@
       "score": 1235,
       "ci95": "-8/8",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1247,
-          "ci95": "-12/12"
-        },
         {
           "format": "Moving camera",
           "score": 1225,
@@ -1127,6 +1117,11 @@
           "ci95": "-15/15"
         },
         {
+          "format": "Multi-scene",
+          "score": 1298,
+          "ci95": "-27/27"
+        },
+        {
           "subject": "Fashion",
           "score": 1288,
           "ci95": "-24/24"
@@ -1191,11 +1186,6 @@
       "score": 1230,
       "ci95": "-9/9",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1246,
-          "ci95": "-13/13"
-        },
         {
           "format": "Moving camera",
           "score": 1243,
@@ -1277,6 +1267,11 @@
           "ci95": "-17/17"
         },
         {
+          "format": "Multi-scene",
+          "score": 1272,
+          "ci95": "-31/31"
+        },
+        {
           "subject": "Fashion",
           "score": 1254,
           "ci95": "-27/27"
@@ -1341,11 +1336,6 @@
       "score": 1230,
       "ci95": "-9/9",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1242,
-          "ci95": "-13/13"
-        },
         {
           "format": "Moving camera",
           "score": 1238,
@@ -1427,6 +1417,11 @@
           "ci95": "-17/17"
         },
         {
+          "format": "Multi-scene",
+          "score": 1263,
+          "ci95": "-30/30"
+        },
+        {
           "subject": "Fashion",
           "score": 1267,
           "ci95": "-26/26"
@@ -1491,11 +1486,6 @@
       "score": 1230,
       "ci95": "-8/8",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1252,
-          "ci95": "-13/13"
-        },
         {
           "format": "Moving camera",
           "score": 1245,
@@ -1577,6 +1567,11 @@
           "ci95": "-16/16"
         },
         {
+          "format": "Multi-scene",
+          "score": 1257,
+          "ci95": "-30/30"
+        },
+        {
           "subject": "Fashion",
           "score": 1253,
           "ci95": "-26/26"
@@ -1642,11 +1637,6 @@
       "ci95": "-8/8",
       "category_distribution": [
         {
-          "subject": "Physics",
-          "score": 1252,
-          "ci95": "-12/12"
-        },
-        {
           "format": "Moving camera",
           "score": 1240,
           "ci95": "-21/21"
@@ -1663,7 +1653,7 @@
         },
         {
           "subject": "Technology",
-          "score": 1252,
+          "score": 1251,
           "ci95": "-12/12"
         },
         {
@@ -1725,6 +1715,11 @@
           "subject": "Animals",
           "score": 1195,
           "ci95": "-16/16"
+        },
+        {
+          "format": "Multi-scene",
+          "score": 1277,
+          "ci95": "-30/30"
         },
         {
           "subject": "Fashion",
@@ -1791,11 +1786,6 @@
       "score": 1226,
       "ci95": "-8/8",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1248,
-          "ci95": "-12/12"
-        },
         {
           "format": "Moving camera",
           "score": 1195,
@@ -1877,6 +1867,11 @@
           "ci95": "-15/15"
         },
         {
+          "format": "Multi-scene",
+          "score": 1283,
+          "ci95": "-26/26"
+        },
+        {
           "subject": "Fashion",
           "score": 1286,
           "ci95": "-24/24"
@@ -1941,11 +1936,6 @@
       "score": 1223,
       "ci95": "-10/10",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1243,
-          "ci95": "-14/14"
-        },
         {
           "format": "Moving camera",
           "score": 1225,
@@ -2022,6 +2012,11 @@
           "ci95": "-19/19"
         },
         {
+          "format": "Multi-scene",
+          "score": 1237,
+          "ci95": "-35/35"
+        },
+        {
           "subject": "Fashion",
           "score": 1249,
           "ci95": "-31/31"
@@ -2076,11 +2071,6 @@
       "score": 1219,
       "ci95": "-10/10",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1234,
-          "ci95": "-15/15"
-        },
         {
           "format": "Moving camera",
           "score": 1244,
@@ -2157,6 +2147,11 @@
           "ci95": "-20/20"
         },
         {
+          "format": "Multi-scene",
+          "score": 1221,
+          "ci95": "-36/36"
+        },
+        {
           "subject": "Fashion",
           "score": 1256,
           "ci95": "-32/32"
@@ -2211,11 +2206,6 @@
       "score": 1217,
       "ci95": "-11/11",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1208,
-          "ci95": "-17/17"
-        },
         {
           "format": "Moving camera",
           "score": 1213,
@@ -2287,6 +2277,11 @@
           "ci95": "-22/22"
         },
         {
+          "format": "Multi-scene",
+          "score": 1272,
+          "ci95": "-40/40"
+        },
+        {
           "subject": "Fashion",
           "score": 1253,
           "ci95": "-35/35"
@@ -2336,11 +2331,6 @@
       "score": 1216,
       "ci95": "-10/10",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1204,
-          "ci95": "-16/16"
-        },
         {
           "format": "Moving camera",
           "score": 1209,
@@ -2467,11 +2457,6 @@
       "ci95": "-9/9",
       "category_distribution": [
         {
-          "subject": "Physics",
-          "score": 1224,
-          "ci95": "-13/13"
-        },
-        {
           "format": "Moving camera",
           "score": 1194,
           "ci95": "-21/21"
@@ -2552,6 +2537,11 @@
           "ci95": "-17/17"
         },
         {
+          "format": "Multi-scene",
+          "score": 1271,
+          "ci95": "-31/31"
+        },
+        {
           "subject": "Fashion",
           "score": 1246,
           "ci95": "-27/27"
@@ -2616,11 +2606,6 @@
       "score": 1214,
       "ci95": "-8/8",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1212,
-          "ci95": "-12/12"
-        },
         {
           "format": "Moving camera",
           "score": 1188,
@@ -2702,6 +2687,11 @@
           "ci95": "-15/15"
         },
         {
+          "format": "Multi-scene",
+          "score": 1273,
+          "ci95": "-27/27"
+        },
+        {
           "subject": "Fashion",
           "score": 1271,
           "ci95": "-24/24"
@@ -2766,11 +2756,6 @@
       "score": 1213,
       "ci95": "-9/9",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1212,
-          "ci95": "-13/13"
-        },
         {
           "format": "Moving camera",
           "score": 1246,
@@ -2922,11 +2907,6 @@
       "ci95": "-9/9",
       "category_distribution": [
         {
-          "subject": "Physics",
-          "score": 1209,
-          "ci95": "-14/14"
-        },
-        {
           "format": "Moving camera",
           "score": 1240,
           "ci95": "-23/23"
@@ -3002,6 +2982,11 @@
           "ci95": "-18/18"
         },
         {
+          "format": "Multi-scene",
+          "score": 1192,
+          "ci95": "-32/32"
+        },
+        {
           "subject": "Fashion",
           "score": 1254,
           "ci95": "-28/28"
@@ -3057,11 +3042,6 @@
       "ci95": "-8/8",
       "category_distribution": [
         {
-          "subject": "Physics",
-          "score": 1219,
-          "ci95": "-13/13"
-        },
-        {
           "format": "Moving camera",
           "score": 1219,
           "ci95": "-21/21"
@@ -3073,7 +3053,7 @@
         },
         {
           "subject": "Nature",
-          "score": 1193,
+          "score": 1194,
           "ci95": "-11/11"
         },
         {
@@ -3142,6 +3122,11 @@
           "ci95": "-17/17"
         },
         {
+          "format": "Multi-scene",
+          "score": 1231,
+          "ci95": "-31/31"
+        },
+        {
           "subject": "Fashion",
           "score": 1259,
           "ci95": "-27/27"
@@ -3201,11 +3186,6 @@
       "score": 1210,
       "ci95": "-8/8",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1228,
-          "ci95": "-12/12"
-        },
         {
           "format": "Moving camera",
           "score": 1241,
@@ -3287,6 +3267,11 @@
           "ci95": "-16/16"
         },
         {
+          "format": "Multi-scene",
+          "score": 1214,
+          "ci95": "-29/29"
+        },
+        {
           "subject": "Fashion",
           "score": 1270,
           "ci95": "-25/25"
@@ -3351,11 +3336,6 @@
       "score": 1209,
       "ci95": "-9/9",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1238,
-          "ci95": "-14/14"
-        },
         {
           "format": "Moving camera",
           "score": 1241,
@@ -3432,6 +3412,11 @@
           "ci95": "-19/19"
         },
         {
+          "format": "Multi-scene",
+          "score": 1252,
+          "ci95": "-32/32"
+        },
+        {
           "subject": "Fashion",
           "score": 1318,
           "ci95": "-30/30"
@@ -3486,11 +3471,6 @@
       "score": 1209,
       "ci95": "-11/11",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1214,
-          "ci95": "-17/17"
-        },
         {
           "format": "Moving camera",
           "score": 1272,
@@ -3612,11 +3592,6 @@
       "ci95": "-8/8",
       "category_distribution": [
         {
-          "subject": "Physics",
-          "score": 1201,
-          "ci95": "-12/12"
-        },
-        {
           "format": "Moving camera",
           "score": 1188,
           "ci95": "-20/20"
@@ -3697,6 +3672,11 @@
           "ci95": "-16/16"
         },
         {
+          "format": "Multi-scene",
+          "score": 1231,
+          "ci95": "-30/30"
+        },
+        {
           "subject": "Fashion",
           "score": 1270,
           "ci95": "-26/26"
@@ -3761,11 +3741,6 @@
       "score": 1203,
       "ci95": "-8/8",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1212,
-          "ci95": "-12/12"
-        },
         {
           "format": "Moving camera",
           "score": 1242,
@@ -3847,6 +3822,11 @@
           "ci95": "-15/15"
         },
         {
+          "format": "Multi-scene",
+          "score": 1202,
+          "ci95": "-28/28"
+        },
+        {
           "subject": "Fashion",
           "score": 1209,
           "ci95": "-25/25"
@@ -3911,11 +3891,6 @@
       "score": 1197,
       "ci95": "-9/9",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1205,
-          "ci95": "-14/14"
-        },
         {
           "format": "Moving camera",
           "score": 1227,
@@ -4032,11 +4007,6 @@
       "ci95": "-8/8",
       "category_distribution": [
         {
-          "subject": "Physics",
-          "score": 1222,
-          "ci95": "-12/12"
-        },
-        {
           "format": "Moving camera",
           "score": 1246,
           "ci95": "-21/21"
@@ -4117,6 +4087,11 @@
           "ci95": "-16/16"
         },
         {
+          "format": "Multi-scene",
+          "score": 1191,
+          "ci95": "-28/28"
+        },
+        {
           "subject": "Fashion",
           "score": 1228,
           "ci95": "-25/25"
@@ -4181,11 +4156,6 @@
       "score": 1193,
       "ci95": "-8/8",
       "category_distribution": [
-        {
-          "subject": "Physics",
-          "score": 1215,
-          "ci95": "-12/12"
-        },
         {
           "format": "Moving camera",
           "score": 1251,
@@ -4265,6 +4235,11 @@
           "subject": "Animals",
           "score": 1183,
           "ci95": "-16/16"
+        },
+        {
+          "format": "Multi-scene",
+          "score": 1191,
+          "ci95": "-28/28"
         },
         {
           "subject": "Fashion",
