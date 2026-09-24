@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T12:46:03.608Z",
+  "generated_at": "2026-09-24T12:44:26.475Z",
   "limit": 30,
   "modality": "text-to-image",
   "metric": "elo",
@@ -21,7 +21,7 @@
       "name": "GPT Image 2.5 Flare (max)",
       "slug": "gpt-image-2.5-flare-2026-09-08",
       "creator": "OpenAI",
-      "score": 1191,
+      "score": 1190,
       "ci95": "-9/9"
     },
     {
@@ -49,7 +49,7 @@
       "name": "Grok Imagine Image 2.0",
       "slug": "grok-imagine-image-2-0",
       "creator": "SpaceXAI",
-      "score": 1153,
+      "score": 1154,
       "ci95": "-12/12"
     },
     {
@@ -57,7 +57,7 @@
       "name": "MAI-Image-2.6",
       "slug": "mai-image-2-6",
       "creator": "Microsoft AI",
-      "score": 1148,
+      "score": 1147,
       "ci95": "-10/10"
     },
     {
@@ -98,7 +98,7 @@
       "name": "GPT Image 1.5 (high)",
       "slug": "openai-gpt_image-1-5",
       "creator": "OpenAI",
-      "score": 1103,
+      "score": 1102,
       "ci95": "-9/9",
       "category_distribution": [
         {
@@ -113,7 +113,7 @@
       "name": "MAI-Image-2.5",
       "slug": "mai-image-2-5",
       "creator": "Microsoft AI",
-      "score": 1103,
+      "score": 1102,
       "ci95": "-9/9",
       "category_distribution": [
         {
@@ -135,18 +135,10 @@
     },
     {
       "rank": 10,
-      "name": "MAI-Image-2.6-Flash",
-      "slug": "mai-image-2-6-flash",
-      "creator": "Microsoft AI",
-      "score": 1100,
-      "ci95": "-9/9"
-    },
-    {
-      "rank": 11,
       "name": "Nano Banana Pro (Gemini 3 Pro Image)",
       "slug": "gemini_nano-banana-pro",
       "creator": "Google",
-      "score": 1100,
+      "score": 1101,
       "ci95": "-8/8",
       "category_distribution": [
         {
@@ -162,11 +154,19 @@
       ]
     },
     {
+      "rank": 11,
+      "name": "MAI-Image-2.6-Flash",
+      "slug": "mai-image-2-6-flash",
+      "creator": "Microsoft AI",
+      "score": 1100,
+      "ci95": "-9/9"
+    },
+    {
       "rank": 12,
       "name": "MAI-Image-2.5-Pro",
       "slug": "mai-image-2-5-pro",
       "creator": "Microsoft AI",
-      "score": 1100,
+      "score": 1098,
       "ci95": "-8/8",
       "category_distribution": [
         {
@@ -239,7 +239,7 @@
       "name": "Qwen-Image-3.0",
       "slug": "qwen-image-3-0",
       "creator": "Alibaba",
-      "score": 1077,
+      "score": 1076,
       "ci95": "-10/10"
     },
     {
@@ -282,7 +282,7 @@
       "name": "MAI-Image-2.5-Flash",
       "slug": "mai-image-2-5-flash",
       "creator": "Microsoft AI",
-      "score": 1032,
+      "score": 1033,
       "ci95": "-9/9"
     },
     {
@@ -295,19 +295,19 @@
     },
     {
       "rank": 20,
-      "name": "FLUX.2 [flex]",
-      "slug": "flux_flux-2--flex",
-      "creator": "Black Forest Labs",
-      "score": 1027,
-      "ci95": "-9/9"
-    },
-    {
-      "rank": 21,
       "name": "Seedream 4.0",
       "slug": "bytedance-seed_seedream-4-0",
       "creator": "ByteDance Seed",
-      "score": 1025,
+      "score": 1028,
       "ci95": "-10/10"
+    },
+    {
+      "rank": 21,
+      "name": "FLUX.2 [flex]",
+      "slug": "flux_flux-2--flex",
+      "creator": "Black Forest Labs",
+      "score": 1025,
+      "ci95": "-9/9"
     },
     {
       "rank": 22,
@@ -374,25 +374,25 @@
     },
     {
       "rank": 25,
-      "name": "Seedream 4.5",
-      "slug": "seedream-4-5",
-      "creator": "ByteDance Seed",
-      "score": 1022,
-      "ci95": "-9/9"
-    },
-    {
-      "rank": 26,
       "name": "FLUX.2 [max]",
       "slug": "black_forest_labs_flux-2-max",
       "creator": "Black Forest Labs",
-      "score": 1022,
+      "score": 1021,
       "ci95": "-8/8"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "grok-imagine-image",
       "slug": "grok-imagine-image",
       "creator": "SpaceXAI",
+      "score": 1021,
+      "ci95": "-9/9"
+    },
+    {
+      "rank": 27,
+      "name": "Seedream 4.5",
+      "slug": "seedream-4-5",
+      "creator": "ByteDance Seed",
       "score": 1020,
       "ci95": "-9/9"
     },
@@ -401,7 +401,7 @@
       "name": "Recraft V4.1 Utility",
       "slug": "recraft-v4-1-utility",
       "creator": "Recraft",
-      "score": 1020,
+      "score": 1019,
       "ci95": "-9/9"
     },
     {
@@ -409,7 +409,7 @@
       "name": "Recraft V4.1 Utility Pro",
       "slug": "recraft-v4-1-utility-pro",
       "creator": "Recraft",
-      "score": 1018,
+      "score": 1017,
       "ci95": "-7/7",
       "category_distribution": [
         {
