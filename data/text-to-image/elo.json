@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T12:44:26.475Z",
+  "generated_at": "2026-09-25T12:47:37.090Z",
   "limit": 30,
   "modality": "text-to-image",
   "metric": "elo",
@@ -49,15 +49,15 @@
       "name": "Grok Imagine Image 2.0",
       "slug": "grok-imagine-image-2-0",
       "creator": "SpaceXAI",
-      "score": 1154,
-      "ci95": "-12/12"
+      "score": 1155,
+      "ci95": "-11/11"
     },
     {
       "rank": 5,
       "name": "MAI-Image-2.6",
       "slug": "mai-image-2-6",
       "creator": "Microsoft AI",
-      "score": 1147,
+      "score": 1148,
       "ci95": "-10/10"
     },
     {
@@ -65,7 +65,7 @@
       "name": "Nano Banana 2 (Gemini 3.1 Flash Image)",
       "slug": "nano-banana-2",
       "creator": "Google",
-      "score": 1122,
+      "score": 1123,
       "ci95": "-8/8",
       "category_distribution": [
         {
@@ -90,7 +90,7 @@
       "name": "Muse Image",
       "slug": "muse-image-1.0",
       "creator": "Meta",
-      "score": 1112,
+      "score": 1111,
       "ci95": "-10/10"
     },
     {
@@ -98,7 +98,7 @@
       "name": "GPT Image 1.5 (high)",
       "slug": "openai-gpt_image-1-5",
       "creator": "OpenAI",
-      "score": 1102,
+      "score": 1104,
       "ci95": "-9/9",
       "category_distribution": [
         {
@@ -110,6 +110,14 @@
     },
     {
       "rank": 9,
+      "name": "MAI-Image-2.6-Flash",
+      "slug": "mai-image-2-6-flash",
+      "creator": "Microsoft AI",
+      "score": 1102,
+      "ci95": "-9/9"
+    },
+    {
+      "rank": 10,
       "name": "MAI-Image-2.5",
       "slug": "mai-image-2-5",
       "creator": "Microsoft AI",
@@ -134,7 +142,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Nano Banana Pro (Gemini 3 Pro Image)",
       "slug": "gemini_nano-banana-pro",
       "creator": "Google",
@@ -154,19 +162,11 @@
       ]
     },
     {
-      "rank": 11,
-      "name": "MAI-Image-2.6-Flash",
-      "slug": "mai-image-2-6-flash",
-      "creator": "Microsoft AI",
-      "score": 1100,
-      "ci95": "-9/9"
-    },
-    {
       "rank": 12,
       "name": "MAI-Image-2.5-Pro",
       "slug": "mai-image-2-5-pro",
       "creator": "Microsoft AI",
-      "score": 1098,
+      "score": 1100,
       "ci95": "-8/8",
       "category_distribution": [
         {
@@ -186,7 +186,7 @@
       "name": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "slug": "nano-banana-2-lite",
       "creator": "Google",
-      "score": 1092,
+      "score": 1093,
       "ci95": "-8/8",
       "category_distribution": [
         {
@@ -206,7 +206,7 @@
       "name": "Qwen-Image-3.0-Pro",
       "slug": "qwen-image-3-0-pro",
       "creator": "Alibaba",
-      "score": 1088,
+      "score": 1089,
       "ci95": "-10/10"
     },
     {
@@ -247,7 +247,7 @@
       "name": "grok-imagine-image-quality",
       "slug": "grok-imagine-image-quality",
       "creator": "SpaceXAI",
-      "score": 1044,
+      "score": 1045,
       "ci95": "-7/7",
       "category_distribution": [
         {
@@ -282,11 +282,19 @@
       "name": "MAI-Image-2.5-Flash",
       "slug": "mai-image-2-5-flash",
       "creator": "Microsoft AI",
-      "score": 1033,
+      "score": 1034,
       "ci95": "-9/9"
     },
     {
       "rank": 19,
+      "name": "Seedream 4.0",
+      "slug": "bytedance-seed_seedream-4-0",
+      "creator": "ByteDance Seed",
+      "score": 1031,
+      "ci95": "-10/10"
+    },
+    {
+      "rank": 20,
       "name": "Qwen Image 2.0 Pro (2026-04-22)",
       "slug": "qwen-image-2-0-pro-alibaba-cloud-may-2026",
       "creator": "Alibaba",
@@ -294,27 +302,27 @@
       "ci95": "-9/9"
     },
     {
-      "rank": 20,
-      "name": "Seedream 4.0",
-      "slug": "bytedance-seed_seedream-4-0",
-      "creator": "ByteDance Seed",
-      "score": 1028,
-      "ci95": "-10/10"
-    },
-    {
       "rank": 21,
-      "name": "FLUX.2 [flex]",
-      "slug": "flux_flux-2--flex",
-      "creator": "Black Forest Labs",
-      "score": 1025,
+      "name": "Wan 2.6 Image",
+      "slug": "wan_wan-2-6",
+      "creator": "Alibaba",
+      "score": 1026,
       "ci95": "-9/9"
     },
     {
       "rank": 22,
+      "name": "FLUX.2 [flex]",
+      "slug": "flux_flux-2--flex",
+      "creator": "Black Forest Labs",
+      "score": 1026,
+      "ci95": "-9/9"
+    },
+    {
+      "rank": 23,
       "name": "Krea 2 Large",
       "slug": "krea-2-large",
       "creator": "Krea",
-      "score": 1024,
+      "score": 1025,
       "ci95": "-7/7",
       "category_distribution": [
         {
@@ -338,14 +346,6 @@
           "ci95": "-39/39"
         }
       ]
-    },
-    {
-      "rank": 23,
-      "name": "Wan 2.6 Image",
-      "slug": "wan_wan-2-6",
-      "creator": "Alibaba",
-      "score": 1024,
-      "ci95": "-9/9"
     },
     {
       "rank": 24,
@@ -374,6 +374,22 @@
     },
     {
       "rank": 25,
+      "name": "Seedream 4.5",
+      "slug": "seedream-4-5",
+      "creator": "ByteDance Seed",
+      "score": 1022,
+      "ci95": "-9/9"
+    },
+    {
+      "rank": 26,
+      "name": "Recraft V4.1 Utility",
+      "slug": "recraft-v4-1-utility",
+      "creator": "Recraft",
+      "score": 1021,
+      "ci95": "-9/9"
+    },
+    {
+      "rank": 27,
       "name": "FLUX.2 [max]",
       "slug": "black_forest_labs_flux-2-max",
       "creator": "Black Forest Labs",
@@ -381,7 +397,7 @@
       "ci95": "-8/8"
     },
     {
-      "rank": 26,
+      "rank": 28,
       "name": "grok-imagine-image",
       "slug": "grok-imagine-image",
       "creator": "SpaceXAI",
@@ -389,23 +405,15 @@
       "ci95": "-9/9"
     },
     {
-      "rank": 27,
-      "name": "Seedream 4.5",
-      "slug": "seedream-4-5",
-      "creator": "ByteDance Seed",
-      "score": 1020,
-      "ci95": "-9/9"
-    },
-    {
-      "rank": 28,
-      "name": "Recraft V4.1 Utility",
-      "slug": "recraft-v4-1-utility",
-      "creator": "Recraft",
-      "score": 1019,
-      "ci95": "-9/9"
-    },
-    {
       "rank": 29,
+      "name": "Krea 2 Medium Turbo",
+      "slug": "krea-2-medium-turbo",
+      "creator": "Krea",
+      "score": 1018,
+      "ci95": "-9/9"
+    },
+    {
+      "rank": 30,
       "name": "Recraft V4.1 Utility Pro",
       "slug": "recraft-v4-1-utility-pro",
       "creator": "Recraft",
@@ -428,14 +436,6 @@
           "ci95": "-42/42"
         }
       ]
-    },
-    {
-      "rank": 30,
-      "name": "Krea 2 Medium Turbo",
-      "slug": "krea-2-medium-turbo",
-      "creator": "Krea",
-      "score": 1017,
-      "ci95": "-9/9"
     }
   ]
 }
