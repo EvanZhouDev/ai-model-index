@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:32:03.343Z",
+  "generated_at": "2026-09-29T14:05:46.503Z",
   "limit": 30,
   "modality": "image-to-video",
   "metric": "elo",
@@ -17,6 +17,11 @@
       "ci95": "-11/11",
       "category_distribution": [
         {
+          "style": "Cartoon and anime",
+          "score": 1423,
+          "ci95": "-43/43"
+        },
+        {
           "style": "Photorealistic",
           "score": 1370,
           "ci95": "-12/12"
@@ -31,6 +36,11 @@
       "score": 1362,
       "ci95": "-11/11",
       "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 1380,
+          "ci95": "-41/41"
+        },
         {
           "style": "Photorealistic",
           "score": 1369,
@@ -47,6 +57,11 @@
       "ci95": "-13/13",
       "category_distribution": [
         {
+          "style": "Cartoon and anime",
+          "score": 1342,
+          "ci95": "-47/47"
+        },
+        {
           "style": "Photorealistic",
           "score": 1362,
           "ci95": "-14/14"
@@ -58,9 +73,14 @@
       "name": "MiniMax H3",
       "slug": "minimax-h3",
       "creator": "MiniMax",
-      "score": 1358,
+      "score": 1357,
       "ci95": "-11/11",
       "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 1361,
+          "ci95": "-42/42"
+        },
         {
           "style": "Photorealistic",
           "score": 1362,
@@ -77,6 +97,11 @@
       "ci95": "-10/10",
       "category_distribution": [
         {
+          "style": "Cartoon and anime",
+          "score": 1345,
+          "ci95": "-37/37"
+        },
+        {
           "style": "Photorealistic",
           "score": 1344,
           "ci95": "-11/11"
@@ -92,8 +117,13 @@
       "ci95": "-9/9",
       "category_distribution": [
         {
+          "style": "Cartoon and anime",
+          "score": 1307,
+          "ci95": "-36/36"
+        },
+        {
           "style": "Photorealistic",
-          "score": 1346,
+          "score": 1345,
           "ci95": "-10/10"
         }
       ]
@@ -107,6 +137,11 @@
       "ci95": "-11/11",
       "category_distribution": [
         {
+          "style": "Cartoon and anime",
+          "score": 1347,
+          "ci95": "-41/41"
+        },
+        {
           "style": "Photorealistic",
           "score": 1330,
           "ci95": "-12/12"
@@ -118,9 +153,14 @@
       "name": "grok-imagine-video",
       "slug": "grok-imagine-video",
       "creator": "SpaceXAI",
-      "score": 1329,
+      "score": 1328,
       "ci95": "-9/9",
       "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 1332,
+          "ci95": "-35/35"
+        },
         {
           "style": "Photorealistic",
           "score": 1324,
@@ -137,6 +177,11 @@
       "ci95": "-10/10",
       "category_distribution": [
         {
+          "style": "Cartoon and anime",
+          "score": 1335,
+          "ci95": "-39/39"
+        },
+        {
           "style": "Photorealistic",
           "score": 1314,
           "ci95": "-11/11"
@@ -151,6 +196,11 @@
       "score": 1299,
       "ci95": "-9/9",
       "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 1265,
+          "ci95": "-35/35"
+        },
         {
           "style": "Photorealistic",
           "score": 1303,
@@ -167,8 +217,13 @@
       "ci95": "-9/9",
       "category_distribution": [
         {
+          "style": "Cartoon and anime",
+          "score": 1306,
+          "ci95": "-36/36"
+        },
+        {
           "style": "Photorealistic",
-          "score": 1297,
+          "score": 1296,
           "ci95": "-10/10"
         }
       ]
@@ -178,12 +233,17 @@
       "name": "Vidu Q3 Pro",
       "slug": "vidu-q3-pro",
       "creator": "Vidu",
-      "score": 1291,
+      "score": 1290,
       "ci95": "-9/9",
       "category_distribution": [
         {
+          "style": "Cartoon and anime",
+          "score": 1308,
+          "ci95": "-34/34"
+        },
+        {
           "style": "Photorealistic",
-          "score": 1290,
+          "score": 1289,
           "ci95": "-10/10"
         }
       ]
@@ -197,8 +257,13 @@
       "ci95": "-10/10",
       "category_distribution": [
         {
+          "style": "Cartoon and anime",
+          "score": 1322,
+          "ci95": "-41/41"
+        },
+        {
           "style": "Photorealistic",
-          "score": 1287,
+          "score": 1286,
           "ci95": "-11/11"
         }
       ]
@@ -208,12 +273,17 @@
       "name": "SkyReels V4",
       "slug": "skyreels-v4",
       "creator": "Skywork AI",
-      "score": 1283,
+      "score": 1282,
       "ci95": "-11/11",
       "category_distribution": [
         {
+          "style": "Cartoon and anime",
+          "score": 1265,
+          "ci95": "-40/40"
+        },
+        {
           "style": "Photorealistic",
-          "score": 1287,
+          "score": 1286,
           "ci95": "-12/12"
         }
       ]
@@ -223,12 +293,17 @@
       "name": "Kling 3.0 Omni 1080p (Pro)",
       "slug": "kling-o3-pro",
       "creator": "KlingAI",
-      "score": 1280,
+      "score": 1279,
       "ci95": "-10/10",
       "category_distribution": [
         {
+          "style": "Cartoon and anime",
+          "score": 1244,
+          "ci95": "-43/43"
+        },
+        {
           "style": "Photorealistic",
-          "score": 1281,
+          "score": 1280,
           "ci95": "-11/11"
         }
       ]
@@ -242,8 +317,13 @@
       "ci95": "-9/9",
       "category_distribution": [
         {
+          "style": "Cartoon and anime",
+          "score": 1331,
+          "ci95": "-36/36"
+        },
+        {
           "style": "Photorealistic",
-          "score": 1272,
+          "score": 1271,
           "ci95": "-10/10"
         }
       ]
@@ -256,6 +336,11 @@
       "score": 1277,
       "ci95": "-9/9",
       "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 1287,
+          "ci95": "-38/38"
+        },
         {
           "style": "Photorealistic",
           "score": 1274,
@@ -272,8 +357,13 @@
       "ci95": "-10/10",
       "category_distribution": [
         {
+          "style": "Cartoon and anime",
+          "score": 1282,
+          "ci95": "-38/38"
+        },
+        {
           "style": "Photorealistic",
-          "score": 1278,
+          "score": 1277,
           "ci95": "-10/10"
         }
       ]
@@ -286,6 +376,11 @@
       "score": 1273,
       "ci95": "-11/11",
       "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 1346,
+          "ci95": "-43/43"
+        },
         {
           "style": "Photorealistic",
           "score": 1269,
@@ -302,8 +397,13 @@
       "ci95": "-10/10",
       "category_distribution": [
         {
+          "style": "Cartoon and anime",
+          "score": 1263,
+          "ci95": "-38/38"
+        },
+        {
           "style": "Photorealistic",
-          "score": 1273,
+          "score": 1272,
           "ci95": "-11/11"
         }
       ]
@@ -313,12 +413,17 @@
       "name": "Wan 2.7",
       "slug": "wan-2-7-v2v",
       "creator": "Alibaba",
-      "score": 1271,
+      "score": 1270,
       "ci95": "-11/11",
       "category_distribution": [
         {
+          "style": "Cartoon and anime",
+          "score": 1266,
+          "ci95": "-41/41"
+        },
+        {
           "style": "Photorealistic",
-          "score": 1275,
+          "score": 1274,
           "ci95": "-12/12"
         }
       ]
@@ -331,6 +436,11 @@
       "score": 1270,
       "ci95": "-9/9",
       "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 1255,
+          "ci95": "-36/36"
+        },
         {
           "style": "Photorealistic",
           "score": 1275,
@@ -347,6 +457,11 @@
       "ci95": "-9/9",
       "category_distribution": [
         {
+          "style": "Cartoon and anime",
+          "score": 1232,
+          "ci95": "-36/36"
+        },
+        {
           "style": "Photorealistic",
           "score": 1275,
           "ci95": "-10/10"
@@ -361,6 +476,11 @@
       "score": 1265,
       "ci95": "-10/10",
       "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 1294,
+          "ci95": "-40/40"
+        },
         {
           "style": "Photorealistic",
           "score": 1267,
@@ -377,6 +497,11 @@
       "ci95": "-10/10",
       "category_distribution": [
         {
+          "style": "Cartoon and anime",
+          "score": 1292,
+          "ci95": "-39/39"
+        },
+        {
           "style": "Photorealistic",
           "score": 1290,
           "ci95": "-11/11"
@@ -391,6 +516,11 @@
       "score": 1259,
       "ci95": "-9/9",
       "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 1302,
+          "ci95": "-37/37"
+        },
         {
           "style": "Photorealistic",
           "score": 1258,
@@ -407,6 +537,11 @@
       "ci95": "-10/10",
       "category_distribution": [
         {
+          "style": "Cartoon and anime",
+          "score": 1248,
+          "ci95": "-37/37"
+        },
+        {
           "style": "Photorealistic",
           "score": 1259,
           "ci95": "-10/10"
@@ -422,8 +557,13 @@
       "ci95": "-9/9",
       "category_distribution": [
         {
+          "style": "Cartoon and anime",
+          "score": 1260,
+          "ci95": "-36/36"
+        },
+        {
           "style": "Photorealistic",
-          "score": 1252,
+          "score": 1251,
           "ci95": "-10/10"
         }
       ]
@@ -436,6 +576,11 @@
       "score": 1255,
       "ci95": "-9/9",
       "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 1294,
+          "ci95": "-36/36"
+        },
         {
           "style": "Photorealistic",
           "score": 1254,
@@ -452,8 +597,13 @@
       "ci95": "-11/11",
       "category_distribution": [
         {
+          "style": "Cartoon and anime",
+          "score": 1295,
+          "ci95": "-42/42"
+        },
+        {
           "style": "Photorealistic",
-          "score": 1253,
+          "score": 1252,
           "ci95": "-11/11"
         }
       ]
