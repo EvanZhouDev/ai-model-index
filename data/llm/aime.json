@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:47:18.121Z",
+  "generated_at": "2026-10-01T14:30:41.042Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aime",
@@ -11,7 +11,7 @@
   "models": [
     {
       "rank": 1,
-      "name": "GPT-5 (high)",
+      "name": "GPT-5 (High)",
       "slug": "gpt-5",
       "creator": "OpenAI",
       "score": 0.956666666666667
@@ -25,7 +25,7 @@
     },
     {
       "rank": 3,
-      "name": "o4-mini (high)",
+      "name": "o4-mini (High)",
       "slug": "o4-mini",
       "creator": "OpenAI",
       "score": 0.94
@@ -39,14 +39,14 @@
     },
     {
       "rank": 5,
-      "name": "Grok 3 mini Reasoning (high)",
+      "name": "Grok 3 mini Reasoning (High)",
       "slug": "grok-3-mini-reasoning",
       "creator": "SpaceXAI",
       "score": 0.933333333333333
     },
     {
       "rank": 6,
-      "name": "GPT-5 (medium)",
+      "name": "GPT-5 (Medium)",
       "slug": "gpt-5-medium",
       "creator": "OpenAI",
       "score": 0.916666666666667
@@ -95,7 +95,7 @@
     },
     {
       "rank": 13,
-      "name": "o3-mini (high)",
+      "name": "o3-mini (High)",
       "slug": "o3-mini-high",
       "creator": "OpenAI",
       "score": 0.86
@@ -144,7 +144,7 @@
     },
     {
       "rank": 20,
-      "name": "GPT-5 (low)",
+      "name": "GPT-5 (Low)",
       "slug": "gpt-5-low",
       "creator": "OpenAI",
       "score": 0.83

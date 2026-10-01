@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:47:18.121Z",
+  "generated_at": "2026-10-01T14:30:41.042Z",
   "limit": 30,
   "modality": "llm",
   "metric": "livecodebench",
@@ -11,7 +11,7 @@
   "models": [
     {
       "rank": 1,
-      "name": "Gemini 3 Pro Preview (high)",
+      "name": "Gemini 3 Pro Preview (High)",
       "slug": "gemini-3-pro",
       "creator": "Google",
       "score": 0.917
@@ -32,7 +32,7 @@
     },
     {
       "rank": 4,
-      "name": "GPT-5.2 (medium)",
+      "name": "GPT-5.2 (Medium)",
       "slug": "gpt-5-2-medium",
       "creator": "OpenAI",
       "score": 0.894
@@ -46,14 +46,14 @@
     },
     {
       "rank": 6,
-      "name": "GPT-5.2 (xhigh)",
+      "name": "GPT-5.2 (Xhigh)",
       "slug": "gpt-5-2",
       "creator": "OpenAI",
       "score": 0.889
     },
     {
       "rank": 7,
-      "name": "gpt-oss-120b (high)",
+      "name": "gpt-oss-120b (High)",
       "slug": "gpt-oss-120b",
       "creator": "OpenAI",
       "score": 0.878
@@ -67,7 +67,7 @@
     },
     {
       "rank": 9,
-      "name": "GPT-5.1 (high)",
+      "name": "GPT-5.1 (High)",
       "slug": "gpt-5-1",
       "creator": "OpenAI",
       "score": 0.868
@@ -88,14 +88,14 @@
     },
     {
       "rank": 12,
-      "name": "o4-mini (high)",
+      "name": "o4-mini (High)",
       "slug": "o4-mini",
       "creator": "OpenAI",
       "score": 0.859
     },
     {
       "rank": 13,
-      "name": "Gemini 3 Pro Preview (low)",
+      "name": "Gemini 3 Pro Preview (Low)",
       "slug": "gemini-3-pro-low",
       "creator": "Google",
       "score": 0.857
@@ -109,35 +109,35 @@
     },
     {
       "rank": 15,
-      "name": "GPT-5.1 Codex (high)",
+      "name": "GPT-5.1 Codex (High)",
       "slug": "gpt-5-1-codex",
       "creator": "OpenAI",
       "score": 0.849
     },
     {
       "rank": 16,
-      "name": "GPT-5 (high)",
+      "name": "GPT-5 (High)",
       "slug": "gpt-5",
       "creator": "OpenAI",
       "score": 0.846
     },
     {
       "rank": 17,
-      "name": "GPT-5 Codex (high)",
+      "name": "GPT-5 Codex (High)",
       "slug": "gpt-5-codex",
       "creator": "OpenAI",
       "score": 0.84
     },
     {
       "rank": 18,
-      "name": "GPT-5 mini (high)",
+      "name": "GPT-5 mini (High)",
       "slug": "gpt-5-mini",
       "creator": "OpenAI",
       "score": 0.838
     },
     {
       "rank": 19,
-      "name": "GPT-5.1 Codex mini (high)",
+      "name": "GPT-5.1 Codex mini (High)",
       "slug": "gpt-5-1-codex-mini",
       "creator": "OpenAI",
       "score": 0.836

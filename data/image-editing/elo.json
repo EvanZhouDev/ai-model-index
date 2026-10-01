@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:47:18.121Z",
+  "generated_at": "2026-10-01T14:30:41.042Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -186,6 +186,14 @@
     },
     {
       "rank": 23,
+      "name": "Ideogram 4.5 (High)",
+      "slug": "ideogram-v4-5-high",
+      "creator": "Ideogram",
+      "score": 1064,
+      "ci95": "-11/11"
+    },
+    {
+      "rank": 24,
       "name": "Seedream 5.0 Lite",
       "slug": "seedream-5-0-lite",
       "creator": "ByteDance Seed",
@@ -193,7 +201,7 @@
       "ci95": "-9/9"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Qwen-Image-3.0",
       "slug": "qwen-image-3-0",
       "creator": "Alibaba",
@@ -201,7 +209,7 @@
       "ci95": "-8/8"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "slug": "nano-banana-2-lite",
       "creator": "Google",
@@ -209,7 +217,7 @@
       "ci95": "-8/8"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Wan 2.7 Pro",
       "slug": "wan-2-7-pro",
       "creator": "Alibaba",
@@ -217,7 +225,7 @@
       "ci95": "-9/9"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "DreamImage 2.0",
       "slug": "dreamimage-2-0",
       "creator": "Newport AI",
@@ -225,7 +233,7 @@
       "ci95": "-9/9"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Luma UNI 1",
       "slug": "luma-uni-1",
       "creator": "Luma Labs",
@@ -233,19 +241,11 @@
       "ci95": "-8/8"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Wan 2.6 Image",
       "slug": "wan_wan-2-6",
       "creator": "Alibaba",
       "score": 1038,
-      "ci95": "-9/9"
-    },
-    {
-      "rank": 30,
-      "name": "Seedream 4.5",
-      "slug": "seedream-4-5",
-      "creator": "ByteDance Seed",
-      "score": 1036,
       "ci95": "-9/9"
     }
   ]

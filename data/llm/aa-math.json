@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:47:18.121Z",
+  "generated_at": "2026-10-01T14:30:41.042Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-math",
@@ -11,14 +11,14 @@
   "models": [
     {
       "rank": 1,
-      "name": "GPT-5.2 (xhigh)",
+      "name": "GPT-5.2 (Xhigh)",
       "slug": "gpt-5-2",
       "creator": "OpenAI",
       "score": 99
     },
     {
       "rank": 2,
-      "name": "GPT-5 Codex (high)",
+      "name": "GPT-5 Codex (High)",
       "slug": "gpt-5-codex",
       "creator": "OpenAI",
       "score": 98.7
@@ -32,7 +32,7 @@
     },
     {
       "rank": 4,
-      "name": "GPT-5.2 (medium)",
+      "name": "GPT-5.2 (Medium)",
       "slug": "gpt-5-2-medium",
       "creator": "OpenAI",
       "score": 96.7
@@ -53,14 +53,14 @@
     },
     {
       "rank": 7,
-      "name": "Gemini 3 Pro Preview (high)",
+      "name": "Gemini 3 Pro Preview (High)",
       "slug": "gemini-3-pro",
       "creator": "Google",
       "score": 95.7
     },
     {
       "rank": 8,
-      "name": "GPT-5.1 Codex (high)",
+      "name": "GPT-5.1 Codex (High)",
       "slug": "gpt-5-1-codex",
       "creator": "OpenAI",
       "score": 95.7
@@ -88,28 +88,28 @@
     },
     {
       "rank": 12,
-      "name": "GPT-5 (high)",
+      "name": "GPT-5 (High)",
       "slug": "gpt-5",
       "creator": "OpenAI",
       "score": 94.3
     },
     {
       "rank": 13,
-      "name": "Nova 2.0 Lite (high)",
+      "name": "Nova 2.0 Lite (High)",
       "slug": "nova-2-0-lite-reasoning",
       "creator": "Amazon",
       "score": 94.3
     },
     {
       "rank": 14,
-      "name": "GPT-5.1 (high)",
+      "name": "GPT-5.1 (High)",
       "slug": "gpt-5-1",
       "creator": "OpenAI",
       "score": 94
     },
     {
       "rank": 15,
-      "name": "gpt-oss-120b (high)",
+      "name": "gpt-oss-120b (High)",
       "slug": "gpt-oss-120b",
       "creator": "OpenAI",
       "score": 93.4
@@ -130,14 +130,14 @@
     },
     {
       "rank": 18,
-      "name": "GPT-5 (medium)",
+      "name": "GPT-5 (Medium)",
       "slug": "gpt-5-medium",
       "creator": "OpenAI",
       "score": 91.7
     },
     {
       "rank": 19,
-      "name": "GPT-5.1 Codex mini (high)",
+      "name": "GPT-5.1 Codex mini (High)",
       "slug": "gpt-5-1-codex-mini",
       "creator": "OpenAI",
       "score": 91.7
@@ -165,14 +165,14 @@
     },
     {
       "rank": 23,
-      "name": "GPT-5 mini (high)",
+      "name": "GPT-5 mini (High)",
       "slug": "gpt-5-mini",
       "creator": "OpenAI",
       "score": 90.7
     },
     {
       "rank": 24,
-      "name": "o4-mini (high)",
+      "name": "o4-mini (High)",
       "slug": "o4-mini",
       "creator": "OpenAI",
       "score": 90.7
@@ -200,7 +200,7 @@
     },
     {
       "rank": 28,
-      "name": "Nova 2.0 Omni (medium)",
+      "name": "Nova 2.0 Omni (Medium)",
       "slug": "nova-2-0-omni-reasoning-medium",
       "creator": "Amazon",
       "score": 89.7

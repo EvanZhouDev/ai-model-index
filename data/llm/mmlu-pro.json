@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:47:18.121Z",
+  "generated_at": "2026-10-01T14:30:41.042Z",
   "limit": 30,
   "modality": "llm",
   "metric": "mmlu-pro",
@@ -11,7 +11,7 @@
   "models": [
     {
       "rank": 1,
-      "name": "Gemini 3 Pro Preview (high)",
+      "name": "Gemini 3 Pro Preview (High)",
       "slug": "gemini-3-pro",
       "creator": "Google",
       "score": 0.898
@@ -25,7 +25,7 @@
     },
     {
       "rank": 3,
-      "name": "Gemini 3 Pro Preview (low)",
+      "name": "Gemini 3 Pro Preview (Low)",
       "slug": "gemini-3-pro-low",
       "creator": "Google",
       "score": 0.895
@@ -74,7 +74,7 @@
     },
     {
       "rank": 10,
-      "name": "GPT-5.2 (xhigh)",
+      "name": "GPT-5.2 (Xhigh)",
       "slug": "gpt-5-2",
       "creator": "OpenAI",
       "score": 0.874
@@ -88,21 +88,21 @@
     },
     {
       "rank": 12,
-      "name": "GPT-5 (high)",
+      "name": "GPT-5 (High)",
       "slug": "gpt-5",
       "creator": "OpenAI",
       "score": 0.871
     },
     {
       "rank": 13,
-      "name": "GPT-5.1 (high)",
+      "name": "GPT-5.1 (High)",
       "slug": "gpt-5-1",
       "creator": "OpenAI",
       "score": 0.87
     },
     {
       "rank": 14,
-      "name": "GPT-5 (medium)",
+      "name": "GPT-5 (Medium)",
       "slug": "gpt-5-medium",
       "creator": "OpenAI",
       "score": 0.867
@@ -116,7 +116,7 @@
     },
     {
       "rank": 16,
-      "name": "GPT-5 Codex (high)",
+      "name": "GPT-5 Codex (High)",
       "slug": "gpt-5-codex",
       "creator": "OpenAI",
       "score": 0.865
@@ -144,14 +144,14 @@
     },
     {
       "rank": 20,
-      "name": "GPT-5.1 Codex (high)",
+      "name": "GPT-5.1 Codex (High)",
       "slug": "gpt-5-1-codex",
       "creator": "OpenAI",
       "score": 0.86
     },
     {
       "rank": 21,
-      "name": "GPT-5 (low)",
+      "name": "GPT-5 (Low)",
       "slug": "gpt-5-low",
       "creator": "OpenAI",
       "score": 0.86
@@ -172,7 +172,7 @@
     },
     {
       "rank": 24,
-      "name": "GPT-5.2 (medium)",
+      "name": "GPT-5.2 (Medium)",
       "slug": "gpt-5-2-medium",
       "creator": "OpenAI",
       "score": 0.859
