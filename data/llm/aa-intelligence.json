@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:30:41.042Z",
+  "generated_at": "2026-10-02T13:53:31.643Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-intelligence",
@@ -18,15 +18,15 @@
     },
     {
       "rank": 2,
-      "name": "Claude Opus 5.5 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
-      "slug": "claude-opus-5-5-xhigh",
+      "name": "Claude Sonnet 5.5 (Adaptive Reasoning, Max Effort, Default Fallback)",
+      "slug": "claude-sonnet-5-5",
       "creator": "Anthropic",
       "score": 56
     },
     {
       "rank": 3,
-      "name": "Claude Sonnet 5.5 (Adaptive Reasoning, Max Effort, Default Fallback)",
-      "slug": "claude-sonnet-5-5",
+      "name": "Claude Opus 5.5 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
+      "slug": "claude-opus-5-5-xhigh",
       "creator": "Anthropic",
       "score": 56
     },
@@ -203,7 +203,7 @@
       "name": "Claude Sonnet 5.5 (Adaptive Reasoning, High Effort, Default Fallback)",
       "slug": "claude-sonnet-5-5-high",
       "creator": "Anthropic",
-      "score": 46.7
+      "score": 46.8
     },
     {
       "rank": 29,
