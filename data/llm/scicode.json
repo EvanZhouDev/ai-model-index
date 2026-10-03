@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T13:53:31.643Z",
+  "generated_at": "2026-10-03T12:35:41.964Z",
   "limit": 30,
   "modality": "llm",
   "metric": "scicode",
@@ -11,21 +11,21 @@
   "models": [
     {
       "rank": 1,
-      "name": "Claude Opus 5.5 (Adaptive Reasoning, Max Effort, Default Fallback)",
+      "name": "Claude Opus 5.5 (Max, Default Fallback)",
       "slug": "claude-opus-5-5",
       "creator": "Anthropic",
       "score": 0.669
     },
     {
       "rank": 2,
-      "name": "Claude Opus 5.5 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
+      "name": "Claude Opus 5.5 (Xhigh, Default Fallback)",
       "slug": "claude-opus-5-5-xhigh",
       "creator": "Anthropic",
       "score": 0.65
     },
     {
       "rank": 3,
-      "name": "Claude Fable 5.1 (Adaptive Reasoning, Max Effort, Default Fallback)",
+      "name": "Claude Fable 5.1 (Max, Default Fallback)",
       "slug": "claude-fable-5-1",
       "creator": "Anthropic",
       "score": 0.631
@@ -39,21 +39,21 @@
     },
     {
       "rank": 5,
-      "name": "Claude Sonnet 5.5 (Adaptive Reasoning, Max Effort, Default Fallback)",
+      "name": "Claude Sonnet 5.5 (Max, Default Fallback)",
       "slug": "claude-sonnet-5-5",
       "creator": "Anthropic",
       "score": 0.61
     },
     {
       "rank": 6,
-      "name": "Claude Fable 5 (Adaptive Reasoning, Max Effort, Opus 4.8 Fallback)",
+      "name": "Claude Fable 5 (Max, Opus 4.8 Fallback)",
       "slug": "claude-fable-5",
       "creator": "Anthropic",
       "score": 0.61
     },
     {
       "rank": 7,
-      "name": "Claude Fable 5.1 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
+      "name": "Claude Fable 5.1 (Xhigh, Default Fallback)",
       "slug": "claude-fable-5-1-xhigh",
       "creator": "Anthropic",
       "score": 0.609
@@ -67,7 +67,7 @@
     },
     {
       "rank": 9,
-      "name": "Claude Opus 5.5 (Adaptive Reasoning, High Effort, Default Fallback)",
+      "name": "Claude Opus 5.5 (High, Default Fallback)",
       "slug": "claude-opus-5-5-high",
       "creator": "Anthropic",
       "score": 0.604
@@ -95,7 +95,7 @@
     },
     {
       "rank": 13,
-      "name": "Claude Opus 5.5 (Adaptive Reasoning, Medium Effort, Default Fallback)",
+      "name": "Claude Opus 5.5 (Medium, Default Fallback)",
       "slug": "claude-opus-5-5-medium",
       "creator": "Anthropic",
       "score": 0.593
@@ -130,7 +130,7 @@
     },
     {
       "rank": 18,
-      "name": "Claude Fable 5.1 (Adaptive Reasoning, High Effort, Default Fallback)",
+      "name": "Claude Fable 5.1 (High, Default Fallback)",
       "slug": "claude-fable-5-1-high",
       "creator": "Anthropic",
       "score": 0.587
@@ -144,7 +144,7 @@
     },
     {
       "rank": 20,
-      "name": "Claude Opus 5.5 (Adaptive Reasoning, Low Effort, Default Fallback)",
+      "name": "Claude Opus 5.5 (Low, Default Fallback)",
       "slug": "claude-opus-5-5-low",
       "creator": "Anthropic",
       "score": 0.586
@@ -193,7 +193,7 @@
     },
     {
       "rank": 27,
-      "name": "Claude Sonnet 5.5 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
+      "name": "Claude Sonnet 5.5 (Xhigh, Default Fallback)",
       "slug": "claude-sonnet-5-5-xhigh",
       "creator": "Anthropic",
       "score": 0.573
