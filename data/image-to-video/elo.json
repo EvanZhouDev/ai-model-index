@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T16:04:21.147Z",
+  "generated_at": "2026-10-06T14:13:15.522Z",
   "limit": 30,
   "modality": "image-to-video",
   "metric": "elo",
@@ -18,13 +18,13 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1425,
+          "score": 1422,
           "ci95": "-42/42"
         },
         {
           "style": "Photorealistic",
           "score": 1368,
-          "ci95": "-12/12"
+          "ci95": "-11/11"
         }
       ]
     },
@@ -38,7 +38,7 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1380,
+          "score": 1383,
           "ci95": "-41/41"
         },
         {
@@ -59,11 +59,11 @@
         {
           "style": "Cartoon and anime",
           "score": 1343,
-          "ci95": "-47/47"
+          "ci95": "-46/46"
         },
         {
           "style": "Photorealistic",
-          "score": 1361,
+          "score": 1362,
           "ci95": "-13/13"
         }
       ]
@@ -78,8 +78,8 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1360,
-          "ci95": "-42/42"
+          "score": 1359,
+          "ci95": "-41/41"
         },
         {
           "style": "Photorealistic",
@@ -90,26 +90,6 @@
     },
     {
       "rank": 5,
-      "name": "PixVerse V6",
-      "slug": "pixverse-v6",
-      "creator": "PixVerse",
-      "score": 1339,
-      "ci95": "-10/10",
-      "category_distribution": [
-        {
-          "style": "Cartoon and anime",
-          "score": 1343,
-          "ci95": "-37/37"
-        },
-        {
-          "style": "Photorealistic",
-          "score": 1343,
-          "ci95": "-10/10"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "name": "Dreamina Seedance 2.0 720p",
       "slug": "seedance-2-0",
       "creator": "ByteDance Seed",
@@ -129,6 +109,26 @@
       ]
     },
     {
+      "rank": 6,
+      "name": "PixVerse V6",
+      "slug": "pixverse-v6",
+      "creator": "PixVerse",
+      "score": 1339,
+      "ci95": "-10/10",
+      "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 1341,
+          "ci95": "-37/37"
+        },
+        {
+          "style": "Photorealistic",
+          "score": 1343,
+          "ci95": "-10/10"
+        }
+      ]
+    },
+    {
       "rank": 7,
       "name": "grok-imagine-video-1.5",
       "slug": "grok-imagine-video-1.5",
@@ -138,7 +138,7 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1339,
+          "score": 1342,
           "ci95": "-40/40"
         },
         {
@@ -178,7 +178,7 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1328,
+          "score": 1327,
           "ci95": "-38/38"
         },
         {
@@ -213,7 +213,7 @@
       "name": "HappyHorse-1.0",
       "slug": "happyhorse-1-0",
       "creator": "Alibaba-ATH",
-      "score": 1295,
+      "score": 1294,
       "ci95": "-9/9",
       "category_distribution": [
         {
@@ -238,7 +238,7 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1306,
+          "score": 1305,
           "ci95": "-33/33"
         },
         {
@@ -259,7 +259,7 @@
         {
           "style": "Cartoon and anime",
           "score": 1321,
-          "ci95": "-41/41"
+          "ci95": "-40/40"
         },
         {
           "style": "Photorealistic",
@@ -278,8 +278,8 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1266,
-          "ci95": "-40/40"
+          "score": 1268,
+          "ci95": "-39/39"
         },
         {
           "style": "Photorealistic",
@@ -318,7 +318,7 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1329,
+          "score": 1328,
           "ci95": "-35/35"
         },
         {
@@ -378,7 +378,7 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1344,
+          "score": 1346,
           "ci95": "-42/42"
         },
         {
@@ -403,7 +403,7 @@
         },
         {
           "style": "Photorealistic",
-          "score": 1272,
+          "score": 1273,
           "ci95": "-11/11"
         }
       ]
@@ -414,11 +414,11 @@
       "slug": "wan-2-7-v2v",
       "creator": "Alibaba",
       "score": 1271,
-      "ci95": "-11/11",
+      "ci95": "-10/10",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1264,
+          "score": 1263,
           "ci95": "-40/40"
         },
         {
@@ -438,7 +438,7 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1255,
+          "score": 1256,
           "ci95": "-35/35"
         },
         {
@@ -470,26 +470,6 @@
     },
     {
       "rank": 24,
-      "name": "Kling 2.6 Standard (January)",
-      "slug": "kling-2-6-standard-january-no-audio",
-      "creator": "KlingAI",
-      "score": 1265,
-      "ci95": "-10/10",
-      "category_distribution": [
-        {
-          "style": "Cartoon and anime",
-          "score": 1288,
-          "ci95": "-39/39"
-        },
-        {
-          "style": "Photorealistic",
-          "score": 1290,
-          "ci95": "-11/11"
-        }
-      ]
-    },
-    {
-      "rank": 25,
       "name": "Runway Gen-4.5 (720p)",
       "slug": "runway-gen-4-5",
       "creator": "Runway",
@@ -509,6 +489,26 @@
       ]
     },
     {
+      "rank": 25,
+      "name": "Kling 2.6 Standard (January)",
+      "slug": "kling-2-6-standard-january-no-audio",
+      "creator": "KlingAI",
+      "score": 1265,
+      "ci95": "-10/10",
+      "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 1288,
+          "ci95": "-39/39"
+        },
+        {
+          "style": "Photorealistic",
+          "score": 1290,
+          "ci95": "-11/11"
+        }
+      ]
+    },
+    {
       "rank": 26,
       "name": "Veo 3.1 Fast",
       "slug": "veo-3-1-fast",
@@ -518,7 +518,7 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1304,
+          "score": 1305,
           "ci95": "-36/36"
         },
         {
@@ -534,7 +534,7 @@
       "slug": "hailuo-2-3-fast-prompt-enhancement",
       "creator": "MiniMax",
       "score": 1257,
-      "ci95": "-10/10",
+      "ci95": "-9/9",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
@@ -559,7 +559,7 @@
         {
           "style": "Cartoon and anime",
           "score": 1263,
-          "ci95": "-36/36"
+          "ci95": "-35/35"
         },
         {
           "style": "Photorealistic",
@@ -590,20 +590,20 @@
     },
     {
       "rank": 30,
-      "name": "Veo 3.1",
-      "slug": "veo-3-1",
-      "creator": "Google",
+      "name": "Cosmos3-Super-Image2Video",
+      "slug": "cosmos3-super-image2video",
+      "creator": "NVIDIA",
       "score": 1253,
       "ci95": "-10/10",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1306,
-          "ci95": "-39/39"
+          "score": 1303,
+          "ci95": "-41/41"
         },
         {
           "style": "Photorealistic",
-          "score": 1249,
+          "score": 1252,
           "ci95": "-11/11"
         }
       ]
