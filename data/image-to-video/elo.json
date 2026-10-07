@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T14:13:15.522Z",
+  "generated_at": "2026-10-07T14:32:50.977Z",
   "limit": 30,
   "modality": "image-to-video",
   "metric": "elo",
@@ -18,13 +18,13 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1422,
-          "ci95": "-42/42"
+          "score": 1425,
+          "ci95": "-43/43"
         },
         {
           "style": "Photorealistic",
-          "score": 1368,
-          "ci95": "-11/11"
+          "score": 1369,
+          "ci95": "-12/12"
         }
       ]
     },
@@ -38,12 +38,12 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1383,
-          "ci95": "-41/41"
+          "score": 1388,
+          "ci95": "-42/42"
         },
         {
           "style": "Photorealistic",
-          "score": 1369,
+          "score": 1368,
           "ci95": "-12/12"
         }
       ]
@@ -53,18 +53,18 @@
       "name": "Wan 3.0",
       "slug": "wan-3-0",
       "creator": "Alibaba",
-      "score": 1361,
-      "ci95": "-12/12",
+      "score": 1362,
+      "ci95": "-13/13",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1343,
-          "ci95": "-46/46"
+          "score": 1344,
+          "ci95": "-48/48"
         },
         {
           "style": "Photorealistic",
           "score": 1362,
-          "ci95": "-13/13"
+          "ci95": "-14/14"
         }
       ]
     },
@@ -73,17 +73,17 @@
       "name": "MiniMax H3",
       "slug": "minimax-h3",
       "creator": "MiniMax",
-      "score": 1358,
+      "score": 1356,
       "ci95": "-11/11",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1359,
-          "ci95": "-41/41"
+          "score": 1354,
+          "ci95": "-42/42"
         },
         {
           "style": "Photorealistic",
-          "score": 1363,
+          "score": 1361,
           "ci95": "-12/12"
         }
       ]
@@ -98,8 +98,8 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1311,
-          "ci95": "-35/35"
+          "score": 1306,
+          "ci95": "-36/36"
         },
         {
           "style": "Photorealistic",
@@ -119,12 +119,12 @@
         {
           "style": "Cartoon and anime",
           "score": 1341,
-          "ci95": "-37/37"
+          "ci95": "-38/38"
         },
         {
           "style": "Photorealistic",
           "score": 1343,
-          "ci95": "-10/10"
+          "ci95": "-11/11"
         }
       ]
     },
@@ -133,13 +133,13 @@
       "name": "grok-imagine-video-1.5",
       "slug": "grok-imagine-video-1.5",
       "creator": "SpaceXAI",
-      "score": 1330,
+      "score": 1331,
       "ci95": "-11/11",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1342,
-          "ci95": "-40/40"
+          "score": 1352,
+          "ci95": "-41/41"
         },
         {
           "style": "Photorealistic",
@@ -158,8 +158,8 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1331,
-          "ci95": "-34/34"
+          "score": 1332,
+          "ci95": "-35/35"
         },
         {
           "style": "Photorealistic",
@@ -178,8 +178,8 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1327,
-          "ci95": "-38/38"
+          "score": 1337,
+          "ci95": "-39/39"
         },
         {
           "style": "Photorealistic",
@@ -218,8 +218,8 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1307,
-          "ci95": "-36/36"
+          "score": 1304,
+          "ci95": "-37/37"
         },
         {
           "style": "Photorealistic",
@@ -239,12 +239,12 @@
         {
           "style": "Cartoon and anime",
           "score": 1305,
-          "ci95": "-33/33"
+          "ci95": "-34/34"
         },
         {
           "style": "Photorealistic",
           "score": 1289,
-          "ci95": "-9/9"
+          "ci95": "-10/10"
         }
       ]
     },
@@ -258,8 +258,8 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1321,
-          "ci95": "-40/40"
+          "score": 1322,
+          "ci95": "-41/41"
         },
         {
           "style": "Photorealistic",
@@ -273,18 +273,18 @@
       "name": "SkyReels V4",
       "slug": "skyreels-v4",
       "creator": "Skywork AI",
-      "score": 1282,
-      "ci95": "-10/10",
+      "score": 1283,
+      "ci95": "-11/11",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1268,
-          "ci95": "-39/39"
+          "score": 1266,
+          "ci95": "-40/40"
         },
         {
           "style": "Photorealistic",
-          "score": 1286,
-          "ci95": "-11/11"
+          "score": 1287,
+          "ci95": "-12/12"
         }
       ]
     },
@@ -293,13 +293,13 @@
       "name": "Kling 3.0 Omni 1080p (Pro)",
       "slug": "kling-o3-pro",
       "creator": "KlingAI",
-      "score": 1280,
+      "score": 1281,
       "ci95": "-10/10",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1256,
-          "ci95": "-42/42"
+          "score": 1253,
+          "ci95": "-43/43"
         },
         {
           "style": "Photorealistic",
@@ -313,17 +313,17 @@
       "name": "Kling 3.0 1080p (Pro)",
       "slug": "kling-3-0-pro",
       "creator": "KlingAI",
-      "score": 1278,
+      "score": 1277,
       "ci95": "-9/9",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1328,
-          "ci95": "-35/35"
+          "score": 1329,
+          "ci95": "-36/36"
         },
         {
           "style": "Photorealistic",
-          "score": 1272,
+          "score": 1271,
           "ci95": "-10/10"
         }
       ]
@@ -338,7 +338,7 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1290,
+          "score": 1287,
           "ci95": "-38/38"
         },
         {
@@ -358,7 +358,7 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1281,
+          "score": 1282,
           "ci95": "-38/38"
         },
         {
@@ -373,18 +373,18 @@
       "name": "Cosmos3-Super-Image2Video-4Step",
       "slug": "cosmos3-super-image2video-4step",
       "creator": "NVIDIA",
-      "score": 1273,
+      "score": 1275,
       "ci95": "-11/11",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1346,
-          "ci95": "-42/42"
+          "score": 1347,
+          "ci95": "-43/43"
         },
         {
           "style": "Photorealistic",
-          "score": 1269,
-          "ci95": "-12/12"
+          "score": 1271,
+          "ci95": "-13/13"
         }
       ]
     },
@@ -398,12 +398,12 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1268,
-          "ci95": "-37/37"
+          "score": 1263,
+          "ci95": "-38/38"
         },
         {
           "style": "Photorealistic",
-          "score": 1273,
+          "score": 1272,
           "ci95": "-11/11"
         }
       ]
@@ -414,17 +414,17 @@
       "slug": "wan-2-7-v2v",
       "creator": "Alibaba",
       "score": 1271,
-      "ci95": "-10/10",
+      "ci95": "-11/11",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1263,
-          "ci95": "-40/40"
+          "score": 1268,
+          "ci95": "-41/41"
         },
         {
           "style": "Photorealistic",
           "score": 1275,
-          "ci95": "-11/11"
+          "ci95": "-12/12"
         }
       ]
     },
@@ -438,8 +438,8 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1256,
-          "ci95": "-35/35"
+          "score": 1251,
+          "ci95": "-36/36"
         },
         {
           "style": "Photorealistic",
@@ -478,12 +478,12 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1287,
-          "ci95": "-39/39"
+          "score": 1288,
+          "ci95": "-40/40"
         },
         {
           "style": "Photorealistic",
-          "score": 1267,
+          "score": 1268,
           "ci95": "-11/11"
         }
       ]
@@ -498,7 +498,7 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1288,
+          "score": 1292,
           "ci95": "-39/39"
         },
         {
@@ -518,8 +518,8 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1305,
-          "ci95": "-36/36"
+          "score": 1302,
+          "ci95": "-37/37"
         },
         {
           "style": "Photorealistic",
@@ -534,12 +534,12 @@
       "slug": "hailuo-2-3-fast-prompt-enhancement",
       "creator": "MiniMax",
       "score": 1257,
-      "ci95": "-9/9",
+      "ci95": "-10/10",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1243,
-          "ci95": "-37/37"
+          "score": 1248,
+          "ci95": "-38/38"
         },
         {
           "style": "Photorealistic",
@@ -558,8 +558,8 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1263,
-          "ci95": "-35/35"
+          "score": 1260,
+          "ci95": "-36/36"
         },
         {
           "style": "Photorealistic",
@@ -578,8 +578,8 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1293,
-          "ci95": "-35/35"
+          "score": 1294,
+          "ci95": "-36/36"
         },
         {
           "style": "Photorealistic",
@@ -590,20 +590,20 @@
     },
     {
       "rank": 30,
-      "name": "Cosmos3-Super-Image2Video",
-      "slug": "cosmos3-super-image2video",
-      "creator": "NVIDIA",
+      "name": "Veo 3.1",
+      "slug": "veo-3-1",
+      "creator": "Google",
       "score": 1253,
       "ci95": "-10/10",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1303,
-          "ci95": "-41/41"
+          "score": 1298,
+          "ci95": "-40/40"
         },
         {
           "style": "Photorealistic",
-          "score": 1252,
+          "score": 1250,
           "ci95": "-11/11"
         }
       ]
