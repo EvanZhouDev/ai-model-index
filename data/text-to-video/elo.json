@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:32:50.977Z",
+  "generated_at": "2026-10-08T14:36:23.692Z",
   "limit": 30,
   "modality": "text-to-video",
   "metric": "elo",
@@ -340,7 +340,7 @@
     },
     {
       "rank": 12,
-      "name": "grok-imagine-video-1.5",
+      "name": "Grok Imagine Video 1.5",
       "slug": "grok-imagine-video-1.5",
       "creator": "SpaceXAI",
       "score": 1036,
@@ -490,6 +490,36 @@
     },
     {
       "rank": 17,
+      "name": "Grok Imagine Video 1.5 Lite",
+      "slug": "grok-imagine-video-1-5-lite",
+      "creator": "SpaceXAI",
+      "score": 985,
+      "ci95": "-12/12",
+      "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 983,
+          "ci95": "-40/40"
+        },
+        {
+          "style": "3D Render/CGI",
+          "score": 942,
+          "ci95": "-40/40"
+        },
+        {
+          "style": "Photorealistic",
+          "score": 968,
+          "ci95": "-15/15"
+        },
+        {
+          "style": "Flat Design",
+          "score": 1065,
+          "ci95": "-37/37"
+        }
+      ]
+    },
+    {
+      "rank": 18,
       "name": "Veo 3.1",
       "slug": "veo-3-1",
       "creator": "Google",
@@ -519,7 +549,7 @@
       ]
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Veo 3.1 Fast",
       "slug": "veo-3-1-fast",
       "creator": "Google",
@@ -549,7 +579,7 @@
       ]
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "MAGI-2 Preview (0912)",
       "slug": "magi-2-preview-0912",
       "creator": "Sand.ai",
@@ -579,7 +609,7 @@
       ]
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Veo 3.1 Lite",
       "slug": "veo-3-1-lite",
       "creator": "Google",
@@ -609,7 +639,7 @@
       ]
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "LTX-2.5 Fast",
       "slug": "ltx-2-5-fast",
       "creator": "Lightricks",
@@ -639,7 +669,7 @@
       ]
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "LTX-2.5 Pro",
       "slug": "ltx-2-5-pro",
       "creator": "Lightricks",
@@ -669,7 +699,7 @@
       ]
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Runway Gen-4.5 (720p)",
       "slug": "runway-gen-4-5",
       "creator": "Runway",
@@ -699,7 +729,7 @@
       ]
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Vidu Q3 Turbo",
       "slug": "vidu-q3-turbo",
       "creator": "Vidu",
@@ -729,7 +759,7 @@
       ]
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Vidu Q3 Pro",
       "slug": "vidu-q3-pro",
       "creator": "Vidu",
@@ -759,7 +789,7 @@
       ]
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Kling O1 Pro (January)",
       "slug": "kling-o1-pro-january",
       "creator": "KlingAI",
@@ -789,7 +819,7 @@
       ]
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "LTX-2.3 Fast",
       "slug": "ltx-2-3-fast",
       "creator": "Lightricks",
@@ -819,7 +849,7 @@
       ]
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "LTX-2.3 Pro",
       "slug": "ltx-2-3-pro",
       "creator": "Lightricks",
@@ -849,7 +879,7 @@
       ]
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Pika 2.5",
       "slug": "pika-2-5",
       "creator": "Pika Art",
@@ -875,36 +905,6 @@
           "style": "Flat Design",
           "score": 950,
           "ci95": "-38/38"
-        }
-      ]
-    },
-    {
-      "rank": 30,
-      "name": "Boreal",
-      "slug": "boreal",
-      "creator": "Creatify",
-      "score": 841,
-      "ci95": "-12/12",
-      "category_distribution": [
-        {
-          "style": "Cartoon and anime",
-          "score": 855,
-          "ci95": "-41/41"
-        },
-        {
-          "style": "3D Render/CGI",
-          "score": 816,
-          "ci95": "-42/42"
-        },
-        {
-          "style": "Photorealistic",
-          "score": 833,
-          "ci95": "-16/16"
-        },
-        {
-          "style": "Flat Design",
-          "score": 888,
-          "ci95": "-40/40"
         }
       ]
     }
