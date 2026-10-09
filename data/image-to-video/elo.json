@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T14:36:23.692Z",
+  "generated_at": "2026-10-09T14:23:16.932Z",
   "limit": 30,
   "modality": "image-to-video",
   "metric": "elo",
@@ -90,6 +90,26 @@
     },
     {
       "rank": 5,
+      "name": "Vimoo 1.0",
+      "slug": "vimoo-1-0",
+      "creator": "Vimoo",
+      "score": 1348,
+      "ci95": "-14/14",
+      "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 1331,
+          "ci95": "-52/52"
+        },
+        {
+          "style": "Photorealistic",
+          "score": 1351,
+          "ci95": "-16/16"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "name": "Dreamina Seedance 2.0 720p",
       "slug": "seedance-2-0",
       "creator": "ByteDance Seed",
@@ -109,7 +129,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "PixVerse V6",
       "slug": "pixverse-v6",
       "creator": "PixVerse",
@@ -129,7 +149,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Grok Imagine Video 1.5",
       "slug": "grok-imagine-video-1.5",
       "creator": "SpaceXAI",
@@ -149,7 +169,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "grok-imagine-video",
       "slug": "grok-imagine-video",
       "creator": "SpaceXAI",
@@ -169,7 +189,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "HappyHorse-1.1",
       "slug": "happyhorse-1-1",
       "creator": "Alibaba-ATH",
@@ -189,7 +209,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Kling 2.5 Turbo 1080p",
       "slug": "kling-25-turbo-1080p",
       "creator": "KlingAI",
@@ -209,7 +229,7 @@
       ]
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "HappyHorse-1.0",
       "slug": "happyhorse-1-0",
       "creator": "Alibaba-ATH",
@@ -229,7 +249,7 @@
       ]
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Vidu Q3 Pro",
       "slug": "vidu-q3-pro",
       "creator": "Vidu",
@@ -249,7 +269,7 @@
       ]
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "PixVerse V5.6",
       "slug": "pixverse-v5-6",
       "creator": "PixVerse",
@@ -269,7 +289,7 @@
       ]
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "SkyReels V4",
       "slug": "skyreels-v4",
       "creator": "Skywork AI",
@@ -289,7 +309,7 @@
       ]
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Kling 3.0 Omni 1080p (Pro)",
       "slug": "kling-o3-pro",
       "creator": "KlingAI",
@@ -309,7 +329,7 @@
       ]
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Kling 3.0 1080p (Pro)",
       "slug": "kling-3-0-pro",
       "creator": "KlingAI",
@@ -329,7 +349,7 @@
       ]
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "PixVerse V5",
       "slug": "pixverse-v5",
       "creator": "PixVerse",
@@ -349,7 +369,7 @@
       ]
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "PixVerse V5.5",
       "slug": "pixverse-v5-5",
       "creator": "PixVerse",
@@ -369,7 +389,7 @@
       ]
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Cosmos3-Super-Image2Video-4Step",
       "slug": "cosmos3-super-image2video-4step",
       "creator": "NVIDIA",
@@ -389,7 +409,7 @@
       ]
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Kling 3.0 Omni 720p (Standard)",
       "slug": "kling-o3-standard",
       "creator": "KlingAI",
@@ -409,7 +429,7 @@
       ]
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Wan 2.7",
       "slug": "wan-2-7-v2v",
       "creator": "Alibaba",
@@ -429,7 +449,7 @@
       ]
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Kling 3.0 720p (Standard)",
       "slug": "kling-3-0-standard",
       "creator": "KlingAI",
@@ -449,7 +469,7 @@
       ]
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Kling 2.6 Pro (January)",
       "slug": "kling-2-6-pro-january-no-audio",
       "creator": "KlingAI",
@@ -469,7 +489,7 @@
       ]
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Runway Gen-4.5 (720p)",
       "slug": "runway-gen-4-5",
       "creator": "Runway",
@@ -489,7 +509,7 @@
       ]
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Kling 2.6 Standard (January)",
       "slug": "kling-2-6-standard-january-no-audio",
       "creator": "KlingAI",
@@ -509,7 +529,7 @@
       ]
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Veo 3.1 Fast",
       "slug": "veo-3-1-fast",
       "creator": "Google",
@@ -529,7 +549,7 @@
       ]
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Hailuo 2.3 Fast",
       "slug": "hailuo-2-3-fast-prompt-enhancement",
       "creator": "MiniMax",
@@ -549,7 +569,7 @@
       ]
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Seedance 1.5 pro",
       "slug": "seedance-1-5-pro",
       "creator": "ByteDance Seed",
@@ -569,7 +589,7 @@
       ]
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Hailuo 2.3",
       "slug": "hailuo-2-3-prompt-enhancement",
       "creator": "MiniMax",
@@ -585,26 +605,6 @@
           "style": "Photorealistic",
           "score": 1254,
           "ci95": "-10/10"
-        }
-      ]
-    },
-    {
-      "rank": 30,
-      "name": "Veo 3.1",
-      "slug": "veo-3-1",
-      "creator": "Google",
-      "score": 1253,
-      "ci95": "-10/10",
-      "category_distribution": [
-        {
-          "style": "Cartoon and anime",
-          "score": 1298,
-          "ci95": "-40/40"
-        },
-        {
-          "style": "Photorealistic",
-          "score": 1250,
-          "ci95": "-11/11"
         }
       ]
     }
