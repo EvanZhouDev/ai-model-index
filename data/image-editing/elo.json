@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T14:23:16.932Z",
+  "generated_at": "2026-10-10T13:45:51.444Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -13,7 +13,7 @@
       "name": "GPT Image 2.5 Sunburst (max)",
       "slug": "gpt-image-2.5-sunburst-2026-09-08",
       "creator": "OpenAI",
-      "score": 1183,
+      "score": 1184,
       "ci95": "-8/8"
     },
     {
@@ -21,7 +21,7 @@
       "name": "GPT Image 2.5 Flare (max)",
       "slug": "gpt-image-2.5-flare-2026-09-08",
       "creator": "OpenAI",
-      "score": 1163,
+      "score": 1165,
       "ci95": "-7/7"
     },
     {
@@ -29,7 +29,7 @@
       "name": "MAI-Image-2.6",
       "slug": "mai-image-2-6",
       "creator": "Microsoft AI",
-      "score": 1139,
+      "score": 1141,
       "ci95": "-8/8"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Nano Banana 2.1",
       "slug": "nano-banana-2-1",
       "creator": "Google",
-      "score": 1137,
+      "score": 1140,
       "ci95": "-9/9"
     },
     {
@@ -45,7 +45,7 @@
       "name": "MAI-Image-2.6-Flash",
       "slug": "mai-image-2-6-flash",
       "creator": "Microsoft AI",
-      "score": 1127,
+      "score": 1128,
       "ci95": "-8/8"
     },
     {
@@ -53,7 +53,7 @@
       "name": "GPT Image 2 (high)",
       "slug": "gpt-image-2",
       "creator": "OpenAI",
-      "score": 1125,
+      "score": 1127,
       "ci95": "-8/8"
     },
     {
@@ -61,15 +61,15 @@
       "name": "Muse Image",
       "slug": "muse-image-1.0",
       "creator": "Meta",
-      "score": 1120,
-      "ci95": "-8/8"
+      "score": 1122,
+      "ci95": "-7/7"
     },
     {
       "rank": 8,
       "name": "MAI-Image-2.5",
       "slug": "mai-image-2-5",
       "creator": "Microsoft AI",
-      "score": 1114,
+      "score": 1115,
       "ci95": "-8/8"
     },
     {
@@ -77,23 +77,23 @@
       "name": "Grok Imagine Image 2.0",
       "slug": "grok-imagine-image-2-0",
       "creator": "SpaceXAI",
-      "score": 1110,
+      "score": 1114,
       "ci95": "-9/9"
     },
     {
       "rank": 10,
-      "name": "Nano Banana 2 (Gemini 3.1 Flash Image)",
-      "slug": "nano-banana-2",
-      "creator": "Google",
-      "score": 1110,
+      "name": "MAI-Image-2.5-Pro",
+      "slug": "mai-image-2-5-pro",
+      "creator": "Microsoft AI",
+      "score": 1112,
       "ci95": "-8/8"
     },
     {
       "rank": 11,
-      "name": "MAI-Image-2.5-Pro",
-      "slug": "mai-image-2-5-pro",
-      "creator": "Microsoft AI",
-      "score": 1110,
+      "name": "Nano Banana 2 (Gemini 3.1 Flash Image)",
+      "slug": "nano-banana-2",
+      "creator": "Google",
+      "score": 1111,
       "ci95": "-8/8"
     },
     {
@@ -109,7 +109,7 @@
       "name": "GPT Image 1.5 (high)",
       "slug": "openai-gpt_image-1-5",
       "creator": "OpenAI",
-      "score": 1103,
+      "score": 1104,
       "ci95": "-8/8"
     },
     {
@@ -117,7 +117,7 @@
       "name": "Nano Banana Pro (Gemini 3 Pro Image)",
       "slug": "gemini_nano-banana-pro",
       "creator": "Google",
-      "score": 1101,
+      "score": 1102,
       "ci95": "-8/8"
     },
     {
@@ -125,11 +125,19 @@
       "name": "MAI-Image-2.5-Flash",
       "slug": "mai-image-2-5-flash",
       "creator": "Microsoft AI",
-      "score": 1089,
+      "score": 1090,
       "ci95": "-8/8"
     },
     {
       "rank": 16,
+      "name": "grok-imagine-image-quality",
+      "slug": "grok-imagine-image-quality",
+      "creator": "SpaceXAI",
+      "score": 1087,
+      "ci95": "-8/8"
+    },
+    {
+      "rank": 17,
       "name": "HunyuanImage 3.5 (Preview)",
       "slug": "hunyuanimage-3-5-preview",
       "creator": "Tencent",
@@ -137,19 +145,11 @@
       "ci95": "-9/9"
     },
     {
-      "rank": 17,
-      "name": "grok-imagine-image-quality",
-      "slug": "grok-imagine-image-quality",
-      "creator": "SpaceXAI",
-      "score": 1086,
-      "ci95": "-8/8"
-    },
-    {
       "rank": 18,
       "name": "Qwen-Image-3.0-Pro",
       "slug": "qwen-image-3-0-pro",
       "creator": "Alibaba",
-      "score": 1077,
+      "score": 1079,
       "ci95": "-8/8"
     },
     {
@@ -162,18 +162,18 @@
     },
     {
       "rank": 20,
-      "name": "grok-imagine-image",
-      "slug": "grok-imagine-image",
-      "creator": "SpaceXAI",
+      "name": "Luma UNI 1 Max",
+      "slug": "luma-uni-1-max",
+      "creator": "Luma Labs",
       "score": 1073,
       "ci95": "-8/8"
     },
     {
       "rank": 21,
-      "name": "Luma UNI 1 Max",
-      "slug": "luma-uni-1-max",
-      "creator": "Luma Labs",
-      "score": 1072,
+      "name": "grok-imagine-image",
+      "slug": "grok-imagine-image",
+      "creator": "SpaceXAI",
+      "score": 1073,
       "ci95": "-8/8"
     },
     {
@@ -197,23 +197,23 @@
       "name": "Ideogram 4.5 (High)",
       "slug": "ideogram-v4-5-high",
       "creator": "Ideogram",
-      "score": 1064,
+      "score": 1062,
       "ci95": "-10/10"
     },
     {
       "rank": 25,
-      "name": "Seedream 5.0 Lite",
-      "slug": "seedream-5-0-lite",
-      "creator": "ByteDance Seed",
-      "score": 1057,
+      "name": "Qwen-Image-3.0",
+      "slug": "qwen-image-3-0",
+      "creator": "Alibaba",
+      "score": 1060,
       "ci95": "-8/8"
     },
     {
       "rank": 26,
-      "name": "Qwen-Image-3.0",
-      "slug": "qwen-image-3-0",
-      "creator": "Alibaba",
-      "score": 1056,
+      "name": "Seedream 5.0 Lite",
+      "slug": "seedream-5-0-lite",
+      "creator": "ByteDance Seed",
+      "score": 1058,
       "ci95": "-8/8"
     },
     {
@@ -221,7 +221,7 @@
       "name": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "slug": "nano-banana-2-lite",
       "creator": "Google",
-      "score": 1046,
+      "score": 1049,
       "ci95": "-8/8"
     },
     {
@@ -229,7 +229,7 @@
       "name": "DreamImage 2.0",
       "slug": "dreamimage-2-0",
       "creator": "Newport AI",
-      "score": 1042,
+      "score": 1044,
       "ci95": "-8/8"
     },
     {
@@ -237,7 +237,7 @@
       "name": "Wan 2.7 Pro",
       "slug": "wan-2-7-pro",
       "creator": "Alibaba",
-      "score": 1042,
+      "score": 1043,
       "ci95": "-8/8"
     },
     {
@@ -245,7 +245,7 @@
       "name": "Luma UNI 1",
       "slug": "luma-uni-1",
       "creator": "Luma Labs",
-      "score": 1040,
+      "score": 1041,
       "ci95": "-8/8"
     }
   ]
