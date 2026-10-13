@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T16:45:34.593Z",
+  "generated_at": "2026-10-13T15:05:06.718Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-intelligence",
@@ -32,192 +32,192 @@
     },
     {
       "rank": 4,
+      "name": "Muse Wonder Full (Max)",
+      "slug": "muse-wonder-full",
+      "creator": "Meta",
+      "score": 55.8
+    },
+    {
+      "rank": 5,
       "name": "Claude Opus 5.5 (High, Default Fallback)",
       "slug": "claude-opus-5-5-high",
       "creator": "Anthropic",
       "score": 53.6
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Claude Fable 5.1 (Max, Default Fallback)",
       "slug": "claude-fable-5-1",
       "creator": "Anthropic",
       "score": 53.4
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Claude Fable 5.1 (Xhigh, Default Fallback)",
       "slug": "claude-fable-5-1-xhigh",
       "creator": "Anthropic",
       "score": 53.2
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "GPT-6 Astra (Max)",
       "slug": "gpt-6-astra",
       "creator": "OpenAI",
       "score": 52.7
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Gemini 4 Argon (High)",
       "slug": "gemini-4-argon",
       "creator": "Google",
       "score": 52.6
     },
     {
-      "rank": 9,
+      "rank": 10,
+      "name": "Muse Wonder (Max)",
+      "slug": "muse-wonder",
+      "creator": "Meta",
+      "score": 52.4
+    },
+    {
+      "rank": 11,
       "name": "GPT-6 Astra (Xhigh)",
       "slug": "gpt-6-astra-xhigh",
       "creator": "OpenAI",
       "score": 52.4
     },
     {
-      "rank": 10,
+      "rank": 12,
       "name": "Claude Sonnet 5.5 (Xhigh, Default Fallback)",
       "slug": "claude-sonnet-5-5-xhigh",
       "creator": "Anthropic",
       "score": 51.9
     },
     {
-      "rank": 11,
+      "rank": 13,
       "name": "GPT-6.1 Sol (Max)",
       "slug": "gpt-6-1-sol",
       "creator": "OpenAI",
       "score": 51.8
     },
     {
-      "rank": 12,
+      "rank": 14,
       "name": "Claude Opus 5.5 (Medium, Default Fallback)",
       "slug": "claude-opus-5-5-medium",
       "creator": "Anthropic",
       "score": 51.2
     },
     {
-      "rank": 13,
+      "rank": 15,
       "name": "Claude Fable 5.1 (High, Default Fallback)",
       "slug": "claude-fable-5-1-high",
       "creator": "Anthropic",
       "score": 51.2
     },
     {
-      "rank": 14,
+      "rank": 16,
       "name": "GPT-6.1 Sol (Xhigh)",
       "slug": "gpt-6-1-sol-xhigh",
       "creator": "OpenAI",
       "score": 51
     },
     {
-      "rank": 15,
+      "rank": 17,
       "name": "GPT-6 Astra (High)",
       "slug": "gpt-6-astra-high",
       "creator": "OpenAI",
       "score": 50.9
     },
     {
-      "rank": 16,
+      "rank": 18,
       "name": "Claude Opus 5 (Max)",
       "slug": "claude-opus-5",
       "creator": "Anthropic",
       "score": 50.8
     },
     {
-      "rank": 17,
+      "rank": 19,
       "name": "GPT-6.1 Sol (High)",
       "slug": "gpt-6-1-sol-high",
       "creator": "OpenAI",
       "score": 50.2
     },
     {
-      "rank": 18,
+      "rank": 20,
       "name": "Claude Opus 5 (Xhigh)",
       "slug": "claude-opus-5-xhigh",
       "creator": "Anthropic",
       "score": 49.7
     },
     {
-      "rank": 19,
+      "rank": 21,
       "name": "Claude Fable 5 (Max, Opus 4.8 Fallback)",
       "slug": "claude-fable-5",
       "creator": "Anthropic",
       "score": 49.6
     },
     {
-      "rank": 20,
+      "rank": 22,
       "name": "GPT-6 Astra (Medium)",
       "slug": "gpt-6-astra-medium",
       "creator": "OpenAI",
       "score": 49.6
     },
     {
-      "rank": 21,
+      "rank": 23,
       "name": "Claude Fable 5.1 (Medium, Default Fallback)",
       "slug": "claude-fable-5-1-medium",
       "creator": "Anthropic",
       "score": 48.9
     },
     {
-      "rank": 22,
+      "rank": 24,
       "name": "Claude Opus 5 (High)",
       "slug": "claude-opus-5-high",
       "creator": "Anthropic",
       "score": 48.1
     },
     {
-      "rank": 23,
+      "rank": 25,
       "name": "Muse Spark 1.3 (Max)",
       "slug": "muse-spark-1-3",
       "creator": "Meta",
       "score": 48.1
     },
     {
-      "rank": 24,
+      "rank": 26,
       "name": "GPT-6.1 Sol (Medium)",
       "slug": "gpt-6-1-sol-medium",
       "creator": "OpenAI",
       "score": 47.8
     },
     {
-      "rank": 25,
+      "rank": 27,
       "name": "GPT-6 Sol (Max)",
       "slug": "gpt-6-sol",
       "creator": "OpenAI",
       "score": 47.6
     },
     {
-      "rank": 26,
+      "rank": 28,
       "name": "GPT-5.6 Sol (Max)",
       "slug": "gpt-5-6-sol",
       "creator": "OpenAI",
       "score": 47
     },
     {
-      "rank": 27,
+      "rank": 29,
       "name": "Claude Fable 5.1 (Low, Default Fallback)",
       "slug": "claude-fable-5-1-low",
       "creator": "Anthropic",
       "score": 46.8
     },
     {
-      "rank": 28,
+      "rank": 30,
       "name": "Claude Sonnet 5.5 (High, Default Fallback)",
       "slug": "claude-sonnet-5-5-high",
       "creator": "Anthropic",
       "score": 46.8
-    },
-    {
-      "rank": 29,
-      "name": "Grok 4.7 (Xhigh)",
-      "slug": "grok-4-7",
-      "creator": "SpaceXAI",
-      "score": 46.4
-    },
-    {
-      "rank": 30,
-      "name": "Grok 4.7 (High)",
-      "slug": "grok-4-7-high",
-      "creator": "SpaceXAI",
-      "score": 46.3
     }
   ]
 }
