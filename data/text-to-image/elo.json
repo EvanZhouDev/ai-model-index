@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T12:44:52.582Z",
+  "generated_at": "2026-10-21T12:57:10.289Z",
   "limit": 30,
   "modality": "text-to-image",
   "metric": "elo",
@@ -244,6 +244,14 @@
     },
     {
       "rank": 22,
+      "name": "Fibo 2.0",
+      "slug": "fibo-2-0",
+      "creator": "Bria",
+      "score": 1039,
+      "ci95": "-12/12"
+    },
+    {
+      "rank": 23,
       "name": "Krea 2 Large",
       "slug": "krea-2-large",
       "creator": "Krea",
@@ -258,7 +266,7 @@
       ]
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Qwen Image 2.0 Pro (2026-04-22)",
       "slug": "qwen-image-2-0-pro-alibaba-cloud-may-2026",
       "creator": "Alibaba",
@@ -266,7 +274,7 @@
       "ci95": "-11/11"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "MAI-Image-2.5-Flash",
       "slug": "mai-image-2-5-flash",
       "creator": "Microsoft AI",
@@ -274,7 +282,7 @@
       "ci95": "-11/11"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Qwen-Image-2.1-Turbo",
       "slug": "qwen-image-2-1-turbo",
       "creator": "Alibaba",
@@ -282,7 +290,7 @@
       "ci95": "-12/12"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Wan 2.6 Image",
       "slug": "wan_wan-2-6",
       "creator": "Alibaba",
@@ -290,7 +298,7 @@
       "ci95": "-12/12"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Recraft V4.1 Utility",
       "slug": "recraft-v4-1-utility",
       "creator": "Recraft",
@@ -298,7 +306,7 @@
       "ci95": "-11/11"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Seedream 4.5",
       "slug": "seedream-4-5",
       "creator": "ByteDance Seed",
@@ -306,20 +314,12 @@
       "ci95": "-12/12"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "FLUX.2 [flex]",
       "slug": "flux_flux-2--flex",
       "creator": "Black Forest Labs",
       "score": 1026,
       "ci95": "-11/11"
-    },
-    {
-      "rank": 30,
-      "name": "Ideogram 4.0 (Quality)",
-      "slug": "ideogram-v4-quality",
-      "creator": "Ideogram",
-      "score": 1026,
-      "ci95": "-10/10"
     }
   ]
 }
