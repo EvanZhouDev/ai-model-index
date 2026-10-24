@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T12:38:35.825Z",
+  "generated_at": "2026-10-24T12:01:50.450Z",
   "limit": 30,
   "modality": "llm",
   "metric": "scicode",
@@ -74,150 +74,150 @@
     },
     {
       "rank": 10,
+      "name": "Kimi K3.1 Pro",
+      "slug": "kimi-k3-1-pro",
+      "creator": "Kimi",
+      "score": 0.608
+    },
+    {
+      "rank": 11,
       "name": "Claude Opus 5.5 (High, Default Fallback)",
       "slug": "claude-opus-5-5-high",
       "creator": "Anthropic",
       "score": 0.604
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Muse Wonder (Max)",
       "slug": "muse-wonder",
       "creator": "Meta",
       "score": 0.603
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Gemini 3.7 Flash (Medium)",
       "slug": "gemini-3-7-flash-medium",
       "creator": "Google",
       "score": 0.598
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "Muse Spark 1.3 (Xhigh)",
       "slug": "muse-spark-1-3-xhigh",
       "creator": "Meta",
       "score": 0.597
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Kimi K3 (Max)",
       "slug": "kimi-k3",
       "creator": "Kimi",
       "score": 0.595
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Claude Opus 5.5 (Medium, Default Fallback)",
       "slug": "claude-opus-5-5-medium",
       "creator": "Anthropic",
       "score": 0.593
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "GLM-5.3 (Max)",
       "slug": "glm-5-3",
       "creator": "Z AI",
       "score": 0.59
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Step 5 Preview",
       "slug": "step-5",
       "creator": "StepFun",
       "score": 0.589
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Muse Spark 1.3 (Max)",
       "slug": "muse-spark-1-3",
       "creator": "Meta",
       "score": 0.588
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Muse Spark 1.1 (Xhigh)",
       "slug": "muse-spark-1-1",
       "creator": "Meta",
       "score": 0.588
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Claude Fable 5.1 (High, Default Fallback)",
       "slug": "claude-fable-5-1-high",
       "creator": "Anthropic",
       "score": 0.587
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Gemini 3.1 Pro Preview",
       "slug": "gemini-3-1-pro-preview",
       "creator": "Google",
       "score": 0.587
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Claude Opus 5.5 (Low, Default Fallback)",
       "slug": "claude-opus-5-5-low",
       "creator": "Anthropic",
       "score": 0.586
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Muse Spark Open (Xhigh)",
       "slug": "muse-spark-open",
       "creator": "Meta",
       "score": 0.584
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Grok 4.7 (High)",
       "slug": "grok-4-7-high",
       "creator": "SpaceXAI",
       "score": 0.578
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "GPT-5.6 Sol (High)",
       "slug": "gpt-5-6-sol-high",
       "creator": "OpenAI",
       "score": 0.578
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "GPT-6 Sol (Max)",
       "slug": "gpt-6-sol",
       "creator": "OpenAI",
       "score": 0.576
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Grok 4.7 (Xhigh)",
       "slug": "grok-4-7",
       "creator": "SpaceXAI",
       "score": 0.574
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Muse Spark 1.2 (Xhigh)",
       "slug": "muse-spark-1-2",
       "creator": "Meta",
       "score": 0.574
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "GPT-5.6 Sol (Medium)",
       "slug": "gpt-5-6-sol-medium",
       "creator": "OpenAI",
       "score": 0.574
-    },
-    {
-      "rank": 30,
-      "name": "Claude Sonnet 5.5 (Xhigh, Default Fallback)",
-      "slug": "claude-sonnet-5-5-xhigh",
-      "creator": "Anthropic",
-      "score": 0.573
     }
   ]
 }

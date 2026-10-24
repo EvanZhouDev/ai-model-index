@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T12:38:35.825Z",
+  "generated_at": "2026-10-24T12:01:50.450Z",
   "limit": 30,
   "modality": "image-to-video",
   "metric": "elo",
@@ -410,26 +410,6 @@
     },
     {
       "rank": 21,
-      "name": "Wan 2.7",
-      "slug": "wan-2-7-v2v",
-      "creator": "Alibaba",
-      "score": 1271,
-      "ci95": "-11/11",
-      "category_distribution": [
-        {
-          "style": "Cartoon and anime",
-          "score": 1268,
-          "ci95": "-41/41"
-        },
-        {
-          "style": "Photorealistic",
-          "score": 1275,
-          "ci95": "-12/12"
-        }
-      ]
-    },
-    {
-      "rank": 22,
       "name": "Kling 3.0 720p (Standard)",
       "slug": "kling-3-0-standard",
       "creator": "KlingAI",
@@ -449,7 +429,7 @@
       ]
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Kling 2.6 Pro (January)",
       "slug": "kling-2-6-pro-january-no-audio",
       "creator": "KlingAI",
@@ -469,7 +449,7 @@
       ]
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Runway Gen-4.5 (720p)",
       "slug": "runway-gen-4-5",
       "creator": "Runway",
@@ -489,7 +469,7 @@
       ]
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "Kling 2.6 Standard (January)",
       "slug": "kling-2-6-standard-january-no-audio",
       "creator": "KlingAI",
@@ -509,7 +489,7 @@
       ]
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "Veo 3.1 Fast",
       "slug": "veo-3-1-fast",
       "creator": "Google",
@@ -529,7 +509,7 @@
       ]
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "Hailuo 2.3 Fast",
       "slug": "hailuo-2-3-fast-prompt-enhancement",
       "creator": "MiniMax",
@@ -549,7 +529,7 @@
       ]
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "Seedance 1.5 pro",
       "slug": "seedance-1-5-pro",
       "creator": "ByteDance Seed",
@@ -569,7 +549,7 @@
       ]
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Hailuo 2.3",
       "slug": "hailuo-2-3-prompt-enhancement",
       "creator": "MiniMax",
@@ -589,7 +569,7 @@
       ]
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "Veo 3.1",
       "slug": "veo-3-1",
       "creator": "Google",
@@ -604,6 +584,26 @@
         {
           "style": "Photorealistic",
           "score": 1250,
+          "ci95": "-11/11"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "name": "Cosmos3-Super-Image2Video",
+      "slug": "cosmos3-super-image2video",
+      "creator": "NVIDIA",
+      "score": 1253,
+      "ci95": "-11/11",
+      "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 1293,
+          "ci95": "-42/42"
+        },
+        {
+          "style": "Photorealistic",
+          "score": 1252,
           "ci95": "-11/11"
         }
       ]
