@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T13:15:11.627Z",
+  "generated_at": "2026-10-28T14:02:38.524Z",
   "limit": 30,
   "modality": "image-editing",
   "metric": "elo",
@@ -18,6 +18,14 @@
     },
     {
       "rank": 2,
+      "name": "MAI-Image-2.7-Preview",
+      "slug": "MAI-Image-2-7-Preview",
+      "creator": "Microsoft AI",
+      "score": 1193,
+      "ci95": "-15/15"
+    },
+    {
+      "rank": 3,
       "name": "GPT Image 2.5 Flare (max)",
       "slug": "gpt-image-2.5-flare-2026-09-08",
       "creator": "OpenAI",
@@ -25,7 +33,7 @@
       "ci95": "-11/11"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "MAI-Image-2.6",
       "slug": "mai-image-2-6",
       "creator": "Microsoft AI",
@@ -33,7 +41,7 @@
       "ci95": "-12/12"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Krea 3 (Ultra)",
       "slug": "krea-3-ultra",
       "creator": "Krea",
@@ -41,7 +49,7 @@
       "ci95": "-14/14"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Nano Banana 2.1",
       "slug": "nano-banana-2-1",
       "creator": "Google",
@@ -49,7 +57,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "MAI-Image-2.6-Flash",
       "slug": "mai-image-2-6-flash",
       "creator": "Microsoft AI",
@@ -57,7 +65,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "GPT Image 2 (high)",
       "slug": "gpt-image-2",
       "creator": "OpenAI",
@@ -65,7 +73,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Seedream 5.0 Pro",
       "slug": "seedream-5-0-pro",
       "creator": "ByteDance Seed",
@@ -73,7 +81,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Muse Image",
       "slug": "muse-image-1.0",
       "creator": "Meta",
@@ -81,7 +89,7 @@
       "ci95": "-12/12"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "MAI-Image-2.5",
       "slug": "mai-image-2-5",
       "creator": "Microsoft AI",
@@ -89,7 +97,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Krea 3 (Fast)",
       "slug": "krea-3-fast",
       "creator": "Krea",
@@ -97,7 +105,7 @@
       "ci95": "-14/14"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Nano Banana 2 (Gemini 3.1 Flash Image)",
       "slug": "nano-banana-2",
       "creator": "Google",
@@ -105,7 +113,7 @@
       "ci95": "-12/12"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "MAI-Image-2.5-Pro",
       "slug": "mai-image-2-5-pro",
       "creator": "Microsoft AI",
@@ -113,7 +121,7 @@
       "ci95": "-12/12"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "FLUX 3 Image",
       "slug": "flux-3-image",
       "creator": "Black Forest Labs",
@@ -121,7 +129,7 @@
       "ci95": "-14/14"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "GPT Image 1.5 (high)",
       "slug": "openai-gpt_image-1-5",
       "creator": "OpenAI",
@@ -129,7 +137,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "Grok Imagine Image 2.0",
       "slug": "grok-imagine-image-2-0",
       "creator": "SpaceXAI",
@@ -137,7 +145,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "Nano Banana Pro (Gemini 3 Pro Image)",
       "slug": "gemini_nano-banana-pro",
       "creator": "Google",
@@ -145,7 +153,7 @@
       "ci95": "-12/12"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "grok-imagine-image-quality",
       "slug": "grok-imagine-image-quality",
       "creator": "SpaceXAI",
@@ -153,7 +161,7 @@
       "ci95": "-12/12"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "HunyuanImage 3.5 (Preview)",
       "slug": "hunyuanimage-3-5-preview",
       "creator": "Tencent",
@@ -161,7 +169,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Qwen-Image-3.0-Pro",
       "slug": "qwen-image-3-0-pro",
       "creator": "Alibaba",
@@ -169,7 +177,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "MAI-Image-2.5-Flash",
       "slug": "mai-image-2-5-flash",
       "creator": "Microsoft AI",
@@ -177,7 +185,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Fibo 2.0",
       "slug": "fibo-2-0",
       "creator": "Bria",
@@ -185,7 +193,7 @@
       "ci95": "-14/14"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Qwen-Image-2.1",
       "slug": "qwen-image-2-1",
       "creator": "Alibaba",
@@ -193,7 +201,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Luma UNI 1 Max",
       "slug": "luma-uni-1-max",
       "creator": "Luma Labs",
@@ -201,7 +209,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "grok-imagine-image",
       "slug": "grok-imagine-image",
       "creator": "SpaceXAI",
@@ -209,7 +217,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "FLUX 3 Image Klein",
       "slug": "flux-3-image-klein",
       "creator": "Black Forest Labs",
@@ -217,7 +225,7 @@
       "ci95": "-14/14"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "Ideogram 4.5 (High)",
       "slug": "ideogram-v4-5-high",
       "creator": "Ideogram",
@@ -225,7 +233,7 @@
       "ci95": "-15/15"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Qwen-Image-2.1-Pro",
       "slug": "qwen-image-2-1-pro",
       "creator": "Alibaba",
@@ -233,20 +241,12 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Qwen-Image-3.0",
       "slug": "qwen-image-3-0",
       "creator": "Alibaba",
       "score": 1068,
       "ci95": "-13/13"
-    },
-    {
-      "rank": 30,
-      "name": "Qwen-Image-2.1-Turbo",
-      "slug": "qwen-image-2-1-turbo",
-      "creator": "Alibaba",
-      "score": 1064,
-      "ci95": "-14/14"
     }
   ]
 }

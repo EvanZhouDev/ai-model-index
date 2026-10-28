@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T13:15:11.627Z",
+  "generated_at": "2026-10-28T14:02:38.524Z",
   "limit": 30,
   "modality": "llm",
   "metric": "aa-math",
@@ -32,16 +32,16 @@
     },
     {
       "rank": 4,
-      "name": "GPT-5.2 (Medium)",
-      "slug": "gpt-5-2-medium",
-      "creator": "OpenAI",
+      "name": "DeepSeek V3.2 Speciale",
+      "slug": "deepseek-v3-2-speciale",
+      "creator": "DeepSeek",
       "score": 96.7
     },
     {
       "rank": 5,
-      "name": "DeepSeek V3.2 Speciale",
-      "slug": "deepseek-v3-2-speciale",
-      "creator": "DeepSeek",
+      "name": "GPT-5.2 (Medium)",
+      "slug": "gpt-5-2-medium",
+      "creator": "OpenAI",
       "score": 96.7
     },
     {
@@ -74,16 +74,16 @@
     },
     {
       "rank": 10,
-      "name": "Kimi K2 Thinking",
-      "slug": "kimi-k2-thinking",
-      "creator": "Kimi",
+      "name": "KAT-Coder-Pro V1",
+      "slug": "kat-coder-pro-v1",
+      "creator": "KwaiKAT",
       "score": 94.7
     },
     {
       "rank": 11,
-      "name": "KAT-Coder-Pro V1",
-      "slug": "kat-coder-pro-v1",
-      "creator": "KwaiKAT",
+      "name": "Kimi K2 Thinking",
+      "slug": "kimi-k2-thinking",
+      "creator": "Kimi",
       "score": 94.7
     },
     {
@@ -151,16 +151,16 @@
     },
     {
       "rank": 21,
-      "name": "Qwen3 235B A22B 2507 (Reasoning)",
-      "slug": "qwen3-235b-a22b-instruct-2507-reasoning",
-      "creator": "Alibaba",
+      "name": "NVIDIA Nemotron 3 Nano 30B A3B (Reasoning)",
+      "slug": "nvidia-nemotron-3-nano-30b-a3b-reasoning",
+      "creator": "NVIDIA",
       "score": 91
     },
     {
       "rank": 22,
-      "name": "NVIDIA Nemotron 3 Nano 30B A3B (Reasoning)",
-      "slug": "nvidia-nemotron-3-nano-30b-a3b-reasoning",
-      "creator": "NVIDIA",
+      "name": "Qwen3 235B A22B 2507 (Reasoning)",
+      "slug": "qwen3-235b-a22b-instruct-2507-reasoning",
+      "creator": "Alibaba",
       "score": 91
     },
     {
@@ -186,9 +186,9 @@
     },
     {
       "rank": 26,
-      "name": "Grok 4 Fast (Reasoning)",
-      "slug": "grok-4-fast-reasoning",
-      "creator": "SpaceXAI",
+      "name": "DeepSeek V3.1 (Reasoning)",
+      "slug": "deepseek-v3-1-reasoning",
+      "creator": "DeepSeek",
       "score": 89.7
     },
     {
@@ -200,23 +200,23 @@
     },
     {
       "rank": 28,
+      "name": "Grok 4 Fast (Reasoning)",
+      "slug": "grok-4-fast-reasoning",
+      "creator": "SpaceXAI",
+      "score": 89.7
+    },
+    {
+      "rank": 29,
       "name": "Nova 2.0 Omni (Medium)",
       "slug": "nova-2-0-omni-reasoning-medium",
       "creator": "Amazon",
       "score": 89.7
     },
     {
-      "rank": 29,
-      "name": "DeepSeek V3.1 (Reasoning)",
-      "slug": "deepseek-v3-1-reasoning",
-      "creator": "DeepSeek",
-      "score": 89.7
-    },
-    {
       "rank": 30,
-      "name": "Grok 4.1 Fast (Reasoning)",
-      "slug": "grok-4-1-fast-reasoning",
-      "creator": "SpaceXAI",
+      "name": "gpt-oss-20b (High)",
+      "slug": "gpt-oss-20b",
+      "creator": "OpenAI",
       "score": 89.3
     }
   ]

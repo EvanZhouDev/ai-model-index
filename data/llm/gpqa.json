@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T13:15:11.627Z",
+  "generated_at": "2026-10-28T14:02:38.524Z",
   "limit": 30,
   "modality": "llm",
   "metric": "gpqa",
@@ -53,23 +53,23 @@
     },
     {
       "rank": 7,
+      "name": "Gemini 3.1 Pro Preview",
+      "slug": "gemini-3-1-pro-preview",
+      "creator": "Google",
+      "score": 0.941
+    },
+    {
+      "rank": 8,
       "name": "GPT-5.6 Sol (Max)",
       "slug": "gpt-5-6-sol",
       "creator": "OpenAI",
       "score": 0.941
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Muse Spark 1.3 (Xhigh)",
       "slug": "muse-spark-1-3-xhigh",
       "creator": "Meta",
-      "score": 0.941
-    },
-    {
-      "rank": 9,
-      "name": "Gemini 3.1 Pro Preview",
-      "slug": "gemini-3-1-pro-preview",
-      "creator": "Google",
       "score": 0.941
     },
     {
@@ -88,15 +88,15 @@
     },
     {
       "rank": 12,
-      "name": "Claude Opus 5 (Xhigh)",
-      "slug": "claude-opus-5-xhigh",
+      "name": "Claude Opus 5 (High)",
+      "slug": "claude-opus-5-high",
       "creator": "Anthropic",
       "score": 0.937
     },
     {
       "rank": 13,
-      "name": "Claude Opus 5 (High)",
-      "slug": "claude-opus-5-high",
+      "name": "Claude Opus 5 (Xhigh)",
+      "slug": "claude-opus-5-xhigh",
       "creator": "Anthropic",
       "score": 0.937
     },
@@ -109,16 +109,16 @@
     },
     {
       "rank": 15,
-      "name": "Grok 4.6 (Xhigh)",
-      "slug": "grok-4-6-xhigh",
-      "creator": "SpaceXAI",
+      "name": "Gemini 3.8 Flash (Medium)",
+      "slug": "gemini-3-8-flash-medium",
+      "creator": "Google",
       "score": 0.935
     },
     {
       "rank": 16,
-      "name": "Kimi K3 (Max)",
-      "slug": "kimi-k3",
-      "creator": "Kimi",
+      "name": "GPT-5.5 (Xhigh)",
+      "slug": "gpt-5-5",
+      "creator": "OpenAI",
       "score": 0.935
     },
     {
@@ -130,23 +130,23 @@
     },
     {
       "rank": 18,
-      "name": "Qwen3.8 2.4T A95B",
-      "slug": "qwen3-8-2-4t-a95b",
-      "creator": "Alibaba",
+      "name": "Grok 4.6 (Xhigh)",
+      "slug": "grok-4-6-xhigh",
+      "creator": "SpaceXAI",
       "score": 0.935
     },
     {
       "rank": 19,
-      "name": "Gemini 3.8 Flash (Medium)",
-      "slug": "gemini-3-8-flash-medium",
-      "creator": "Google",
+      "name": "Kimi K3 (Max)",
+      "slug": "kimi-k3",
+      "creator": "Kimi",
       "score": 0.935
     },
     {
       "rank": 20,
-      "name": "GPT-5.5 (Xhigh)",
-      "slug": "gpt-5-5",
-      "creator": "OpenAI",
+      "name": "Qwen3.8 2.4T A95B",
+      "slug": "qwen3-8-2-4t-a95b",
+      "creator": "Alibaba",
       "score": 0.935
     },
     {
@@ -207,16 +207,16 @@
     },
     {
       "rank": 29,
-      "name": "GPT-5.6 Sol (High)",
-      "slug": "gpt-5-6-sol-high",
-      "creator": "OpenAI",
+      "name": "DeepSeek V4 Pro 0813 (Max)",
+      "slug": "deepseek-v4-pro",
+      "creator": "DeepSeek",
       "score": 0.928
     },
     {
       "rank": 30,
-      "name": "DeepSeek V4 Pro 0813 (Max)",
-      "slug": "deepseek-v4-pro",
-      "creator": "DeepSeek",
+      "name": "Gemini 3.6 Flash (High)",
+      "slug": "gemini-3-6-flash",
+      "creator": "Google",
       "score": 0.928
     }
   ]
