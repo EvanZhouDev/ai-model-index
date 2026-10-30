@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T14:23:24.591Z",
+  "generated_at": "2026-10-30T14:13:36.369Z",
   "limit": 30,
   "modality": "image-to-video",
   "metric": "elo",
@@ -10,51 +10,51 @@
   "models": [
     {
       "rank": 1,
-      "name": "MiniMax H3 Max",
-      "slug": "minimax-h3-max-oct",
-      "creator": "Fal",
-      "score": 1130,
-      "ci95": "-20/20",
+      "name": "Dreamina Seedance 2.5",
+      "slug": "seedance-2-5-1080p",
+      "creator": "ByteDance Seed",
+      "score": 1129,
+      "ci95": "-19/19",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1109,
-          "ci95": "-68/68"
+          "score": 1144,
+          "ci95": "-61/61"
         },
         {
           "style": "Photorealistic",
-          "score": 1126,
-          "ci95": "-24/24"
+          "score": 1116,
+          "ci95": "-22/22"
         },
         {
           "style": "Flat Design",
-          "score": 1190,
-          "ci95": "-74/74"
+          "score": 1150,
+          "ci95": "-67/67"
         }
       ]
     },
     {
       "rank": 2,
-      "name": "Dreamina Seedance 2.5",
-      "slug": "seedance-2-5-1080p",
-      "creator": "ByteDance Seed",
-      "score": 1126,
-      "ci95": "-20/20",
+      "name": "MiniMax H3 Max",
+      "slug": "minimax-h3-max-oct",
+      "creator": "Fal",
+      "score": 1125,
+      "ci95": "-19/19",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1144,
+          "score": 1110,
           "ci95": "-64/64"
         },
         {
           "style": "Photorealistic",
-          "score": 1114,
-          "ci95": "-24/24"
+          "score": 1118,
+          "ci95": "-23/23"
         },
         {
           "style": "Flat Design",
-          "score": 1149,
-          "ci95": "-70/70"
+          "score": 1206,
+          "ci95": "-73/73"
         }
       ]
     },
@@ -63,98 +63,203 @@
       "name": "Bach 1.0 Pro",
       "slug": "bach-1-0-pro",
       "creator": "Video Rebirth",
-      "score": 1118,
-      "ci95": "-20/20",
+      "score": 1120,
+      "ci95": "-19/19",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1129,
-          "ci95": "-65/65"
+          "score": 1132,
+          "ci95": "-63/63"
         },
         {
           "style": "Photorealistic",
-          "score": 1118,
-          "ci95": "-24/24"
+          "score": 1115,
+          "ci95": "-23/23"
         },
         {
           "style": "Flat Design",
-          "score": 1134,
-          "ci95": "-72/72"
+          "score": 1147,
+          "ci95": "-70/70"
         }
       ]
     },
     {
       "rank": 4,
-      "name": "MiniMax H3 (768p)",
-      "slug": "minimax-h3-768p",
-      "creator": "MiniMax",
-      "score": 1113,
+      "name": "Hyperflow H3",
+      "slug": "hyperflow-h3",
+      "creator": "Video Rebirth",
+      "score": 1116,
       "ci95": "-20/20",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1087,
+          "score": 1109,
           "ci95": "-64/64"
         },
         {
           "style": "Photorealistic",
-          "score": 1107,
+          "score": 1111,
           "ci95": "-24/24"
         },
         {
           "style": "Flat Design",
-          "score": 1155,
-          "ci95": "-72/72"
+          "score": 1186,
+          "ci95": "-73/73"
         }
       ]
     },
     {
       "rank": 5,
-      "name": "Dreamina Seedance 2.0",
-      "slug": "seedance-2-0-1080p",
-      "creator": "ByteDance Seed",
-      "score": 1089,
-      "ci95": "-21/21",
+      "name": "Agnes-Video-2.5",
+      "slug": "agnes-video-2-5",
+      "creator": "Sapiens AI",
+      "score": 1115,
+      "ci95": "-19/19",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1076,
-          "ci95": "-70/70"
+          "score": 1119,
+          "ci95": "-60/60"
         },
         {
           "style": "Photorealistic",
-          "score": 1085,
-          "ci95": "-25/25"
+          "score": 1106,
+          "ci95": "-23/23"
+        },
+        {
+          "style": "Flat Design",
+          "score": 1187,
+          "ci95": "-73/73"
         }
       ]
     },
     {
       "rank": 6,
-      "name": "Wan 3.0",
-      "slug": "wan-3-0",
-      "creator": "Alibaba",
-      "score": 1086,
-      "ci95": "-20/20",
+      "name": "MiniMax H3 (768p)",
+      "slug": "minimax-h3-768p",
+      "creator": "MiniMax",
+      "score": 1111,
+      "ci95": "-19/19",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1127,
-          "ci95": "-66/66"
+          "score": 1098,
+          "ci95": "-60/60"
         },
         {
           "style": "Photorealistic",
-          "score": 1063,
-          "ci95": "-24/24"
+          "score": 1103,
+          "ci95": "-23/23"
         },
         {
           "style": "Flat Design",
-          "score": 1199,
+          "score": 1155,
           "ci95": "-70/70"
         }
       ]
     },
     {
       "rank": 7,
+      "name": "HeyGen Video 1",
+      "slug": "heygen-video-1",
+      "creator": "HeyGen",
+      "score": 1104,
+      "ci95": "-17/17",
+      "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 1090,
+          "ci95": "-55/55"
+        },
+        {
+          "style": "3D Render/CGI",
+          "score": 1171,
+          "ci95": "-312/312"
+        },
+        {
+          "style": "Photorealistic",
+          "score": 1097,
+          "ci95": "-21/21"
+        },
+        {
+          "style": "Flat Design",
+          "score": 1150,
+          "ci95": "-60/60"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "P-Video-2-Pro",
+      "slug": "p-video-2-pro",
+      "creator": "Pruna AI",
+      "score": 1103,
+      "ci95": "-19/19",
+      "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 1116,
+          "ci95": "-63/63"
+        },
+        {
+          "style": "Photorealistic",
+          "score": 1102,
+          "ci95": "-23/23"
+        },
+        {
+          "style": "Flat Design",
+          "score": 1097,
+          "ci95": "-70/70"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "name": "Dreamina Seedance 2.0",
+      "slug": "seedance-2-0-1080p",
+      "creator": "ByteDance Seed",
+      "score": 1094,
+      "ci95": "-20/20",
+      "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 1091,
+          "ci95": "-66/66"
+        },
+        {
+          "style": "Photorealistic",
+          "score": 1086,
+          "ci95": "-24/24"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "name": "Wan 3.0",
+      "slug": "wan-3-0",
+      "creator": "Alibaba",
+      "score": 1085,
+      "ci95": "-19/19",
+      "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 1123,
+          "ci95": "-62/62"
+        },
+        {
+          "style": "Photorealistic",
+          "score": 1061,
+          "ci95": "-23/23"
+        },
+        {
+          "style": "Flat Design",
+          "score": 1186,
+          "ci95": "-67/67"
+        }
+      ]
+    },
+    {
+      "rank": 11,
       "name": "FLUX 3 Max",
       "slug": "flux-3-max",
       "creator": "Fal",
@@ -163,23 +268,23 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1071,
-          "ci95": "-65/65"
+          "score": 1064,
+          "ci95": "-61/61"
         },
         {
           "style": "Photorealistic",
-          "score": 1053,
-          "ci95": "-23/23"
+          "score": 1049,
+          "ci95": "-22/22"
         },
         {
           "style": "Flat Design",
-          "score": 1059,
-          "ci95": "-67/67"
+          "score": 1066,
+          "ci95": "-65/65"
         }
       ]
     },
     {
-      "rank": 8,
+      "rank": 12,
       "name": "Grok Imagine Video 1.5",
       "slug": "grok-imagine-video-1.5",
       "creator": "SpaceXAI",
@@ -188,173 +293,148 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1061,
-          "ci95": "-64/64"
+          "score": 1064,
+          "ci95": "-61/61"
         },
         {
           "style": "Photorealistic",
-          "score": 1045,
-          "ci95": "-23/23"
+          "score": 1042,
+          "ci95": "-22/22"
         },
         {
           "style": "Flat Design",
-          "score": 1109,
-          "ci95": "-69/69"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "name": "FLUX 3",
-      "slug": "flux-3",
-      "creator": "Black Forest Labs",
-      "score": 1036,
-      "ci95": "-19/19",
-      "category_distribution": [
-        {
-          "style": "Cartoon and anime",
-          "score": 1026,
-          "ci95": "-64/64"
-        },
-        {
-          "style": "Photorealistic",
-          "score": 1022,
-          "ci95": "-24/24"
-        },
-        {
-          "style": "Flat Design",
-          "score": 1127,
-          "ci95": "-70/70"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "name": "HappyHorse-1.1",
-      "slug": "happyhorse-1-1",
-      "creator": "Alibaba-ATH",
-      "score": 1024,
-      "ci95": "-19/19",
-      "category_distribution": [
-        {
-          "style": "Cartoon and anime",
-          "score": 1036,
-          "ci95": "-63/63"
-        },
-        {
-          "style": "Photorealistic",
-          "score": 1016,
-          "ci95": "-23/23"
-        },
-        {
-          "style": "Flat Design",
-          "score": 1055,
-          "ci95": "-66/66"
-        }
-      ]
-    },
-    {
-      "rank": 11,
-      "name": "Gemini Omni Flash 1.1",
-      "slug": "gemini-omni-flash-1-1",
-      "creator": "Google",
-      "score": 1022,
-      "ci95": "-19/19",
-      "category_distribution": [
-        {
-          "style": "Cartoon and anime",
-          "score": 1047,
-          "ci95": "-65/65"
-        },
-        {
-          "style": "Photorealistic",
-          "score": 1012,
-          "ci95": "-23/23"
-        },
-        {
-          "style": "Flat Design",
-          "score": 1073,
-          "ci95": "-70/70"
-        }
-      ]
-    },
-    {
-      "rank": 12,
-      "name": "Kling 3.0 Omni 1080p (Pro)",
-      "slug": "kling-o3-pro",
-      "creator": "KlingAI",
-      "score": 1020,
-      "ci95": "-19/19",
-      "category_distribution": [
-        {
-          "style": "Cartoon and anime",
-          "score": 989,
-          "ci95": "-63/63"
-        },
-        {
-          "style": "Photorealistic",
-          "score": 1021,
-          "ci95": "-23/23"
-        },
-        {
-          "style": "Flat Design",
-          "score": 1001,
+          "score": 1113,
           "ci95": "-68/68"
         }
       ]
     },
     {
       "rank": 13,
-      "name": "HappyHorse-1.0",
-      "slug": "happyhorse-1-0",
-      "creator": "Alibaba-ATH",
-      "score": 1014,
+      "name": "FLUX 3",
+      "slug": "flux-3",
+      "creator": "Black Forest Labs",
+      "score": 1041,
       "ci95": "-19/19",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1023,
-          "ci95": "-63/63"
+          "score": 1018,
+          "ci95": "-61/61"
         },
         {
           "style": "Photorealistic",
-          "score": 1003,
-          "ci95": "-24/24"
+          "score": 1028,
+          "ci95": "-22/22"
         },
         {
           "style": "Flat Design",
-          "score": 1065,
-          "ci95": "-68/68"
+          "score": 1138,
+          "ci95": "-69/69"
         }
       ]
     },
     {
       "rank": 14,
-      "name": "Grok Imagine Video 1.5 Lite",
-      "slug": "grok-imagine-video-1-5-lite",
-      "creator": "SpaceXAI",
-      "score": 1003,
+      "name": "Gemini Omni Flash 1.1",
+      "slug": "gemini-omni-flash-1-1",
+      "creator": "Google",
+      "score": 1024,
       "ci95": "-19/19",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 1005,
-          "ci95": "-64/64"
+          "score": 1037,
+          "ci95": "-61/61"
         },
         {
           "style": "Photorealistic",
-          "score": 996,
-          "ci95": "-23/23"
+          "score": 1015,
+          "ci95": "-22/22"
         },
         {
           "style": "Flat Design",
-          "score": 1063,
-          "ci95": "-70/70"
+          "score": 1071,
+          "ci95": "-68/68"
         }
       ]
     },
     {
       "rank": 15,
+      "name": "HappyHorse-1.1",
+      "slug": "happyhorse-1-1",
+      "creator": "Alibaba-ATH",
+      "score": 1023,
+      "ci95": "-18/18",
+      "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 1037,
+          "ci95": "-60/60"
+        },
+        {
+          "style": "Photorealistic",
+          "score": 1016,
+          "ci95": "-22/22"
+        },
+        {
+          "style": "Flat Design",
+          "score": 1049,
+          "ci95": "-65/65"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "name": "Kling 3.0 Omni 1080p (Pro)",
+      "slug": "kling-o3-pro",
+      "creator": "KlingAI",
+      "score": 1021,
+      "ci95": "-19/19",
+      "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 993,
+          "ci95": "-60/60"
+        },
+        {
+          "style": "Photorealistic",
+          "score": 1022,
+          "ci95": "-22/22"
+        },
+        {
+          "style": "Flat Design",
+          "score": 988,
+          "ci95": "-66/66"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "name": "HappyHorse-1.0",
+      "slug": "happyhorse-1-0",
+      "creator": "Alibaba-ATH",
+      "score": 1011,
+      "ci95": "-19/19",
+      "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 1035,
+          "ci95": "-61/61"
+        },
+        {
+          "style": "Photorealistic",
+          "score": 997,
+          "ci95": "-23/23"
+        },
+        {
+          "style": "Flat Design",
+          "score": 1064,
+          "ci95": "-65/65"
+        }
+      ]
+    },
+    {
+      "rank": 18,
       "name": "Kling 3.0 1080p (Pro)",
       "slug": "kling-3-0-pro",
       "creator": "KlingAI",
@@ -379,32 +459,57 @@
       ]
     },
     {
-      "rank": 16,
+      "rank": 19,
+      "name": "Grok Imagine Video 1.5 Lite",
+      "slug": "grok-imagine-video-1-5-lite",
+      "creator": "SpaceXAI",
+      "score": 998,
+      "ci95": "-19/19",
+      "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 997,
+          "ci95": "-61/61"
+        },
+        {
+          "style": "Photorealistic",
+          "score": 992,
+          "ci95": "-22/22"
+        },
+        {
+          "style": "Flat Design",
+          "score": 1055,
+          "ci95": "-68/68"
+        }
+      ]
+    },
+    {
+      "rank": 20,
       "name": "PixVerse V6",
       "slug": "pixverse-v6",
       "creator": "PixVerse",
-      "score": 966,
+      "score": 969,
       "ci95": "-19/19",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
           "score": 982,
-          "ci95": "-64/64"
+          "ci95": "-62/62"
         },
         {
           "style": "Photorealistic",
-          "score": 959,
-          "ci95": "-23/23"
+          "score": 962,
+          "ci95": "-22/22"
         },
         {
           "style": "Flat Design",
-          "score": 944,
-          "ci95": "-70/70"
+          "score": 948,
+          "ci95": "-68/68"
         }
       ]
     },
     {
-      "rank": 17,
+      "rank": 21,
       "name": "Veo 3.1",
       "slug": "veo-3-1",
       "creator": "Google",
@@ -413,83 +518,108 @@
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 958,
-          "ci95": "-64/64"
+          "score": 962,
+          "ci95": "-61/61"
         },
         {
           "style": "Photorealistic",
-          "score": 955,
+          "score": 951,
+          "ci95": "-22/22"
+        },
+        {
+          "style": "Flat Design",
+          "score": 1021,
+          "ci95": "-66/66"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "name": "Veo 3.1 Fast",
+      "slug": "veo-3-1-fast",
+      "creator": "Google",
+      "score": 934,
+      "ci95": "-19/19",
+      "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 885,
+          "ci95": "-63/63"
+        },
+        {
+          "style": "Photorealistic",
+          "score": 934,
           "ci95": "-23/23"
         },
         {
           "style": "Flat Design",
-          "score": 1016,
+          "score": 1021,
           "ci95": "-67/67"
         }
       ]
     },
     {
-      "rank": 18,
-      "name": "Veo 3.1 Fast",
-      "slug": "veo-3-1-fast",
-      "creator": "Google",
-      "score": 938,
+      "rank": 23,
+      "name": "Vidu Q3 Turbo",
+      "slug": "vidu-q3-turbo",
+      "creator": "Vidu",
+      "score": 926,
       "ci95": "-19/19",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 896,
-          "ci95": "-66/66"
+          "score": 911,
+          "ci95": "-62/62"
         },
         {
           "style": "Photorealistic",
-          "score": 937,
+          "score": 917,
           "ci95": "-23/23"
         },
         {
           "style": "Flat Design",
-          "score": 1030,
-          "ci95": "-69/69"
+          "score": 957,
+          "ci95": "-67/67"
         }
       ]
     },
     {
-      "rank": 19,
-      "name": "Vidu Q3 Turbo",
-      "slug": "vidu-q3-turbo",
-      "creator": "Vidu",
-      "score": 928,
+      "rank": 24,
+      "name": "Veo 3.1 Lite",
+      "slug": "veo-3-1-lite",
+      "creator": "Google",
+      "score": 923,
       "ci95": "-19/19",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 916,
+          "score": 892,
           "ci95": "-64/64"
         },
         {
           "style": "Photorealistic",
-          "score": 916,
-          "ci95": "-24/24"
+          "score": 927,
+          "ci95": "-23/23"
         },
         {
           "style": "Flat Design",
-          "score": 951,
-          "ci95": "-69/69"
+          "score": 960,
+          "ci95": "-68/68"
         }
       ]
     },
     {
-      "rank": 20,
-      "name": "Veo 3.1 Lite",
-      "slug": "veo-3-1-lite",
-      "creator": "Google",
-      "score": 924,
+      "rank": 25,
+      "name": "LTX-2.5 Fast",
+      "slug": "ltx-2-5-fast",
+      "creator": "Lightricks",
+      "score": 918,
       "ci95": "-19/19",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 894,
-          "ci95": "-66/66"
+          "score": 887,
+          "ci95": "-64/64"
         },
         {
           "style": "Photorealistic",
@@ -498,233 +628,138 @@
         },
         {
           "style": "Flat Design",
-          "score": 962,
-          "ci95": "-69/69"
-        }
-      ]
-    },
-    {
-      "rank": 21,
-      "name": "Vidu Q3 Pro",
-      "slug": "vidu-q3-pro",
-      "creator": "Vidu",
-      "score": 915,
-      "ci95": "-19/19",
-      "category_distribution": [
-        {
-          "style": "Cartoon and anime",
-          "score": 910,
-          "ci95": "-64/64"
-        },
-        {
-          "style": "Photorealistic",
-          "score": 900,
-          "ci95": "-23/23"
-        },
-        {
-          "style": "Flat Design",
-          "score": 988,
-          "ci95": "-71/71"
-        }
-      ]
-    },
-    {
-      "rank": 22,
-      "name": "LTX-2.5 Fast",
-      "slug": "ltx-2-5-fast",
-      "creator": "Lightricks",
-      "score": 915,
-      "ci95": "-20/20",
-      "category_distribution": [
-        {
-          "style": "Cartoon and anime",
-          "score": 879,
-          "ci95": "-66/66"
-        },
-        {
-          "style": "Photorealistic",
-          "score": 924,
-          "ci95": "-24/24"
-        },
-        {
-          "style": "Flat Design",
-          "score": 943,
-          "ci95": "-69/69"
-        }
-      ]
-    },
-    {
-      "rank": 23,
-      "name": "LTX-2.5 Pro",
-      "slug": "ltx-2-5-pro",
-      "creator": "Lightricks",
-      "score": 906,
-      "ci95": "-19/19",
-      "category_distribution": [
-        {
-          "style": "Cartoon and anime",
-          "score": 894,
-          "ci95": "-62/62"
-        },
-        {
-          "style": "Photorealistic",
-          "score": 898,
-          "ci95": "-24/24"
-        },
-        {
-          "style": "Flat Design",
-          "score": 961,
-          "ci95": "-67/67"
-        }
-      ]
-    },
-    {
-      "rank": 24,
-      "name": "Runway Gen-4.5 (720p)",
-      "slug": "runway-gen-4-5",
-      "creator": "Runway",
-      "score": 902,
-      "ci95": "-20/20",
-      "category_distribution": [
-        {
-          "style": "Cartoon and anime",
-          "score": 861,
-          "ci95": "-66/66"
-        },
-        {
-          "style": "Photorealistic",
-          "score": 897,
-          "ci95": "-24/24"
-        },
-        {
-          "style": "Flat Design",
-          "score": 975,
+          "score": 934,
           "ci95": "-68/68"
         }
       ]
     },
     {
-      "rank": 25,
-      "name": "Kling O1 Pro (January)",
-      "slug": "kling-o1-pro-january",
-      "creator": "KlingAI",
-      "score": 868,
-      "ci95": "-20/20",
-      "category_distribution": [
-        {
-          "style": "Cartoon and anime",
-          "score": 827,
-          "ci95": "-67/67"
-        },
-        {
-          "style": "Photorealistic",
-          "score": 874,
-          "ci95": "-24/24"
-        },
-        {
-          "style": "Flat Design",
-          "score": 855,
-          "ci95": "-72/72"
-        }
-      ]
-    },
-    {
       "rank": 26,
-      "name": "Pika 2.5",
-      "slug": "pika-2-5",
-      "creator": "Pika Art",
-      "score": 852,
-      "ci95": "-20/20",
+      "name": "Vidu Q3 Pro",
+      "slug": "vidu-q3-pro",
+      "creator": "Vidu",
+      "score": 913,
+      "ci95": "-19/19",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 834,
-          "ci95": "-66/66"
+          "score": 905,
+          "ci95": "-62/62"
         },
         {
           "style": "Photorealistic",
-          "score": 850,
-          "ci95": "-24/24"
+          "score": 898,
+          "ci95": "-23/23"
         },
         {
           "style": "Flat Design",
-          "score": 858,
-          "ci95": "-74/74"
+          "score": 979,
+          "ci95": "-69/69"
         }
       ]
     },
     {
       "rank": 27,
-      "name": "MAGI-2 Preview",
-      "slug": "magi-2-preview-latest",
-      "creator": "Sand.ai",
-      "score": 845,
-      "ci95": "-20/20",
+      "name": "LTX-2.5 Pro",
+      "slug": "ltx-2-5-pro",
+      "creator": "Lightricks",
+      "score": 908,
+      "ci95": "-19/19",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 831,
-          "ci95": "-66/66"
+          "score": 901,
+          "ci95": "-60/60"
         },
         {
           "style": "Photorealistic",
-          "score": 838,
-          "ci95": "-24/24"
+          "score": 899,
+          "ci95": "-23/23"
         },
         {
           "style": "Flat Design",
-          "score": 863,
-          "ci95": "-72/72"
+          "score": 962,
+          "ci95": "-65/65"
         }
       ]
     },
     {
       "rank": 28,
-      "name": "LTX-2.3 Fast",
-      "slug": "ltx-2-3-fast",
-      "creator": "Lightricks",
-      "score": 822,
-      "ci95": "-20/20",
+      "name": "Runway Gen-4.5 (720p)",
+      "slug": "runway-gen-4-5",
+      "creator": "Runway",
+      "score": 901,
+      "ci95": "-19/19",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 793,
-          "ci95": "-69/69"
+          "score": 871,
+          "ci95": "-64/64"
+        },
+        {
+          "style": "3D Render/CGI",
+          "score": 1000,
+          "ci95": "0/0"
         },
         {
           "style": "Photorealistic",
-          "score": 837,
-          "ci95": "-24/24"
+          "score": 896,
+          "ci95": "-23/23"
         },
         {
           "style": "Flat Design",
-          "score": 750,
-          "ci95": "-79/79"
+          "score": 956,
+          "ci95": "-68/68"
         }
       ]
     },
     {
       "rank": 29,
-      "name": "LTX-2.3 Pro",
-      "slug": "ltx-2-3-pro",
-      "creator": "Lightricks",
-      "score": 808,
-      "ci95": "-21/21",
+      "name": "Kling O1 Pro (January)",
+      "slug": "kling-o1-pro-january",
+      "creator": "KlingAI",
+      "score": 867,
+      "ci95": "-20/20",
       "category_distribution": [
         {
           "style": "Cartoon and anime",
-          "score": 815,
+          "score": 808,
           "ci95": "-67/67"
         },
         {
           "style": "Photorealistic",
-          "score": 805,
-          "ci95": "-25/25"
+          "score": 872,
+          "ci95": "-23/23"
         },
         {
           "style": "Flat Design",
-          "score": 778,
-          "ci95": "-77/77"
+          "score": 861,
+          "ci95": "-70/70"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "name": "Pika 2.5",
+      "slug": "pika-2-5",
+      "creator": "Pika Art",
+      "score": 851,
+      "ci95": "-20/20",
+      "category_distribution": [
+        {
+          "style": "Cartoon and anime",
+          "score": 848,
+          "ci95": "-64/64"
+        },
+        {
+          "style": "Photorealistic",
+          "score": 844,
+          "ci95": "-24/24"
+        },
+        {
+          "style": "Flat Design",
+          "score": 865,
+          "ci95": "-72/72"
         }
       ]
     }

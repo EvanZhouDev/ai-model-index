@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T14:23:24.591Z",
+  "generated_at": "2026-10-30T14:13:36.369Z",
   "limit": 30,
   "modality": "text-to-speech",
   "metric": "elo",
@@ -50,6 +50,14 @@
     },
     {
       "rank": 6,
+      "name": "Fish Audio Drama 3",
+      "slug": "drama3",
+      "creator": "Fish Audio",
+      "score": 1278,
+      "ci95": "-18/18"
+    },
+    {
+      "rank": 7,
       "name": "Qwen-Audio-3.0-TTS-Plus",
       "slug": "qwen-audio-3-0-tts-plus",
       "creator": "Alibaba",
@@ -57,7 +65,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Realtime TTS-2",
       "slug": "realtime-tts-2",
       "creator": "Inworld",
@@ -65,7 +73,7 @@
       "ci95": "-14/14"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Lightning V3.1 Pro (Oct 2026)",
       "slug": "lightning-v3-1-pro-oct-2026",
       "creator": "Smallest.ai",
@@ -73,7 +81,7 @@
       "ci95": "-16/16"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Gemini 3.8 Flash-Lite TTS",
       "slug": "gemini-3-8-flash-lite-tts",
       "creator": "Google",
@@ -81,7 +89,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "Simba 3.2",
       "slug": "simba-3-2",
       "creator": "SpeechifyAI",
@@ -89,7 +97,7 @@
       "ci95": "-12/12"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Fish Audio Drama 3 Preview",
       "slug": "drama3-preview",
       "creator": "Fish Audio",
@@ -97,7 +105,7 @@
       "ci95": "-14/14"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Breeze TTS 2",
       "slug": "breeze-tts-2",
       "creator": "BreezeBlue",
@@ -105,7 +113,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "AssemblyAI-TTS-1",
       "slug": "assemblyai-tts-1",
       "creator": "AssemblyAI",
@@ -113,7 +121,7 @@
       "ci95": "-16/16"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Voxtral 3 TTS",
       "slug": "voxtral-3-tts",
       "creator": "Mistral",
@@ -121,7 +129,7 @@
       "ci95": "-14/14"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "Realtime TTS-2 Flash",
       "slug": "realtime-tts-2-flash-research-preview",
       "creator": "Inworld",
@@ -129,7 +137,7 @@
       "ci95": "-12/12"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "v3 Conversational",
       "slug": "mitty",
       "creator": "ElevenLabs",
@@ -137,7 +145,7 @@
       "ci95": "-12/12"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "StepAudio 2.5 TTS (Aug 2026)",
       "slug": "st260826",
       "creator": "StepFun",
@@ -145,7 +153,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "Gemini 3.1 Flash TTS",
       "slug": "gemini-3-1-tts",
       "creator": "Google",
@@ -153,7 +161,7 @@
       "ci95": "-11/11"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "Luna TTS",
       "slug": "luna-tts",
       "creator": "VUI Labs",
@@ -161,7 +169,7 @@
       "ci95": "-11/11"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Sonic 3.5",
       "slug": "sonic-3-5",
       "creator": "Cartesia",
@@ -169,7 +177,7 @@
       "ci95": "-11/11"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Fish Audio S2.1 Pro (Oct 2026)",
       "slug": "s2-1-pro-oct-2026",
       "creator": "Fish Audio",
@@ -177,7 +185,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Eleven v3",
       "slug": "eleven-v3",
       "creator": "ElevenLabs",
@@ -185,7 +193,7 @@
       "ci95": "-10/10"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Ming-3.0-tts",
       "slug": "ming-3-0-tts",
       "creator": "Ant Group",
@@ -193,7 +201,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "Soniox TTS Real-Time v2",
       "slug": "soniox-tts-rt-v2",
       "creator": "Soniox",
@@ -201,7 +209,7 @@
       "ci95": "-10/10"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Gradium TTS (Sep 2026)",
       "slug": "gradium-tts-sep-2026",
       "creator": "Gradium",
@@ -209,7 +217,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Speech 2.8 HD",
       "slug": "speech-2-8-hd",
       "creator": "MiniMax",
@@ -217,7 +225,7 @@
       "ci95": "-10/10"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "SpaceXAI TTS",
       "slug": "xai-text-to-speech",
       "creator": "SpaceXAI",
@@ -225,7 +233,7 @@
       "ci95": "-13/13"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Falcon 2",
       "slug": "falcon-2",
       "creator": "Murf AI",
@@ -233,20 +241,12 @@
       "ci95": "-12/12"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Gradium TTS (Aug 2026)",
       "slug": "gradium-tts-beta",
       "creator": "Gradium",
       "score": 1154,
       "ci95": "-12/12"
-    },
-    {
-      "rank": 30,
-      "name": "Speech 2.8 Turbo",
-      "slug": "speech-2-8-turbo",
-      "creator": "MiniMax",
-      "score": 1153,
-      "ci95": "-10/10"
     }
   ]
 }
